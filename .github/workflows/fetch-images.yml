@@ -1,0 +1,35 @@
+name: Fetch existing images
+# One-time helper: copies the photos already live on publicnotes.org into the repo.
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/fetch-images.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download images
+        run: |
+          set -e
+          mkdir -p site/images generator/src/images
+          for f in counter-march-west-delhi-2026.jpg dandi-salt-making-1930.jpg dandi-salt-march-1930.jpg \
+                   dharasana-satyagraha-1930.jpg january-26-pledge-1930.jpg lahore-congress-session-1929.jpg \
+                   public-impeachment-meeting-2026.jpg public-notes-logo-light.png public-notes-logo.jpg \
+                   ramlila-maidan-rally-2026.jpg ravi-flag-hoisting-1929.jpg; do
+            if [ ! -s "site/images/$f" ]; then
+              curl -fsSL --retry 3 "https://publicnotes.org/images/$f" -o "site/images/$f"
+            fi
+            cp "site/images/$f" "generator/src/images/$f"
+          done
+          ls -la site/images
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/images generator/src/images
+          git diff --cached --quiet || git commit -m "Add existing site images"
+          git push
