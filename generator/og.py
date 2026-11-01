@@ -62,4 +62,10 @@ for m in re.finditer(r'<article class="card">\s*<h3><a href="/posts/([^"]+)\.htm
     card(f"{A}/og/{m.group(1)}.png", html.unescape(m.group(3)).split('·')[-1].strip()+' · Public Notes', html.unescape(m.group(2)), 'A public notebook by Diljot')
 card(f"{A}/og/democracy-100.png", 'Fact-checked series', 'Indian Democracy in 100 Notes', '10 themes · 100 short notes · quizzes and UPSC map')
 card(f"{A}/og/default.png", 'A public notebook by Diljot', 'Notes on a new India, in public.', 'History, democracy and civic affairs, in plain words')
+from series_data import SERIES_INFO
+for sk, info in SERIES_INFO.items():
+    nt = len(info['themes'])
+    for t, th in info['themes'].items():
+        card(f"{A}/og/{sk}-{th[0]}.png", f"{info['name']} · Theme {t} of {nt} · {th[3]}", th[1], info['long'])
+    card(f"{A}/og/{sk}.png", info['kicker'], info['long'], f"{nt} themes · {info['count']} short notes · fact-checked")
 print('ok', len(os.listdir(A+'/og')))

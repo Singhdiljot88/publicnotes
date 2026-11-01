@@ -1,7 +1,7 @@
 import re,glob,os,json,html
-def notes(src):
+def notes(src, series='democracy-100'):
     out=[]
-    for f in sorted(glob.glob(src+'/posts/democracy-100/*.html')):
+    for f in sorted(glob.glob(src+'/posts/'+series+'/*.html')):
         t=open(f).read()
         b=t.split('<body>',1)[1]
         b=re.sub(r'</body>.*','',b,flags=re.S)

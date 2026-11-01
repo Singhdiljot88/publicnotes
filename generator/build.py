@@ -12,6 +12,7 @@ from datetime import datetime, timezone
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from data import THEMES, QUIZZES, GLOSSARY, SYLLABUS
 from parse import notes as parse_notes
+from series_data import SERIES_INFO
 
 SITE = "https://publicnotes.org"
 AUTHOR = "Diljot"
@@ -61,6 +62,22 @@ for n in NOTES:
 BYNUM = {n["num"]: n for n in NOTES}
 assert len(NOTES) == 100, len(NOTES)
 
+# Newer series (UPSC 300, Current Affairs 100): same note format, own hubs and theme pages
+EXTRA = {}
+for sk, info in SERIES_INFO.items():
+    ns = parse_notes(A.src, sk)
+    for n in ns:
+        n["content"] = re.sub(r"\n\s*\n", "\n", n["content"])
+        n["slug"] = n["file"][:-5]
+        n["path"] = f"/posts/{sk}/{n['file']}"
+        n["desc"] = trunc(n["first"])
+        n["mins"] = read_min(n["content"])
+        n["series"] = sk
+        n["tslug"] = info["themes"][n["theme"]][0]
+    if len(ns) != info["count"]:
+        print(f"warning: {sk} has {len(ns)} of {info['count']} notes", file=sys.stderr)
+    EXTRA[sk] = ns
+
 # posts: metadata from the old homepage cards, body from each post file
 idx = open(os.path.join(A.src, "index.html"), encoding="utf-8").read()
 POSTS = []
@@ -85,7 +102,8 @@ for p in POSTS:
     p["image"] = img.group(1) if img else None
 
 # ---------------------------------------------------------------- layout
-NAV = [("/democracy-100.html", "100 Notes"), ("/themes.html", "Themes"), ("/upsc-syllabus-map.html", "UPSC map"),
+NAV = [("/democracy-100.html", "100 Notes"), ("/upsc-300.html", "UPSC 300"), ("/current-affairs-100.html", "Current Affairs"),
+       ("/themes.html", "Themes"), ("/upsc-syllabus-map.html", "UPSC map"),
        ("/glossary.html", "Glossary"), ("/quizzes.html", "Quizzes"), ("/subscribe.html", "Subscribe")]
 
 def page(path, title, desc, body, *, og=None, kind="website", jsonld=None, crumbs=None, active=None, wide=False):
@@ -144,7 +162,7 @@ def page(path, title, desc, body, *, og=None, kind="website", jsonld=None, crumb
 </main>
 <footer class="foot"><div class="foot-inner">
 <div><strong>Public Notes</strong> · a public notebook by {AUTHOR}. History, democracy and civic affairs, in plain words.</div>
-<div class="foot-links"><a href="/democracy-100.html">100 Notes</a><a href="/themes.html">Themes</a><a href="/upsc-syllabus-map.html">UPSC map</a><a href="/glossary.html">Glossary</a><a href="/quizzes.html">Quizzes</a><a href="/subscribe.html">Get new notes</a><a href="/feed.xml">RSS</a><a href="/posts/how-public-notes-works.html">About</a></div>
+<div class="foot-links"><a href="/democracy-100.html">100 Notes</a><a href="/upsc-300.html">UPSC 300</a><a href="/current-affairs-100.html">Current Affairs 100</a><a href="/themes.html">Themes</a><a href="/upsc-syllabus-map.html">UPSC map</a><a href="/glossary.html">Glossary</a><a href="/quizzes.html">Quizzes</a><a href="/subscribe.html">Get new notes</a><a href="/feed.xml">RSS</a><a href="/posts/how-public-notes-works.html">About</a></div>
 <div class="small">General information, fact-checked on {DATE_TEXT}. Not legal advice. publicnotes.org</div>
 </div></footer>
 <script src="/assets/site.js" defer></script>
@@ -297,6 +315,99 @@ pages["/democracy-100.html"] = page("/democracy-100.html", SERIES, "100 short, f
     jsonld={"@context": "https://schema.org", "@type": "CreativeWorkSeries", "name": SERIES, "url": SITE + "/democracy-100.html", "author": {"@type": "Person", "name": AUTHOR}},
     crumbs=[("Home", "/"), (SERIES, "/democracy-100.html")], active="/democracy-100.html", wide=True)
 
+# Newer series: notes, theme pages, hubs
+def x_card(n, info, show_theme=True):
+    th = info["themes"][n["theme"]]
+    tl = f' · <a href="/{n["series"]}/themes/{th[0]}.html">{e(th[1])}</a>' if show_theme else ""
+    return f"""<article class="card note-card" data-theme="{n['theme']}" data-search="{e((n['title'] + ' ' + n['first'] + ' ' + th[1]).lower())}">
+<p class="kicker">Note {n['num']:03d}{tl}</p>
+<h3><a href="{n['path']}">{e(n['title'])}</a></h3>
+<p>{e(n['desc'])}</p>
+<p class="meta">{n['mins']} min read · {th[3]}</p>
+</article>"""
+
+X_THEME_CARDS = {}
+for sk, info in SERIES_INFO.items():
+    ns_all = EXTRA[sk]
+    if not ns_all: continue
+    total = len(ns_all); name = info["name"]; hub = info["hub"]; ntheme = len(info["themes"])
+    def tpath(t): return f"/{sk}/themes/{info['themes'][t][0]}.html"
+    for i, n in enumerate(ns_all):
+        th = info["themes"][n["theme"]]
+        prev_n = ns_all[i - 1] if i > 0 else None
+        next_n = ns_all[i + 1] if i + 1 < total else None
+        same = [x for x in ns_all if x["theme"] == n["theme"] and x["num"] != n["num"]]
+        after = [x for x in same if x["num"] > n["num"]] + [x for x in same if x["num"] < n["num"]]
+        related = "".join(f'<li><a href="{x["path"]}">Note {x["num"]:03d}: {e(x["title"])}</a></li>' for x in after[:3])
+        nxt = (f'<a class="next-big" href="{next_n["path"]}"><span>Next note →</span><strong>Note {next_n["num"]:03d}: {e(next_n["title"])}</strong></a>'
+               if next_n else f'<a class="next-big" href="{hub}"><span>You reached the end →</span><strong>Back to the {e(name)} hub</strong></a>')
+        prv = f'<a class="prev" href="{prev_n["path"]}">← Note {prev_n["num"]:03d}</a>' if prev_n else f'<a class="prev" href="{hub}">← All {total} notes</a>'
+        pct = round(100 * n["num"] / info["count"])
+        body = f"""<article class="note">
+<p class="kicker"><a href="{hub}">{e(name)}</a> · <a href="{tpath(n['theme'])}">{th[2]} Theme {n['theme']}: {e(th[1])}</a> · {th[3]}</p>
+<h1>{e(n['title'])}</h1>
+<p class="meta">Note {n['num']:03d} of {info['count']} · {n['mins']} min read · Fact-checked 2 November 2026</p>
+<div class="progress" role="img" aria-label="Note {n['num']} of {info['count']}"><span style="width:{pct}%"></span></div>
+<div class="prose">
+{n['content']}
+</div>
+{n['footer']}
+{share_bar(n['title'], n['path'])}
+<nav class="pager" aria-label="Series navigation">{nxt}<div class="pager-row">{prv}<a href="{hub}">All {total}</a><a href="{tpath(n['theme'])}">This theme</a></div></nav>
+<section class="related"><h2>More in {e(th[1])}</h2><ul>{related}</ul><p><a href="{tpath(n['theme'])}">See all notes in this theme →</a></p></section>
+{email_box(n['title'])}
+</article>"""
+        ld = {"@context": "https://schema.org", "@type": "Article", "headline": n["title"], "description": n["desc"],
+              "datePublished": PUB_DATE.isoformat(), "dateModified": PUB_DATE.isoformat(),
+              "author": {"@type": "Person", "name": AUTHOR}, "publisher": {"@type": "Organization", "name": "Public Notes", "logo": {"@type": "ImageObject", "url": SITE + "/assets/logo.png"}},
+              "image": SITE + f"/assets/og/{sk}-{th[0]}.png", "mainEntityOfPage": SITE + n["path"],
+              "isPartOf": {"@type": "CreativeWorkSeries", "name": info["long"], "url": SITE + hub}, "position": n["num"],
+              "articleSection": th[1]}
+        pages[n["path"]] = page(n["path"], n["title"], n["desc"], body, og=f"/assets/og/{sk}-{th[0]}.png", kind="article", jsonld=ld,
+                                crumbs=[("Home", "/"), (name, hub), (th[1], tpath(n["theme"])), (f"Note {n['num']:03d}", n["path"])])
+    cards = ""
+    for t, th in info["themes"].items():
+        ns = [n for n in ns_all if n["theme"] == t]
+        if not ns: continue
+        cards += f"""<a class="card theme-card" href="{tpath(t)}"><span class="icon">{th[2]}</span>
+<span class="kicker">Theme {t} · {th[3]} · Notes {ns[0]['num']:03d}–{ns[-1]['num']:03d}</span><strong>{e(th[1])}</strong><span class="small">{e(trunc(th[4], 110))}</span></a>"""
+        prev_t = info["themes"].get(t - 1); next_t = info["themes"].get(t + 1)
+        tn = "".join(([f'<a href="{tpath(t - 1)}">← {e(prev_t[1])}</a>'] if prev_t else []) +
+                     ([f'<a href="{tpath(t + 1)}">{e(next_t[1])} →</a>'] if next_t else []))
+        body = f"""<header class="page-head">
+<p class="kicker"><a href="{hub}">{e(name)}</a> · Theme {t} of {ntheme} · {th[3]}</p>
+<h1>{th[2]} {e(th[1])}</h1>
+<p class="lede">{e(th[4])}</p>
+<p><a class="btn btn-primary" href="{ns[0]['path']}">Start with Note {ns[0]['num']:03d} →</a> <a class="btn" href="{hub}">All {total} notes</a></p>
+</header>
+<ol class="theme-list">{''.join(f'<li>{x_card(n, info, False)}</li>' for n in ns)}</ol>
+<nav class="pager-row spaced">{tn}</nav>
+{email_box()}"""
+        ld = {"@context": "https://schema.org", "@type": "CollectionPage", "name": th[1], "description": th[4],
+              "hasPart": [{"@type": "Article", "headline": n["title"], "url": SITE + n["path"]} for n in ns]}
+        pages[tpath(t)] = page(tpath(t), f"{th[1]}: {len(ns)} notes · {name}", th[4], body, og=f"/assets/og/{sk}-{th[0]}.png",
+                               jsonld=ld, crumbs=[("Home", "/"), (name, hub), (th[1], tpath(t))], active=hub, wide=True)
+    X_THEME_CARDS[sk] = cards
+    chips = f'<button class="chip active" data-filter="all">All {total}</button>' + "".join(
+        f'<button class="chip" data-filter="{t}">{th[2]} {e(th[1])}</button>' for t, th in info["themes"].items())
+    ex = "for example: Harappan, monsoon, repo rate, GST" if sk == "upsc-300" else "for example: Budget, BRICS, SIR, T20"
+    body = f"""<header class="page-head">
+<p class="kicker">Public Notes · {e(info['kicker'])}</p>
+<h1>{e(info['long'])}</h1>
+<p class="lede">{e(info['lede'])}</p>
+<p><a class="btn btn-primary" href="{ns_all[0]['path']}">Start at Note 001 →</a> <a class="btn" href="/upsc-syllabus-map.html">UPSC syllabus map</a> <a class="btn" href="/democracy-100.html">Indian Democracy in 100 Notes</a></p>
+</header>
+<h2 class="section-title">The {ntheme} themes</h2>
+<div class="theme-grid">{cards}</div>
+<h2 class="section-title" id="all">All {total} notes</h2>
+<div class="filters"><label class="search"><span class="sr">Search notes</span><input type="search" id="note-search" placeholder="Search {total} notes, {ex}"></label>
+<div class="chips" role="group" aria-label="Filter by theme">{chips}</div><p class="small" id="result-count" aria-live="polite">Showing {total} notes</p></div>
+<div class="grid" id="note-grid">{''.join(x_card(n, info) for n in ns_all)}</div>
+{email_box()}"""
+    pages[hub] = page(hub, info["long"], trunc(info["lede"]), body, og=f"/assets/og/{sk}.png",
+                      jsonld={"@context": "https://schema.org", "@type": "CreativeWorkSeries", "name": info["long"], "url": SITE + hub, "author": {"@type": "Person", "name": AUTHOR}},
+                      crumbs=[("Home", "/"), (name, hub)], active=hub, wide=True)
+
 # Quizzes
 quiz_index = ""
 for t, th in THEMES.items():
@@ -355,6 +466,17 @@ for paper, topics in SYLLABUS:
         links += [f'<a href="{post_by_slug[s]["path"]}">{e(post_by_slug[s]["title"])}</a>' for s in posts]
         rows += f'<tr><th scope="row">{e(topic)}</th><td><ul>{"".join(f"<li>{l}</li>" for l in links)}</ul></td></tr>'
     sy_html += f'<h2>{e(paper)}</h2><div class="table-wrap"><table class="syllabus"><thead><tr><th>Syllabus topic</th><th>Read these notes</th></tr></thead><tbody>{rows}</tbody></table></div>'
+x_rows = {}
+for sk, info in SERIES_INFO.items():
+    for t, th in info["themes"].items():
+        ns = [n for n in EXTRA[sk] if n["theme"] == t]
+        if not ns: continue
+        x_rows.setdefault(th[3], []).append(f'<tr><th scope="row"><a href="/{sk}/themes/{th[0]}.html">{th[2]} {e(th[1])}</a><br><span class="small">{e(info["name"])}</span></th><td><ul>' +
+            "".join(f'<li><a href="{n["path"]}">{n["num"]:03d} · {e(n["title"])}</a></li>' for n in ns) + '</ul></td></tr>')
+if x_rows:
+    sy_html += '<h2 id="upsc-300">UPSC 300 and Current Affairs 100, by paper</h2>'
+    for paper in sorted(x_rows):
+        sy_html += f'<h3>{e(paper)}</h3><div class="table-wrap"><table class="syllabus"><thead><tr><th>Theme</th><th>Notes</th></tr></thead><tbody>{"".join(x_rows[paper])}</tbody></table></div>'
 pages["/upsc-syllabus-map.html"] = page("/upsc-syllabus-map.html", "UPSC syllabus map: Indian polity and current affairs notes", "Find Public Notes by UPSC Civil Services Mains syllabus topic: GS I history and society, GS II polity and IR, GS III economy, environment and security.",
     f"""<header class="page-head"><h1>UPSC syllabus map</h1><p class="lede">Every note mapped to the UPSC Civil Services Mains General Studies syllabus, so you can revise by topic. The topic wording is paraphrased; always check the current official syllabus. Notes are background reading, not a substitute for standard texts.</p></header>
 {sy_html}
@@ -381,13 +503,25 @@ home = f"""<section class="hero"><div class="hero-inner">
 <p class="eyebrow">Public Notes · In my own words</p>
 <h1>Notes on a new India, in public.</h1>
 <p>Short notes, history, and analysis, posted as they are written. No login, no comments, no clutter. Just the note, and the story behind it.</p>
-<div class="meta-line"><span class="pill">📖 7 entries + a 100-note series</span><span class="pill">🕰️ History: Lahore 1929 → Dandi 1930</span><span class="pill">⚖️ Today: the vote, the law, the debate</span></div>
+<div class="meta-line"><span class="pill">📖 7 entries + 500 notes in three series</span><span class="pill">🕰️ History: Lahore 1929 → Dandi 1930</span><span class="pill">⚖️ Today: the vote, the law, the debate</span></div>
 </div></section>
 <section class="feature"><div>
 <p class="kicker">Fact-checked series</p>
 <h2>{SERIES}</h2>
 <p>Current affairs for young civil studies and UPSC readers: 10 themes, 100 short notes, each with key takeaways and a question to discuss.</p>
 <p><a class="btn btn-primary" href="/democracy-100.html">Explore all 100 notes →</a> <a class="btn" href="/upsc-syllabus-map.html">UPSC syllabus map</a> <a class="btn" href="/quizzes.html">Try a quiz</a></p>
+</div></section>
+<section class="feature"><div>
+<p class="kicker">Exam-ready series</p>
+<h2>UPSC 300</h2>
+<p>The Civil Services syllabus in 300 short notes: history, geography, society, polity, economy, science, environment, security and ethics, each with a practice question.</p>
+<p><a class="btn btn-primary" href="/upsc-300.html">Explore UPSC 300 →</a></p>
+</div></section>
+<section class="feature"><div>
+<p class="kicker">Current affairs series</p>
+<h2>Current Affairs 100: India in 2026</h2>
+<p>A hundred short notes on the year's laws, elections, economy, trade deals, diplomacy, science and sport, each with the sources it was checked against.</p>
+<p><a class="btn btn-primary" href="/current-affairs-100.html">Explore Current Affairs 100 →</a></p>
 </div></section>
 <section class="purpose" aria-label="Purpose of this site">
 <div><h2>What this is</h2><p>A public notebook. Short notes, in my own words, posted as they are written. No login, no comments, no clutter.</p></div>
@@ -401,7 +535,7 @@ home = f"""<section class="hero"><div class="hero-inner">
 <h2 class="section-title">Browse by theme</h2>
 <div class="theme-grid">{theme_cards}</div>
 {email_box()}"""
-pages["/index.html"] = page("/index.html", "Public Notes — Notes on a new India, in public", "A public notebook by Diljot: short notes on Indian history and democracy, and Indian Democracy in 100 Notes, a fact-checked series for young civil studies and UPSC readers.",
+pages["/index.html"] = page("/index.html", "Public Notes — Notes on a new India, in public", "A public notebook by Diljot: short notes on Indian history and democracy, Indian Democracy in 100 Notes, UPSC 300 and Current Affairs 100, fact-checked series for civil studies and UPSC readers.",
     home, jsonld={"@context": "https://schema.org", "@type": "WebSite", "name": "Public Notes", "url": SITE + "/", "author": {"@type": "Person", "name": AUTHOR}}, wide=True)
 
 pages["/404.html"] = page("/404.html", "Page not found", "This page does not exist.", """<header class="page-head"><h1>That page isn't here</h1>
@@ -422,7 +556,8 @@ if os.path.isdir(src_img):
 
 # RSS
 items = [(p["title"], p["path"], p["excerpt"], p["kind"]) for p in POSTS] + \
-        [(f"Note {n['num']:03d}: {n['title']}", n["path"], n["desc"], THEMES[n["theme"]]["name"]) for n in reversed(NOTES)]
+        [(f"Note {n['num']:03d}: {n['title']}", n["path"], n["desc"], THEMES[n["theme"]]["name"]) for n in reversed(NOTES)] + \
+        [(f"{SERIES_INFO[sk]['name']} · Note {n['num']:03d}: {n['title']}", n["path"], n["desc"], SERIES_INFO[sk]["themes"][n["theme"]][1]) for sk in EXTRA for n in reversed(EXTRA[sk])]
 rfc = PUB_DATE.strftime("%a, %d %b %Y %H:%M:%S +0000")
 rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
@@ -430,7 +565,7 @@ rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <title>Public Notes</title>
 <link>{SITE}/</link>
 <atom:link href="{SITE}/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Short notes on Indian history and democracy, and Indian Democracy in 100 Notes.</description>
+<description>Short notes on Indian history and democracy, Indian Democracy in 100 Notes, UPSC 300 and Current Affairs 100.</description>
 <language>en-in</language>
 <lastBuildDate>{rfc}</lastBuildDate>
 """ + "".join(f"""<item><title>{e(t)}</title><link>{SITE}{pth}</link><guid isPermaLink="true">{SITE}{pth}</guid><pubDate>{rfc}</pubDate><category>{e(c)}</category><description>{e(d)}</description></item>
@@ -439,7 +574,7 @@ open(os.path.join(A.out, "feed.xml"), "w", encoding="utf-8").write(rss)
 
 # Sitemap + robots
 urls = sorted(p for p in pages if p != "/404.html")
-def prio(p): return "1.0" if p == "/index.html" else "0.9" if p in ("/democracy-100.html",) else "0.8" if "/themes/" in p or p.endswith("map.html") else "0.7"
+def prio(p): return "1.0" if p == "/index.html" else "0.9" if p in ("/democracy-100.html", "/upsc-300.html", "/current-affairs-100.html") else "0.8" if "/themes/" in p or p.endswith("map.html") else "0.7"
 sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(
     f"<url><loc>{SITE + ('/' if p == '/index.html' else p)}</loc><lastmod>{PUB_DATE.date().isoformat()}</lastmod><priority>{prio(p)}</priority></url>\n" for p in urls) + "</urlset>\n"
 open(os.path.join(A.out, "sitemap.xml"), "w").write(sm)
