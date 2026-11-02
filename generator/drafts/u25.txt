@@ -1,0 +1,168 @@
+# THEME 25
+## biodiversity-hotspots-india | Biodiversity and India's hotspots
+
+Biodiversity is the variety of life at three levels: genetic diversity within a species, species diversity within an area, and ecosystem diversity across a landscape. India is one of the world's 17 megadiverse countries. With about 2.4% of the world's land area, it holds roughly 7–8% of recorded species, including over 1,00,000 animal species and around 50,000 plant species documented by the Zoological and Botanical Surveys of India.
+
+A biodiversity hotspot, a concept developed by the ecologist Norman Myers and adopted by Conservation International, is a region with at least 1,500 endemic vascular plant species that has lost at least 70% of its original habitat. There are 36 hotspots worldwide, and four cover parts of India: the Himalaya, Indo-Burma (most of the North-East), the Western Ghats and Sri Lanka, and Sundaland, which includes the Nicobar Islands. The Western Ghats are especially rich in endemic amphibians, reptiles and flowering plants.
+
+India's ten biogeographic zones, from the Trans-Himalaya and the Thar desert to the Deccan peninsula, the coasts and the islands, give it an unusual range of ecosystems in one country.
+
+Conservation happens in two broad ways. In-situ conservation protects species in their natural habitats, through national parks, sanctuaries, biosphere reserves and community reserves. Ex-situ conservation protects them outside their habitats, through zoos, botanical gardens, seed banks and gene banks, such as the National Bureau of Plant Genetic Resources in New Delhi. Sacred groves, protected by local communities for religious reasons, are an old form of community conservation found across India.
+
+- Biodiversity exists at genetic, species and ecosystem levels.
+- India is megadiverse and covers parts of four of the world's 36 hotspots.
+- Conservation is in-situ (protected areas, sacred groves) or ex-situ (zoos, seed banks).
+W: Hotspots, megadiversity and conservation methods are standard Prelims environment questions.
+Q: Why are the Western Ghats considered a global biodiversity hotspot, and what threatens them?
+
+## protected-areas-network | India's protected area network
+
+India's protected areas are created mainly under the Wildlife (Protection) Act, 1972. National parks have the highest level of protection: no human activity such as grazing or private rights is allowed inside, except as permitted by the chief wildlife warden. Wildlife sanctuaries allow some activities, such as grazing or collection of forest produce, if they do not harm wildlife. The 2002 amendment added two community-oriented categories: conservation reserves, on government land adjoining protected areas, and community reserves, on community or private land where people volunteer to protect wildlife.
+
+India has over 100 national parks and over 550 wildlife sanctuaries, together covering roughly 5% of the country's area, according to the Wildlife Institute of India's database. The first national park was Hailey National Park, created in 1936 and now called Jim Corbett National Park.
+
+Biosphere reserves are a separate, larger concept from UNESCO's Man and the Biosphere programme. Each has a core zone that is strictly protected, a buffer zone for research and education, and a transition zone where people live and work sustainably. India has 18 biosphere reserves, and more than a dozen of them are part of UNESCO's World Network, including the Nilgiri (India's first, 1986), Sundarbans, Gulf of Mannar, Nanda Devi and Great Nicobar.
+
+Eco-sensitive zones around protected areas act as shock absorbers. In 2022 the Supreme Court directed a minimum one-kilometre eco-sensitive zone around every protected area, then modified the order in 2023 after states objected that it would affect existing towns and villages.
+
+Critics note that protected areas have sometimes displaced forest communities, and conservationists now stress models that involve local people.
+
+- National parks allow no rights inside; sanctuaries allow regulated use; conservation and community reserves involve local people.
+- Protected areas cover roughly 5% of India; Corbett (1936) was the first national park.
+- Biosphere reserves have core, buffer and transition zones; most of India's 18 are in UNESCO's network.
+W: Differences between protected area categories are among the most frequently asked Prelims questions.
+Q: How can protected area management in India better involve forest-dwelling communities?
+
+## project-tiger | Project Tiger and tiger conservation
+
+India launched Project Tiger on 1 April 1973, after surveys showed that tiger numbers had fallen to under 2,000 because of hunting and habitat loss. Nine tiger reserves were set up initially, including Corbett. Today there are more than 55 tiger reserves, managed through core areas free of human activity and buffer areas where people live alongside wildlife. The National Tiger Conservation Authority (NTCA), a statutory body created by the 2006 amendment to the Wildlife (Protection) Act, oversees the programme.
+
+India estimates its tiger population every four years using camera traps, sign surveys and statistical models. The 2022 estimate, released in 2023, put the number at an average of 3,682 tigers (within a range of 3,167 to 3,925), about 75% of the world's wild tigers. Madhya Pradesh had the most, followed by Karnataka, Uttarakhand and Maharashtra. Numbers in central India and the Shivalik hills grew, while those in the Western Ghats were stable or declining and the North-East was poorly covered. The 2026 estimation exercise has begun and, for the first time, extends more systematically to areas outside reserves and corridors.
+
+India also hosts global efforts. In April 2023 it launched the International Big Cat Alliance, covering the seven big cats: tiger, lion, leopard, snow leopard, cheetah, jaguar and puma.
+
+Challenges remain. Many reserves are near their carrying capacity, so tigers spill into human-dominated landscapes, leading to conflict. Corridors linking reserves are cut by highways, railways, mines and canals. Poaching for skins and body parts continues, and relocating villages out of core areas must be voluntary and fairly compensated.
+
+- Project Tiger began on 1 April 1973; the NTCA has overseen it since 2006.
+- The 2022 estimate was 3,682 tigers on average, about 75% of the world's wild tigers.
+- Corridors, conflict and carrying capacity are the main challenges; India launched the International Big Cat Alliance in 2023.
+W: Tiger conservation is a perennial topic, and census figures are frequently tested.
+Q: Project Tiger is often called a conservation success. What are its limits, and what should come next?
+
+## elephants-lions-cheetahs | Elephants, lions and cheetahs: flagship species
+
+Flagship species are charismatic animals used to build public support for conserving whole ecosystems. Besides the tiger, India runs programmes for several.
+
+The Asian elephant is India's national heritage animal. Project Elephant was launched in 1992 to protect elephants, their habitats and corridors, and to reduce human-elephant conflict. India has more than half of the world's wild Asian elephants, spread across over 30 elephant reserves. Conflict is severe: hundreds of people and around a hundred elephants die each year from encounters, train collisions and electrocution.
+
+The Asiatic lion survives in the wild only in Gujarat's Saurashtra region, centred on the Gir forest. Its population has recovered from a small number in the early twentieth century. The 16th lion census in May 2025 counted 891 lions, up from 674 in 2020, many now living outside protected areas in farmland and coastal areas. Scientists have long urged a second home to protect the species from disease or disasters; the Supreme Court in 2013 ordered translocation to Madhya Pradesh's Kuno, which Gujarat resisted.
+
+The cheetah was declared extinct in India in 1952. Project Cheetah, the world's first intercontinental translocation of a large carnivore, brought eight cheetahs from Namibia to Kuno National Park in September 2022 and twelve from South Africa in 2023. Several died early from infections and other causes, but cubs have been born in India, a second site at Gandhi Sagar sanctuary in Madhya Pradesh was opened in 2025, and further animals have been brought from Botswana. By 2026, reported numbers were around fifty, including cubs born in India. Critics question whether India has enough large, prey-rich grasslands for a free-ranging population.
+
+The Great Indian Bustard and the snow leopard are other species with dedicated programmes.
+
+- Project Elephant (1992) protects elephants and corridors; India has over half of the world's wild Asian elephants.
+- The 2025 census counted 891 Asiatic lions, up from 674 in 2020.
+- Project Cheetah reintroduced cheetahs from 2022; numbers have grown, but habitat remains a concern.
+W: Species programmes and recent census figures are frequent Prelims topics, and Project Cheetah is often discussed in Mains.
+Q: Should India prioritise reintroducing extinct species, such as the cheetah, or protecting existing threatened species?
+
+## wetlands-ramsar | Wetlands and Ramsar sites
+
+Wetlands are areas where water covers the soil or is present near the surface for all or part of the year: lakes, marshes, floodplains, mangroves, lagoons, estuaries and even rice fields under some definitions. They purify water, recharge groundwater, absorb floods, store carbon, support fisheries and provide habitat for migratory birds. Yet they are among the most threatened ecosystems, lost to drainage, encroachment, pollution and urban expansion.
+
+The Ramsar Convention on Wetlands was signed in Ramsar, Iran, in 1971 and came into force in 1975. It is the oldest modern global environmental treaty. Countries designate wetlands of international importance, known as Ramsar sites. India joined in 1982, with Chilika lake in Odisha and Keoladeo in Rajasthan as its first sites. Since 2019, India has added sites rapidly, and by 2026 its total had crossed 100, the largest number in Asia. Tamil Nadu has the most sites. The Sundarbans in West Bengal is India's largest Ramsar site. The Montreux Record lists Ramsar sites under threat; Keoladeo and Loktak lake are on it.
+
+India's domestic framework is the Wetlands (Conservation and Management) Rules, 2017, under which state wetland authorities identify and notify wetlands and regulate activities in them. The National Plan for Conservation of Aquatic Ecosystems (NPCA) funds restoration. The Amrit Dharohar scheme, announced in 2023, promotes the use of Ramsar sites for ecotourism and local livelihoods, and Mission Sahbhagita encourages community participation.
+
+Critics argue that designation alone does little if encroachment and pollution continue. Bengaluru's lakes and the East Kolkata Wetlands, which naturally treat the city's sewage, show both the value of urban wetlands and the pressures on them.
+
+- The Ramsar Convention (1971) is the oldest global environmental treaty; India joined in 1982.
+- India's Ramsar sites crossed 100 by 2026; Tamil Nadu has the most, and the Sundarbans is the largest.
+- The Wetlands Rules, 2017 and the Montreux Record are key to wetland protection.
+W: Ramsar sites and wetland rules are among the most frequently asked environment questions in Prelims.
+Q: Why are urban wetlands disappearing in India? Suggest measures to protect them.
+
+## mangroves-coral-reefs | Mangroves and coral reefs
+
+Mangroves are salt-tolerant trees and shrubs that grow in tidal zones along tropical coasts and deltas. They have special adaptations: breathing roots (pneumatophores) that stick up from the mud, stilt roots for support, and seeds that germinate on the parent tree (vivipary). Mangroves protect coasts from storm surges, cyclones and erosion, serve as nurseries for fish, and store large amounts of carbon, known as blue carbon. Studies after the 2004 tsunami and cyclones in Odisha found that villages behind healthy mangroves suffered less damage.
+
+According to the India State of Forest Report 2023, India has around 4,990 square km of mangrove cover, about 0.15% of its area. West Bengal has the largest share, mainly in the Sundarbans, the world's largest mangrove forest, shared with Bangladesh. Gujarat, the Andaman and Nicobar Islands and Odisha's Bhitarkanika follow. The MISHTI scheme (Mangrove Initiative for Shoreline Habitats and Tangible Incomes), launched in 2023, aims to restore mangroves along India's coast, and India joined the Mangrove Alliance for Climate at COP27.
+
+Coral reefs are built by tiny animals called coral polyps that secrete calcium carbonate skeletons. They live in a partnership with algae called zooxanthellae, which give them food and colour. Reefs cover a tiny fraction of the ocean floor but support around a quarter of marine species. India's main reefs are in the Gulf of Mannar, the Gulf of Kutch, Lakshadweep and the Andaman and Nicobar Islands.
+
+Corals are highly sensitive to warming. When water stays too warm, corals expel their algae and turn white, called bleaching; prolonged bleaching kills them. The world has experienced repeated mass bleaching events, including a global event from 2023 that affected reefs in over 80 countries, including India's. Ocean acidification, pollution and destructive fishing add to the pressure.
+
+- Mangroves protect coasts, support fisheries and store blue carbon; West Bengal's Sundarbans hold the largest share.
+- India's main coral reefs are in the Gulf of Mannar, Gulf of Kutch, Lakshadweep and the Andamans.
+- Warming causes coral bleaching; a global bleaching event began in 2023.
+W: Mangroves and coral reefs are frequent Prelims topics and important for Mains questions on coastal resilience.
+Q: How can mangrove restoration help India adapt to climate change along its coasts?
+
+## iucn-red-list-threatened-species | The IUCN Red List and India's threatened species
+
+The International Union for Conservation of Nature (IUCN), founded in 1948 and headquartered in Gland, Switzerland, is a union of governments and civil society organisations. Its Red List of Threatened Species, started in 1964, is the world's most widely used assessment of extinction risk.
+
+The Red List places species in categories based on population size, decline, range and other criteria: Extinct; Extinct in the Wild; Critically Endangered; Endangered; Vulnerable; Near Threatened; Least Concern; and Data Deficient or Not Evaluated when information is lacking. The three categories Critically Endangered, Endangered and Vulnerable together count as "threatened". The list is not legally binding, but it shapes national laws, international trade rules and conservation funding.
+
+India has many threatened species. Critically Endangered examples include the Great Indian Bustard, the pygmy hog of Assam, the Malabar civet, the gharial, the white-rumped and long-billed vultures, the Jerdon's courser and the Namdapha flying squirrel. Endangered species include the Bengal tiger, the Asian elephant, the snow leopard, the red panda, the Ganges river dolphin and the lion-tailed macaque. The first government survey of river dolphins, released in March 2025, estimated 6,327 dolphins in India's rivers, mostly Ganges river dolphins.
+
+Vultures show how quickly a species can collapse. India's vulture populations crashed by over 95% from the 1990s, because they ate carcasses of cattle treated with the painkiller diclofenac, which causes kidney failure in vultures. Diclofenac for veterinary use was banned in 2006, and later other harmful drugs were also banned. Vulture conservation breeding centres, such as at Pinjore in Haryana, are now releasing birds into the wild.
+
+India also publishes its own national Red Data books through the Botanical and Zoological Surveys.
+
+- The IUCN Red List, started in 1964, assesses extinction risk; CR, EN and VU together are "threatened".
+- India's Critically Endangered species include the Great Indian Bustard, pygmy hog, gharial and several vultures.
+- Vultures crashed over 95% because of diclofenac, banned for veterinary use in 2006.
+W: Red List categories and examples of Indian species are among the most predictable Prelims questions.
+Q: What does the collapse of India's vultures teach us about unintended consequences in ecosystems?
+
+## wildlife-biodiversity-laws | India's wildlife and biodiversity laws
+
+The Wildlife (Protection) Act, 1972 is India's main wildlife law. It prohibits hunting of listed species, regulates trade in wildlife and its products, and provides for protected areas. The Wildlife (Protection) Amendment Act, 2022 simplified its schedules from six to four: Schedule I for the highest protection, Schedule II for lesser protection, Schedule III for protected plants and Schedule IV for specimens listed under CITES, the international wildlife trade convention, which the amended law now implements. It also regulates invasive alien species and allows the government to accept surrendered captive animals. Wildlife and forests were moved from the State List to the Concurrent List by the 42nd Amendment in 1976.
+
+The Forest (Conservation) Act, 1980 requires central approval before forest land is diverted for non-forest uses, with compensatory afforestation elsewhere. In the Godavarman case (1996), the Supreme Court held that "forest" should be understood in its dictionary meaning, covering all forests regardless of ownership. The 2023 amendment renamed the law the Van (Sanrakshan Evam Samvardhan) Adhiniyam and limited it mainly to recorded forests, exempting some categories of land, such as areas near borders for strategic projects. Critics argued this could expose unrecorded forests, and the Supreme Court directed that the broad definition continue until states completed their records.
+
+The Biological Diversity Act, 2002 implements India's obligations under the Convention on Biological Diversity. It created a three-tier structure: the National Biodiversity Authority in Chennai, state biodiversity boards, and biodiversity management committees in local bodies, which maintain People's Biodiversity Registers. It regulates access to biological resources and requires fair sharing of benefits with local communities. The 2023 amendment eased requirements for AYUSH practitioners and research, and decriminalised some offences, which critics said weakened benefit-sharing.
+
+The Environment (Protection) Act, 1986, an umbrella law, underpins many other rules, including those on eco-sensitive zones and coastal regulation.
+
+- The Wildlife Act was amended in 2022, cutting schedules to four and implementing CITES.
+- The 2023 forest law amendment narrowed its coverage, prompting Supreme Court directions to keep the broad definition for now.
+- The Biological Diversity Act (2002) created the NBA, state boards and local committees for benefit-sharing.
+W: Environmental laws and their recent amendments are high-frequency GS III topics.
+Q: Do the 2023 amendments to India's forest and biodiversity laws strengthen or weaken conservation? Discuss.
+
+## biodiversity-treaties | International biodiversity agreements
+
+Several international agreements govern the conservation and use of biodiversity.
+
+The Convention on Biological Diversity (CBD) was opened for signature at the Rio Earth Summit in 1992. Its three goals are the conservation of biodiversity, its sustainable use, and the fair and equitable sharing of benefits from genetic resources. Almost every country is a party, but not the United States. Two protocols supplement it. The Cartagena Protocol on Biosafety (2000) regulates the movement of living modified organisms. The Nagoya Protocol on Access and Benefit-sharing (2010) sets rules for obtaining genetic resources and sharing the benefits with the countries and communities that provide them. India hosted the CBD's 11th Conference of the Parties in Hyderabad in 2012.
+
+At COP15 in December 2022, held in Montreal under China's presidency, parties adopted the Kunming-Montreal Global Biodiversity Framework. It sets 23 targets for 2030, the best known being "30 by 30": protecting at least 30% of the world's land and 30% of its oceans and coastal areas, and restoring 30% of degraded ecosystems. It also aims to cut subsidies harmful to biodiversity and to halve food waste. India updated its National Biodiversity Strategy and Action Plan to align with the framework in 2024.
+
+CITES, the Convention on International Trade in Endangered Species of Wild Fauna and Flora (1973), regulates trade in listed species through three appendices: Appendix I bans commercial trade in species threatened with extinction, Appendix II controls trade to prevent overexploitation, and Appendix III lists species protected by individual countries. The Convention on Migratory Species (CMS), or Bonn Convention (1979), protects migratory animals; India hosted its COP13 in Gandhinagar in 2020. India is part of the Central Asian Flyway, a key route for migratory birds.
+
+The High Seas Treaty (BBNJ Agreement), adopted in 2023 to protect marine biodiversity beyond national jurisdiction, reached the required ratifications in 2025.
+
+- The CBD (1992) has goals of conservation, sustainable use and benefit-sharing, supplemented by the Cartagena and Nagoya Protocols.
+- The Kunming-Montreal Framework (2022) sets the "30 by 30" target.
+- CITES regulates wildlife trade through three appendices; the CMS protects migratory species.
+W: Biodiversity treaties and their protocols are among the most frequently confused Prelims topics.
+Q: Is the "30 by 30" target achievable for a densely populated country like India without harming local communities?
+
+## human-wildlife-conflict-invasives | Human-wildlife conflict and invasive species
+
+Human-wildlife conflict happens when the needs of people and wild animals overlap, leading to loss of crops, livestock, property and lives on both sides. In India, elephants, tigers, leopards, wild boars, nilgai, monkeys and bears are the main animals involved. Government data presented in Parliament show that hundreds of people are killed by elephants alone each year, while elephants die from electrocution, train collisions and retaliation.
+
+The causes are well understood: fragmentation and loss of habitat, expansion of farms and settlements into forest edges, roads and railways cutting through corridors, declining natural prey, and changing crops that attract animals. Success in conservation also adds pressure, as growing tiger and leopard numbers spill out of protected areas. Kerala declared human-wildlife conflict a state-specific disaster in 2024, enabling disaster relief funds to be used for compensation.
+
+Responses include early warning systems using SMS and sensors, solar fencing and bio-fences, rapid response teams, faster compensation, crop insurance that covers wildlife damage, wildlife corridors and underpasses (as on the NH-44 through Pench), and community-based approaches. The Union government released national advisories on managing conflict in 2021. In some states, animals such as nilgai and wild boar have been declared vermin in specific areas, allowing culling, which is controversial.
+
+Invasive alien species are non-native plants and animals that spread and harm native biodiversity. They are among the top drivers of biodiversity loss globally. In India, Lantana camara has spread across forests, including tiger reserves, reducing grazing for herbivores; Prosopis juliflora has taken over drylands and the Banni grasslands of Kutch; water hyacinth chokes lakes and rivers; and the African catfish and tilapia threaten native fish. The 2022 amendment to the Wildlife Act gives the government power to regulate invasive species.
+
+- Habitat loss, fragmentation and conservation success all drive human-wildlife conflict.
+- Early warning, fencing, corridors, fast compensation and community involvement reduce conflict.
+- Invasive species such as Lantana, Prosopis and water hyacinth damage native ecosystems.
+W: Human-wildlife conflict and invasive species are recurring Mains questions with clear policy angles.
+Q: Suggest a comprehensive strategy to reduce human-elephant conflict in India.

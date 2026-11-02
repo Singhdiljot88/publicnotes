@@ -1,0 +1,156 @@
+# THEME 8
+## unity-in-diversity | Unity in diversity: the shape of Indian society
+
+India is one of the most diverse societies in the world. The 2011 Census recorded more than 19,500 mother tongues, which were rationalised into 121 languages with 10,000 or more speakers each; 22 are listed in the Eighth Schedule of the Constitution. Hindi is the largest mother tongue, spoken by about 44% of people. India is home to followers of all major religions: in 2011, about 79.8% of the population was Hindu, 14.2% Muslim, 2.3% Christian, 1.7% Sikh, 0.7% Buddhist and 0.4% Jain. There are over 700 notified Scheduled Tribes. Regional cultures, cuisines, festivals and dress vary enormously.
+
+Sociologists have long asked what holds this diversity together. Several forces are usually identified. Geography gives the subcontinent a natural unity bounded by mountains and seas. A shared civilisational history, pilgrimage networks linking distant regions, and traditions such as Bhakti and Sufism created cultural bonds. The freedom struggle built a common political identity. Today, the Constitution, a single citizenship, democratic institutions, a national market, the Indian Railways, cinema, cricket and the internet all act as unifying forces.
+
+Diversity also creates tensions: disputes over language, religious conflict, caste discrimination, regional demands and inter-state disputes over water. The Indian approach has been to accommodate rather than suppress diversity, through linguistic states, minority rights under Articles 29 and 30, special provisions for some regions, and federalism.
+
+The phrase "unity in diversity" is sometimes criticised as a slogan that hides inequality. A more careful view is that unity in India is not uniformity; it is an ongoing negotiation in which democratic institutions play the central role.
+
+- India has 121 languages with over 10,000 speakers, 22 scheduled languages and all major religions.
+- Geography, history, the freedom struggle and the Constitution are key unifying forces.
+- India accommodates diversity through federalism, linguistic states and minority rights.
+W: Diversity and national integration are recurring GS I themes, often asked in Mains essay and society questions.
+Q: "Unity in India is not uniformity." Discuss the role of constitutional institutions in sustaining unity amid diversity.
+
+## caste-continuity-change | Caste in modern India: continuity and change
+
+Caste combines two related ideas. Varna is the four-fold scriptural classification of Brahmin, Kshatriya, Vaishya and Shudra. Jati refers to the thousands of endogamous groups, often linked to traditional occupations, that people actually belong to. Untouchability placed some groups outside the varna order altogether and subjected them to extreme discrimination.
+
+The Constitution abolished untouchability (Article 17), prohibited discrimination on grounds of caste (Article 15) and allowed reservations for Scheduled Castes, Scheduled Tribes and, later, Other Backward Classes in education, public jobs and legislatures. Laws such as the Protection of Civil Rights Act, 1955 and the SC/ST (Prevention of Atrocities) Act, 1989 provide legal protection. According to the 2011 Census, Scheduled Castes made up 16.6% and Scheduled Tribes 8.6% of the population.
+
+Sociologists describe several processes of change. M. N. Srinivas used the term Sanskritisation for lower castes adopting the practices of higher castes to rise in status, and "dominant caste" for landowning groups with local power. Urbanisation, education and new occupations have weakened rules on food, contact and occupation, especially in cities. At the same time, caste has become a basis for political mobilisation, and inter-caste marriage remains uncommon: surveys typically find only around 5% of marriages are inter-caste. Atrocities against Dalits continue to be reported in large numbers each year.
+
+The decision to count caste in the next Census, announced by the Union government in April 2025, has revived debate. Supporters say data is needed for fair policy; critics worry it will entrench caste identities.
+
+- Caste combines varna (four orders) and jati (thousands of endogamous groups).
+- The Constitution abolished untouchability and allows reservations; SCs were 16.6% and STs 8.6% in 2011.
+- Caste has weakened in ritual life but persists in marriage and has grown in political importance.
+W: Caste is central to GS I society and GS II social justice questions, and the caste census is a live issue.
+Q: Has caste in India declined or merely changed its form? Discuss with examples.
+
+## women-and-gender | Women in Indian society
+
+Women's status in India has improved in many ways since independence, yet deep inequalities remain. The Constitution guarantees equality (Articles 14 and 15) and allows special provisions for women (Article 15(3)). The 73rd and 74th Amendments reserved one-third of seats in panchayats and municipalities for women, and many states have raised this to half. The Constitution (106th Amendment) Act, 2023, the Nari Shakti Vandan Adhiniyam, reserves one-third of seats in the Lok Sabha and state assemblies, but it takes effect only after the next census and delimitation.
+
+Some indicators have improved. According to the National Family Health Survey 2019–21 (NFHS-5), the sex ratio of the total population reached 1,020 women per 1,000 men, though the sex ratio at birth (929 girls per 1,000 boys) still suggests sex-selective practices. Female literacy rose from about 9% in 1951 to 65% in 2011. Girls now enrol in higher education in roughly equal numbers to boys. Female labour force participation, long among the lowest in the world, has risen in recent Periodic Labour Force Surveys, though much of the increase is in self-employment and unpaid family work in rural areas.
+
+Challenges remain severe. Violence against women, including dowry deaths, domestic violence and sexual assault, is widely reported; laws such as the Protection of Women from Domestic Violence Act, 2005, the 2013 criminal law amendments after the Delhi gang rape case, and the Sexual Harassment of Women at Workplace Act, 2013 have strengthened protection, but enforcement is uneven. Women carry most unpaid care work, own a small share of land and are under-represented in politics and senior positions.
+
+Feminist scholars stress that gender intersects with caste, class and religion: a Dalit or Adivasi woman faces different barriers from an urban upper-caste woman.
+
+- The Constitution and laws guarantee equality; one-third reservation in local bodies has brought many women into politics.
+- NFHS-5 shows an overall sex ratio of 1,020, but a sex ratio at birth of 929.
+- Violence, unpaid care work and low representation remain major challenges.
+W: Women's issues appear every year in GS I society and GS II social justice, and in the essay paper.
+Q: Why has rising education among Indian women not translated into equally high participation in paid work?
+
+## population-demographic-dividend | Population and the demographic dividend
+
+India's 2011 Census counted 121.1 crore (1.21 billion) people. United Nations estimates suggest India overtook China as the world's most populous country around April 2023, with over 1.4 billion people. The next census, delayed from 2021 by the pandemic, is being held in two phases: house-listing from April to September 2026 and population enumeration with a reference date of 1 March 2027 (1 October 2026 for snow-bound areas). It will be the first fully digital census and will record caste.
+
+Fertility has fallen sharply. The total fertility rate (TFR), the average number of children a woman would have in her lifetime, fell to 2.0 in NFHS-5 (2019–21), below the replacement level of 2.1. There are large regional differences: southern states such as Kerala and Tamil Nadu have very low fertility, while states such as Bihar and Uttar Pradesh remain above replacement. This divergence affects debates on delimitation and the sharing of central taxes.
+
+India's age structure creates a demographic dividend: a large share of the population is of working age, which can boost growth if people are healthy, educated and employed. The window is estimated to last until around the 2040s. Realising it depends on creating enough productive jobs, raising female labour force participation and improving skills. Otherwise, a youth bulge can mean unemployment and frustration.
+
+India is also beginning to age. The share of people aged 60 and above, around 10% in 2021, is projected to nearly double by 2050, raising questions about pensions, health care and care for the elderly, especially women who outlive their spouses.
+
+- The 2011 Census counted 121.1 crore people; India is now the most populous country.
+- The TFR fell to 2.0 in NFHS-5, with large north-south differences.
+- The demographic dividend requires jobs, skills and women's work, and India is also starting to age.
+W: Population trends feed into questions on economy, federalism (delimitation and finance) and social policy.
+Q: What must India do to convert its demographic dividend into economic growth before the window closes?
+
+## urbanisation | Urbanisation in India
+
+According to the 2011 Census, 31.1% of Indians lived in urban areas, up from about 17% in 1951. The Census defines urban areas as statutory towns (with a municipality or similar body) and census towns, which meet three criteria: a population of at least 5,000, a density of at least 400 people per square km, and at least 75% of the male working population in non-agricultural work. Many places that function as towns are still governed as villages, so the real level of urbanisation is probably higher. The World Bank and others estimate that India's urban population will reach around 40% by the mid-2030s.
+
+Urban growth has three sources: natural increase in cities, migration from rural areas, and the reclassification of villages as towns. Most growth is concentrated in large cities and their peripheries. India had 53 cities with a population over a million in 2011.
+
+Cities are engines of growth, producing a large share of GDP, but they face severe problems: housing shortages and slums (about 65 million people lived in slums in 2011), inadequate water and sanitation, traffic congestion, air pollution, flooding from encroached drainage, and weak municipal finances. The 74th Amendment (1992) gave constitutional status to urban local bodies, but most remain dependent on state governments for funds and functions.
+
+Government programmes include the Smart Cities Mission and AMRUT (both launched in 2015), the Pradhan Mantri Awas Yojana-Urban for housing, the Swachh Bharat Mission-Urban and urban metro rail projects. Experts argue that empowering city governments, with elected mayors and their own revenue, is as important as investment.
+
+- 31.1% of Indians lived in urban areas in 2011; the true figure is likely higher.
+- Census towns need 5,000 people, 400 per square km and 75% male non-farm work.
+- Slums, water, pollution, flooding and weak municipal finances are the main urban challenges.
+W: Urbanisation spans GS I society and geography and GS II local governance questions.
+Q: Why are Indian cities poorly governed despite the 74th Amendment? Suggest reforms.
+
+## globalisation-indian-society | Globalisation and Indian society
+
+Globalisation refers to the growing integration of economies, cultures and societies through trade, investment, migration, technology and media. For India, it accelerated after the 1991 economic reforms and the spread of satellite television, mobile phones and the internet.
+
+Its effects on society are mixed. On the positive side, globalisation created new jobs in information technology, business process outsourcing and services, expanded the middle class, increased access to consumer goods and information, and brought new opportunities for women in urban workplaces. Indian culture also spread abroad through cinema, food, yoga and the diaspora, which is the largest in the world at over 3 crore people.
+
+On the negative side, critics argue that the benefits were unevenly distributed, widening inequality between cities and villages, skilled and unskilled workers, and regions. Traditional artisans and small producers faced competition from imports and large firms. Consumerism grew, and some worry that global media erode local languages and cultures. Informal and contract work increased, reducing job security.
+
+Sociologists also describe "glocalisation", in which global products and ideas are adapted to local contexts, such as global fast-food chains offering vegetarian menus in India, and Indian traditions such as festivals and weddings incorporating global trends. Rather than replacing Indian culture, globalisation has often produced hybrid forms. Its effects on family structure, gender roles, caste and religion vary across regions and classes.
+
+- Globalisation accelerated in India after 1991 and with new media and technology.
+- It created jobs and a larger middle class, but also inequality and job insecurity.
+- Glocalisation shows that culture adapts rather than simply disappears.
+W: The social effects of globalisation are a standard GS I question, often asked about women, culture or family.
+Q: Has globalisation led to cultural homogenisation in India? Discuss with examples.
+
+## communalism | Communalism
+
+In the Indian context, communalism means the belief that people who follow the same religion share common social, political and economic interests that are different from, and opposed to, those of other religious communities. It turns religious identity into a political identity, and it can lead to prejudice, discrimination and violence.
+
+Historians trace modern communalism to the colonial period. The British census categorised people by religion, separate electorates (introduced in 1909) gave political weight to religious identity, and economic competition among the educated middle classes was sometimes expressed in religious terms. Communal organisations of different communities grew in the early twentieth century. Partition in 1947, with its massive violence, was the most catastrophic result.
+
+After independence, India has seen several major episodes of communal violence, including in 1984 against Sikhs in Delhi, the riots after the Babri Masjid demolition in 1992–93, Gujarat in 2002, Muzaffarnagar in 2013 and north-east Delhi in 2020. Commissions of inquiry have often found political mobilisation, rumours and failures of policing behind such violence. Social media has made the spread of rumours and hate speech faster.
+
+Responses include constitutional secularism, laws against hate speech and promoting enmity between groups (now in the Bharatiya Nyaya Sanhita, 2023, which replaced the corresponding sections of the Indian Penal Code), police reform, and civil society efforts at inter-faith dialogue. The Supreme Court has directed police to act against hate speech on their own without waiting for complaints. Scholars stress that everyday coexistence, shared neighbourhoods and civic associations are among the strongest protections against communal violence.
+
+- Communalism turns religious identity into opposed political interests.
+- Colonial policies such as separate electorates contributed to its growth, with Partition as the worst outcome.
+- Laws, police reform, secular institutions and everyday civic ties are key responses.
+W: Communalism is a named topic in the GS I syllabus and appears regularly in Mains questions.
+Q: What role can civil society play in preventing communal violence? Illustrate with examples.
+
+## regionalism | Regionalism
+
+Regionalism is a feeling of loyalty to a particular region, based on language, culture, history, economic interests or a sense of neglect. In itself it need not be harmful: regional pride can coexist with national identity, and regional demands can be a legitimate way to seek development and recognition within a democracy. It becomes a problem when it turns into hostility towards people from other regions or into secessionist demands.
+
+Regionalism in India has taken several forms. Linguistic movements led to the reorganisation of states in the 1950s and 1960s. Demands for new states based on development and identity led to the creation of Jharkhand, Chhattisgarh and Uttarakhand in 2000 and Telangana in 2014; similar demands continue, for example for Gorkhaland or Vidarbha. Some movements, as in parts of the North-East and Punjab in the past, became secessionist. "Sons of the soil" politics, which demands priority for locals in jobs, has sometimes led to hostility against migrants, and several states have passed laws reserving private-sector jobs for locals, which courts have examined.
+
+The causes include uneven economic development, perceived neglect by the Centre, fear of cultural dominance, migration and the use of regional identity by political parties. Regional parties, such as the DMK in Tamil Nadu or the TDP in Andhra Pradesh, have become important players in national coalitions.
+
+India has managed regionalism largely by accommodation: linguistic states, special provisions under Articles 371 to 371J, autonomous councils under the Sixth Schedule, and federal fiscal transfers. Balanced regional development is seen as the most lasting solution.
+
+- Regionalism is loyalty to a region; it can be healthy or divisive depending on its form.
+- It has driven the creation of linguistic and new states, and sometimes hostility to migrants.
+- India accommodates regionalism through federalism, special provisions and autonomous councils.
+W: Regionalism is a GS I syllabus topic and often linked to federalism questions in GS II.
+Q: Is regionalism a threat to national integration or a strength of Indian democracy? Argue with examples.
+
+## indian-secularism | The Indian model of secularism
+
+Secularism in the Western sense often means a strict separation of religion and state, as in France's principle of laïcité, where the state keeps religion out of public life. Indian secularism developed differently. It is often described as "principled distance": the state is not aligned with any religion, but it can engage with religions to protect equality and freedom, for example by reforming practices such as untouchability or by supporting minority educational institutions.
+
+The word "secular" was added to the Preamble by the 42nd Amendment in 1976, but the principle was present in the original Constitution. Articles 25 to 28 guarantee freedom of conscience and the right to profess, practise and propagate religion, subject to public order, morality and health; the freedom of religious denominations to manage their affairs; freedom from taxes for promoting a religion; and freedom from compulsory religious instruction in state-funded schools. Articles 29 and 30 protect the cultural and educational rights of minorities. In S. R. Bommai v. Union of India (1994), the Supreme Court held secularism to be part of the basic structure.
+
+Indian secularism faces several debates. Critics argue that the state has intervened more in Hindu personal law (through the Hindu Code Bills of the 1950s) than in other communities' personal laws, and that a Uniform Civil Code, which Article 44 lists as a directive principle, is needed. Uttarakhand became the first state to implement a Uniform Civil Code, in January 2025. Others argue that a UCC must not be imposed in a way that targets minorities. There are also debates about state control of temples, the use of religion in elections, and anti-conversion laws in several states.
+
+- Indian secularism means principled distance, not strict separation.
+- Articles 25–30 protect religious freedom and minority rights; secularism is part of the basic structure (Bommai, 1994).
+- The Uniform Civil Code and state control of religious institutions remain contested.
+W: Secularism is a GS I society topic and a GS II polity topic, and often appears in essay questions.
+Q: How is Indian secularism different from the Western model? Is the difference a strength or a weakness?
+
+## family-marriage-ageing | Family, marriage and ageing in a changing India
+
+The family has been central to Indian society, and the joint family, in which several generations live together and share property and resources, was long seen as typical. In reality, sociologists note that nuclear families have always been common, especially among poorer households. Urbanisation, migration for work, smaller family sizes and changing aspirations have increased the share of nuclear households, though many keep strong ties with the wider family and live in "functionally joint" arrangements.
+
+Marriage is also changing. The legal age of marriage is 18 for women and 21 for men; a bill to raise women's age to 21 was introduced in 2021 but lapsed. According to NFHS-5 (2019–21), 23.3% of women aged 20–24 were married before 18, down from 47.4% in NFHS-3 (2005–06). Arranged marriage remains the norm, but individual choice within it has grown, and "love-cum-arranged" marriages are increasingly common. Divorce rates are rising from a low base. The Supreme Court has strengthened individual rights within the family, for example by recognising women's equal coparcenary rights in ancestral property (Vineeta Sharma, 2020) and striking down instant triple talaq (Shayara Bano, 2017).
+
+Population ageing is a new challenge. There were about 13.8 crore people aged 60 and above in 2021, around 10% of the population, and this is projected to rise sharply. The Longitudinal Ageing Study in India (LASI) shows high rates of chronic disease, low pension coverage and many elderly people, especially widows, living alone or depending on children. The Maintenance and Welfare of Parents and Senior Citizens Act, 2007 makes children legally responsible for supporting parents.
+
+- Nuclear households are growing, but many families remain functionally joint.
+- Child marriage fell from 47.4% (NFHS-3) to 23.3% (NFHS-5) of women aged 20–24.
+- India's elderly population is growing fast, with weak pension and care systems.
+W: Changes in family and marriage, and population ageing, are frequent GS I society questions.
+Q: How is the changing structure of the Indian family affecting the care of the elderly? Suggest policy responses.

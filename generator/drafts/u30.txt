@@ -1,0 +1,162 @@
+# THEME 30
+## vitamins-minerals-deficiency | Vitamins, minerals and deficiency diseases
+
+Vitamins are organic compounds the body needs in small amounts for normal functioning, and which it cannot make in sufficient quantity. They are divided into fat-soluble vitamins (A, D, E and K), which are stored in body fat and the liver, and water-soluble vitamins (the B group and C), which are not stored for long and must be taken regularly.
+
+Each vitamin has characteristic deficiency diseases. Lack of vitamin A causes night blindness and, in severe cases, xerophthalmia, which can lead to blindness; sources include carrots, green leafy vegetables, milk and liver. Vitamin B1 (thiamine) deficiency causes beriberi, once common where people ate polished rice. Vitamin B3 (niacin) deficiency causes pellagra, marked by dermatitis, diarrhoea and dementia. Vitamin B12 deficiency causes pernicious anaemia and nerve damage; it is found mainly in animal foods, so strict vegetarians are at risk. Folic acid (B9) deficiency in pregnancy raises the risk of neural tube defects in babies. Vitamin C deficiency causes scurvy, with bleeding gums; citrus fruits and amla are rich sources. Vitamin D, made in the skin in sunlight, is needed for calcium absorption; its lack causes rickets in children and osteomalacia in adults. Vitamin K is essential for blood clotting.
+
+Minerals are equally important. Iron deficiency causes anaemia, the most widespread nutritional problem in India; NFHS-5 found 57% of women aged 15–49 anaemic. Iodine deficiency causes goitre and impairs brain development, which India has tackled through universal salt iodisation. Calcium is needed for bones and teeth, and zinc for immunity and growth.
+
+Policy responses include food fortification, such as fortified rice distributed through the public distribution system and other schemes, Anemia Mukt Bharat, iodised salt, and vitamin A supplementation for young children.
+
+- Vitamins A, D, E and K are fat-soluble; B and C are water-soluble.
+- Classic deficiency diseases include night blindness (A), beriberi (B1), scurvy (C) and rickets (D).
+- Iron deficiency anaemia affects 57% of Indian women aged 15–49 (NFHS-5).
+W: Vitamins, minerals and deficiency diseases are among the most predictable Prelims science questions.
+Q: Why does micronutrient deficiency, or "hidden hunger", persist in India even where calorie intake is adequate?
+
+## pathogens-diseases-vaccines | Pathogens, diseases and vaccines
+
+Infectious diseases are caused by pathogens: bacteria, viruses, fungi, protozoa and parasitic worms. Knowing which type causes which disease, and how it spreads, is basic to public health.
+
+Bacteria are single-celled organisms without a nucleus. Bacterial diseases include tuberculosis, cholera, typhoid, tetanus, diphtheria, whooping cough, leprosy, plague and most cases of pneumonia. They can usually be treated with antibiotics. Viruses are much smaller, consist of genetic material in a protein coat, and can multiply only inside living cells. Viral diseases include the common cold, influenza, measles, mumps, polio, hepatitis, rabies, dengue, chikungunya, HIV/AIDS, COVID-19 and Nipah. Antibiotics do not work against viruses, though antiviral drugs exist for some. Protozoa cause malaria (Plasmodium, spread by female Anopheles mosquitoes), kala-azar (Leishmania, spread by sandflies) and amoebic dysentery. Fungi cause ringworm and athlete's foot, and serious infections in people with weak immunity. Worms cause filariasis (spread by Culex mosquitoes) and intestinal infections.
+
+Diseases spread by different routes: air (tuberculosis, measles, influenza), contaminated water and food (cholera, typhoid, hepatitis A), vectors such as mosquitoes (malaria, dengue, chikungunya), and body fluids (HIV, hepatitis B). Dengue and chikungunya are spread by Aedes mosquitoes, which bite in the daytime.
+
+Vaccines train the immune system to recognise a pathogen without causing the disease. Types include live attenuated vaccines (oral polio, measles), inactivated vaccines (injectable polio), subunit or protein vaccines (hepatitis B), toxoids (tetanus), viral vector vaccines (Covishield) and mRNA vaccines. India's Universal Immunisation Programme, through Mission Indradhanush and the U-WIN digital platform, provides free vaccines against a dozen diseases. India was certified polio-free in 2014.
+
+Antimicrobial resistance, the growing ability of microbes to survive drugs, often caused by overuse of antibiotics, is a serious global threat.
+
+- Bacteria cause diseases such as TB, cholera and typhoid; viruses cause measles, dengue, HIV and COVID-19.
+- Malaria and kala-azar are caused by protozoa; antibiotics do not work on viruses.
+- Vaccines train immunity; India was certified polio-free in 2014.
+W: Pathogen types, diseases, vectors and vaccines are tested in Prelims almost every year.
+Q: Why is antimicrobial resistance called a "silent pandemic"? What should India do about it?
+
+## human-body-systems | The human body: blood, digestion and key systems
+
+The human circulatory system pumps blood through the heart, arteries, veins and capillaries. The heart has four chambers: two atria and two ventricles. Arteries carry blood away from the heart (mostly oxygen-rich) and veins carry it back (mostly oxygen-poor); the pulmonary artery and pulmonary vein are the exceptions. Blood consists of plasma and three kinds of cells: red blood cells, which carry oxygen using haemoglobin and live about 120 days; white blood cells, which fight infection; and platelets, which help clotting. An adult has about five litres of blood. Normal blood pressure is around 120/80 mm Hg.
+
+Blood groups are based on antigens on red blood cells. In the ABO system, group O has no A or B antigens and is called the universal donor for red cells; group AB has both and is the universal recipient. The Rh factor adds positive or negative. Rh incompatibility between an Rh-negative mother and an Rh-positive baby can cause problems in later pregnancies, which can be prevented by an injection.
+
+Digestion breaks food into absorbable molecules. It begins in the mouth, where salivary amylase starts breaking down starch. In the stomach, hydrochloric acid and pepsin begin digesting proteins. In the small intestine, bile from the liver emulsifies fats, and pancreatic enzymes (amylase, trypsin and lipase) complete digestion; most absorption happens here through villi. The large intestine absorbs water. The liver is the largest gland, storing glycogen, making bile and detoxifying substances.
+
+Other systems include the respiratory system (gas exchange in the alveoli of the lungs), the excretory system (kidneys filter blood through nephrons), the nervous system (brain, spinal cord and nerves) and the endocrine system of glands that release hormones. Insulin from the pancreas lowers blood sugar; its lack or ineffective use causes diabetes, which affects over ten crore Indians according to an ICMR study published in 2023.
+
+- The heart has four chambers; red blood cells carry oxygen using haemoglobin.
+- O is the universal donor and AB the universal recipient in the ABO system.
+- Most digestion and absorption happen in the small intestine; insulin regulates blood sugar.
+W: Human physiology, blood groups and hormones are recurring Prelims topics.
+Q: Why is India facing a rising burden of diabetes, and what public health measures can address it?
+
+## cells-genetics-dna | Cells, DNA and genetics
+
+The cell is the basic unit of life. Prokaryotic cells, found in bacteria, have no nucleus. Eukaryotic cells, found in plants, animals and fungi, have a nucleus and membrane-bound organelles. Key organelles include the nucleus, which contains genetic material; mitochondria, the "powerhouses" that produce energy through respiration and have their own DNA; ribosomes, which make proteins; and, in plant cells, chloroplasts for photosynthesis and a cell wall made of cellulose.
+
+Deoxyribonucleic acid (DNA) carries genetic information. Its double-helix structure was described by James Watson and Francis Crick in 1953, using X-ray images produced by Rosalind Franklin. DNA is made of four bases: adenine pairs with thymine, and guanine with cytosine. A gene is a segment of DNA that codes for a protein. Humans have 23 pairs of chromosomes, 46 in total, with one pair of sex chromosomes: XX in females and XY in males. The father's sperm carries either an X or a Y, so it determines the sex of the child. The Human Genome Project, completed in 2003, sequenced the human genome. RNA carries instructions from DNA to make proteins, and mRNA vaccines use this mechanism.
+
+Gregor Mendel's experiments on pea plants in the 1860s established the laws of inheritance: dominant and recessive traits, segregation and independent assortment. Genetic disorders can be caused by changes in single genes, such as sickle cell anaemia, thalassaemia and haemophilia (which is X-linked and so affects mainly males), or by chromosomal changes, such as Down syndrome (an extra copy of chromosome 21). India launched the National Sickle Cell Anaemia Elimination Mission in 2023, aiming to end the disease as a public health problem by 2047, with a focus on tribal areas.
+
+Genome India, a government project, sequenced 10,000 genomes from across India's diverse populations, with data released in 2025.
+
+- Eukaryotic cells have a nucleus; mitochondria produce energy and have their own DNA.
+- DNA's double helix pairs A with T and G with C; humans have 46 chromosomes.
+- Mendel's laws explain inheritance; sickle cell anaemia is targeted for elimination by 2047.
+W: Cell biology, DNA and genetic disorders are frequently asked in Prelims and link to biotechnology topics.
+Q: What are the ethical issues involved in large-scale genome sequencing projects?
+
+## light-optics | Light: reflection, refraction and the eye
+
+Light is a form of electromagnetic radiation that travels at about 3 lakh km per second (3 × 10⁸ metres per second) in a vacuum, the fastest speed possible. Visible light is a small part of the electromagnetic spectrum, which ranges from radio waves and microwaves, through infrared, visible light and ultraviolet, to X-rays and gamma rays, in order of increasing energy and decreasing wavelength.
+
+Reflection is the bouncing of light off a surface; the angle of incidence equals the angle of reflection. Plane mirrors form upright images of the same size, laterally inverted. Concave mirrors converge light and are used in torches, headlights and shaving mirrors; convex mirrors diverge light and give a wide view, so they are used as rear-view mirrors in vehicles.
+
+Refraction is the bending of light as it passes from one medium to another, because its speed changes. It explains why a pool looks shallower than it is, why a straw looks bent in water, and why stars twinkle (light refracting through moving layers of air). Total internal reflection, when light inside a denser medium hits the boundary at a large angle, explains the sparkle of diamonds, mirages and the working of optical fibres. Dispersion is the splitting of white light into its seven colours, as in a prism or a rainbow, because each colour bends by a different amount. Scattering of light by air molecules, which affects blue light more than red, makes the sky blue and sunsets red.
+
+The human eye focuses light with a convex lens onto the retina. Myopia (short-sightedness) is corrected with concave lenses; hypermetropia (long-sightedness) with convex lenses; presbyopia, age-related difficulty with near vision, with convex or bifocal lenses; and astigmatism with cylindrical lenses. Cataract is clouding of the lens, the leading cause of blindness in India, treated by surgery.
+
+- Light travels at about 3 × 10⁸ m/s; visible light is a small part of the electromagnetic spectrum.
+- Refraction, total internal reflection, dispersion and scattering explain everyday phenomena from rainbows to the blue sky.
+- Myopia is corrected with concave lenses and hypermetropia with convex lenses.
+W: Light and optics are a perennial source of Prelims questions based on everyday phenomena.
+Q: Explain why the sky appears blue during the day and red at sunrise and sunset.
+
+## sound-waves | Sound and waves
+
+Sound is a mechanical wave: a vibration that travels through a medium, solid, liquid or gas, by compressing and stretching it. It cannot travel through a vacuum, which is why there is no sound in space. Sound waves are longitudinal, meaning particles vibrate in the same direction as the wave travels.
+
+The speed of sound depends on the medium. In air at room temperature it is about 343 metres per second; it is faster in water (about 1,500 m/s) and faster still in solids such as steel (about 5,000 m/s or more). It increases with temperature. Light is far faster than sound, which is why we see lightning before we hear thunder; the gap in seconds, divided by three, gives the distance in kilometres roughly.
+
+Frequency, measured in hertz, determines pitch: higher frequency means higher pitch. Humans hear roughly 20 Hz to 20,000 Hz. Sound below 20 Hz is infrasound, used by elephants and whales to communicate over long distances and produced by earthquakes. Sound above 20,000 Hz is ultrasound, used by bats and dolphins for echolocation, and in medicine for ultrasonography, in industry for detecting flaws, and in SONAR to locate objects under water. Amplitude determines loudness, measured in decibels (dB), a logarithmic scale: an increase of 10 dB means ten times the intensity. Normal conversation is about 60 dB; prolonged exposure above about 85 dB can damage hearing. India's Noise Pollution (Regulation and Control) Rules, 2000 set limits for different zones.
+
+An echo is a reflected sound heard separately from the original, which requires the reflecting surface to be at least about 17 metres away. The Doppler effect is the change in observed frequency when the source and listener move relative to each other: the siren of an approaching ambulance sounds higher in pitch than when it moves away. The same effect, applied to light and radio waves, is used in radar, weather forecasting and astronomy.
+
+- Sound is a longitudinal mechanical wave and cannot travel through a vacuum.
+- It travels at about 343 m/s in air, faster in water and solids.
+- Ultrasound has medical and SONAR uses; the Doppler effect underlies radar.
+W: Properties of sound and their applications are a common Prelims topic.
+Q: How is ultrasound used in medicine and industry? What regulations govern its misuse for sex determination in India?
+
+## electricity-magnetism | Electricity and magnetism basics
+
+Electric current is the flow of electric charge, measured in amperes. Voltage, or potential difference, measured in volts, drives the current, and resistance, measured in ohms, opposes it. Ohm's law states that voltage equals current multiplied by resistance (V = IR), at constant temperature. Power, measured in watts, equals voltage multiplied by current. Household electricity bills are in kilowatt-hours (units): one unit is the energy used by a 1,000-watt appliance in one hour.
+
+Materials are conductors (such as copper and aluminium), insulators (such as rubber, glass and plastic) or semiconductors (such as silicon and germanium), whose conductivity can be controlled and which form the basis of electronics. Superconductors lose all resistance below a critical temperature.
+
+Direct current (DC) flows in one direction, as from batteries and solar cells. Alternating current (AC) reverses direction periodically; in India, mains supply is 230 volts at 50 hertz. AC is used for transmission because its voltage can be easily changed with transformers: power is transmitted at high voltage to reduce losses and stepped down for homes. Fuses and circuit breakers protect circuits by breaking them when current is too high, and earthing protects people from shocks.
+
+Electricity and magnetism are linked. A current produces a magnetic field, which is how electromagnets work. Michael Faraday discovered electromagnetic induction in 1831: a changing magnetic field produces a current. This is the principle of electric generators, which convert mechanical energy into electrical energy, while electric motors do the reverse. Light-emitting diodes (LEDs) are semiconductor devices that produce light efficiently; India's UJALA scheme, launched in 2015, distributed over 36 crore LED bulbs.
+
+The Earth itself is a giant magnet, with magnetic poles near, but not at, the geographic poles; compasses point to magnetic north.
+
+- Ohm's law: V = IR; one unit of electricity is one kilowatt-hour.
+- India's mains supply is 230 V AC at 50 Hz; transformers change AC voltage for efficient transmission.
+- Faraday's electromagnetic induction (1831) underlies generators; LEDs are efficient semiconductor lights.
+W: Basic electricity concepts appear in Prelims, often through everyday applications.
+Q: Why is electricity transmitted over long distances at very high voltages?
+
+## nuclear-energy-radioactivity | Nuclear energy and radioactivity
+
+The nucleus of an atom contains protons and neutrons. Isotopes are atoms of the same element with different numbers of neutrons; for example, uranium-235 and uranium-238. Some isotopes are unstable and decay, emitting radiation: alpha particles (helium nuclei, stopped by paper), beta particles (electrons, stopped by aluminium) and gamma rays (high-energy electromagnetic radiation, needing thick lead or concrete). The half-life is the time taken for half the atoms of a radioactive sample to decay. Radioactivity was discovered by Henri Becquerel in 1896 and studied by Marie and Pierre Curie.
+
+Nuclear fission is the splitting of a heavy nucleus, such as uranium-235 or plutonium-239, into lighter nuclei when struck by a neutron, releasing large amounts of energy and more neutrons that can sustain a chain reaction. Nuclear power plants control this chain reaction using control rods, often made of boron or cadmium, which absorb neutrons, and a moderator, such as heavy water or graphite, which slows neutrons down. Nuclear fusion joins light nuclei, such as hydrogen isotopes, into heavier ones, releasing even more energy; it powers the Sun. Controlled fusion for electricity remains experimental, and India is a member of the international ITER project in France.
+
+India's three-stage nuclear programme, conceived by Homi Bhabha, is designed around its limited uranium and large thorium reserves. Stage one uses natural uranium in pressurised heavy water reactors (PHWRs). Stage two uses fast breeder reactors fuelled by plutonium from stage one, which breed more fuel; the 500 MWe Prototype Fast Breeder Reactor at Kalpakkam began core loading in 2024. Stage three will use thorium in reactors to produce uranium-233. India's installed nuclear capacity is about 8.8 GW. The government has set a target of 100 GW by 2047 and opened the sector to private participation through the SHANTI Act, passed by Parliament in December 2025.
+
+Nuclear energy is low-carbon and provides steady baseload power, but raises concerns about safety, radioactive waste, cost and long construction times.
+
+- Fission splits heavy nuclei; fusion joins light nuclei and powers the Sun.
+- Control rods absorb neutrons; moderators slow them down.
+- India's three-stage programme aims to use its large thorium reserves; capacity is about 8.8 GW with a 100 GW target for 2047.
+W: Nuclear basics and India's three-stage programme are frequently tested in Prelims and Mains.
+Q: Why is thorium central to India's long-term nuclear strategy? What has delayed the programme?
+
+## acids-bases-everyday-chemistry | Acids, bases and everyday chemistry
+
+Acids are substances that release hydrogen ions in water; they taste sour and turn blue litmus red. Examples include hydrochloric acid in the stomach, citric acid in lemons, acetic acid in vinegar, lactic acid in curd, tartaric acid in tamarind and formic acid in ant stings. Bases release hydroxide ions in water, taste bitter, feel soapy and turn red litmus blue; those that dissolve in water are called alkalis. Examples include sodium hydroxide (caustic soda), calcium hydroxide (slaked lime) and magnesium hydroxide (milk of magnesia, used as an antacid).
+
+The pH scale measures acidity from 0 to 14. A pH of 7 is neutral (pure water), below 7 is acidic and above 7 is basic. Each step on the scale is a tenfold change. Human blood is slightly basic, around pH 7.4. Normal rainwater is slightly acidic (about 5.6) because of dissolved carbon dioxide; acid rain, with a pH below that, is caused by sulphur dioxide and nitrogen oxides from burning fossil fuels, and can damage buildings, such as the marble of the Taj Mahal, and ecosystems. When an acid reacts with a base, they neutralise each other to form salt and water; this is why antacids relieve acidity and why farmers add lime to acidic soils.
+
+Several common chemicals are often asked about. Baking soda is sodium hydrogen carbonate, used in cooking and fire extinguishers. Washing soda is sodium carbonate, used to soften hard water. Bleaching powder is calcium oxychloride, used to disinfect drinking water. Plaster of Paris is calcium sulphate hemihydrate, used for casts and moulds, which sets hard when mixed with water. Common salt is sodium chloride. Quicklime is calcium oxide. Dry ice is solid carbon dioxide. Hard water contains calcium and magnesium salts, which prevent soap from lathering.
+
+- Acids turn blue litmus red; bases turn red litmus blue; neutralisation gives salt and water.
+- pH 7 is neutral; normal rain is about pH 5.6, and acid rain is lower.
+- Baking soda is sodium hydrogen carbonate; washing soda is sodium carbonate; bleaching powder is calcium oxychloride.
+W: Everyday chemistry and common chemical names are standard Prelims fare.
+Q: How does acid rain form, and what measures can reduce its impact on heritage monuments and ecosystems?
+
+## motion-gravity-orbits | Motion, gravity and satellite orbits
+
+Isaac Newton's three laws of motion, published in 1687, describe how objects move. The first law (inertia) says an object stays at rest or in uniform motion unless acted upon by a force, which is why passengers lurch forward when a bus brakes suddenly. The second law says force equals mass times acceleration (F = ma). The third law says every action has an equal and opposite reaction, which explains how rockets work: they push exhaust gases backward and are pushed forward.
+
+Newton's law of universal gravitation says every mass attracts every other mass with a force proportional to the product of their masses and inversely proportional to the square of the distance between them. Acceleration due to gravity at the Earth's surface is about 9.8 m/s². Mass is the amount of matter and stays the same everywhere; weight is the force of gravity on that mass, so a person weighs about one-sixth as much on the Moon. Weight is slightly less at the equator than at the poles because of the Earth's shape and rotation. Escape velocity, the speed needed to escape the Earth's gravity without further propulsion, is about 11.2 km per second.
+
+Satellites stay in orbit because their sideways speed balances the pull of gravity, so they are constantly "falling" around the Earth. Low Earth orbits, up to about 2,000 km, are used for remote sensing, the International Space Station and satellite internet constellations. Sun-synchronous polar orbits, used by Earth observation satellites, pass over a place at the same local time each day. Geostationary orbit is about 35,786 km above the equator: a satellite there takes 24 hours to orbit, so it appears fixed over one spot, which suits communication and weather satellites such as INSAT and GSAT. India's PSLV is mainly used for polar and sun-synchronous orbits, and the GSLV and LVM3 for geosynchronous transfer orbits and heavier payloads.
+
+Astronauts in orbit feel weightless not because gravity is absent but because they and their spacecraft are in free fall together.
+
+- Newton's three laws explain inertia, F = ma and rocket propulsion.
+- Gravity at the surface is about 9.8 m/s²; escape velocity is about 11.2 km/s.
+- Geostationary orbit is about 35,786 km above the equator; polar orbits suit Earth observation.
+W: Laws of motion, gravity and orbits are frequently tested and link to space technology questions.
+Q: Why are communication satellites placed in geostationary orbit while remote sensing satellites use polar orbits?

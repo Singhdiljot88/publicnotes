@@ -1,0 +1,168 @@
+# THEME 18
+## money-supply-measures | Money and money supply: M0 to M4
+
+Money performs four functions: it is a medium of exchange, a unit of account, a store of value and a standard of deferred payment. Modern money is fiat money, which has value because the government declares it legal tender and people trust it, not because it is backed by gold. In India, the RBI issues currency notes, while the Government of India issues coins and one-rupee notes.
+
+The RBI measures the money supply in several ways. Reserve money (M0), also called high-powered money or base money, consists of currency in circulation, bankers' deposits with the RBI and other deposits with the RBI. It is called high-powered because banks can create several times this amount of money through lending.
+
+The broader measures follow. M1 (narrow money) is currency with the public, demand deposits with banks (such as current accounts and the demand portion of savings accounts) and other deposits with the RBI. M2 adds savings deposits with post office savings banks. M3 (broad money) adds time deposits with banks, such as fixed deposits, and is the most commonly used measure of money supply. M4 adds all deposits with post office savings banks. Liquidity falls as you move from M1 to M4: currency can be spent instantly, while fixed deposits take time to convert.
+
+The money multiplier links M0 and M3. When a bank receives a deposit, it keeps a fraction as reserves (because of the cash reserve ratio and its own needs) and lends the rest, which is deposited elsewhere and lent again. The smaller the reserve ratio, the larger the multiplier. This is why the RBI's tools, such as the cash reserve ratio, affect the money supply.
+
+Demonetisation in November 2016 withdrew Rs 500 and Rs 1,000 notes, about 86% of currency by value. In May 2023 the RBI also withdrew the Rs 2,000 note from circulation, though it remains legal tender.
+
+- Money's functions are exchange, unit of account, store of value and deferred payment.
+- M0 is reserve money; M1 is narrow money; M3 is broad money, the most used measure.
+- The money multiplier explains how banks create money from reserves.
+W: Money supply measures and the multiplier are frequent Prelims questions.
+Q: How does the cash reserve ratio influence the money multiplier and the money supply?
+
+## reserve-bank-of-india | The Reserve Bank of India: roles and independence
+
+The Reserve Bank of India was established on 1 April 1935 under the Reserve Bank of India Act, 1934, following the recommendations of the Hilton Young Commission. It began as a privately owned bank and was nationalised in 1949. Its headquarters moved from Calcutta to Mumbai in 1937. It is governed by a central board of directors headed by the Governor; the present Governor is Sanjay Malhotra, who took office in December 2024.
+
+The RBI has many functions. It is the monetary authority, responsible for keeping prices stable while keeping growth in mind. It is the issuer of currency notes. It is the banker to the government, managing the accounts of the Union and state governments and their borrowing programmes. It is the bankers' bank, holding banks' reserves and acting as lender of last resort. It regulates and supervises banks, non-banking financial companies and payment systems, under laws such as the Banking Regulation Act, 1949 and the Payment and Settlement Systems Act, 2007. It manages foreign exchange reserves and the exchange rate under the Foreign Exchange Management Act, 1999. It also has developmental roles, such as promoting financial inclusion and directing credit to priority sectors.
+
+The RBI's independence has been tested. In 2018, tensions with the government over its surplus reserves, lending restrictions on weak banks and liquidity for non-bank lenders led to reports that the government might use Section 7 of the RBI Act, which allows it to give directions to the Bank, and Governor Urjit Patel resigned. The Bimal Jalan committee (2019) then set a framework for transferring the RBI's surplus to the government. The RBI has since paid large annual dividends to the government, a significant source of non-tax revenue.
+
+Most economists argue that an independent central bank produces lower inflation and greater credibility, while accepting that it must be accountable to elected governments.
+
+- The RBI was set up in 1935 and nationalised in 1949; Sanjay Malhotra has been Governor since December 2024.
+- It is monetary authority, currency issuer, banker to the government and banks, regulator and forex manager.
+- The 2018 dispute and the Jalan committee framework highlighted questions of central bank independence.
+W: The RBI's functions and independence are standard Prelims and Mains topics.
+Q: Why is central bank independence important? How can it be balanced with democratic accountability?
+
+## monetary-policy-tools | The tools of monetary policy
+
+Monetary policy is the use of interest rates and liquidity by the central bank to manage inflation and support growth. The RBI's tools are usually divided into quantitative instruments, which affect overall money and credit, and qualitative instruments, which direct credit to particular uses.
+
+The most important instrument is the policy repo rate, the rate at which the RBI lends money to banks overnight against government securities. Changes in the repo rate are meant to pass through to the interest rates banks charge borrowers and pay depositors. Under the liquidity adjustment facility (LAF), banks can also park surplus funds with the RBI. Since April 2022, the floor of the interest rate corridor has been the Standing Deposit Facility (SDF), which absorbs surplus funds without requiring the RBI to give collateral, replacing the fixed-rate reverse repo in that role. The ceiling is the Marginal Standing Facility (MSF), an emergency window through which banks can borrow overnight at a higher rate, even dipping into their statutory reserves. The bank rate is now aligned with the MSF rate.
+
+Reserve requirements are another tool. The cash reserve ratio (CRR) is the share of deposits banks must keep with the RBI as cash, earning no interest. The statutory liquidity ratio (SLR) is the share of deposits banks must hold in safe liquid assets such as government securities, cash and gold. Raising either reduces the funds banks can lend.
+
+Open market operations (OMOs) are purchases or sales of government securities by the RBI to inject or absorb liquidity. Variable rate repo and reverse repo auctions fine-tune liquidity. Foreign exchange operations also affect domestic liquidity: when the RBI sells dollars to support the rupee, it absorbs rupees from the system.
+
+Qualitative tools include margin requirements on loans against securities, credit ceilings, moral suasion and priority sector lending norms, which require banks to direct 40% of their lending to sectors such as agriculture, small businesses and weaker sections.
+
+- The repo rate is the main policy rate; the SDF is the floor and the MSF the ceiling of the corridor.
+- CRR and SLR are reserve requirements that limit how much banks can lend.
+- OMOs and forex operations adjust liquidity; priority sector lending directs 40% of credit.
+W: Monetary policy instruments are asked almost every year in Prelims.
+Q: Why does transmission of RBI rate changes to bank lending rates often remain incomplete in India?
+
+## inflation-targeting-mpc | Inflation targeting and the Monetary Policy Committee
+
+India formally adopted flexible inflation targeting in 2016. The Urjit Patel committee (2014) had recommended making low and stable inflation the RBI's main objective. In 2015 the government and the RBI signed a monetary policy framework agreement, and in 2016 the RBI Act was amended to give the framework statutory backing.
+
+Under the amended Act, the Union government, in consultation with the RBI, sets an inflation target every five years. The target has been 4% inflation measured by the Consumer Price Index, with a tolerance band of 2% to 6%. In March 2026 the government retained the same target and band for the period from April 2026 to March 2031. If inflation stays above 6% or below 2% for three consecutive quarters, the RBI is deemed to have failed and must explain to the government why, what it will do and how long it will take. This happened for the first time in 2022, when inflation stayed above 6% after the pandemic and the Ukraine war.
+
+Interest rate decisions are taken by a six-member Monetary Policy Committee (MPC). Three members are from the RBI, including the Governor, who chairs it and has a casting vote, and three external members are appointed by the government for four-year terms. The MPC meets at least four times a year, in practice six, and each member's vote and statement are published in the minutes.
+
+The framework is "flexible" because the RBI must keep growth in mind. After a period of easing, with repo rate cuts in 2025, the MPC raised the repo rate by 25 basis points to 5.50% in October 2026 and changed its stance to "calibrated tightening", citing rising inflation, high crude oil prices linked to the West Asia conflict and a weaker rupee. It was the first rate increase since February 2023.
+
+Supporters credit inflation targeting with lowering and anchoring inflation expectations; critics argue that food-driven inflation is beyond monetary policy's reach and that growth sometimes suffers.
+
+- Flexible inflation targeting was given statutory basis in 2016; the target is 4% CPI inflation within 2–6%.
+- In March 2026 the target was retained for April 2026 to March 2031.
+- The six-member MPC raised the repo rate to 5.50% in October 2026, its first hike since February 2023.
+W: The inflation targeting framework and MPC are among the most important GS III economy topics.
+Q: Has flexible inflation targeting served India well? Evaluate with reference to recent experience.
+
+## banking-structure-india | The structure of Indian banking
+
+India's banking system includes several types of institutions. Scheduled commercial banks, listed in the Second Schedule of the RBI Act, include public sector banks, private sector banks, foreign banks, regional rural banks (RRBs), small finance banks and payments banks. Cooperative banks, urban and rural, form a separate tier.
+
+Public sector banks, majority-owned by the government, still hold a large share of deposits and loans, though private banks have grown rapidly. A series of mergers, culminating in 2020, reduced the number of public sector banks to twelve. State Bank of India, which grew out of the Imperial Bank of India and was nationalised in 1955, is the largest. The government has announced plans to privatise some public sector banks and has put its stake in IDBI Bank, held jointly with LIC, up for strategic sale, but such sales have been slow.
+
+Regional rural banks were set up from 1975 to provide credit to small farmers, labourers and artisans. They are jointly owned by the Union government, the sponsor bank and the state government, and have been amalgamated to bring their number down to one per state under the "one state, one RRB" policy.
+
+Differentiated banks were introduced in 2014–15. Small finance banks, many converted from microfinance institutions, focus on small businesses and unserved areas, with at least 75% of lending to priority sectors. Payments banks, such as India Post Payments Bank, can accept deposits up to a limit (now Rs 2 lakh per customer) and provide payments and remittances, but cannot lend.
+
+Cooperative banks long suffered from dual control by the RBI and state registrars of cooperative societies, which contributed to failures such as the Punjab and Maharashtra Cooperative Bank in 2019. A 2020 amendment to the Banking Regulation Act brought them more fully under RBI supervision. Deposit insurance through the DICGC covers each depositor up to Rs 5 lakh per bank, raised from Rs 1 lakh in 2020.
+
+- Scheduled commercial banks include public, private, foreign, regional rural, small finance and payments banks.
+- Mergers reduced public sector banks to twelve by 2020.
+- Payments banks cannot lend; deposit insurance covers up to Rs 5 lakh per depositor per bank.
+W: Bank types, their features and recent reforms are standard Prelims topics.
+Q: Should the government privatise public sector banks? Discuss the arguments for and against.
+
+## npas-and-ibc | Bad loans, the twin balance sheet problem and the IBC
+
+A non-performing asset (NPA) is a loan on which interest or principal has remained overdue for more than 90 days. Banks must set aside provisions against such loans, which reduces their profits and capital.
+
+In the 2000s boom, banks, especially public sector banks, lent heavily to infrastructure, power, steel and telecom companies. Many projects ran into delays, cost overruns, falling prices and policy problems. Banks often "evergreened" bad loans by restructuring them rather than recognising losses. In 2015, the RBI's Asset Quality Review forced banks to recognise stressed loans. The gross NPA ratio of scheduled commercial banks rose to a peak of over 11% in March 2018. The Economic Survey 2016-17 called this the twin balance sheet problem: over-indebted companies could not invest, and weakened banks could not lend, holding back growth.
+
+The response had several parts, often summarised as the "4Rs": recognition, resolution, recapitalisation and reform. The Insolvency and Bankruptcy Code (IBC), 2016 created a time-bound process in which creditors take control of a defaulting company through a committee of creditors and either approve a resolution plan or send it to liquidation, through the National Company Law Tribunal. It shifted power from debtors to creditors, summed up in the phrase "creditor in control". The government injected large amounts of capital into public sector banks, merged weaker banks, and set up the National Asset Reconstruction Company Limited (NARCL), a "bad bank", in 2021 to take over large stressed loans.
+
+The results have been significant. According to the RBI's Financial Stability Report of June 2026, the gross NPA ratio of scheduled commercial banks had fallen to around 2%, a multi-decade low. The IBC has recovered substantial sums, though recovery rates for creditors in many cases are low and delays in tribunals often exceed the legal timelines.
+
+- An NPA is a loan overdue by more than 90 days; gross NPAs peaked above 11% in March 2018.
+- The IBC (2016) created a creditor-led, time-bound insolvency process through the NCLT.
+- Recognition, recapitalisation and resolution brought the gross NPA ratio down to around 2% by 2026.
+W: NPAs, the twin balance sheet problem and the IBC are core GS III banking topics.
+Q: Has the Insolvency and Bankruptcy Code achieved its objectives? Discuss its achievements and shortcomings.
+
+## financial-inclusion | Financial inclusion in India
+
+Financial inclusion means ensuring that individuals and businesses, especially the poor, have access to affordable financial services such as bank accounts, credit, insurance, pensions and payments. Without them, people rely on cash and informal moneylenders charging high interest, and cannot save safely or cope with shocks.
+
+India's efforts go back decades: bank nationalisation in 1969, priority sector lending, regional rural banks, the self-help group-bank linkage programme from 1992, and "no-frills" accounts from 2005. The Pradhan Mantri Jan Dhan Yojana (PMJDY), launched in August 2014, aimed to give every household a bank account with zero balance requirements, a RuPay debit card, accident insurance and an overdraft facility. By August 2026, twelve years after its launch, more than 59 crore accounts had been opened, over half of them held by women and most in rural and semi-urban areas. However, a significant share of accounts are inoperative or have zero balance.
+
+Jan Dhan accounts became the backbone of Direct Benefit Transfer and were linked with social security schemes launched in 2015: the Pradhan Mantri Jeevan Jyoti Bima Yojana (life insurance), the Pradhan Mantri Suraksha Bima Yojana (accident insurance) and the Atal Pension Yojana. The MUDRA scheme, launched in 2015, provides collateral-free loans to micro and small enterprises in categories called Shishu, Kishor and Tarun. Business correspondents, India Post Payments Bank and digital payments through UPI have extended access to remote areas.
+
+The RBI publishes a Financial Inclusion Index that combines access, usage and quality. Remaining gaps include low use of accounts, limited access to formal credit for small farmers and informal workers, low insurance coverage, low financial literacy and digital fraud targeting new users.
+
+- PMJDY (2014) has opened over 59 crore accounts, more than half held by women.
+- Jan Dhan accounts support DBT and linked insurance and pension schemes.
+- Usage, credit access, insurance and financial literacy remain the main gaps.
+W: Financial inclusion schemes and their outcomes are frequent Prelims and Mains questions.
+Q: India has achieved near-universal bank account ownership. What must be done to achieve meaningful financial inclusion?
+
+## capital-markets-sebi | Capital markets and SEBI
+
+Capital markets are where long-term funds are raised and traded. The primary market is where companies issue new shares or bonds to raise money, for example through an initial public offering (IPO). The secondary market is where existing securities are traded among investors, on stock exchanges such as the Bombay Stock Exchange (BSE, founded in 1875, Asia's oldest) and the National Stock Exchange (NSE, set up in 1992). The money market, by contrast, deals in short-term instruments such as treasury bills, commercial paper and certificates of deposit.
+
+The Securities and Exchange Board of India (SEBI) regulates the securities market. It was set up in 1988 and given statutory powers by the SEBI Act, 1992, after a major securities scam. Its mandate is to protect investors, develop the market and regulate intermediaries such as brokers, mutual funds and portfolio managers. It can investigate and penalise insider trading, market manipulation and fraud.
+
+India's markets have deepened considerably. Electronic trading and dematerialised shares replaced paper certificates in the 1990s. India moved to T+1 settlement, in which trades are settled one trading day after they take place, completing the transition in January 2023, one of the fastest cycles among major markets. Mutual fund investment, especially through systematic investment plans (SIPs), has grown rapidly, and the number of retail investors has multiplied. Foreign portfolio investors (FPIs) invest large sums, and their movements can cause volatility and affect the rupee.
+
+Bond markets are less developed: the corporate bond market is shallow, and government securities dominate. Concerns include speculative trading in equity derivatives by retail investors, most of whom lose money according to SEBI's own studies, which led SEBI to tighten rules on futures and options from late 2024. Other concerns include governance in listed companies, the role of credit rating agencies, and protecting small investors.
+
+- The primary market raises new capital; the secondary market trades existing securities.
+- SEBI (1988, statutory in 1992) regulates securities markets to protect investors.
+- India moved to T+1 settlement in 2023; SEBI tightened derivatives rules after finding most retail traders lose money.
+W: Capital market concepts and SEBI's role are regular Prelims and Mains topics.
+Q: Why is a deep corporate bond market important for India's infrastructure financing?
+
+## insurance-and-pensions | Insurance and pensions
+
+Insurance spreads risk: many people pay premiums so that those who suffer losses can be compensated. Life insurance pays on death or maturity; general insurance covers health, property, vehicles, crops and other risks. Insurance penetration, premiums as a share of GDP, remains low in India compared with developed economies, and protection gaps are large, especially for health.
+
+The life insurance industry was nationalised in 1956, creating the Life Insurance Corporation (LIC), and general insurance in 1972. Following the Malhotra Committee's recommendations (1994), the sector was opened to private and foreign companies in 2000, and the Insurance Regulatory and Development Authority (IRDA, now IRDAI) was set up under a 1999 law. The foreign direct investment limit was raised from 26% to 49% in 2015 and to 74% in 2021. In December 2025 Parliament passed the Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Act, allowing 100% foreign direct investment in insurance companies. LIC was listed on the stock exchanges in 2022. IRDAI's goal is "Insurance for All by 2047".
+
+Pensions matter because India's population is ageing and most workers are informal. Government employees who joined before 2004 receive a defined benefit pension under the Old Pension Scheme, paid from current revenues. From 2004, new central government employees (except the armed forces) joined the National Pension System (NPS), a defined contribution scheme regulated by the Pension Fund Regulatory and Development Authority (PFRDA). The NPS was opened to all citizens in 2009. Several states have tried to return to the Old Pension Scheme, which economists warn would burden future budgets. The Union government introduced the Unified Pension Scheme (UPS) from April 2025 as an option within NPS, guaranteeing 50% of average basic pay in the last year for employees with 25 years of service.
+
+For informal workers, the Atal Pension Yojana (2015) and PM Shram Yogi Maan-dhan offer small guaranteed pensions.
+
+- India's insurance penetration is low; 100% FDI in insurance was allowed by a law passed in December 2025.
+- IRDAI regulates insurance; PFRDA regulates the NPS.
+- The Unified Pension Scheme (from April 2025) guarantees 50% of pay for central employees with 25 years of service.
+W: Insurance and pension reforms are regularly tested in GS III and connect to ageing and fiscal sustainability.
+Q: Is a return to the Old Pension Scheme fiscally sustainable for states? Discuss.
+
+## digital-payments-cbdc | Digital payments, UPI and the digital rupee
+
+India has become one of the world's leaders in digital payments. The key institution is the National Payments Corporation of India (NPCI), a not-for-profit company set up in 2008 by banks under the guidance of the RBI. It runs RuPay (a domestic card network launched in 2012), the Immediate Payment Service (IMPS), the Aadhaar Enabled Payment System, FASTag toll payments through the National Electronic Toll Collection system, and the Bharat Bill Payment System.
+
+The Unified Payments Interface (UPI), launched in 2016, allows instant transfers between bank accounts using a mobile phone and a virtual address, without sharing account details. It is interoperable, so any UPI app can pay any bank account, and free for most person-to-person and merchant payments. UPI now processes well over ten billion transactions a month and accounts for the large majority of digital payment transactions in India. It has been linked with payment systems in countries such as Singapore, the UAE, France and Nepal, and is accepted in several others. UPI Lite allows small payments offline, and UPI 123PAY works on basic phones. Concerns include concentration, with two private apps handling most transactions, and digital fraud.
+
+The RBI regulates payment systems under the Payment and Settlement Systems Act, 2007. RTGS (real-time gross settlement) handles large-value payments and NEFT handles retail transfers; both have been available round the clock since 2019–20.
+
+A central bank digital currency (CBDC) is a digital form of a country's currency issued by its central bank. The RBI launched pilots of the digital rupee (e-rupee) in December 2022, for both wholesale use between banks and retail use by individuals and merchants. Unlike UPI, which moves money between bank accounts, the e-rupee is itself a liability of the RBI, like cash. Its uptake has been modest so far. The RBI has repeatedly warned against private cryptocurrencies, which are taxed in India but not recognised as legal tender.
+
+- NPCI (2008) runs UPI, RuPay, IMPS and FASTag systems.
+- UPI (2016) processes well over ten billion transactions a month and is being linked abroad.
+- The RBI's digital rupee pilots began in December 2022; private cryptocurrencies are not legal tender.
+W: Digital payments, UPI and the e-rupee are high-frequency current topics in Prelims and Mains.
+Q: What risks accompany India's rapid shift to digital payments? How should they be managed?

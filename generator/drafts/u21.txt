@@ -1,0 +1,160 @@
+# THEME 21
+## industrial-policy-make-in-india | Industrial policy: from licence raj to Make in India
+
+India's industrial policy has passed through three broad phases. The Industrial Policy Resolutions of 1948 and 1956 gave the state the leading role. The 1956 resolution reserved 17 industries, including iron and steel, heavy machinery, mining and railways, for the public sector, and private firms needed licences to set up or expand capacity. Over time this became the "licence-permit raj", which protected incumbents, discouraged competition and slowed growth, even as it built a broad industrial base.
+
+The New Industrial Policy of 24 July 1991 dismantled most of this system. Industrial licensing was abolished for all but a handful of industries, the list reserved for the public sector was cut sharply (today only atomic energy and railway operations remain fully reserved), and foreign investment was welcomed. Manufacturing grew, but its share of GDP stayed stuck at around 15–17%, while services drove the economy.
+
+Make in India, launched in September 2014, aimed to raise manufacturing's share and create jobs by easing business rules, improving infrastructure and opening sectors to foreign direct investment. India rose sharply in the World Bank's Ease of Doing Business rankings before the report was discontinued in 2021. The Production Linked Incentive (PLI) schemes, launched from 2020 with an outlay of about Rs 1.97 lakh crore across 14 sectors, pay companies a share of their additional sales for a fixed period. Mobile phones are the best-known success: India moved from importing most of its phones to becoming one of the largest exporters of smartphones.
+
+Critics argue that PLI favours large firms and assembly rather than deep manufacturing, and that tariff increases since 2018 risk a return to protectionism. The debate now is how to build supply chains as companies diversify away from China.
+
+- The 1956 resolution gave the public sector the commanding heights; the 1991 policy ended most licensing.
+- Make in India (2014) and PLI schemes (from 2020, about Rs 1.97 lakh crore across 14 sectors) aim to raise manufacturing.
+- Electronics, especially mobile phones, is the clearest PLI success; manufacturing's GDP share has barely moved.
+W: Industrial policy is a core GS III topic, often asked through PLI, Make in India or the China-plus-one opportunity.
+Q: Why has manufacturing's share of India's GDP remained stagnant despite repeated policy pushes?
+
+## msmes-backbone | MSMEs: the backbone of Indian industry
+
+Micro, small and medium enterprises (MSMEs) are central to India's economy. They contribute roughly 30% of GDP, around 45% of exports and employ more than 20 crore people, making them the largest source of jobs after agriculture. Most are tiny, informal and family-run.
+
+The Micro, Small and Medium Enterprises Development Act, 2006 defines them. In 2020 the definition was changed to use both investment in plant and machinery and annual turnover, removing the old distinction between manufacturing and services. The Union Budget 2025-26 raised the limits from April 2025: micro enterprises now have investment up to Rs 2.5 crore and turnover up to Rs 10 crore; small enterprises up to Rs 25 crore and Rs 100 crore; and medium enterprises up to Rs 125 crore and Rs 500 crore. Firms register online on the Udyam portal, and informal micro units can register through the Udyam Assist platform.
+
+MSMEs face well-known problems: lack of affordable credit and dependence on informal lenders, delayed payments from large buyers and governments, outdated technology, poor access to markets, and the burden of compliance. Many prefer to stay small to avoid labour and tax rules, a problem economists call "dwarfism" or the "missing middle".
+
+Government support includes the Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE), which guarantees collateral-free loans; the Emergency Credit Line Guarantee Scheme during the pandemic; the MUDRA loans under the Pradhan Mantri Mudra Yojana; the Trade Receivables Discounting System (TReDS) to get faster payment on invoices; a rule under the Income Tax Act, from 2024, that payments to micro and small suppliers must be made within 45 days to be deductible; and public procurement rules requiring government buyers to source 25% of purchases from MSEs.
+
+- MSMEs contribute about 30% of GDP and 45% of exports and are the second-largest employer.
+- The 2025 definitions raised investment and turnover limits (micro: Rs 2.5 crore and Rs 10 crore).
+- Credit, delayed payments and the "missing middle" are key problems; CGTMSE, MUDRA and TReDS help.
+W: MSMEs are a perennial GS III topic, linked to employment, credit and exports.
+Q: Why do so many Indian firms remain small? Suggest policy measures to help MSMEs grow.
+
+## infrastructure-financing-ppp | Financing infrastructure: PPPs, NIP and asset monetisation
+
+India needs enormous investment in roads, railways, power, ports, water and cities. The National Infrastructure Pipeline (NIP), released in 2019–20, identified projects worth about Rs 111 lakh crore for 2020–25. Since the pandemic, public capital expenditure has carried most of the load: the Union government's capex budget rose steeply, to over Rs 11 lakh crore by 2025-26.
+
+Public-private partnerships (PPPs) were meant to bring private capital and efficiency. Common models include build-operate-transfer (BOT), where a private firm builds a project, collects tolls or fees for a fixed period and then hands it back; BOT-annuity, where the government pays the firm fixed annual sums; and the hybrid annuity model (HAM), introduced for highways in 2016, in which the government pays 40% of the cost during construction and the rest as annuities, while the private partner bears less traffic risk. The PPP boom of the 2000s ended badly, with stalled projects, aggressive bidding, disputes and bad loans in banks. The Vijay Kelkar Committee (2015) recommended better risk sharing and dispute resolution.
+
+The National Monetisation Pipeline (NMP), announced in August 2021, aims to raise about Rs 6 lakh crore over four years by leasing existing public assets, such as highways, railway stations, pipelines and transmission lines, to private operators while the government keeps ownership. Infrastructure Investment Trusts (InvITs) and Real Estate Investment Trusts (REITs) allow investors to buy units in income-earning assets. The National Bank for Financing Infrastructure and Development (NaBFID), set up by a 2021 law, provides long-term finance, filling a gap left after development finance institutions such as ICICI and IDBI became commercial banks.
+
+The challenge is to attract patient private and foreign capital without repeating the mistakes of earlier PPPs.
+
+- The NIP identified about Rs 111 lakh crore of projects; public capex has led recent investment.
+- BOT, annuity and the hybrid annuity model are the main PPP forms.
+- Asset monetisation (NMP, about Rs 6 lakh crore), InvITs and NaBFID are newer financing tools.
+W: Infrastructure financing and PPP models are frequent GS III questions.
+Q: What lessons should India learn from the failures of PPP projects in the 2000s?
+
+## roads-gati-shakti | Roads, highways and PM Gati Shakti
+
+India has one of the world's largest road networks, over 63 lakh km. National highways, built and maintained by the Union through the National Highways Authority of India (NHAI) and the Ministry of Road Transport and Highways, make up only about 2% of the length, roughly 1.46 lakh km, but carry around 40% of road traffic. State highways and rural roads make up the rest. Roads carry the majority of India's freight and passengers.
+
+Highway building has accelerated since the early 2000s. The Golden Quadrilateral, linking Delhi, Mumbai, Chennai and Kolkata, was a flagship of the National Highways Development Project begun in 1998. The Bharatmala Pariyojana, approved in 2017, focuses on economic corridors, border and coastal roads, and expressways such as the Delhi-Mumbai Expressway. The Pradhan Mantri Gram Sadak Yojana, launched in 2000, connected most eligible rural habitations with all-weather roads, which studies link to better access to markets, schools and jobs. FASTag electronic toll collection became mandatory in 2021.
+
+PM Gati Shakti, the National Master Plan for multimodal connectivity launched in October 2021, is a digital platform that brings together over a dozen ministries, including railways, roads, ports, telecom and power, and state governments, on a common GIS map. The idea is to plan infrastructure together, so that a new highway is not dug up later for a pipeline, and to cut delays in land acquisition and clearances.
+
+Concerns include road safety (India records around 1.7 lakh road deaths a year, among the highest in the world), the quality of construction, rising toll costs, land acquisition disputes and environmental damage, especially in fragile hill areas.
+
+- National highways are about 2% of road length but carry around 40% of traffic.
+- Bharatmala (2017) and PMGSY (2000) drove highway and rural road building.
+- PM Gati Shakti (2021) is a GIS-based master plan for coordinated infrastructure planning.
+W: Road infrastructure, Gati Shakti and road safety are regular GS III topics.
+Q: How can PM Gati Shakti reduce cost and time overruns in Indian infrastructure projects?
+
+## railways-modernisation | Indian Railways: freight corridors, Vande Bharat and high-speed rail
+
+Indian Railways is one of the world's largest rail networks, with about 68,000 km of route and over 20 million passengers a day. It is run as a departmental undertaking of the Ministry of Railways. Since 2017, the railway budget has been merged with the Union Budget, ending a practice that began in 1924.
+
+The railways face a structural problem. Passenger fares are kept low for political reasons and cross-subsidised by high freight rates, which pushed freight towards roads. Rail's share of freight traffic fell from over 80% at independence to around a quarter. The operating ratio, the share of revenue spent on running costs, has stayed close to 100%, leaving little for investment.
+
+Dedicated Freight Corridors (DFCs) aim to win back freight. The Eastern DFC runs from Ludhiana in Punjab to Sonnagar in Bihar, and the Western DFC from Dadri near Delhi to the Jawaharlal Nehru Port near Mumbai. Freight-only tracks allow faster, heavier trains and free up the main lines for passenger services. Electrification of the broad-gauge network is nearly complete.
+
+On the passenger side, Vande Bharat trains, semi-high-speed trains with distributed traction designed by the Integral Coach Factory in Chennai, were introduced in 2019 and now run on many routes; sleeper versions are being introduced. Kavach, an indigenous automatic train protection system meant to prevent collisions, is being installed on major routes, a priority after the Balasore accident of June 2023 in which about 290 people died. The Mumbai-Ahmedabad high-speed rail project, about 508 km long and built with Japanese Shinkansen technology and a soft loan from Japan, has faced land acquisition delays. Stations are being redeveloped under the Amrit Bharat Station Scheme.
+
+- Indian Railways carries over 20 million passengers a day, but its freight share has fallen to around a quarter.
+- Dedicated Freight Corridors aim to shift freight back to rail.
+- Vande Bharat, Kavach and the Mumbai-Ahmedabad bullet train are key modernisation projects.
+W: Railway reform, freight corridors and safety are frequent GS III infrastructure questions.
+Q: Why has the railways' share of freight declined, and how can it be reversed?
+
+## power-sector-discoms | The power sector and the discom problem
+
+India's electricity system has three parts: generation, transmission and distribution. Generation has expanded enormously; India is the world's third-largest producer of electricity, and installed capacity crossed 550 GW in 2026. The national grid became a single synchronous grid in 2013 under the "One Nation, One Grid, One Frequency" idea, allowing power to flow across regions. Electricity is a concurrent subject. The Electricity Act, 2003 separated regulation from government through independent central and state electricity regulatory commissions and opened generation to private players.
+
+The weak link is distribution. Most electricity distribution companies (discoms) are owned by state governments. They lose money because tariffs for farmers and households are kept below cost for political reasons, state governments pay subsidies late, bills go uncollected, and a large share of power is lost to technical losses and theft. These are measured as aggregate technical and commercial (AT&C) losses. Discoms' accumulated losses run into several lakh crore rupees, and they delay payments to generators, which harms the whole sector.
+
+Several rescue packages have been tried. The Ujwal DISCOM Assurance Yojana (UDAY) of 2015 had states take over most discom debt in return for reform targets, but losses rose again. The Revamped Distribution Sector Scheme (RDSS), launched in 2021 with an outlay of about Rs 3 lakh crore, funds smart prepaid meters and network upgrades, linked to reductions in losses. AT&C losses have fallen to around 16% in recent years, according to the Power Ministry. Late payment surcharge rules from 2022 have cut overdue payments to generators.
+
+Long-term solutions discussed include cost-reflective tariffs, direct benefit transfer of power subsidies to farmers instead of free power, competition in distribution, and solar pumps for agriculture under the PM-KUSUM scheme.
+
+- India's capacity crossed 550 GW in 2026; the grid has been one synchronous system since 2013.
+- State discoms lose money through below-cost tariffs, unpaid subsidies and AT&C losses.
+- UDAY (2015) and RDSS (2021) are the main reform schemes; losses have fallen to around 16%.
+W: Power sector reform and discom finances are a recurring GS III topic, linked to energy transition and agriculture.
+Q: Why do power distribution companies in India keep running into losses? Suggest lasting solutions.
+
+## renewable-energy-transition | Renewable energy and India's energy transition
+
+India has made renewable energy central to its development and climate strategy. At COP26 in Glasgow in 2021, it announced the target of 500 GW of non-fossil electricity capacity by 2030 and net-zero emissions by 2070. Its updated Nationally Determined Contribution (2022) committed to 50% of installed power capacity from non-fossil sources by 2030, a target it reached in mid-2025, five years early.
+
+Growth has been rapid. According to the Ministry of New and Renewable Energy, installed renewable capacity, including large hydro, reached about 288 GW by June 2026, with solar alone over 160 GW, making India the world's third-largest renewable energy market. Total non-fossil capacity, including nuclear, crossed 300 GW in August 2026, about 54% of India's installed capacity of around 552 GW. Rajasthan, Gujarat, Karnataka and Tamil Nadu lead in solar and wind.
+
+Key policies include solar parks; the PM-KUSUM scheme for solar pumps and farm-based solar plants; the PM Surya Ghar Muft Bijli Yojana, launched in 2024, which subsidises rooftop solar for one crore households; PLI schemes for solar modules to reduce dependence on Chinese imports; the International Solar Alliance, launched by India and France in 2015 and headquartered in Gurugram; and green energy corridors for transmission.
+
+Capacity is not the same as generation. Coal still produces the large majority of India's electricity because solar and wind are intermittent: they produce power only when the sun shines or the wind blows. The next challenges are energy storage (battery storage and pumped hydro), grid flexibility, transmission to move power from sunny western states to demand centres, land acquisition, and protecting habitats such as that of the Great Indian Bustard in Rajasthan.
+
+- India targets 500 GW of non-fossil capacity by 2030 and net zero by 2070.
+- It reached 50% non-fossil capacity in 2025; non-fossil capacity crossed 300 GW in August 2026.
+- Storage, transmission and grid flexibility are the next bottlenecks, since coal still dominates generation.
+W: Renewable energy targets and challenges are among the most important GS III topics, linking energy, environment and economy.
+Q: India has added renewable capacity quickly, but coal still dominates generation. Explain why, and suggest solutions.
+
+## nuclear-power-shanti-act | Nuclear power and the SHANTI Act
+
+India's civil nuclear programme was shaped by Homi Bhabha's three-stage plan, designed around India's small uranium reserves and large thorium reserves. Stage one uses pressurised heavy water reactors (PHWRs) fuelled by natural uranium. Stage two uses fast breeder reactors fuelled by plutonium from stage one; the 500 MW Prototype Fast Breeder Reactor at Kalpakkam began core loading in 2024. Stage three would use thorium-based reactors. India also operates foreign-designed reactors, such as Russia's VVERs at Kudankulam in Tamil Nadu.
+
+Nuclear power remains small. India has 24 operable reactors with a capacity of about 8 GW, around 3% of electricity generation. Growth was slowed by limited uranium supply until the 2008 NSG waiver, high costs, long construction times, local opposition (as at Kudankulam and Jaitapur) and the Civil Liability for Nuclear Damage Act, 2010, whose provisions on supplier liability discouraged foreign vendors.
+
+The government has set a target of 100 GW of nuclear capacity by 2047. The Union Budget 2025-26 launched a Nuclear Energy Mission with Rs 20,000 crore for small modular reactors (SMRs), with the aim of having at least five indigenously designed SMRs operational by 2033. SMRs are smaller, factory-built reactors that can be installed faster and placed at sites such as retiring coal plants.
+
+In December 2025 Parliament passed the Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Act. It repeals the Atomic Energy Act, 1962 and the Civil Liability for Nuclear Damage Act, 2010, allows private companies to build and operate nuclear plants and take part in parts of the fuel cycle, keeps sensitive activities under government control, replaces the earlier liability framework with a graded system, and gives the Atomic Energy Regulatory Board statutory status. Supporters say it will attract investment; critics worry about safety and how accident liability will be shared.
+
+- Bhabha's three-stage programme aims to use India's large thorium reserves.
+- India has 24 reactors (about 8 GW); the target is 100 GW by 2047, with SMRs a priority.
+- The SHANTI Act (December 2025) opened nuclear power to private firms and replaced the 2010 liability law.
+W: The SHANTI Act and nuclear energy goals are a major recent GS III topic.
+Q: Can private participation help India meet its nuclear energy target? Discuss the safety and liability concerns.
+
+## green-hydrogen-storage | Green hydrogen and energy storage
+
+Hydrogen can be used as a fuel and as an industrial feedstock without emitting carbon dioxide at the point of use. Most hydrogen today is "grey", made from natural gas or coal with large emissions. "Blue" hydrogen captures those emissions. "Green" hydrogen is made by splitting water through electrolysis using renewable electricity, producing almost no emissions.
+
+India launched the National Green Hydrogen Mission in January 2023 with an initial outlay of about Rs 19,744 crore. It targets production capacity of at least 5 million tonnes of green hydrogen a year by 2030, supported by about 125 GW of additional renewable capacity. The SIGHT programme (Strategic Interventions for Green Hydrogen Transition) gives incentives for manufacturing electrolysers and producing green hydrogen. The main early uses are in sectors that are hard to electrify: fertilisers (ammonia), oil refining, steel, shipping fuels and long-haul transport. India also hopes to export green hydrogen and ammonia, and several green hydrogen hubs are planned near ports.
+
+The main obstacle is cost: green hydrogen is still more expensive than grey hydrogen, because electrolysers and renewable electricity are costly and the process needs water. Storage and transport are difficult because hydrogen is light and leaks easily.
+
+Energy storage more broadly is crucial for renewable energy. Battery energy storage systems (BESS) store solar power for evening use; the government has offered viability gap funding for battery storage projects and a PLI scheme for advanced chemistry cell batteries. Pumped storage hydropower, which pumps water uphill when power is cheap and releases it through turbines when needed, is another option, and several projects are under way. Storage costs have fallen sharply, and tenders for solar-plus-storage have become common.
+
+- Green hydrogen is made by electrolysis using renewable power; most hydrogen today is grey.
+- The National Green Hydrogen Mission (2023, about Rs 19,744 crore) targets 5 million tonnes a year by 2030.
+- Cost is the main barrier; batteries and pumped storage are key to balancing renewable power.
+W: Green hydrogen and storage are frequent recent GS III questions on energy transition.
+Q: What role can green hydrogen play in decarbonising Indian industry? What are the barriers?
+
+## logistics-national-policy | Logistics and the National Logistics Policy
+
+Logistics, the movement and storage of goods, determines how competitive a country's industry and agriculture are. High logistics costs make Indian exports more expensive and add to prices at home. For years, India's logistics costs were commonly cited at 13–14% of GDP, though that figure had no firm basis. A study by NCAER for the commerce ministry's Department for Promotion of Industry and Internal Trade, released in September 2025, estimated India's logistics costs at about 7.97% of GDP in 2023-24, much lower than the old estimates but still with room for improvement.
+
+India's freight is heavily skewed towards roads, which are more expensive per tonne-kilometre than rail or water for bulk goods over long distances. Problems include fragmented warehousing, poor last-mile connectivity, delays at ports and borders, multiple documents and checks, and a large unorganised trucking sector.
+
+The National Logistics Policy, launched on 17 September 2022, aims to reduce costs, improve India's ranking in the World Bank's Logistics Performance Index (India ranked 38th in 2023) and create a seamless system. It works alongside PM Gati Shakti. Its tools include the Unified Logistics Interface Platform (ULIP), which integrates data from different ministries so companies can track cargo; the Logistics Ease Across Different States (LEADS) index, which ranks states; standards for warehousing; and the e-logs dashboard for industry to raise problems.
+
+Other reforms have helped. GST removed most state border checkposts from 2017, cutting truck waiting times. E-way bills track goods movement electronically. Dedicated Freight Corridors, multimodal logistics parks, inland waterways under the National Waterways Act, 2016 and the Sagarmala port programme aim to shift cargo to cheaper modes.
+
+- An NCAER-DPIIT study put India's logistics costs at about 7.97% of GDP in 2023-24.
+- Freight is skewed towards costlier road transport.
+- The National Logistics Policy (2022), ULIP and LEADS work with Gati Shakti to cut costs.
+W: Logistics efficiency links infrastructure, trade and manufacturing, and is a frequent GS III topic.
+Q: How can India shift more freight from road to rail and waterways? What would be the benefits?

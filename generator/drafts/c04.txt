@@ -1,0 +1,174 @@
+# THEME 4
+## india-eu-fta-concluded | The India–EU free trade agreement: the "mother of all deals"
+
+On 27 January 2026, at the 16th India–EU Summit in New Delhi, Prime Minister Narendra Modi, European Council President António Costa and European Commission President Ursula von der Leyen announced the conclusion of negotiations on an India–European Union free trade agreement. Talks had first begun in 2007, stalled in 2013 and restarted in 2022, so the deal ended almost two decades of on-and-off negotiation.
+
+The scale is large. Bilateral trade is about €190 billion a year, roughly €120 billion in goods and over €80 billion in services, according to figures reported by Down To Earth. Reported terms say the EU will remove duties on about 90% of Indian goods on the first day, with Indian goods getting zero-duty access on over 93% of trade once phase-outs are complete. India will remove duties on about 30% of European goods immediately and on 93% over ten years. Labour-intensive Indian exports such as textiles, apparel, leather, footwear, marine products, gems and jewellery, and toys stand to gain most; the government estimates about 33 billion US dollars of such exports benefit. India cuts duties on European cars, from as high as 110% to as low as 10% within quotas, and on wine and olive oil. Dairy, rice, sugar, beef and poultry are excluded. In services, the EU opens 144 sub-sectors to India.
+
+A major unresolved concern is the EU's Carbon Border Adjustment Mechanism (CBAM), a charge on the carbon content of imports such as steel, aluminium and cement. The deal reportedly includes only a most-favoured-nation assurance on CBAM flexibilities, and analysts estimate compliance costs for Indian exporters of 2 to 4 billion dollars a year.
+
+The agreement still needs legal review, translation, approval by the European Council and consent of the European Parliament, and Indian ratification before it can come into force, which is expected in 2027.
+
+- Negotiations concluded on 27 January 2026 after talks first began in 2007.
+- Most Indian goods get duty-free access; India opens gradually, excluding dairy, rice and sugar.
+- The EU's carbon border tax (CBAM) remains a cost for Indian steel and aluminium exporters.
+W: The India–EU FTA is India's biggest trade deal and links GS II (international relations) with GS III (trade and climate policy).
+Q: Does the India–EU FTA adequately protect Indian exporters from the EU's Carbon Border Adjustment Mechanism? Discuss.
+S: ETV Bharat, key highlights of the India–EU FTA (27 January 2026) | https://www.etvbharat.com/en/bharat/key-highlights-of-the-india-european-union-free-trade-agreement-india-eu-trade-deal-details-enn26012703056
+S: Down To Earth, India–EU FTA and climate compliance | https://www.downtoearth.org.in/economy/mother-of-all-deals-india-eu-free-trade-agreement-locks-in-market-access-but-climate-compliance-looms-large
+
+## us-tariff-deal-february-2026 | From 50% to 18%: the India–US tariff deal of February 2026
+
+In August 2025 the United States raised tariffs on most Indian goods to 50%. This combined a 25% "reciprocal" tariff with an additional 25% penalty that President Donald Trump linked to India's purchases of Russian oil. It was one of the highest US tariff rates on any major trading partner and hit labour-intensive Indian exports such as textiles, gems and jewellery, and shrimp.
+
+On 2 February 2026, President Trump announced a trade deal with India. According to Al Jazeera and Reuters reporting, the reciprocal tariff would fall from 25% to 18%, and the White House said the 25% Russian-oil penalty would be withdrawn. Trump said Prime Minister Modi had agreed to stop buying Russian oil, to buy oil from the United States and possibly Venezuela, to lower trade barriers, and to buy more than 500 billion dollars of American energy, technology, farm and other products. Modi welcomed the lower tariff on social media and thanked Trump, but did not repeat the claims about lowering Indian tariffs on US goods. A joint statement on 6 February set out the proposed 18% rate.
+
+Experts questioned whether this was a full trade agreement or only a tariff arrangement, and the details of India's commitments remained unclear. India's imports of Russian crude were already falling, from about 1.2 million barrels a day in January towards a projected 800,000 in March, according to Reuters figures cited by Al Jazeera.
+
+The proposed 18% rate was overtaken within weeks. On 20 February the US Supreme Court struck down the legal basis for the reciprocal tariffs, and the US moved to a temporary 10% global tariff instead (see the next note).
+
+- US tariffs on India peaked at 50% in August 2025, including a 25% Russian-oil penalty.
+- On 2 February 2026, Trump announced a cut to 18% and the withdrawal of the oil penalty.
+- India's commitments, including on Russian oil, were stated by Trump and not fully confirmed by India.
+W: The episode shows how energy choices, sanctions and trade are linked in India–US relations, a frequent GS II theme.
+Q: How should India balance its energy security needs with pressure from trading partners over Russian oil?
+S: Al Jazeera, Trump cuts India tariffs to 18% (2 February 2026) | https://www.aljazeera.com/economy/2026/2/2/trump-to-slash-us-tariffs-on-india-from-50-percent-to-18-percent
+S: Outlook Business, what the new 10% global duty means for India | https://www.outlookbusiness.com/explainers/tariff-reset-what-trumps-new-10-global-duty-means-for-india
+
+## us-supreme-court-tariff-ruling | The US Supreme Court tariff ruling and the 10% global duty
+
+On 20 February 2026, the Supreme Court of the United States ruled 6–3 that President Trump had exceeded his authority by using the International Emergency Economic Powers Act (IEEPA) of 1977 to impose sweeping "reciprocal" tariffs on trading partners. Chief Justice John Roberts wrote the majority opinion. The ruling removed the legal basis for the country-specific tariffs announced since April 2025, including those on India.
+
+The administration responded within hours. It imposed a temporary 10% tariff on imports from almost all countries under Section 122 of the Trade Act of 1974, which allows the President to impose duties of up to 15% for up to 150 days to deal with balance-of-payments problems. The new duty took effect on 24 February 2026. According to Indian officials quoted by ANI and reported by Outlook Business, the 10% rate replaced the proposed 18% rate from the February India–US joint statement rather than being added to it, since the 18% rate had never been implemented.
+
+The ruling mattered for India in three ways. First, it lowered the tariff Indian exporters faced, at least temporarily. Second, it weakened the leverage of the threat of tariffs in bilateral negotiations, prompting Indian commentators to argue that India should reassess the commitments it had offered. Third, it created uncertainty, because Section 122 tariffs could last only 150 days, and the administration signalled it would use other laws, such as Section 301 investigations, to impose longer-lasting duties. That is what happened in July 2026.
+
+The case also illustrated a constitutional principle familiar to Indian students: the power to tax lies with the legislature, and courts can check executive action that goes beyond the authority granted by law.
+
+- On 20 February 2026 the US Supreme Court ruled 6–3 that IEEPA did not authorise the reciprocal tariffs.
+- A temporary 10% global tariff under Section 122 took effect on 24 February, for up to 150 days.
+- For India, the 10% rate replaced the proposed 18% rate.
+W: The ruling connects international trade with separation of powers, useful for GS II comparisons of constitutional systems.
+Q: What does the US Supreme Court's tariff ruling show about the limits of executive power over taxation? Compare with India.
+S: Outlook Business, US Supreme Court struck down reciprocal tariffs | https://www.outlookbusiness.com/explainers/tariff-reset-what-trumps-new-10-global-duty-means-for-india
+S: Cozen O'Connor, Supreme Court rules President lacks IEEPA tariff authority | https://www.cozen.com/news-resources/publications/2026/supreme-court-rules-president-lacks-ieepa-tariff-authority-president-imposes-section-122-tariffs
+
+## us-forced-labour-tariff | The US "forced labour" tariff of July 2026
+
+As the temporary Section 122 tariffs neared their 150-day limit, the US Trade Representative (USTR) concluded an investigation under Section 301 of the Trade Act of 1974 into 60 economies that, in its view, did not adequately ban or enforce restrictions on imports of goods made with forced labour. On 23 July 2026, USTR Jamieson Greer announced the results, and the new duties took effect on 24 July, the day the Section 122 tariffs expired.
+
+India was placed in the lower tier. India, along with Canada, the United Kingdom, Bangladesh, Pakistan and others, 17 economies in all, faces a 10% tariff, down from 12.5% proposed in the USTR's draft. Forty-three other economies, including China, Vietnam, Thailand, the UAE, Brazil and South Africa, face 12.5%. USTR cited India's amendment to its Foreign Trade Policy on 14 June 2026, which banned imports of goods made with forced or compulsory labour, in giving it the lower rate. Goods covered by Section 232 national security tariffs, such as steel, aluminium and copper, continue to face separate rates of 25% or 50%.
+
+According to an analysis reported by Rural Voice, about 70% of Indian exports, including engineering goods, textiles, chemicals, gems and jewellery and leather, face the 10% duty on top of normal tariffs, while about 8% fall under Section 232. Reactions in India differed. The Global Trade Research Initiative (GTRI) argued the tariff "lacks a credible factual basis" because the US had not shown that India exports forced-labour goods, and said its real purpose was to preserve US tariff levels. The Federation of Indian Export Organisations said the lower rate gave Indian exporters an edge over many competitors.
+
+The episode shows how trade measures are increasingly justified on grounds such as labour standards, national security and the environment.
+
+- Section 301 forced-labour tariffs took effect on 24 July 2026, replacing the temporary 10% global duty.
+- India got the lower 10% rate after banning forced-labour imports in June 2026; 43 economies face 12.5%.
+- Indian experts disagree on whether the tariff is justified or a way to keep US tariffs in place.
+W: Linking trade to labour standards is a recurring theme in WTO and trade questions in GS II and GS III.
+Q: Are labour and environmental standards legitimate grounds for trade restrictions, or disguised protectionism? Discuss with reference to India.
+S: Rural Voice, US replaces Section 122 tariffs with 10% forced-labour duties on India | https://eng.ruralvoice.in/us-section-301-tariffs-india-10-percent-forced-labour-duty
+S: ThePrint, US slaps 10% tariffs on goods imported from India | https://theprint.in/world/us-slaps-10-per-cent-tariffs-on-goods-imported-from-india-on-issue-forced-labour/2995130/
+
+## india-uk-ceta-in-force | The India–UK trade agreement comes into force
+
+The India–United Kingdom Comprehensive Economic and Trade Agreement (CETA) came into force on 15 July 2026. It had been signed in London on 25 July 2025 in the presence of Prime Ministers Narendra Modi and Keir Starmer, and both countries completed ratification in 2026. The two leaders announced the start date at the G7 summit in June. It is India's first bilateral free trade agreement with a major Western economy.
+
+Under the agreement, Indian exporters get immediate duty-free access on 99% of tariff lines, according to Commerce Minister Piyush Goyal. UK tariffs on Indian processed food, marine products, engineering goods, leather, footwear, textiles and clothing fall to zero. India, in turn, will cut tariffs on about 90% of its tariff lines in stages, with 85% eliminated within a decade. Duties on British whisky fall from about 150% to 40% over time, and a quota of British cars can enter at 10% instead of up to 100%. Sensitive agricultural sectors such as dairy, cereals and oilseeds are protected by exclusion lists. The agreement has 30 chapters and includes, for the first time in an Indian bilateral deal, a chapter on government procurement.
+
+A separate Double Contribution Convention, which came into force on the same date, exempts Indian workers temporarily posted in the UK, and their employers, from paying UK social security contributions for up to three years, saving Indian firms an estimated Rs 4,000 crore. The agreement also eases temporary movement for business visitors and professionals.
+
+UK government estimates suggest annual GDP gains of about £5.1 billion for India and £4.8 billion for the UK, and a long-run increase in bilateral trade of about £25.5 billion a year.
+
+- The India–UK CETA, signed on 25 July 2025, came into force on 15 July 2026.
+- Indian exports get duty-free access on 99% of tariff lines; India cuts whisky and car duties within limits.
+- A Double Contribution Convention spares Indian workers in the UK from paying social security twice.
+W: The CETA is a model for India's new generation of trade deals and is likely to feature in GS II and GS III questions.
+Q: What are the benefits and risks for Indian industry and agriculture from the India–UK trade agreement?
+S: ThePrint, India–UK FTA to kick in on 15 July | https://theprint.in/diplomacy/india-uk-fta-to-kick-in-on-15-july-what-gets-cheaper-how-indian-exporters-stand-to-benefit/2962950/
+S: Tribune, India–UK trade agreement will enter into force from July 15 | https://www.tribuneindia.com/news/world/india-uk-trade-agreement-will-enter-into-force-from-july-15-foreign-secy-misri-calls-announcement-one-of-the-key-outcomes/
+
+## india-oman-cepa | India–Oman CEPA: a gateway to the Gulf
+
+The India–Oman Comprehensive Economic Partnership Agreement (CEPA) came into force on 1 June 2026. It was signed in Muscat on 18 December 2025, after negotiations that began in 2023. It is India's second trade agreement with a Gulf country, after the India–UAE CEPA of 2022, and Oman's first such comprehensive agreement with any country since its free trade agreement with the United States.
+
+According to reported terms, Oman gives zero-duty access on 98% of its tariff lines, covering about 99% of India's exports to Oman by value, removing duties of up to 5% on Indian exports worth about 3.64 billion dollars. Sectors expected to benefit include pharmaceuticals, engineering goods, chemicals, gems and jewellery, textiles, leather, plastics, marine products and automobiles. India offers tariff concessions on nearly 78% of its tariff lines, while keeping sensitive items such as dairy products, edible oils, oilseeds, fruits and vegetables, spices, coffee, tea and rubber outside liberalisation. On the first day, around ten consignments of agricultural products and gems and jewellery were shipped from Mumbai, Kolkata and Chennai under the new preferential rates.
+
+Bilateral trade reached 11.18 billion dollars in 2025–26, up from 10.61 billion dollars the year before, according to official figures reported by Business Standard. Oman is strategically important to India: it sits at the mouth of the Strait of Hormuz, hosts a large Indian community, and gives the Indian Navy access to the port of Duqm. Indian officials see the CEPA as a step towards a wider agreement with the Gulf Cooperation Council.
+
+- The India–Oman CEPA was signed on 18 December 2025 and came into force on 1 June 2026.
+- Oman gives duty-free access for about 99% of India's exports by value; India protects dairy and edible oils.
+- Oman's location at the Strait of Hormuz makes the partnership strategic as well as economic.
+W: The CEPA links India's trade strategy with its West Asia and maritime policy, frequent GS II themes.
+Q: How do trade agreements with Gulf countries serve India's economic and strategic interests?
+S: Business Standard, India–Oman free trade pact comes into force | https://www.business-standard.com/economy/news/india-oman-free-trade-pact-comes-into-force-126060101366_1.html
+S: Angel One, India–Oman CEPA to take effect on June 1, 2026 | https://oga-prod.angelone.in/news/economy/india-oman-cepa-to-take-effect-on-june-1-2026-offering-duty-free-access-for-99-of-india-s-exports
+
+## india-new-zealand-fta | The India–New Zealand free trade agreement
+
+India and New Zealand signed a free trade agreement on 27 April 2026 at Bharat Mandapam in New Delhi. Commerce Minister Piyush Goyal and New Zealand's Trade Minister Todd McClay signed it. Negotiations, relaunched in March 2025, were concluded in December 2025 in about nine months, one of the fastest trade negotiations India has completed.
+
+Under the agreement, tariffs on 95% of New Zealand's exports to India will be cut or removed, including seafood, iron, steel, scrap aluminium and wool, with more than half becoming duty-free immediately and wine tariffs falling over ten years. Indian textiles, leather, pharmaceuticals, engineering goods and automobiles are expected to gain duty-free access to New Zealand. New Zealand will open market access in 118 services sectors and offers a quota of 5,000 temporary employment visas for Indian professionals, 1,000 working holiday visas and easier post-study work rights for Indian students. Goyal said New Zealand had committed to investment of 20 billion dollars, a claim reported by ThePrint but not independently detailed.
+
+Dairy was the most sensitive issue, since it is New Zealand's largest export sector and India protects its millions of small dairy farmers. India kept dairy, along with coffee, sugar, spices, edible oils and rubber, largely out of its commitments. It granted limited access: dairy ingredients imported for re-export become duty-free, and some high-value products such as bulk infant formula are phased in over seven years. New Zealand's dairy industry expressed disappointment.
+
+The deal still needs New Zealand's parliamentary approval. Prime Minister Modi visited New Zealand in July 2026 as part of a tour that also took him to Indonesia and Australia.
+
+- India and New Zealand signed an FTA on 27 April 2026 after talks concluded in December 2025.
+- Tariffs on 95% of New Zealand's exports to India are cut; India keeps dairy largely protected.
+- Indian professionals and students get new visa quotas and work rights.
+W: The deal shows how India protects agriculture, especially dairy, while opening trade, a recurring GS III theme.
+Q: Why is dairy the most sensitive sector in India's trade negotiations? Discuss with reference to the India–New Zealand FTA.
+S: ThePrint, India–New Zealand sign FTA | https://theprint.in/india/india-new-zealand-sign-fta-cut-tariffs-on-95-of-exports-ease-visa-access/2915718/
+S: Business Today, India–New Zealand sign landmark trade agreement | https://www.businesstoday.in/india/story/india-new-zealand-sign-landmark-trade-agreement-heres-what-both-sides-get-527570-2026-04-27
+
+## india-canada-reset | India and Canada reset ties with a uranium deal
+
+India–Canada relations collapsed in 2023 when then Prime Minister Justin Trudeau alleged a potential link between Indian government agents and the killing of the Khalistani separatist Hardeep Singh Nijjar in British Columbia. India rejected the allegation, both countries expelled diplomats, and trade talks were frozen. The two sides began rebuilding relations after Mark Carney became Canada's prime minister in March 2025, restoring high commissioners later that year.
+
+Carney's visit to New Delhi produced a broad reset. On 2 March 2026, the two governments signed a 2.6 billion US dollar agreement under which Saskatoon-based Cameco will supply about 22 million pounds of uranium for India's nuclear power plants between 2027 and 2035, according to PTI. The leaders committed to finalising a Comprehensive Economic Partnership Agreement (CEPA) during 2026 and signed terms of reference for the negotiations. They set a target of raising bilateral trade, currently around 13 billion dollars, to over 50 billion dollars by 2030. Other agreements covered critical minerals supply chains, a strategic energy partnership including LNG, LPG, uranium, solar and hydrogen, space cooperation between ISRO and the Canadian Space Agency, and permission for Canadian universities to open campuses in India. A defence dialogue was also announced.
+
+The reset reflects wider shifts. Canada, facing tariff pressure from the United States, is diversifying its trade, and India wants secure supplies of uranium, critical minerals and energy, as well as access to Canada's large Indian diaspora and universities. Differences over Khalistani extremism and the Nijjar case have not disappeared, but both sides chose to prioritise economic and strategic cooperation.
+
+- India–Canada ties broke down in 2023 over the Nijjar killing allegation.
+- On 2 March 2026 they signed a 2.6 billion dollar uranium supply deal with Cameco for 2027–2035.
+- Both aim to conclude a CEPA in 2026 and reach 50 billion dollars of trade by 2030.
+W: The India–Canada reset is a case study in managing diaspora politics and security disputes alongside economic interests (GS II).
+Q: How can India and Canada prevent diaspora-related security disputes from derailing economic cooperation?
+S: The Week (PTI), India–Canada seal USD 2.6 bn uranium deal | https://www.theweek.in/wire-updates/business/2026/03/02/india-canada-seal-usd-2.6-bn-uranium-deal-resolve-to-conclude-mega-trade-pact-this-year.html
+S: Dawn, Canada and India strike agreements on rare earth, uranium | https://www.dawn.com/news/1977466
+
+## india-brazil-critical-minerals | India and Brazil sign a critical minerals pact
+
+On 21 February 2026, Prime Minister Narendra Modi and Brazilian President Luiz Inácio Lula da Silva met at Hyderabad House in New Delhi and signed an agreement to expand cooperation on critical minerals and rare earth elements. Modi called it "a major step towards building resilient supply chains". Nine other agreements and memoranda were signed, covering digital cooperation, health and entrepreneurship. Lula had come to India to attend the AI Impact Summit, where he called for an inclusive, multilateral framework for governing artificial intelligence.
+
+Critical minerals and rare earths are essential for electric vehicle batteries, magnets in motors and wind turbines, electronics and defence equipment. China dominates the processing of most of these minerals and the production of rare earth magnets, and its export controls in 2025 caused shortages for Indian manufacturers. Brazil has some of the world's largest rare earth reserves, along with large deposits of niobium, graphite and nickel. For India, the agreement is part of a wider strategy of diversifying supplies through partnerships with countries such as Australia, Argentina, Chile and Canada, alongside the National Critical Mineral Mission launched in 2025.
+
+The two countries also set economic targets. Bilateral trade exceeded 15 billion dollars in 2025, and Modi said they aim to take it past 20 billion dollars within five years. Brazil's main exports to India are sugar, crude oil, vegetable oils, cotton and iron ore. The Brazilian aircraft maker Embraer and the Adani Group announced plans to build aircraft in India, and both leaders highlighted growing defence cooperation.
+
+India and Brazil are partners in BRICS, the G20 and IBSA (with South Africa), and both seek permanent seats on the UN Security Council as part of the G4.
+
+- Modi and Lula signed a critical minerals and rare earths agreement on 21 February 2026.
+- The pact aims to reduce India's dependence on China for minerals vital to clean energy and electronics.
+- India and Brazil aim to raise trade from over 15 billion dollars to above 20 billion dollars in five years.
+W: Critical minerals diplomacy combines GS II (bilateral relations) and GS III (energy security and industry).
+Q: Why are partnerships with resource-rich countries like Brazil essential for India's clean energy transition?
+S: Dawn, India, Brazil ink critical minerals deal as Modi, Lula meet | https://www.dawn.com/news/1974794
+S: Arab News, India signs critical minerals pact with Brazil | https://www.arabnews.pk/node/2633881
+
+## india-australia-uranium-deal | Australia agrees to sell uranium to India
+
+On 9 July 2026, Prime Minister Narendra Modi and Australian Prime Minister Anthony Albanese met in Melbourne and signed an agreement allowing long-term exports of Australian uranium to India for India's civilian nuclear power programme. According to their joint statement, the uranium will be used for "exclusively peaceful purposes" and will be subject to International Atomic Energy Agency safeguards. Albanese said the arrangement "facilitates Australian uranium exports to India" to help expand non-fossil-fuel power.
+
+The deal ends a long stalemate. Australia holds a large share of the world's uranium resources (Al Jazeera put its share of world supply at about 28%), but for years refused to sell to India because India has not signed the Nuclear Non-Proliferation Treaty. Australia's governing Labor Party lifted the ban in 2011, and the two countries signed a civil nuclear cooperation agreement in 2014, but actual exports remained limited because of concerns about safeguards. India aims to reach 100 gigawatts of nuclear power capacity by 2047, and needs reliable fuel supplies; it also signed a uranium supply deal with Canada's Cameco in March 2026.
+
+The leaders also agreed to strengthen defence cooperation and critical minerals supply chains, and to set up a temporary space tracking terminal on Australia's Cocos (Keeling) Islands to support Indian space missions, including human spaceflight. Australia, which is seeking to diversify its trade away from China, counts India as its fifth-largest trading partner, with two-way trade of 54.4 billion Australian dollars in 2024–25. The two countries are linked by an interim trade agreement (ECTA) in force since 2022 and are both members of the Quad.
+
+- Australia and India signed a uranium export agreement on 9 July 2026, under IAEA safeguards.
+- The deal ends years of limited exports despite a 2014 civil nuclear agreement.
+- India's nuclear target of 100 GW by 2047 makes secure uranium supplies essential.
+W: The deal links India's nuclear energy goals, non-proliferation politics and Indo-Pacific partnerships (GS II and GS III).
+Q: How have India's civil nuclear agreements helped it overcome the constraints of not signing the NPT?
+S: Al Jazeera, Australia, India strike deal on uranium exports during Modi visit | https://www.aljazeera.com/amp/news/2026/7/9/australia-india-strike-deal-on-uranium-exports-during-pm-modis-visit
+S: ETV Bharat, India and Australia agree terms for long-term uranium supply | https://etvbharat.com/en/international/india-australia-agree-terms-for-long-term-uranium-supply-for-peaceful-purposes-enn26070902019

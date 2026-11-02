@@ -1,0 +1,164 @@
+# THEME 15
+## scheduled-castes-protections | Protecting Scheduled Castes: law and reality
+
+Scheduled Castes are castes notified by the President under Article 341 as having suffered untouchability and severe social disadvantage. The 2011 Census counted about 20 crore SC people, 16.6% of the population. The Constitution protects them through the abolition of untouchability (Article 17), reservation in education, public jobs, promotions, Parliament and state legislatures, and the National Commission for Scheduled Castes (Article 338). Reservation of seats in legislatures, originally meant for ten years, has been extended by amendment every decade, most recently to 2030.
+
+The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 defines atrocities, from social boycott and humiliation to violence, and provides special courts, stricter punishment and no anticipatory bail. In Subhash Kashinath Mahajan (2018), the Supreme Court introduced safeguards against alleged misuse, including preliminary inquiries before registering cases. After nationwide protests, Parliament passed an amendment in 2018 restoring the original provisions, which the Court upheld in 2020. National Crime Records Bureau data show tens of thousands of crimes against SCs registered each year, with low conviction rates.
+
+Manual scavenging, the cleaning of human excreta by hand, overwhelmingly done by Dalits, was banned by the Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013. But deaths in sewers and septic tanks continue to be reported. In 2023 the Supreme Court raised compensation for sewer deaths to Rs 30 lakh.
+
+In August 2024 a seven-judge bench of the Supreme Court held that states can sub-classify SCs to give priority to the most backward among them, and several judges suggested applying a creamy layer to SCs and STs, an idea the Union government has said it will not adopt.
+
+The persistence of discrimination in schools, workplaces, housing and marriage shows that legal equality has not yet produced social equality.
+
+- SCs were 16.6% of the population in 2011; legislative reservation is extended to 2030.
+- The Atrocities Act (1989) was restored by a 2018 amendment after the Court diluted it.
+- Manual scavenging is banned but sewer deaths continue; states may now sub-classify SCs.
+W: Laws and judgments on SCs are central to GS II social justice and appear frequently in both stages.
+Q: Why has the Prevention of Atrocities Act not fully succeeded in preventing caste violence?
+
+## tribal-rights-forest-rights | Scheduled Tribes, forest rights and PVTGs
+
+Scheduled Tribes are notified under Article 342. The 2011 Census counted about 10.4 crore ST people, 8.6% of the population, with the largest numbers in Madhya Pradesh, Maharashtra, Odisha, Rajasthan, Gujarat and Jharkhand; in several north-eastern states and Lakshadweep they form a majority. Constitutional safeguards include reservation, the Fifth and Sixth Schedules, and the National Commission for Scheduled Tribes (Article 338A).
+
+The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, usually called the Forest Rights Act (FRA), sought to correct what its preamble called a "historical injustice": forest communities' rights had never been recorded when forests were declared state property. It recognises individual rights to land cultivated before 13 December 2005 (up to four hectares), and community rights to use and manage forest resources, including minor forest produce, grazing and water. Gram sabhas play the central role in verifying claims. Community forest resource rights allow villages to protect and manage their forests; Mendha-Lekha in Maharashtra became a famous example. Implementation has been uneven, with large numbers of claims rejected; in 2019 the Supreme Court ordered evictions of rejected claimants but stayed the order after protests.
+
+Among STs, 75 groups are classified as Particularly Vulnerable Tribal Groups (PVTGs) because of pre-agricultural technology, very low literacy, stagnant or declining population and subsistence economies. Odisha has the largest number. They include the Jarawa and Sentinelese of the Andaman Islands, the Baiga of central India and the Toda of the Nilgiris. The PM-JANMAN mission, launched in November 2023, aims to provide PVTG habitations with housing, roads, water, electricity, health and education.
+
+Tribal communities face displacement by dams, mines and protected areas, land alienation, poor health and education outcomes, and conflicts that have fuelled left-wing extremism.
+
+- STs were 8.6% of the population in 2011.
+- The Forest Rights Act (2006) recognises individual and community forest rights through gram sabhas.
+- 75 PVTGs are covered by the PM-JANMAN mission launched in 2023.
+W: The FRA, PVTGs and tribal welfare are among the most frequently asked social justice topics.
+Q: How far has the Forest Rights Act corrected the "historical injustice" done to forest dwellers?
+
+## obc-reservation-creamy-layer | OBCs, the creamy layer and sub-categorisation
+
+Other Backward Classes (OBCs) are socially and educationally backward classes recognised under Articles 15(4) and 16(4). After the Mandal Commission's report was implemented in 1990, the Union government reserves 27% of central jobs and, since 2008, seats in central educational institutions for OBCs. The Supreme Court in Indra Sawhney (1992) upheld this but excluded the "creamy layer", the better-off among OBCs, to ensure benefits reach those who need them. The income limit for the creamy layer was last raised to Rs 8 lakh a year in 2017; salary and agricultural income of parents are not counted, and children of senior officials are excluded on the basis of their parents' posts.
+
+The National Commission for Backward Classes (NCBC) was first created by statute in 1993. The 102nd Amendment in 2018 gave it constitutional status under Article 338B. The Supreme Court in the Maratha reservation case (2021) read that amendment as removing states' power to identify backward classes, and Parliament quickly passed the 105th Amendment in 2021 to restore that power.
+
+The benefits of OBC reservation have been unevenly shared. The Justice G. Rohini Commission was set up in 2017 to examine sub-categorisation of OBCs. Its analysis, as reported, found that a small number of the more than 2,600 castes in the central OBC list had received a large share of jobs and admissions, while about a thousand had received none. Its report was submitted in 2023 but has not been made public or implemented. Several states, such as Bihar, Andhra Pradesh and Karnataka, already sub-categorise OBCs.
+
+Demands by groups such as the Marathas, Jats and Patidars for OBC status, and the 50% ceiling, have led to legal and political battles, and the upcoming caste census is expected to intensify them.
+
+- OBCs get 27% reservation in central jobs and institutions, excluding the creamy layer (Rs 8 lakh limit).
+- The NCBC got constitutional status in 2018; the 105th Amendment (2021) restored states' power to list OBCs.
+- The Rohini Commission on sub-categorisation reported in 2023, but its report is not public.
+W: OBC reservation, the creamy layer and sub-categorisation are frequent GS II topics, made more relevant by the caste census.
+Q: Is sub-categorisation of OBCs necessary for social justice? Discuss the arguments and challenges.
+
+## minorities-rights | Minorities: constitutional protection and welfare
+
+The Constitution does not define "minority", but protects religious and linguistic minorities. Article 29 protects any section of citizens with a distinct language, script or culture in conserving it. Article 30 gives religious and linguistic minorities the right to establish and administer educational institutions of their choice. Articles 25–28 guarantee religious freedom to all. Article 350A asks states to provide primary education in the mother tongue for linguistic minorities, and Article 350B provides for a Special Officer for Linguistic Minorities.
+
+The National Commission for Minorities Act, 1992 created a statutory commission. Under it, the Union government has notified six religious minorities: Muslims, Christians, Sikhs, Buddhists and Parsis (1993) and Jains (2014). Together they made up about 19% of the population in 2011, with Muslims the largest group at 14.2%. The Supreme Court in T. M. A. Pai Foundation (2002) held that minority status is to be determined state by state, which has led to debates about Hindus being a minority in some states and union territories.
+
+The Sachar Committee (2006) found that Muslims lagged behind on many indicators of education, employment and access to credit, and were under-represented in public services. Its findings led to the Prime Minister's 15-Point Programme for minorities and the Multi-sectoral Development Programme, later restructured as the Pradhan Mantri Jan Vikas Karyakram. Scholarships for minority students have been a major part of welfare, though some schemes have been merged or discontinued in recent years.
+
+Current debates include the Waqf (Amendment) Act, 2025, which changed how waqf properties are managed and included non-Muslims in waqf boards, and which is being challenged in the Supreme Court; state anti-conversion laws; and representation of minorities in legislatures and government.
+
+- Articles 29 and 30 protect minority culture and educational institutions.
+- Six religious minorities are notified nationally; minority status is determined state-wise (T. M. A. Pai, 2002).
+- The Sachar Committee (2006) documented Muslim disadvantage; the Waqf Amendment Act (2025) is under challenge.
+W: Minority rights and welfare appear regularly in GS II, often linked to secularism and social justice.
+Q: How do Articles 29 and 30 balance minority rights with the state's power to regulate education?
+
+## disability-rights | Rights of persons with disabilities
+
+The 2011 Census counted about 2.68 crore persons with disabilities, 2.21% of the population, though experts believe this is a significant undercount; global estimates suggest around 15% of people have some form of disability. India ratified the UN Convention on the Rights of Persons with Disabilities (UNCRPD) in 2007.
+
+The Rights of Persons with Disabilities Act, 2016 replaced a 1995 law and adopted a rights-based approach. It expanded the list of recognised disabilities from 7 to 21, adding conditions such as acid attack survivors, autism spectrum disorder, specific learning disabilities, thalassaemia, haemophilia, Parkinson's disease, multiple sclerosis and speech and language disabilities. It raised reservation in government jobs for persons with benchmark disabilities (at least 40%) from 3% to 4%, and in higher education from 3% to at least 5%. It guarantees free education for children with benchmark disabilities aged six to eighteen, makes discrimination punishable, and requires public buildings, transport and services to be accessible within set timelines. A Chief Commissioner and state commissioners monitor implementation.
+
+The Accessible India Campaign (Sugamya Bharat Abhiyan), launched in 2015, aimed to make buildings, transport and digital information accessible. The Unique Disability ID (UDID) card provides a single national identity for persons with disabilities. Indian Sign Language has been promoted through a research and training centre.
+
+The courts have pushed implementation. In Vikash Kumar (2021), the Supreme Court recognised the right to reasonable accommodation, and in 2024 it held that accessibility rules must be mandatory, not merely aspirational, directing the government to make them enforceable.
+
+Gaps remain large: many public buildings and websites are still inaccessible, reservation posts go unfilled, and disabled people face high rates of unemployment and social stigma.
+
+- The 2011 Census counted 2.21% of people as disabled, likely an undercount.
+- The RPwD Act (2016) recognises 21 disabilities, with 4% job and 5% higher education reservation.
+- The Supreme Court has recognised reasonable accommodation and enforceable accessibility.
+W: Disability rights are part of the vulnerable sections topic in GS II and also appear in ethics questions.
+Q: What are the main barriers to the inclusion of persons with disabilities in India? Suggest measures.
+
+## child-rights-protection | Children's rights: education, protection and nutrition
+
+India has the largest child population in the world. The Constitution protects children through Article 21A (free and compulsory education for ages six to fourteen, added in 2002), Article 24 (prohibiting employment of children below fourteen in factories, mines and hazardous work), Article 39(e) and (f) (directive principles on protecting children from abuse and exploitation), and Article 45 (early childhood care and education until age six).
+
+The Right of Children to Free and Compulsory Education Act, 2009 (RTE Act) sets norms for schools, bans capitation fees and screening, and requires private unaided schools to reserve 25% of entry-level seats for children from disadvantaged groups and weaker sections, with costs reimbursed by the state. In 2019 the "no-detention" policy was amended to allow states to hold back students in classes 5 and 8.
+
+The Protection of Children from Sexual Offences (POCSO) Act, 2012 provides a child-friendly process for reporting and trying sexual offences against children, with special courts; amendments in 2019 introduced the death penalty for aggravated penetrative sexual assault. The Juvenile Justice (Care and Protection of Children) Act, 2015 allows children aged 16–18 accused of heinous crimes to be tried as adults after an assessment, and governs adoption and child care institutions. The Child Labour (Prohibition and Regulation) Amendment Act, 2016 banned employment of children below 14 in all occupations except family enterprises outside school hours, and of adolescents aged 14–18 in hazardous work. The Prohibition of Child Marriage Act, 2006 sets the minimum marriage age.
+
+Nutrition is a major challenge. NFHS-5 (2019–21) found 35.5% of children under five stunted, 19.3% wasted and 32.1% underweight, and 67% of children aged 6–59 months anaemic. Saksham Anganwadi and Poshan 2.0 integrate the anganwadi system and nutrition programmes, and the PM POSHAN scheme provides cooked meals in schools.
+
+- Article 21A and the RTE Act (2009) guarantee education for ages 6–14, with 25% seats in private schools for weaker sections.
+- POCSO (2012), the JJ Act (2015) and the 2016 child labour amendment protect children.
+- NFHS-5: 35.5% of under-fives stunted and 67% of young children anaemic.
+W: Child rights, education and nutrition are frequent GS II topics, and NFHS data are useful in many answers.
+Q: Why does child malnutrition remain high in India despite large nutrition programmes?
+
+## health-system | India's health system
+
+Health is a state subject, but the Union plays a large role through national programmes and funding. India's public health spending has historically been low. According to the National Health Accounts estimates for 2021–22, government health expenditure was about 1.8% of GDP, while out-of-pocket spending by households fell to about 39% of total health expenditure, from over 64% in 2013–14. The National Health Policy 2017 set a goal of raising government health spending to 2.5% of GDP by 2025, which was not met.
+
+India's public system has three tiers: sub-centres and primary health centres for primary care, community health centres for secondary care, and district and medical college hospitals for tertiary care. The National Health Mission, combining the rural (2005) and urban (2013) missions, strengthened this system, including through ASHA workers, community health volunteers in every village.
+
+Ayushman Bharat, launched in 2018, has two pillars. Health and wellness centres, renamed Ayushman Arogya Mandirs, upgrade sub-centres and primary health centres to provide comprehensive primary care, including screening for diabetes, hypertension and cancers. The Pradhan Mantri Jan Arogya Yojana (PM-JAY) provides cashless hospital cover of Rs 5 lakh per family per year for poor and vulnerable families, and since 2024 for all citizens aged 70 and above regardless of income. The Ayushman Bharat Digital Mission creates digital health IDs and records.
+
+Challenges include shortages of doctors, nurses and specialists, especially in rural areas; uneven quality; the growing burden of non-communicable diseases, which cause most deaths; and dependence on an unregulated private sector. India's achievements include eliminating polio (certified in 2014) and maternal and neonatal tetanus, and large gains in institutional deliveries.
+
+- Government health spending is about 1.8% of GDP; out-of-pocket spending has fallen to about 39%.
+- Ayushman Bharat combines Arogya Mandirs for primary care with PM-JAY's Rs 5 lakh hospital cover.
+- Workforce shortages and non-communicable diseases are major challenges.
+W: Health policy is a recurring GS II question, often requiring data on spending and schemes.
+Q: Can insurance-based schemes like PM-JAY achieve universal health coverage without stronger public primary care?
+
+## national-education-policy | The National Education Policy 2020
+
+The National Education Policy (NEP) 2020, approved in July 2020, replaced the National Policy on Education of 1986 (modified in 1992). It was drafted by a committee chaired by K. Kasturirangan.
+
+In school education, it replaces the 10+2 structure with a 5+3+3+4 design: a foundational stage (ages 3–8, including three years of preschool and classes 1–2), a preparatory stage (classes 3–5), a middle stage (classes 6–8) and a secondary stage (classes 9–12). It prioritises foundational literacy and numeracy by class 3, through the NIPUN Bharat mission. It recommends teaching in the mother tongue or regional language at least until class 5, and preferably until class 8, where possible. It proposes flexible subject choice with no rigid separation between arts, science and commerce, vocational education from class 6, and board exams that test core competencies; CBSE introduced a second, optional board exam for class 10 from 2026. A new National Curriculum Framework and new NCERT textbooks are being introduced.
+
+In higher education, the NEP targets a gross enrolment ratio of 50% by 2035 (it was about 28% in 2021–22 according to the All India Survey on Higher Education). It introduces four-year multidisciplinary undergraduate degrees with multiple entry and exit points, an Academic Bank of Credits, a Common University Entrance Test, and the phasing out of the affiliation system. It proposes a single regulator, the Higher Education Commission of India, replacing the UGC, AICTE and NCTE, and allows top foreign universities to set up campuses in India. It reiterates the goal of public spending on education of 6% of GDP; current combined spending is around 4–4.6%.
+
+The NEP's language policy, particularly the three-language formula, has been opposed by states such as Tamil Nadu, which has refused to sign agreements linked to the PM SHRI schools scheme.
+
+- NEP 2020 introduces a 5+3+3+4 school structure and stresses mother-tongue teaching up to class 5.
+- It targets a higher education GER of 50% by 2035, with multiple entry and exit.
+- Funding (6% of GDP target) and language policy remain contested.
+W: NEP 2020 is one of the most frequently asked policy topics in GS II.
+Q: What are the main challenges in implementing NEP 2020 in a federal system?
+
+## transgender-and-lgbtq-rights | Transgender and LGBTQ+ rights
+
+In NALSA v. Union of India (2014), the Supreme Court recognised transgender persons as a "third gender", affirmed their right to self-identify their gender, and directed governments to treat them as socially and educationally backward classes for reservations and to provide welfare measures. The judgment drew on Articles 14, 15, 19 and 21.
+
+The Transgender Persons (Protection of Rights) Act, 2019 prohibits discrimination against transgender persons in education, employment, health care and access to public facilities, and created a National Council for Transgender Persons. But it requires a certificate of identity from the district magistrate, and a revised certificate after gender-affirming surgery to identify as male or female, which activists argue contradicts NALSA's principle of self-identification. It also prescribes lighter punishments for offences against transgender persons than for similar offences against others. The government launched the SMILE scheme for welfare and the National Portal for Transgender Persons.
+
+In Navtej Singh Johar (2018), a five-judge bench decriminalised consensual same-sex relations between adults by reading down Section 377 of the Indian Penal Code, overruling Suresh Kumar Koushal (2013). The Court held that sexual orientation is an essential attribute of privacy and dignity. Section 377's remaining parts were not carried into the new Bharatiya Nyaya Sanhita in 2024, leaving a gap in protection for non-consensual acts against men and transgender persons, which has been criticised.
+
+In Supriyo Chakraborty (2023), the Supreme Court unanimously declined to recognise same-sex marriage, holding that this was for Parliament to decide, though it affirmed that queer persons have the right to form relationships free from harassment. The government set up a committee under the Cabinet Secretary to examine the rights of queer couples in matters such as joint bank accounts and medical decisions.
+
+- NALSA (2014) recognised the third gender and the right to self-identify.
+- The Transgender Persons Act (2019) bans discrimination but requires certification, which is criticised.
+- Navtej (2018) decriminalised same-sex relations; Supriyo (2023) left same-sex marriage to Parliament.
+W: LGBTQ+ rights cover GS II social justice, polity and GS IV ethics, and the key judgments are often asked.
+Q: Should courts or legislatures lead on extending rights to LGBTQ+ persons? Discuss with reference to Indian judgments.
+
+## social-security-labour-codes | Social security, the labour codes and gig workers
+
+More than 80% of India's workers are in informal employment, without written contracts, paid leave or social security. Social security has traditionally covered mainly formal-sector workers through the Employees' Provident Fund Organisation (EPFO) and the Employees' State Insurance Corporation (ESIC).
+
+Parliament passed four labour codes in 2019–2020 to consolidate 29 central labour laws: the Code on Wages (2019), the Industrial Relations Code (2020), the Code on Social Security (2020), and the Occupational Safety, Health and Working Conditions Code (2020). After years of delay while states framed rules, the government brought all four into force on 21 November 2025. The codes introduce a universal minimum wage and a national floor wage, a uniform definition of wages, fixed-term employment, and higher thresholds for government permission for layoffs (from 100 to 300 workers). The Code on Social Security, for the first time, recognises gig workers and platform workers, such as delivery and ride-hailing workers, and provides for social security funds partly financed by aggregators. Trade unions have criticised the codes for weakening job security and the right to strike.
+
+Other measures include the e-Shram portal, launched in 2021 to register unorganised workers, which has over 30 crore registrations; the Pradhan Mantri Shram Yogi Maan-dhan pension scheme for unorganised workers; the Atal Pension Yojana; the PM Jeevan Jyoti Bima and PM Suraksha Bima life and accident insurance schemes; and old-age, widow and disability pensions under the National Social Assistance Programme. Several states, starting with Rajasthan in 2023 and Karnataka in 2025, have passed laws on the welfare of platform-based gig workers.
+
+The challenge is to extend real, portable protection to informal and gig workers without making formal job creation too costly.
+
+- Over 80% of workers are informal; social security long covered only the formal sector.
+- The four labour codes, consolidating 29 laws, came into force on 21 November 2025, and recognise gig workers.
+- e-Shram has over 30 crore registrations; states such as Rajasthan and Karnataka have gig worker laws.
+W: Labour codes and gig worker welfare are major current topics in GS II and GS III.
+Q: Do the new labour codes strike the right balance between flexibility for employers and protection for workers?

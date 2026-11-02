@@ -1,0 +1,154 @@
+# THEME 3
+## temple-architecture-styles | Temple architecture: Nagara, Dravida and Vesara
+
+Hindu temple architecture developed from simple shrines in the Gupta period into elaborate complexes. Every temple has a few core parts: the garbhagriha, a small dark sanctum housing the main deity; the mandapa, a hall for worshippers; and a superstructure rising above the sanctum. The shape of that superstructure is the easiest way to tell the main styles apart.
+
+The Nagara style, common in north India, has a curvilinear tower called a shikhara, topped by a ribbed stone disc called an amalaka and a kalasha. Nagara temples usually stand on a raised platform and lack elaborate boundary walls. Examples include the Kandariya Mahadeva temple at Khajuraho, the Sun Temple at Konark (in the Odisha sub-style, where the tower is called a deul) and the Dilwara Jain temples at Mount Abu.
+
+The Dravida style, common in Tamil Nadu and the south, has a pyramid-shaped tower called a vimana, rising in storeys, and is enclosed by high walls entered through gateways called gopurams. In later centuries, as at Madurai's Meenakshi temple, the gopurams grew taller than the vimana itself. The Brihadeeswara temple at Thanjavur and the Shore Temple at Mahabalipuram are classic examples.
+
+The Vesara style, found in the Deccan, blends elements of both. It developed under the Chalukyas of Badami and later the Hoysalas. Hoysala temples at Belur, Halebidu and Somanathapura are known for their star-shaped plans and richly carved soapstone; the Sacred Ensembles of the Hoysalas became a UNESCO World Heritage Site in 2023.
+
+- Nagara temples have a curvilinear shikhara; Dravida temples have a stepped vimana and gopurams.
+- Vesara blends both and is linked to the Chalukyas and Hoysalas.
+- The garbhagriha, mandapa and superstructure are common to all styles.
+W: Identifying temple styles and matching temples to dynasties are among the most common Prelims culture questions.
+Q: Distinguish between the Nagara and Dravida styles of temple architecture with suitable examples.
+
+## rock-cut-caves | Rock-cut caves: Barabar to Ellora
+
+India has more than a thousand rock-cut caves, carved over about 1,500 years. The earliest are the Barabar caves in Bihar, carved in the third century BCE under Ashoka and his grandson Dasharatha for the Ajivika sect. Their polished granite walls show the Mauryan mastery of stone.
+
+Buddhist caves in the western Deccan, carved from the second century BCE onwards, follow two types. The chaitya was a prayer hall with a stupa at one end and a horseshoe-shaped window, as at Karla and Bhaja. The vihara was a monastery with cells for monks around a central hall.
+
+Ajanta, in Maharashtra, has about thirty caves carved in two phases: an early phase around the second and first centuries BCE and a later phase in the fifth century CE under the Vakatakas. Its murals, painted on prepared plaster, show scenes from the Jatakas and the Buddha's life and are among the finest surviving ancient paintings anywhere. The image of the Bodhisattva Padmapani is the best known.
+
+Ellora, also in Maharashtra, has thirty-four caves made between about the sixth and tenth centuries: Buddhist, Hindu and Jain caves side by side, a striking example of religious coexistence. Cave 16, the Kailasa temple, was carved downward from a single rock under the Rashtrakuta king Krishna I in the eighth century. The Elephanta caves near Mumbai have a giant three-headed Shiva (Maheshmurti). Ajanta, Ellora and Elephanta are all UNESCO World Heritage Sites.
+
+- The Barabar caves (third century BCE) are the earliest rock-cut caves.
+- Chaityas were prayer halls and viharas were monasteries.
+- Ajanta is famous for murals, Ellora for its multi-faith caves and the Kailasa temple.
+W: Cave sites, their religions and dynasties are frequently tested in Prelims.
+Q: How do the caves at Ellora reflect the religious pluralism of early medieval India?
+
+## stupas-buddhist-art | Stupas and early Buddhist art
+
+A stupa is a hemispherical mound built over relics of the Buddha or a revered monk. Its parts carry meaning. The dome (anda) represents the cosmos, the railing (vedika) encloses a sacred path for walking around it (pradakshina), and the umbrella (chhatra) on top symbolises honour. Gateways called toranas mark the four directions.
+
+Ashoka is credited by Buddhist tradition with building many stupas to distribute the Buddha's relics. The Great Stupa at Sanchi in Madhya Pradesh was begun in his time and enlarged later. Its four carved toranas, added around the first century BCE, show Jataka tales and scenes from the Buddha's life. Bharhut in Madhya Pradesh and Amaravati in Andhra Pradesh are other major early stupas; the Amaravati carvings in white limestone are known for their graceful movement.
+
+In early Buddhist art the Buddha was not shown in human form. He was represented by symbols: a lotus or elephant for his birth, a horse for his renunciation, the Bodhi tree for enlightenment, a wheel for his first sermon and a stupa for his death (parinirvana). This aniconic phase gave way to images of the Buddha in human form in the first and second centuries CE, in the Gandhara and Mathura schools.
+
+Sanchi is a UNESCO World Heritage Site. Sarnath, where the Buddha gave his first sermon and where the Dhamek stupa stands, was added in 2026 as India's 45th World Heritage Site.
+
+- A stupa's dome, railing, umbrella and gateways each carry symbolic meaning.
+- Early Buddhist art showed the Buddha through symbols, not human images.
+- Sanchi, Bharhut and Amaravati are key early stupas; Sarnath was inscribed by UNESCO in 2026.
+W: Stupa architecture, Buddhist symbols and sites appear often in Prelims and connect to current heritage news.
+Q: Trace the shift from aniconic to iconic representation of the Buddha in Indian art.
+
+## indo-islamic-architecture | Indo-Islamic architecture: from the Qutub Minar to the Taj Mahal
+
+The Delhi Sultanate brought new building techniques to India. The most important was the true arch and dome, built with voussoirs and held together with lime mortar, replacing the older Indian method of corbelling. Decoration avoided human figures and used calligraphy, geometric patterns and floral designs called arabesques.
+
+Early monuments include the Quwwat-ul-Islam mosque and the Qutub Minar in Delhi, begun by Qutbuddin Aibak and completed by Iltutmish, with later additions. The Alai Darwaza, built by Alauddin Khalji in 1311, is considered the first building in India with a true dome and arches. The Tughlaqs favoured massive sloping walls, as at Tughlaqabad. Regional styles flourished in Bengal, Gujarat, Jaunpur and the Deccan, where the Gol Gumbaz at Bijapur has one of the largest domes in the world and a famous whispering gallery.
+
+Mughal architecture combined Persian, Central Asian and Indian elements. Humayun's tomb in Delhi, completed in the 1570s, introduced the charbagh, a garden divided into four parts, and the double dome. Akbar's Fatehpur Sikri, built in red sandstone, includes the Buland Darwaza and the Panch Mahal, and borrowed freely from Rajput and Gujarati forms. Under Shah Jahan, white marble and pietra dura inlay (called parchin kari) reached their height in the Taj Mahal at Agra, built as a tomb for Mumtaz Mahal.
+
+Indo-Islamic architecture shows how Indian craftsmen and foreign designs merged to produce something new. Humayun's tomb, the Qutub complex, Fatehpur Sikri, the Red Fort, Agra Fort and the Taj Mahal are all UNESCO World Heritage Sites.
+
+- The true arch and dome arrived with the Sultanate; the Alai Darwaza (1311) is an early example.
+- Mughal buildings introduced the charbagh and double dome and later used marble and pietra dura.
+- The style blended Persian and Central Asian design with Indian craftsmanship.
+W: Monument-to-ruler matching and architectural features are recurring Prelims questions.
+Q: "Indo-Islamic architecture was a synthesis rather than an import." Discuss with examples.
+
+## indian-painting-traditions | Indian painting: murals, miniatures and folk art
+
+Indian painting has three broad traditions. Murals were painted on walls, from the Ajanta caves to the Chola frescoes in the Brihadeeswara temple and the Lepakshi temple paintings of Vijayanagara. Miniatures were small, detailed paintings on paper or cloth, often illustrating manuscripts. Folk and tribal painting has been made by communities for ritual and daily life for centuries.
+
+Miniature painting began with palm-leaf manuscripts in Pala Bengal and Jain western India. The Mughal school, founded by Persian masters at Humayun's and Akbar's courts, combined Persian technique with Indian themes; it illustrated the *Hamzanama* and *Akbarnama* and reached a height of naturalism under Jahangir, whose artist Ustad Mansur painted birds and animals. Rajput schools in Mewar, Bundi, Kishangarh and elsewhere painted Krishna legends and courtly life in bold colours; the Bani Thani portrait of Kishangarh is famous. The Pahari schools of the Himalayan hill states, such as Basohli and Kangra, are known for lyrical scenes of Radha and Krishna. The Deccan schools of Bijapur and Golconda blended Persian and local influences.
+
+Folk and tribal traditions are a living heritage. Madhubani (Mithila) painting from Bihar uses bright colours and natural dyes. Warli painting from Maharashtra uses simple white geometric figures. Pattachitra from Odisha and Bengal paints mythological stories on cloth. Gond art from Madhya Pradesh uses dots and lines to depict nature. Kalamkari from Andhra Pradesh uses a pen and natural dyes on fabric. Several of these have Geographical Indication tags.
+
+- Indian painting includes murals, miniatures, and folk and tribal art.
+- Mughal, Rajput, Pahari and Deccan schools are the main miniature traditions.
+- Madhubani, Warli, Pattachitra, Gond and Kalamkari are living folk traditions.
+W: Matching painting styles to regions and courts is a reliable Prelims question type.
+Q: Compare the Mughal and Rajput schools of miniature painting in subject matter and style.
+
+## classical-dances | India's classical dances
+
+Classical dance in India traces its principles to the *Natyashastra*, a treatise attributed to Bharata Muni and composed roughly two thousand years ago. It describes the elements of performance: nritta (pure dance), nritya (expressive dance that conveys meaning through gestures and expressions) and natya (drama). It also sets out the theory of rasa, the emotional flavour a performance evokes in the audience.
+
+The Sangeet Natak Akademi recognises eight classical dance forms. Bharatanatyam from Tamil Nadu, once performed in temples, was revived in the twentieth century by Rukmini Devi Arundale and others. Kathak from north India developed in temples and Mughal and Rajput courts and is known for footwork and spins. Kathakali from Kerala is a dance-drama with elaborate make-up, performed by men in its traditional form. Kuchipudi comes from a village of that name in Andhra Pradesh. Odissi from Odisha is known for its tribhanga (three-bend) posture; its revival owes much to Kelucharan Mohapatra. Manipuri from Manipur has gentle, flowing movements and is linked to the Raas Leela. Mohiniyattam from Kerala is a graceful solo dance traditionally performed by women. Sattriya, from the Vaishnava monasteries (satras) of Assam founded by Sankardeva, was recognised as classical in 2000.
+
+The Ministry of Culture also lists Chhau, the masked dance of eastern India, among classical forms. Chhau is inscribed on UNESCO's list of the Intangible Cultural Heritage of Humanity, as are Kutiyattam, the Sanskrit theatre of Kerala, and the Ramlila.
+
+- The *Natyashastra* sets out the theory of dance, including nritta, nritya, natya and rasa.
+- The Sangeet Natak Akademi recognises eight classical dances; Sattriya was added in 2000.
+- Each dance is tied to a region, a religious tradition and often a modern revival.
+W: Dance-state matching and the features of each form are standard Prelims questions.
+Q: How did the twentieth-century revival of classical dances relate to the nationalist movement?
+
+## indian-classical-music | Hindustani and Carnatic music
+
+Indian classical music is built on two core ideas. A raga is a melodic framework, a set of notes with rules about how to move between them and the mood they evoke. A tala is a rhythmic cycle. Ancient texts such as the *Natyashastra* and later Matanga's *Brihaddeshi* and Sharngadeva's *Sangita Ratnakara* (thirteenth century) laid the theoretical base.
+
+From around the thirteenth and fourteenth centuries, two traditions developed. Hindustani music, in the north, absorbed Persian influences at the courts of the Sultanate and Mughals. Amir Khusrau is traditionally credited with innovations in qawwali and khayal, though some attributions are legendary. Tansen, one of the nine gems of Akbar's court, was a master of dhrupad, the oldest surviving form. Khayal, thumri, tappa and ghazal developed later. Hindustani music is organised in gharanas, family-based schools such as Gwalior, Agra, Kirana and Jaipur. Instruments include the sitar, sarod, tabla, santoor and shehnai; Bismillah Khan made the shehnai a concert instrument.
+
+Carnatic music, in the south, is more composition-centred and closely tied to devotional lyrics. Purandara Dasa (sixteenth century) is called the father of Carnatic music for systematising its teaching. The trinity of Tyagaraja, Muthuswami Dikshitar and Syama Sastri composed thousands of kritis in the eighteenth and nineteenth centuries. The veena, mridangam, violin and ghatam are key instruments. M. S. Subbulakshmi became the first musician to receive the Bharat Ratna, in 1998.
+
+Both systems share the raga-tala foundation, but differ in style, improvisation and repertoire.
+
+- Raga (melody) and tala (rhythm) are the foundations of both traditions.
+- Hindustani music has gharanas and Persian influences; dhrupad is its oldest form.
+- Carnatic music centres on compositions, especially by Purandara Dasa and the trinity.
+W: Musicians, instruments, gharanas and composers appear in Prelims, often linked to awards.
+Q: Compare the Hindustani and Carnatic traditions in their history, structure and performance style.
+
+## classical-languages-literature | Classical languages and Indian literature
+
+India's Constitution lists 22 languages in its Eighth Schedule. Separately, the Government of India grants "classical language" status to languages with a long, independent literary tradition. Tamil was the first, in 2004, followed by Sanskrit (2005), Telugu and Kannada (2008), Malayalam (2013) and Odia (2014). In October 2024 the Union Cabinet added five more: Marathi, Pali, Prakrit, Assamese and Bengali, taking the total to eleven. The status brings funding for research, centres of excellence and academic chairs.
+
+Sanskrit literature includes the Vedas, the epics *Ramayana* and *Mahabharata*, the Puranas, Kalidasa's plays and poems, and scientific and philosophical works. Pali and Prakrit carry the Buddhist and Jain canons. Tamil has the Sangam anthologies, the *Tirukkural* of Thiruvalluvar and the twin epics. Kannada's early classics include Pampa's works and the vachanas of the Lingayat saints. Telugu's literary tradition includes Nannaya's translation of the *Mahabharata*. Persian became a major literary language in medieval India, and Urdu developed from the mix of Persian and Hindavi.
+
+Modern Indian literature responded to colonialism and social reform. Rabindranath Tagore became the first Asian to win the Nobel Prize in Literature, in 1913, for *Gitanjali*. Writers such as Bankim Chandra Chattopadhyay, Premchand, Subramania Bharati and Mahasweta Devi used literature to address nationalism, caste and poverty.
+
+The Sahitya Akademi, set up in 1954, gives awards in 24 languages, and the Jnanpith Award is India's highest literary honour.
+
+- The Eighth Schedule has 22 languages; eleven languages have classical status after the 2024 additions.
+- Tamil was the first classical language (2004); Marathi, Pali, Prakrit, Assamese and Bengali were added in 2024.
+- Tagore won the Nobel Prize in Literature in 1913.
+W: The list of classical languages and its 2024 expansion are high-probability Prelims facts.
+Q: What criteria should be used to declare a language "classical", and what are the benefits and risks of the status?
+
+## unesco-heritage-india | India's UNESCO World Heritage and intangible heritage
+
+UNESCO's World Heritage List, created under the 1972 World Heritage Convention, recognises places of outstanding universal value. India's first sites were inscribed in 1983: the Ajanta caves, Ellora caves, Agra Fort and Taj Mahal. With the addition of Sarnath in July 2026, India has 45 World Heritage Sites, among the highest totals of any country. Most are cultural sites; natural sites include Kaziranga, Manas, Keoladeo, the Sundarbans, Nanda Devi and Valley of Flowers, the Western Ghats and the Great Himalayan National Park, while Khangchendzonga National Park is a mixed site.
+
+Recent additions show the range of Indian heritage. Dholavira and the Ramappa temple in Telangana were added in 2021. Santiniketan and the Hoysala temples were added in 2023. The Moidams of the Ahom dynasty were added in 2024, and the Maratha Military Landscapes, a group of twelve forts, in 2025. India hosted the World Heritage Committee's 46th session in New Delhi in July 2024.
+
+UNESCO separately keeps lists of intangible cultural heritage: living traditions, performing arts, rituals and crafts. Indian elements include Vedic chanting, Ramlila, Kutiyattam, Chhau, yoga, the Kumbh Mela, Durga Puja in Kolkata, Garba of Gujarat and, from December 2025, Deepavali.
+
+A listing does not transfer ownership or control to UNESCO. The state remains responsible for protection and must report on the site's condition. Sites can be placed on the List of World Heritage in Danger if they are threatened.
+
+- India has 45 World Heritage Sites after Sarnath's inscription in July 2026.
+- Recent additions include Dholavira, Ramappa, Santiniketan, the Hoysala temples, the Moidams and the Maratha forts.
+- Deepavali joined UNESCO's intangible heritage list in December 2025.
+W: Heritage sites, their states and years of inscription are among the most-asked culture questions in Prelims.
+Q: Does UNESCO recognition help or harm a heritage site? Discuss with reference to tourism and local communities.
+
+## protecting-heritage-asi-gi | Protecting heritage: the ASI, heritage laws and GI tags
+
+The Archaeological Survey of India (ASI), founded in 1861 with Alexander Cunningham as its first Director-General, is the main agency for archaeology and monument protection. It works under the Ministry of Culture and looks after more than 3,600 centrally protected monuments. John Marshall, its Director-General from 1902, led the excavations that revealed the Harappan civilisation.
+
+The legal framework rests on the Ancient Monuments and Archaeological Sites and Remains Act, 1958 (AMASR Act). It declares monuments of national importance, sets a prohibited area of 100 metres and a regulated area of a further 200 metres around them, and controls construction there. The National Monuments Authority, created by a 2010 amendment, oversees these zones. The Antiquities and Art Treasures Act, 1972 regulates trade in antiquities, and India has used diplomacy and international law to recover hundreds of stolen artefacts from abroad in recent years. Under the Constitution, Article 49 directs the state to protect monuments, and Article 51A(f) makes it a fundamental duty of citizens to value and preserve the country's composite culture.
+
+Geographical Indication (GI) tags protect products whose quality comes from their place of origin. India's GI Act was passed in 1999 and came into force in 2003. Darjeeling tea was the first Indian product to receive a GI tag, in 2004. Hundreds of products now have GI status, from Banarasi sarees and Mysore silk to Kashmir saffron and Madhubani paintings. GI tags help artisans and farmers by preventing imitation, though enforcement and marketing remain weak.
+
+- The ASI, founded in 1861, protects more than 3,600 central monuments under the AMASR Act, 1958.
+- Article 49 and fundamental duty 51A(f) give heritage protection a constitutional base.
+- The GI Act (1999, in force 2003) protects place-linked products; Darjeeling tea was the first.
+W: Heritage institutions, laws and GI tags are recurring Prelims topics and useful in Mains answers on culture and economy.
+Q: How can heritage protection laws be balanced with the needs of urban development? Suggest measures.

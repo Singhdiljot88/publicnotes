@@ -1,0 +1,152 @@
+# THEME 11
+## mineral-resources-india | Mineral resources of India
+
+India's minerals are concentrated in the ancient rocks of the Peninsular Plateau, especially the Chotanagpur plateau and the belts running through Jharkhand, Odisha, Chhattisgarh, Karnataka and Goa. Geologists divide minerals into metallic (ferrous, such as iron ore and manganese, and non-ferrous, such as bauxite, copper and zinc) and non-metallic (such as mica, limestone and gypsum), with fuel minerals such as coal treated separately.
+
+Iron ore is found mainly as haematite and magnetite. Odisha is the largest producer, followed by Chhattisgarh, Karnataka and Jharkhand; major mines include Bailadila in Chhattisgarh and Kudremukh in Karnataka (now closed for environmental reasons). India is among the world's largest iron ore producers. Manganese, used in steel making, is found in Odisha, Madhya Pradesh, Maharashtra and Karnataka. Bauxite, the ore of aluminium, is concentrated in Odisha's Eastern Ghats, notably Panchpatmali in Koraput, and in Jharkhand, Gujarat and Chhattisgarh. Copper comes mainly from Rajasthan's Khetri belt and Jharkhand's Singhbhum, but India imports most of its needs. Zinc and lead are mined at Zawar and Rampura Agucha in Rajasthan. India was once the world's leading producer of mica, from Jharkhand, Bihar and Andhra Pradesh. Limestone, used for cement, is widely available.
+
+Mining raises difficult questions. Most mineral-rich areas are forested and home to Adivasi communities, so mining often involves displacement and conflicts over consent, as in the Niyamgiri hills of Odisha, where gram sabhas rejected bauxite mining in 2013 after a Supreme Court ruling. District Mineral Foundations, created by the 2015 amendment to the MMDR Act, collect a share of royalties for the welfare of mining-affected areas. The same amendment made auctions the method for allotting mineral concessions.
+
+- India's minerals are concentrated in the Peninsular Plateau, especially Odisha, Jharkhand, Chhattisgarh and Karnataka.
+- Odisha leads in iron ore and bauxite; Rajasthan leads in copper, zinc and lead.
+- Mining raises conflicts over forests, displacement and consent, addressed partly through District Mineral Foundations.
+W: Mineral distribution is a standard Prelims topic, and mining governance appears in Mains geography and governance questions.
+Q: How can India balance mineral extraction with the rights of forest-dwelling communities?
+
+## coal-oil-gas | Coal, oil and natural gas
+
+Coal is India's most important energy source, supplying around half of primary energy and the majority of electricity generation. India has the world's fifth-largest coal reserves and is the second-largest producer and consumer after China. Most Indian coal is from the Gondwana period, about 250 million years old, found in the river valleys of the Damodar (Jharia and Raniganj fields), Mahanadi (Talcher), Son, Godavari (Singareni) and Wardha. Younger Tertiary coal occurs in the North-East, and lignite, a low-grade brown coal, is mined at Neyveli in Tamil Nadu. Indian coal is generally high in ash, so India imports coking coal for steel. Coal India Limited produces most of the country's coal, and since 2020 commercial mining by private firms has been allowed.
+
+Oil was first struck in Asia at Digboi in Assam, where a refinery started in 1901. Today the main producing areas are Mumbai High offshore, Gujarat (Ankleshwar, Cambay), Assam and Rajasthan's Barmer basin. Natural gas comes mainly from Mumbai High and the Krishna-Godavari basin off the east coast. Domestic output meets only a small share of demand: India imports nearly 90% of its crude oil, making it the world's third-largest oil importer and highly exposed to price shocks and supply disruptions in the Gulf. India stores emergency reserves in underground caverns at Visakhapatnam, Mangaluru and Padur.
+
+India's energy policy tries to balance three goals: affordability, security of supply and the transition to cleaner energy. Coal is expected to remain important for decades, even as India targets 500 GW of non-fossil electricity capacity by 2030 and net-zero emissions by 2070.
+
+- Coal supplies about half of India's energy; most reserves are Gondwana coal in eastern and central India.
+- India imports nearly 90% of its crude oil, which makes it vulnerable to Gulf supply shocks.
+- Strategic petroleum reserves and the clean energy transition are key to energy security.
+W: Coal and oil distribution and energy security are frequently tested in both geography and economy papers.
+Q: How can India reduce its dependence on imported crude oil? Discuss the options and their limits.
+
+## critical-minerals | Critical minerals and the new resource race
+
+Critical minerals are those that are essential for modern technologies but face supply risks. They include lithium, cobalt, nickel and graphite for batteries; rare earth elements for magnets in electric motors and wind turbines; and others such as gallium, germanium and silicon for electronics and solar panels. Supply is highly concentrated: China dominates the refining of most critical minerals and the production of rare earth magnets, and has used export controls on some of them.
+
+In June 2023 the Ministry of Mines released a list of 30 critical minerals for India. The MMDR Act was amended in 2023 to allow the Union government to auction concessions for critical and strategic minerals and to open some previously reserved atomic minerals, such as lithium, to private exploration. In February 2023 the Geological Survey of India reported inferred lithium resources of 5.9 million tonnes at Salal-Haimana in the Reasi district of Jammu and Kashmir, though early auctions of the block drew weak interest.
+
+The National Critical Mineral Mission, approved in January 2025, aims to boost domestic exploration, mining and processing, recycling, and the acquisition of mineral assets abroad. Khanij Bidesh India Ltd (KABIL), a joint venture of public sector companies, has acquired lithium exploration blocks in Argentina's Catamarca province. India has signed critical mineral partnerships with countries such as Australia, Argentina, Chile and Brazil, and is part of the US-led Minerals Security Partnership. A scheme to promote domestic manufacturing of rare earth permanent magnets was approved in 2025.
+
+The challenge is not only finding minerals but building processing capacity, which requires technology, investment and environmental safeguards.
+
+- Critical minerals such as lithium, cobalt and rare earths are essential for clean energy and electronics.
+- India listed 30 critical minerals in 2023 and launched the National Critical Mineral Mission in 2025.
+- China's dominance in processing makes diversification and international partnerships a priority.
+W: Critical minerals sit at the intersection of geography, economy, energy and foreign policy, a favourite recent theme.
+Q: Why are critical minerals a strategic concern for India? What steps has India taken to secure them?
+
+## industrial-location | Factors in the location of industries
+
+Industries locate where they can minimise costs and maximise access to markets. The economist Alfred Weber's classical theory argued that industries using heavy, weight-losing raw materials, such as iron and steel or cement, locate near raw materials, while those whose products gain weight or are perishable locate near markets. Other factors include power, water, labour, transport, capital, government policy and agglomeration benefits, the advantages firms gain from clustering together.
+
+India's iron and steel industry shows raw material orientation. The first modern steel plant, the Tata Iron and Steel Company at Jamshedpur (1907), was located near iron ore and coal in the Chotanagpur region, with water from the Subarnarekha river. Public sector plants at Bhilai, Rourkela, Durgapur and Bokaro were built in the same mineral belt. Coastal plants such as Visakhapatnam use imported coal and export steel.
+
+The cotton textile industry began in Mumbai in 1854, drawing on raw cotton from the Deccan's black soils, a humid climate that kept threads from breaking, a port for importing machinery and exporting goods, and capital from merchants. Ahmedabad became the "Manchester of India". Later, many mills moved inland and to Tamil Nadu, while the Mumbai mills closed after the 1982 textile strike.
+
+Modern industries are often footloose, meaning they are not tied to raw materials. The information technology industry clusters in Bengaluru, Hyderabad, Pune, Chennai and the National Capital Region because of skilled labour, educational institutions, good connectivity and supportive policy. The automobile industry has clusters around Chennai, Pune, Gurugram-Manesar and Sanand. Government policies, such as special economic zones, industrial corridors and production-linked incentives, now play a large role in location.
+
+- Weight-losing raw materials pull industries towards their sources; perishable goods pull them to markets.
+- Iron and steel cluster in the Chotanagpur belt; cotton textiles began in Mumbai and Ahmedabad.
+- Footloose industries such as IT cluster where skills and infrastructure are available.
+W: Industrial location factors, with Indian examples, are a standard Mains geography question.
+Q: Why is the IT industry concentrated in a few Indian cities? What could spread it more widely?
+
+## straits-chokepoints | The world's maritime chokepoints
+
+About 80% of world trade by volume moves by sea, and much of it passes through a few narrow passages called chokepoints. Disruption at any one of them can raise freight costs and energy prices worldwide.
+
+The Strait of Hormuz, between Iran and Oman, links the Persian Gulf to the Gulf of Oman and the Arabian Sea. Around a fifth of the world's oil and much of its liquefied natural gas pass through it, including a large share of India's crude and LPG imports. The Bab-el-Mandeb strait, between Yemen and Djibouti, links the Red Sea with the Gulf of Aden; attacks on shipping by Yemen's Houthi movement from late 2023 forced many ships to reroute around Africa's Cape of Good Hope. The Suez Canal in Egypt, opened in 1869, links the Red Sea with the Mediterranean and greatly shortens the route between Asia and Europe.
+
+The Strait of Malacca, between Malaysia, Singapore and Indonesia's Sumatra, is the main route between the Indian Ocean and the Pacific, carrying a large share of China's energy imports; China's worry about dependence on it is called the "Malacca dilemma". India's Andaman and Nicobar Islands lie near its western entrance. Other key straits include Lombok and Sunda in Indonesia, the Strait of Gibraltar between Spain and Morocco, the Bosphorus and Dardanelles linking the Black Sea to the Mediterranean, the Panama Canal linking the Atlantic and Pacific, and the Mozambique Channel.
+
+India's interest in chokepoints explains its naval deployments in the Gulf of Aden against piracy since 2008, its partnerships with countries around the Indian Ocean, and its focus on the security of sea lanes in policies such as SAGAR, now expanded as MAHASAGAR.
+
+- Around 80% of world trade by volume moves by sea through a few chokepoints.
+- Hormuz is vital for oil and gas, including India's imports; Malacca links the Indian Ocean and Pacific.
+- Red Sea attacks since 2023 showed how disruptions raise costs worldwide.
+W: Chokepoints are a frequent map-based Prelims question and key to Mains questions on energy security and maritime strategy.
+Q: How do disruptions at maritime chokepoints affect India's economy? What can India do to reduce its vulnerability?
+
+## world-biomes-grasslands | The world's major biomes and grasslands
+
+A biome is a large region with a characteristic climate, vegetation and animal life. The main terrestrial biomes follow broad patterns of temperature and rainfall.
+
+Tropical rainforests lie near the equator, in the Amazon basin, the Congo basin and South-East Asia. They have high temperatures and rainfall all year, and the greatest biodiversity of any biome. Tropical savannas, such as the East African grasslands and the Llanos and Campos of South America, have tall grasses with scattered trees and distinct wet and dry seasons; they support large herds of grazing animals. Hot deserts, such as the Sahara, Kalahari, Arabian and Thar, lie mainly along the subtropical high-pressure belts and on western coasts beside cold currents.
+
+Temperate grasslands lie in the interiors of continents in the mid-latitudes, with hot summers, cold winters and moderate rainfall. They have different names on each continent: the Prairies of North America, the Pampas of Argentina, the Steppes of Eurasia, the Veldt of South Africa, the Downs of Australia and the Canterbury plains of New Zealand. Their fertile soils have made many of them the world's great wheat and cattle regions. Mediterranean regions, with hot dry summers and mild wet winters, grow citrus fruits, olives and grapes.
+
+Temperate deciduous forests cover parts of Europe, eastern North America and East Asia. The taiga, or boreal coniferous forest, stretches across northern Canada, Scandinavia and Siberia, supplying softwood timber. The tundra, near the Arctic, has permanently frozen subsoil (permafrost), short summers and low-growing mosses and lichens. Thawing permafrost is releasing methane, a powerful greenhouse gas.
+
+- Biomes reflect patterns of temperature and rainfall.
+- Temperate grasslands have different names on each continent: Prairies, Pampas, Steppes, Veldt and Downs.
+- The taiga is the largest forest biome; thawing tundra permafrost releases methane.
+W: Matching grasslands, biomes and regions is a common Prelims question type.
+Q: Why have temperate grasslands become the world's major granaries? What environmental costs has this had?
+
+## west-asia-gulf-geography | West Asia and the Gulf: geography and India's stakes
+
+West Asia, often called the Middle East, stretches from Turkey and the eastern Mediterranean to Iran and the Arabian Peninsula. Much of it is desert or semi-desert, but it holds about half of the world's proven oil reserves and a large share of its natural gas, concentrated around the Persian Gulf in Saudi Arabia, Iran, Iraq, Kuwait, the United Arab Emirates and Qatar.
+
+The region's geography explains its strategic importance. It lies at the junction of Europe, Asia and Africa, and controls key sea routes: the Strait of Hormuz, the Bab-el-Mandeb, the Red Sea and the Suez Canal. Water is scarce; rivers such as the Tigris, Euphrates and Jordan are shared and contested, and Gulf states rely heavily on desalination.
+
+India's stakes in the region are large. The Gulf supplies most of India's imports of crude oil, LPG and fertilisers. About nine million Indians live and work in the Gulf Cooperation Council countries, and their remittances are a major source of foreign exchange; the UAE and Saudi Arabia are among India's top trading partners. India signed a Comprehensive Economic Partnership Agreement with the UAE in 2022 and is negotiating with the GCC. The India-Middle East-Europe Economic Corridor (IMEC), announced at the G20 summit in New Delhi in 2023, aims to link India to Europe via the Gulf, Jordan and Israel by sea, rail and pipelines. India also develops the Chabahar port in Iran to reach Afghanistan and Central Asia, bypassing Pakistan.
+
+Conflicts in the region, from wars involving Israel and Iran to attacks on shipping, directly affect India through oil prices, the safety of its diaspora and trade routes. India has carried out several evacuations of its citizens from the region.
+
+- West Asia holds about half of the world's proven oil reserves and controls key sea routes.
+- About nine million Indians live in the Gulf, and the region supplies most of India's energy imports.
+- IMEC and Chabahar are India's connectivity projects through the region.
+W: West Asia links geography, energy security, diaspora and foreign policy, and appears often in GS II and GS III.
+Q: Why is stability in West Asia vital for India's economic and strategic interests?
+
+## indian-ocean-indo-pacific | The Indian Ocean and the Indo-Pacific
+
+The Indian Ocean is the third-largest ocean and the only one named after a country. Bounded by Africa, Asia and Australia, it is surrounded by more than thirty littoral states and carries a large share of the world's energy and container trade. India's peninsula juts deep into it, giving India a central position, and its island territories, the Andaman and Nicobar Islands in the east and Lakshadweep in the west, extend its reach. India's exclusive economic zone covers about 2.02 million square km.
+
+Key island states in the region include Sri Lanka, the Maldives, Mauritius, Seychelles and Madagascar. Under an agreement signed in May 2025, the United Kingdom agreed to transfer sovereignty over the Chagos Archipelago to Mauritius, while retaining the military base on Diego Garcia, used by the United States, under a long-term lease. India supported Mauritius's claim. China has expanded its presence through ports and infrastructure in countries such as Sri Lanka (Hambantota) and Pakistan (Gwadar), and a naval base in Djibouti, which some analysts describe as a "string of pearls".
+
+The term Indo-Pacific treats the Indian and Pacific Oceans as a single strategic space. It is used by India, the United States, Japan, Australia, ASEAN and the European Union, each with its own emphasis. India's vision, set out by Prime Minister Modi at the Shangri-La Dialogue in 2018, stresses a free, open and inclusive region. India's policy for the ocean, SAGAR (Security and Growth for All in the Region), announced in 2015, was expanded in 2025 to MAHASAGAR (Mutual and Holistic Advancement for Security and Growth Across Regions). India's Information Fusion Centre-Indian Ocean Region in Gurugram shares maritime data with partners.
+
+- The Indian Ocean carries a large share of world energy trade, and India sits at its centre.
+- The Chagos Archipelago is being transferred to Mauritius under a 2025 UK agreement, with Diego Garcia leased back.
+- India's ocean policy has moved from SAGAR (2015) to MAHASAGAR (2025).
+W: Indian Ocean geography and the Indo-Pacific concept are central to GS II international relations questions.
+Q: How has China's growing presence in the Indian Ocean influenced India's maritime strategy?
+
+## polar-regions | The Arctic and Antarctica
+
+The Arctic is an ocean surrounded by land: the northern parts of Russia, Canada, the United States (Alaska), Greenland (Denmark), Norway, Sweden, Finland and Iceland. The Arctic Council, set up in 1996, brings these eight states together; India has been an observer since 2013. Climate change is warming the Arctic about four times faster than the global average, shrinking sea ice and opening new shipping routes such as Russia's Northern Sea Route, and making oil, gas and minerals more accessible. Melting Greenland ice raises sea levels, and changes in the Arctic may affect weather far away, including, some research suggests, the Indian monsoon.
+
+India has had a research station, Himadri, at Ny-Ålesund in Norway's Svalbard archipelago since 2008. India released its Arctic Policy in 2022, focusing on science, climate, economic cooperation and connectivity.
+
+Antarctica is a continent covered by an ice sheet that holds about 70% of the world's fresh water. It has no permanent population. The Antarctic Treaty of 1959 reserves the continent for peaceful purposes and scientific research, freezes territorial claims and bans military activity and nuclear testing. The 1991 Madrid Protocol bans mining. India joined the treaty in 1983, the year it set up its first station, Dakshin Gangotri, which was later abandoned after being buried in ice. India now operates Maitri (since 1989) and Bharati (since 2012). The Indian Antarctic Act of 2022 gives domestic legal force to India's treaty obligations, and India hosted the Antarctic Treaty Consultative Meeting in Kochi in 2024. The National Centre for Polar and Ocean Research in Goa runs India's polar programme.
+
+- The Arctic is warming about four times faster than the global average; India is an Arctic Council observer.
+- India has Himadri in the Arctic and Maitri and Bharati in Antarctica.
+- The Antarctic Treaty (1959) and Madrid Protocol (1991) reserve Antarctica for science and ban mining.
+W: Polar regions are frequent Prelims topics, and the Arctic links climate change with geopolitics.
+Q: Why should a tropical country like India invest in polar research? Discuss its scientific and strategic value.
+
+## ports-maritime-india | Ports, shipping and India's maritime economy
+
+India has a coastline of about 7,500 km, 12 major ports under the Union government and around 200 non-major ports under state governments. Ports handle about 95% of India's trade by volume and about 70% by value. Major ports on the west coast include Deendayal (Kandla), Mumbai, Jawaharlal Nehru (Nhava Sheva, India's largest container port), Mormugao, New Mangalore and Kochi; on the east coast, V. O. Chidambaranar (Tuticorin), Chennai, Kamarajar (Ennore), Visakhapatnam, Paradip and Syama Prasad Mookerjee (Kolkata, with Haldia), the only major river port. Private ports such as Mundra in Gujarat have grown rapidly and now handle a large share of cargo.
+
+India is building new deep-water capacity. The Vadhavan port in Maharashtra, approved in 2024, is planned as one of the world's largest container ports. The Vizhinjam international seaport in Kerala, near major east-west shipping routes, began operations in 2024–25 and can handle the largest container ships, reducing India's dependence on transhipment hubs such as Colombo and Singapore. A transhipment port at Galathea Bay on Great Nicobar is part of a larger development project that has raised serious environmental concerns.
+
+The Sagarmala programme, launched in 2015, aims at port-led development: modernising ports, improving connectivity to hinterlands, developing coastal economic zones and promoting coastal shipping. The Major Port Authorities Act, 2021 gave major ports more autonomy. Maritime India Vision 2030 and the Maritime Amrit Kaal Vision 2047 set long-term goals, including expanding India's tiny share of global shipbuilding.
+
+India's maritime economy also includes fisheries, offshore energy and the "blue economy" of ocean resources. The Deep Ocean Mission, approved in 2021, includes the Samudrayaan programme to send humans to a depth of 6,000 m in the submersible Matsya-6000.
+
+- Ports handle about 95% of India's trade by volume; JNPA is the largest container port.
+- Vadhavan and Vizhinjam are new deep-water ports aimed at reducing dependence on foreign transhipment hubs.
+- Sagarmala (2015) drives port-led development; the Deep Ocean Mission explores the ocean floor.
+W: Ports and the blue economy appear in GS I geography and GS III infrastructure questions.
+Q: Why does India need its own transhipment hubs? Examine the economic and strategic benefits.

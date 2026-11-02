@@ -1,0 +1,156 @@
+# THEME 24
+## ecosystems-food-chains | Ecosystems: structure, energy flow and food chains
+
+An ecosystem is a community of living organisms interacting with each other and with their physical surroundings. It has two broad parts. The biotic part is made up of producers (green plants and algae that make food through photosynthesis), consumers (herbivores, carnivores and omnivores) and decomposers (bacteria and fungi that break down dead matter). The abiotic part includes sunlight, water, soil, temperature and nutrients. Ecosystems range from a small pond to a forest, a grassland or the open ocean.
+
+Energy enters almost every ecosystem as sunlight and flows in one direction, from producers to herbivores to carnivores. At each step most of the energy is lost as heat through respiration. Raymond Lindeman's "ten per cent law" (1942) captures this: on average only about 10% of the energy at one trophic level is passed to the next. This is why food chains rarely have more than four or five links, and why a plant-based diet supports more people per hectare than a meat-based one.
+
+A food chain is a single path of eating, such as grass to grasshopper to frog to snake to hawk. In nature these chains interlock into food webs, which make ecosystems more stable, because a predator can switch prey if one species declines. Ecological pyramids show numbers, biomass or energy at each level. The pyramid of energy is always upright. The pyramid of numbers can be inverted (many insects on one tree), and the pyramid of biomass can be inverted in the sea, where a small mass of fast-growing phytoplankton supports a larger mass of zooplankton.
+
+Some pollutants do not break down and build up along the chain. This is biomagnification. DDT, mercury and some other persistent chemicals reach their highest concentrations in top predators, as shown by the thinning of eggshells in birds of prey that led to DDT bans in many countries.
+
+- Energy flows one way and only about 10% passes between trophic levels (Lindeman's law), limiting the length of food chains.
+- Food webs are more stable than single chains; the pyramid of energy is always upright, while numbers and biomass pyramids can be inverted.
+- Persistent pollutants such as DDT and mercury biomagnify, concentrating in top predators.
+W: Ecosystem basics underpin prelims questions on trophic levels, pyramids and biomagnification, and frame mains answers on conservation.
+Q: Explain why the pyramid of energy can never be inverted, while pyramids of numbers and biomass sometimes are.
+
+## nutrient-cycles-succession | Nutrient cycles and ecological succession
+
+Unlike energy, matter is recycled. Biogeochemical cycles move elements between living things, the air, water and rocks. In the carbon cycle, plants take in carbon dioxide during photosynthesis, and respiration, decomposition and the burning of fossil fuels return it to the atmosphere. Oceans and forests act as large carbon sinks. Human activity, mainly fossil fuel burning and deforestation, has pushed atmospheric carbon dioxide well above pre-industrial levels, which is the main driver of climate change.
+
+The nitrogen cycle shows how a gas that makes up about 78% of the air must be "fixed" before plants can use it. Nitrogen-fixing bacteria such as Rhizobium, living in root nodules of legumes, and free-living cyanobacteria convert it to ammonia. Nitrifying bacteria turn ammonia into nitrites and nitrates, and denitrifying bacteria return nitrogen to the air. The industrial Haber-Bosch process now fixes huge amounts of nitrogen for fertiliser. The phosphorus cycle has no major gaseous phase; phosphorus moves slowly from rocks to soil, water and organisms. Excess nitrogen and phosphorus running off farms causes eutrophication: algal blooms that use up oxygen and kill fish.
+
+Ecological succession is the gradual, predictable change in the species that make up a community over time. Primary succession starts on bare surfaces with no soil, such as rock or cooled lava, with pioneer species like lichens and mosses. Secondary succession begins where soil remains after a disturbance, such as an abandoned field or a burnt forest, and proceeds faster. Succession in water is called hydrarch and on dry land xerarch. Both move towards a relatively stable climax community suited to the local climate.
+
+- Energy flows one way, but nutrients cycle; human activity has disrupted the carbon and nitrogen cycles.
+- Nitrogen must be fixed by bacteria (or industry) before plants can use it; nutrient run-off causes eutrophication.
+- Primary succession starts on bare rock with pioneers like lichens; secondary succession starts on existing soil and is faster.
+W: Nutrient cycles connect directly to climate change, fertiliser policy and water pollution, all recurring GS III themes.
+Q: How has human intervention in the nitrogen cycle created both food security gains and environmental problems?
+
+## air-pollution-ncap | Air pollution and the National Clean Air Programme
+
+Air pollution is among India's most serious public health problems. The main pollutants are particulate matter (PM10 and the finer PM2.5, which enters deep into the lungs and bloodstream), nitrogen dioxide, sulphur dioxide, ozone, carbon monoxide and ammonia. Sources include vehicles, power plants, industry, construction dust, burning of solid fuels in homes, and the seasonal burning of crop residue in north-west India. In winter, low temperatures and still air trap pollution close to the ground across the Indo-Gangetic plain, giving Delhi and other northern cities some of the worst air in the world.
+
+India's legal base is the Air (Prevention and Control of Pollution) Act, 1981, and the National Ambient Air Quality Standards, revised in 2009 to cover 12 pollutants. The National Air Quality Index, launched in 2014, reports air quality in six categories from good to severe. The National Clean Air Programme (NCAP), launched in 2019, was India's first national plan with a time-bound target. It covers about 130 "non-attainment" cities that failed to meet standards. Its revised goal is a reduction of up to 40% in PM10 levels by 2025-26 compared with 2017-18, and funding to cities is linked to performance.
+
+For Delhi and the National Capital Region, the Commission for Air Quality Management (CAQM), set up under a 2021 law, coordinates action across states. The Graded Response Action Plan (GRAP) triggers stricter steps, from dust control to stopping construction and restricting vehicles, as the air quality index worsens. Other measures include the leap to BS-VI fuel norms in 2020, the Ujjwala scheme for cooking gas, and support for machines that manage crop stubble.
+
+Critics note that progress across NCAP cities has been uneven, that funds have mostly gone to dust control rather than to industry, vehicles or burning, and that pollution crosses city and state lines.
+
+- PM2.5 is the most harmful pollutant; winter inversion traps pollution across the Indo-Gangetic plain.
+- NCAP (2019) covers about 130 non-attainment cities, targeting up to 40% lower PM10 by 2025-26 against 2017-18.
+- CAQM (2021) and GRAP manage Delhi-NCR's air with graded, airshed-wide actions.
+W: Air pollution combines health, federalism and agriculture, and appears every year in GS III and essay papers.
+Q: Why has air pollution control in India needed an airshed approach rather than a city-by-city one?
+
+## water-pollution-namami-gange | Water pollution and cleaning the Ganga
+
+Water pollution in India comes from three main sources: untreated sewage from towns and cities, industrial effluents, and run-off of fertilisers and pesticides from farms. Sewage is the largest single source. Cities generate far more wastewater than their treatment plants can handle, and much of the untreated remainder flows straight into rivers. Common measures of pollution include biochemical oxygen demand (BOD), which shows how much oxygen microbes need to break down organic waste, dissolved oxygen, and faecal coliform counts. Groundwater faces its own threats, including arsenic in parts of the Ganga-Brahmaputra plains and fluoride in many dry districts.
+
+The Water (Prevention and Control of Pollution) Act, 1974 was India's first major environmental law. It set up the Central and State Pollution Control Boards, which give consent to industries to set up and operate and monitor their discharges. The Ganga Action Plan of 1985 was the first big river clean-up effort, but it had limited success because sewage treatment capacity lagged and plants were poorly run.
+
+Namami Gange, approved in 2014, is an integrated mission covering sewage treatment, riverfront development, river surface cleaning, afforestation, biodiversity and public awareness. It is run by the National Mission for Clean Ganga. A key innovation is the hybrid annuity model for sewage treatment plants, under which the government pays private operators over 15 years linked to performance, so that plants are maintained after they are built. The National Ganga Council, chaired by the Prime Minister, oversees the effort, and the Ganga river dolphin, India's national aquatic animal, is a sign of river health.
+
+Results have been mixed: water quality has improved at some stretches, but faecal coliform levels remain high in many places, and keeping enough water in the river (ecological flow) is still a challenge.
+
+- Untreated sewage is the largest source of river pollution; BOD, dissolved oxygen and faecal coliform measure it.
+- The Water Act, 1974 created pollution control boards; the 1985 Ganga Action Plan had limited success.
+- Namami Gange (2014) uses the hybrid annuity model to keep sewage plants running, but ecological flow remains a weak link.
+W: River pollution links urban governance, federal cooperation and environmental law, and is a frequent GS III case study.
+Q: Why did earlier Ganga clean-up efforts fail, and how does Namami Gange try to address those weaknesses?
+
+## solid-waste-plastic-rules | Solid waste and plastic: the rules that govern them
+
+India's towns and cities produce huge quantities of solid waste every day, and much of it has ended up in open dumps, where it releases methane, catches fire and pollutes groundwater. The Swachh Bharat Mission (Urban), launched in 2014, made waste processing a national priority, and its second phase (2021) aims for "garbage-free" cities, including the clearing of legacy dumpsites.
+
+The legal framework was overhauled with the Solid Waste Management Rules, 2026, which replaced the 2016 rules and came into force on 1 April 2026. They require waste to be separated at source into four streams: wet, dry, sanitary and special care waste. Bulk waste generators, defined by thresholds such as a built-up area above 20,000 square metres, water use above 40,000 litres a day or waste above 100 kg a day, must take responsibility for handling their own waste under Extended Bulk Waste Generator Responsibility. Only inert or non-recyclable waste may be sent to landfills, legacy dumpsites must be cleared through biomining, and environmental compensation can be imposed for violations.
+
+Plastic is governed by the Plastic Waste Management Rules, 2016, as amended several times. From 1 July 2022, India banned 19 identified single-use plastic items, including plastic cutlery, straws, earbuds with plastic sticks and thin carry bags. The minimum thickness of plastic carry bags was raised to 120 microns from December 2022. The 2022 guidelines on Extended Producer Responsibility (EPR) require producers, importers and brand owners to collect and recycle set shares of the plastic packaging they put on the market, tracked through a central online portal with tradable certificates.
+
+The weak links remain enforcement against banned items, the informal waste pickers who do much of the recycling but lack recognition, and the capacity of urban local bodies.
+
+- SWM Rules 2026 (from 1 April 2026) mandate four-way segregation, bulk generator responsibility and biomining of legacy dumps.
+- Nineteen single-use plastic items were banned from 1 July 2022; carry bags must be at least 120 microns.
+- Plastic EPR (2022) makes producers responsible for collecting and recycling their packaging.
+W: Waste management is a frequent GS III topic and connects to urban governance, the circular economy and the role of local bodies.
+Q: Discuss how the Solid Waste Management Rules, 2026 shift responsibility for waste from municipalities to generators.
+
+## environmental-laws-india | India's environmental laws: a framework
+
+India's environmental protection rests on the Constitution as well as statutes. The 42nd Amendment (1976) added Article 48A, a Directive Principle asking the state to protect and improve the environment and safeguard forests and wildlife, and Article 51A(g), a fundamental duty of every citizen to protect the natural environment. The Supreme Court has read the right to a clean and healthy environment into the right to life under Article 21, and in 2024 it recognised a right against the adverse effects of climate change.
+
+The main statutes came in stages. The Wildlife (Protection) Act, 1972 created protected areas and schedules of protected species; its 2022 amendment rationalised the schedules and gave effect to CITES. The Water Act, 1974 and the Air Act, 1981 set up the pollution control boards. The Forest (Conservation) Act, 1980 required central approval to divert forest land; it was amended in 2023 and renamed the Van (Sanrakshan Evam Samvardhan) Adhiniyam, which narrowed the land it covers and exempted some categories, such as strategic projects near borders. The amendment has been challenged in the Supreme Court.
+
+After the Bhopal gas tragedy of 1984, Parliament passed the Environment (Protection) Act, 1986, an umbrella law that lets the Centre set standards, regulate industry and issue rules. Most waste rules and the EIA notification are made under it. Other laws include the Biological Diversity Act, 2002 (amended in 2023), the Public Liability Insurance Act, 1991, and the National Green Tribunal Act, 2010.
+
+Courts have shaped this field through doctrines such as the polluter pays principle, the precautionary principle, the public trust doctrine and absolute liability for hazardous industries (from the M.C. Mehta oleum gas case of 1986). The Jan Vishwas Act, 2023 replaced jail terms for many minor offences under environmental laws with monetary penalties, which supporters see as ease of business and critics as weaker deterrence.
+
+- Articles 48A and 51A(g), added in 1976, and Article 21 as interpreted by courts form the constitutional base.
+- The Environment (Protection) Act, 1986 is the umbrella law under which most rules are made.
+- Judicial doctrines (polluter pays, precautionary principle, absolute liability) fill gaps; the 2023 forest law amendment is contested.
+W: GS III often asks about the adequacy of environmental laws, and prelims tests years, articles and doctrines.
+Q: How has the judiciary strengthened environmental protection in India beyond what statutes provide?
+
+## environmental-impact-assessment | Environmental Impact Assessment
+
+Environmental Impact Assessment (EIA) is the process of studying the likely environmental and social effects of a project before it is approved, so that harm can be avoided, reduced or offset. In India, EIA became mandatory for certain projects through a notification under the Environment (Protection) Act in 1994. The current framework is the EIA Notification of 2006, which has been amended many times.
+
+The 2006 notification divides projects into Category A, appraised at the central level by an Expert Appraisal Committee of the Environment Ministry, and Category B, appraised by state-level authorities. Category B is further divided into B1, which needs a full EIA report, and B2, which does not. The process has four stages: screening (deciding whether a project needs EIA), scoping (setting the terms of reference for the study), public consultation (a public hearing near the site and written comments from affected people) and appraisal (expert review leading to a decision on clearance with conditions).
+
+Critics point to several weaknesses. EIA reports are prepared by consultants paid by project developers, which creates a conflict of interest, and some reports have been found to copy material from other projects. Public hearings are sometimes held with little notice or in languages local people do not understand. Monitoring of clearance conditions after approval is weak. The draft EIA Notification of 2020 drew wide protest because it proposed to allow post-facto clearance for projects that had started without approval and to exempt more projects from public consultation.
+
+Post-facto clearance went to the Supreme Court. In the Vanashakti case, a two-judge bench struck down such clearances in May 2025. In November 2025, a three-judge bench recalled that judgment by a 2:1 majority, reopening the question.
+
+- The EIA Notification, 2006 sets Category A (central) and B (state) projects and a four-stage process: screening, scoping, public consultation, appraisal.
+- Key weaknesses: developer-funded reports, weak public hearings and poor post-clearance monitoring.
+- The Supreme Court struck down post-facto clearance in May 2025, but a larger bench recalled that ruling in November 2025.
+W: EIA sits at the heart of the development versus environment debate and is a regular mains question.
+Q: Critically examine the role of public consultation in India's Environmental Impact Assessment process.
+
+## environmental-institutions-ngt | Environmental institutions: pollution boards and the NGT
+
+India's environmental governance rests on a network of institutions. The Ministry of Environment, Forest and Climate Change (MoEFCC) makes policy and grants central clearances. The Central Pollution Control Board (CPCB), set up under the Water Act in 1974, sets standards, coordinates state boards and monitors air and water quality. Each state has a State Pollution Control Board (or a Pollution Control Committee in Union Territories) that grants "consent to establish" and "consent to operate" to industries and acts against violators.
+
+Pollution control boards have long been criticised for staff shortages, limited technical capacity and dependence on state governments, which can make them reluctant to act against major industries. They are also responsible for an ever-growing list of rules, from waste to noise.
+
+The National Green Tribunal (NGT) was set up in 2010 under the National Green Tribunal Act, following Supreme Court suggestions and India's commitments at the 1992 Rio summit. It is a specialised body with judicial and expert members that hears civil cases involving substantial questions about the environment under seven laws, including the Water, Air, Environment Protection, Forest Conservation and Biological Diversity Acts. It must try to dispose of cases within six months, applies the principles of sustainable development, precaution and polluter pays, and can award compensation. Its principal bench is in New Delhi, with zonal benches in Bhopal, Pune, Kolkata and Chennai. Appeals go to the Supreme Court.
+
+The NGT has taken strong action, including ordering heavy environmental compensation against states for poor waste and sewage management. Critics argue that it sometimes exceeds its role by acting as an administrator, that its orders are not always enforced, and that vacancies have affected its work. The Wildlife Protection Act and Forest Rights Act fall outside its jurisdiction.
+
+- CPCB (1974) sets standards and coordinates state boards, which grant consents to industries.
+- The NGT (2010) has judicial and expert members, covers seven laws and aims to decide cases within six months.
+- The NGT is praised for speed and strong orders but criticised for overreach, weak enforcement and vacancies.
+W: Questions on the effectiveness of environmental institutions and the NGT appear regularly in GS II and GS III.
+Q: Evaluate the role of the National Green Tribunal in environmental governance in India.
+
+## e-waste-circular-economy | E-waste, batteries and the circular economy
+
+A circular economy keeps materials in use for as long as possible through reuse, repair, refurbishment and recycling, instead of the linear model of take, make and throw away. For India, which imports much of its critical minerals and generates fast-growing waste, circularity is both an environmental and an economic strategy. NITI Aayog and the Environment Ministry have identified priority areas such as electronics, batteries, vehicles, tyres, plastics and metals.
+
+India is among the largest generators of electronic waste in the world. E-waste contains valuable metals such as copper, gold and rare elements, but also toxic substances such as lead, mercury and cadmium. Most of it is handled by the informal sector, where workers dismantle devices and burn or acid-wash parts without protection, exposing themselves and harming soil and water. The E-Waste (Management) Rules, 2022, in force from April 2023, put Extended Producer Responsibility at the centre. Producers must meet yearly recycling targets, and registered recyclers generate EPR certificates on a central online portal that producers can buy. The rules widened the list of covered products, including solar panels.
+
+The Battery Waste Management Rules, 2022 apply EPR to all kinds of batteries, including those of electric vehicles, and set targets for recovering materials and using recycled content in new batteries. As the number of electric vehicles grows, recovering lithium, cobalt and nickel from old batteries could reduce India's reliance on imports. Similar EPR rules now cover tyres and used oil, and a vehicle scrappage policy aims to retire old, polluting vehicles.
+
+The challenges are bringing the informal sector into the formal system, preventing fake certificates, and building enough recycling capacity.
+
+- A circular economy keeps materials in use; India's priority sectors include electronics, batteries, vehicles and plastics.
+- E-Waste Rules 2022 (from April 2023) and Battery Waste Management Rules 2022 rely on EPR with tradable certificates.
+- Recycling EV batteries can reduce import dependence for critical minerals; formalising the informal sector is the key challenge.
+W: The circular economy links environment, resource security and jobs, and is a growing theme in GS III.
+Q: How can Extended Producer Responsibility help India manage its growing e-waste problem?
+
+## mission-life-green-credit | Mission LiFE and the Green Credit Programme
+
+Most climate policy focuses on governments and industry. Mission LiFE (Lifestyle for Environment), announced by Prime Minister Narendra Modi at COP26 in Glasgow in 2021 and launched in October 2022, focuses on individuals and communities. It promotes "mindful and deliberate utilisation" instead of "mindless and destructive consumption". It lists simple actions in seven areas: saving energy, saving water, cutting single-use plastic, adopting sustainable food systems, reducing waste, adopting healthy lifestyles and reducing e-waste. India's updated climate pledge (NDC) of 2022 included the promotion of a sustainable lifestyle based on traditions of conservation, and the idea was reflected in G20 statements during India's presidency in 2023.
+
+The Green Credit Programme is a market-based mechanism meant to reward voluntary environmental actions. Its rules were notified in October 2023 under the Environment (Protection) Act. Individuals, communities, companies and local bodies can earn tradable green credits for activities such as tree planting, water conservation, sustainable agriculture, waste management, reducing air pollution and mangrove conservation. The Indian Council of Forestry Research and Education administers it. Tree planting on degraded land was the first activity to be taken up, with methods for calculating credits issued in 2024.
+
+The green credit system is separate from the carbon credit trading scheme under the Energy Conservation Act, which deals with greenhouse gas emissions. Supporters say green credits mobilise private money for conservation. Critics worry that counting trees planted rather than survival, or allowing credits to offset damage elsewhere, could lead to greenwashing, and that planting on "degraded" land may harm grasslands and the communities that use them.
+
+- Mission LiFE (launched October 2022) targets individual behaviour across seven themes, such as saving energy and water.
+- The Green Credit Programme (rules of October 2023) rewards voluntary environmental actions with tradable credits.
+- Green credits differ from carbon credits; risks include greenwashing and planting on ecologically valuable grasslands.
+W: LiFE and green credits reflect India's push to make behaviour and markets part of climate policy, a likely GS III and essay theme.
+Q: Can individual lifestyle change, as promoted by Mission LiFE, make a meaningful contribution to tackling climate change?

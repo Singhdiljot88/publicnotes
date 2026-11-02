@@ -1,0 +1,178 @@
+# THEME 28
+## ethics-and-human-interface | Ethics and human interface: what ethics is and why it matters
+
+Ethics is the study of what is right and wrong, good and bad, in human conduct. It asks how we ought to live and act, not only how we do. The GS IV syllabus opens with "ethics and human interface", which covers the essence of ethics, what determines ethical behaviour, and what follows from it in private and public life.
+
+Philosophers distinguish several levels. Meta-ethics asks what moral words such as "good" mean and whether moral truths exist. Normative ethics offers theories of right action: consequentialism judges acts by their results, deontology by duties and rules, and virtue ethics by the character of the person acting. Applied ethics deals with concrete issues such as bioethics, business ethics and the ethics of public administration.
+
+Ethics overlaps with law and morality but is not the same. Law is enforced by the state and sets minimum standards; something can be legal yet unethical, such as exploiting a loophole to avoid tax, or illegal yet arguably ethical, such as civil disobedience against an unjust law. Morality often refers to the values held by an individual or a community, while ethics is the reasoned reflection on those values.
+
+The determinants of ethical behaviour include family upbringing, religion and culture, education, peer groups, laws and organisational culture, and personal conscience. Its consequences reach far: ethical conduct builds trust, which lowers the cost of every transaction in society, while unethical conduct breeds cynicism and corruption. For a civil servant, who exercises public power on behalf of citizens, ethics is not an optional extra but the basis of legitimacy.
+
+- Ethics studies how we ought to act, through consequences, duties or virtues.
+- Law sets minimum standards; ethics often asks for more than the law requires.
+- Family, culture, education, institutions and conscience all shape ethical behaviour.
+W: GS IV begins with these concepts, and definitions and distinctions are the foundation for every answer and case study.
+Q: "What is legal is not always ethical." Explain with examples from public administration.
+
+## family-society-education-values | How values are formed: family, society and education
+
+Values are deep, relatively stable beliefs about what is important and desirable, such as honesty, fairness, compassion or loyalty. They guide choices and judgements. The GS IV syllabus asks about the role of family, society and educational institutions in inculcating values.
+
+The family is the first school of values. Children learn far more from what parents do than from what they say: honesty at home, how domestic workers are treated, whether rules are bent for convenience. Psychologists describe this as socialisation through imitation, reinforcement and identification. A family can also transmit prejudices, such as caste or gender bias, so values learnt early are not always good ones.
+
+Society widens the circle. Religion, community, neighbourhood, peer groups, the media and now social media present role models and norms. When society celebrates success regardless of means, or tolerates petty corruption as normal, it weakens values learnt at home. Conversely, social movements, from the freedom struggle to campaigns for transparency, have spread values such as non-violence, equality and accountability.
+
+Educational institutions shape values through the curriculum, through teachers as role models, and through the hidden curriculum of school culture: whether cheating is punished, whether students of all backgrounds are treated equally, whether questioning is encouraged. The National Education Policy 2020 stresses ethical and constitutional values, critical thinking and service. Value education works best when it is lived in daily practice rather than taught only as a separate subject.
+
+Values formed in these settings are tested later in workplaces. Strong institutions with clear codes, fair leadership and consequences for misconduct help people act on good values rather than abandon them under pressure.
+
+- Values are stable beliefs about what matters; they guide choices.
+- Families teach mainly by example, and can pass on both virtues and prejudices.
+- Schools shape values through teachers, culture and the hidden curriculum, not only lessons.
+W: The role of family, society and education in value formation is a direct syllabus item and a frequent short-answer question.
+Q: Why do values taught in school often fail to translate into behaviour in adult life? Suggest remedies.
+
+## attitude-content-function | Attitude: content, structure and influence
+
+An attitude is a learned tendency to evaluate something, a person, group, object or idea, favourably or unfavourably. The syllabus asks about the content, structure and function of attitudes, their influence on thought and behaviour, moral and political attitudes, and social influence and persuasion.
+
+Psychologists often describe attitudes with the ABC model. The affective component is how we feel about something; the behavioural component is how we tend to act towards it; and the cognitive component is what we believe about it. These do not always align. A person may believe in gender equality yet feel uneasy with women in authority, or support cleanliness yet litter. Leon Festinger's theory of cognitive dissonance explains the discomfort people feel when attitudes and actions clash, and how they reduce it, often by changing the attitude rather than the behaviour.
+
+Attitudes serve functions. They help us make sense of the world quickly (knowledge function), express our identity and values (value-expressive function), protect our self-image (ego-defensive function), and fit in with groups (adjustive function). Moral attitudes concern right and wrong, such as views on honesty or animal welfare; political attitudes concern power and public policy, such as views on the role of the state.
+
+Attitudes can be changed by persuasion. Its effectiveness depends on the source (credibility and attractiveness), the message (clear arguments, emotional appeal, two-sided presentation for informed audiences), and the audience (prior beliefs, education, involvement). Social influence works through conformity, compliance and obedience; Stanley Milgram's obedience experiments of the 1960s showed how readily ordinary people follow authority even against their conscience. Public campaigns such as Swachh Bharat or anti-tobacco messaging apply these ideas.
+
+- An attitude has affective, behavioural and cognitive components (the ABC model).
+- Cognitive dissonance arises when attitudes and actions conflict.
+- Persuasion depends on the source, the message and the audience; social influence can override conscience.
+W: Attitude is a core GS IV concept, and its links to persuasion and behaviour change appear in theory and case questions.
+Q: How can persuasion be used ethically by the government to change public behaviour? Illustrate with a campaign.
+
+## foundational-values-civil-service | Foundational values for the civil service
+
+The syllabus lists aptitude and foundational values for civil service: integrity, impartiality and non-partisanship, objectivity, dedication to public service, and empathy, tolerance and compassion towards the weaker sections. Aptitude is the capacity to learn and perform a role well; values decide whether that capacity is used for the public good.
+
+Integrity means consistency between one's values, words and actions, and being honest when no one is watching. It covers financial honesty but also intellectual honesty, such as giving frank advice. Impartiality means treating everyone fairly without favour or prejudice, and non-partisanship means serving any elected government faithfully without political bias, while refusing to act illegally for any party. Objectivity means taking decisions on evidence and merit, not on personal preference or pressure.
+
+Dedication to public service means putting the public interest above personal comfort or career, and persisting in difficult postings. Empathy is the ability to understand another person's situation and feelings; compassion adds the desire to help; tolerance means respecting differences of belief and way of life. These matter most for the weaker sections, who depend most on the state and have the least power to complain.
+
+Britain's Committee on Standards in Public Life, chaired by Lord Nolan, set out seven principles of public life in 1995: selflessness, integrity, objectivity, accountability, openness, honesty and leadership. India's Second Administrative Reforms Commission drew on them in its report on ethics in governance and recommended a code of ethics for civil servants. A draft Public Services Bill in India also proposed listing core values.
+
+These values can conflict. Compassion may tempt an officer to bend a rule; impartiality may seem cold. Good judgement lies in balancing them within the law.
+
+- Integrity, impartiality, non-partisanship, objectivity, dedication, empathy, tolerance and compassion are the syllabus values.
+- The Nolan Committee's seven principles (1995) are a widely cited model.
+- Values can conflict, and judgement is needed to balance them lawfully.
+W: These values are named in the syllabus and underpin almost every case study answer.
+Q: Can a civil servant be both non-partisan and committed to the policies of the elected government? Discuss.
+
+## emotional-intelligence | Emotional intelligence in administration
+
+Emotional intelligence (EI) is the ability to recognise, understand and manage one's own emotions, and to recognise and influence the emotions of others. The psychologists Peter Salovey and John Mayer introduced the concept in 1990, and Daniel Goleman popularised it in his 1995 book *Emotional Intelligence*.
+
+Goleman's model has five components. Self-awareness is knowing one's emotions, strengths and weaknesses. Self-regulation is controlling impulses and staying calm under pressure. Motivation is an inner drive to achieve beyond money or status. Empathy is sensing others' feelings and perspectives. Social skills cover communication, conflict management and building relationships. Unlike IQ, which is relatively stable, EI can be developed through reflection, feedback and practice.
+
+EI matters in administration because public servants constantly deal with people under stress: angry citizens at a grievance hearing, protesters, disaster victims, demoralised staff, and politicians under pressure. An officer with high EI can calm a tense crowd, listen to a complainant without becoming defensive, give bad news humanely, and motivate a team without fear. Self-regulation also protects against unethical behaviour driven by anger, greed or fear.
+
+EI has limits and risks. It is a skill, and skills can be misused: a manipulator may read emotions well in order to exploit them. It must therefore be combined with sound values. It also does not replace knowledge and competence.
+
+Examples often cited include officials who defused communal tension through calm dialogue, and disaster managers who combined firm command with visible care for victims, as in Odisha's cyclone evacuations.
+
+- EI is the ability to understand and manage one's own and others' emotions.
+- Goleman's five components are self-awareness, self-regulation, motivation, empathy and social skills.
+- EI helps in crises and conflict, but must be combined with integrity to avoid manipulation.
+W: EI is a named syllabus item and a favourite theory question, also useful in case studies.
+Q: How can emotional intelligence help a district magistrate manage a law-and-order crisis?
+
+## western-moral-thinkers | Western moral thinkers
+
+The syllabus asks for the contributions of moral thinkers and philosophers from India and the world. Several Western thinkers are essential.
+
+Socrates held that virtue is knowledge and that "the unexamined life is not worth living". Plato, in *The Republic*, imagined a just state ruled by philosopher-kings and described justice as each part of society doing its proper role. Aristotle developed virtue ethics: the goal of life is eudaimonia, flourishing, achieved by developing virtues through habit. Each virtue is a golden mean between extremes, so courage lies between cowardice and recklessness.
+
+Immanuel Kant founded the leading duty-based (deontological) ethics. Morality rests on reason, not consequences. His categorical imperative says act only on principles you could will to be universal laws, and treat humanity always as an end, never merely as a means. On this view lying is wrong even to achieve a good result.
+
+Utilitarianism, developed by Jeremy Bentham and John Stuart Mill, judges actions by their consequences: the right act produces the greatest happiness for the greatest number. Bentham treated all pleasures as comparable; Mill distinguished higher and lower pleasures and, in *On Liberty* (1859), defended individual freedom through the harm principle: the state may restrict liberty only to prevent harm to others. Utilitarian reasoning is common in policy, as in cost-benefit analysis, but critics say it can justify sacrificing minorities.
+
+John Rawls, in *A Theory of Justice* (1971), asked what principles people would choose behind a "veil of ignorance", not knowing their own position in society. He argued they would choose equal basic liberties and allow inequalities only if they benefit the least advantaged (the difference principle). Other thinkers often cited include Thomas Hobbes and John Locke on the social contract, and Amartya Sen on capabilities and justice.
+
+- Aristotle's virtue ethics seeks flourishing through habits of virtue and the golden mean.
+- Kant's categorical imperative grounds morality in duty and respect for persons.
+- Utilitarianism (Bentham, Mill) judges by consequences; Rawls's veil of ignorance supports fairness to the least advantaged.
+W: Thinkers and their ideas are a recurring GS IV question, often asking for relevance to administration today.
+Q: How can Rawls's difference principle guide the design of welfare policy in India?
+
+## indian-moral-thinkers | Indian moral thinkers
+
+Indian traditions offer a rich body of ethical thought that UPSC expects candidates to know and apply.
+
+The *Bhagavad Gita* teaches nishkama karma: doing one's duty without attachment to the fruits of action. For an administrator, this suggests acting rightly regardless of personal reward or fear. The Buddha taught the Middle Path, the Eightfold Path including right speech, right action and right livelihood, and compassion (karuna) for all beings. Mahavira emphasised ahimsa (non-violence) and anekantavada, the idea that truth has many sides, which encourages tolerance. Thiruvalluvar's *Tirukkural* offers practical guidance on virtue, wealth and love, including on just rule. Kautilya's *Arthashastra* held that the king's happiness lies in the happiness of his subjects, and described in detail how officials embezzle public money, recommending close supervision.
+
+In modern times, Swami Vivekananda called for service to humanity as service to God and stressed strength, self-reliance and character building. Rabindranath Tagore championed universal humanism and education that frees the mind. Mahatma Gandhi made ethics the centre of politics: truth (satya), non-violence (ahimsa), the purity of means as well as ends, trusteeship of wealth, and the talisman: when in doubt, recall the face of the poorest person you have seen and ask whether your step will help them. He also listed "seven social sins", including politics without principles, commerce without morality and knowledge without character.
+
+B. R. Ambedkar grounded ethics in liberty, equality and fraternity, insisted on constitutional morality, and warned that political democracy cannot last without social democracy. Other thinkers cited include Basavanna on dignity of labour (kayaka) and Sree Narayana Guru on social equality.
+
+These ideas are best used in answers not as quotations alone, but to show how a principle would guide a concrete decision.
+
+- The Gita's nishkama karma and the Buddha's Middle Path and compassion remain widely applied.
+- Gandhi stressed truth, non-violence, pure means and the talisman of the poorest person.
+- Ambedkar's constitutional morality and fraternity are central to public ethics.
+W: Indian thinkers are regularly asked in GS IV, and a well-chosen idea strengthens case study answers.
+Q: How is Gandhi's talisman relevant to decision-making by civil servants today?
+
+## ethics-private-public-relationships | Ethics in private and public relationships
+
+The syllabus includes ethics in private and public relationships. Private relationships, with family, friends and neighbours, are based on personal bonds, emotion and reciprocity. Public relationships, between officials and citizens, or between public institutions, are based on roles, rules and the public interest.
+
+The values that suit each sphere differ. In private life, loyalty, partiality towards loved ones and forgiveness are often virtues. In public life, the same impulses can become nepotism, favouritism and cover-ups. A parent should favour their own child; a recruiting officer must not. The ethical challenge for a public servant is to keep personal loyalties from distorting public duties, while remaining humane.
+
+The two spheres also influence each other. A person who is honest and respectful at home is more likely to be so at work, and vice versa. Private conduct can become a public matter when it affects trust in an office: a public servant's lavish lifestyle beyond known income, harassment of colleagues, or domestic violence by a police officer raise questions about fitness for public duty. At the same time, public officials are entitled to privacy in matters that do not affect their work, and the line must be drawn carefully.
+
+Gender justice is an important dimension. Ethical relationships require respect for the dignity and autonomy of women at home and at work. The Sexual Harassment of Women at Workplace Act, 2013, building on the Supreme Court's Vishaka guidelines of 1997, makes this a legal duty for employers.
+
+Accountability in public relationships also means treating every citizen with equal respect, regardless of status, caste, gender or religion, which is the essence of fraternity.
+
+- Private relationships allow partiality; public roles demand impartiality.
+- Private conduct becomes a public concern when it affects trust in an office.
+- Respect for dignity, especially gender justice, applies in both spheres.
+W: This is a named syllabus topic, often tested through questions on nepotism, conflict of interest and workplace ethics.
+Q: Where should the line be drawn between a public servant's private life and public accountability?
+
+## conscience-moral-dilemmas | Conscience, crisis of conscience and moral dilemmas
+
+Conscience is the inner sense of right and wrong that judges our own actions. It can be seen as the voice of reason, of religious or moral teaching, or of internalised social norms. Gandhi spoke of the "inner voice" guiding his decisions. The syllabus refers to conscience as a source of ethical guidance and asks about crisis of conscience.
+
+A moral dilemma arises when a person must choose between two or more obligations or values, and acting on one means failing the other. Examples in administration include whether to follow a superior's lawful but unjust order, whether to report a corrupt colleague who is also a friend, or whether to evict encroachers who are poor in order to clear a public drain. An ethical dilemma differs from a temptation: in a temptation, the right course is clear but costly; in a dilemma, the right course itself is unclear.
+
+A crisis of conscience occurs when a person's conscience conflicts sharply with what their role, organisation or law demands. Responses range from voice (raising concerns internally), to whistleblowing (reporting outside), to exit (resigning), to loyalty (complying while disagreeing). Albert Hirschman's framework of exit, voice and loyalty is often used to analyse such choices.
+
+Conscience is not infallible. People can sincerely believe wrong things, and conscience shaped by prejudice can mislead. So conscience should be informed by reason, law, constitutional values and dialogue. In a democracy, a civil servant who disagrees with a lawful policy should record dissent through proper channels and implement it faithfully, unless it requires clearly illegal or grossly immoral action.
+
+A structured approach helps in dilemmas: identify the facts and stakeholders, the values in conflict, the legal position, and the options; evaluate each option's consequences and consistency with principles; and choose the option that best upholds the public interest and constitutional values.
+
+- Conscience is an inner moral sense, but it must be informed by reason and law.
+- A dilemma involves conflicting obligations; a temptation involves a clear right course that is costly.
+- Exit, voice and loyalty describe responses to a crisis of conscience.
+W: Conscience and dilemmas are central to GS IV theory and essential for structuring case study answers.
+Q: Is following one's conscience always the right course for a civil servant? Discuss.
+
+## lessons-from-leaders-reformers | Lessons from leaders, reformers and administrators
+
+The syllabus asks candidates to draw lessons from the lives and teachings of great leaders, reformers and administrators. The aim is not to memorise biographies but to show how values were put into practice under pressure.
+
+Among national leaders, Mahatma Gandhi showed that the means matter as much as the ends, and that personal conduct can carry moral authority. Sardar Patel combined firmness with negotiation in integrating the princely states and defended a neutral civil service. Lal Bahadur Shastri resigned as Railway Minister in 1956 taking moral responsibility for a rail accident, an example of accountability. Dr A. P. J. Abdul Kalam was known for simplicity, humility and commitment to young people.
+
+Reformers offer lessons in moral courage. Raja Ram Mohan Roy, Ishwar Chandra Vidyasagar and Savitribai and Jyotirao Phule challenged powerful social customs at personal risk. B. R. Ambedkar turned personal experience of discrimination into a constitutional vision of equality. Baba Amte devoted his life to people affected by leprosy.
+
+Administrators provide models closer to the civil servant's own work. T. N. Seshan, as Chief Election Commissioner (1990–96), enforced the model code of conduct strictly and showed how an institution can be strengthened from within. E. Sreedharan led the Konkan Railway and the Delhi Metro to completion on time and with integrity. Armstrong Pame, an IAS officer in Manipur, built a 100 km road through community contributions. Officers such as Satyendra Dubey, killed in 2003 after exposing corruption in a highway project, show the cost of integrity and the need for whistleblower protection.
+
+International figures such as Nelson Mandela (reconciliation over revenge) and Abraham Lincoln (leading through moral conviction in crisis) are also often cited.
+
+In answers, the best examples are specific: a decision, the value it reflected and the lesson it holds for administration today.
+
+- Gandhi, Patel and Shastri show the importance of means, firmness and moral responsibility.
+- Reformers such as the Phules and Ambedkar show moral courage against social pressure.
+- Administrators such as T. N. Seshan and E. Sreedharan show how integrity can transform institutions.
+W: Examples from leaders and administrators are directly asked and strengthen answers throughout GS IV.
+Q: Choose an administrator you admire and explain the values their career demonstrates and their relevance today.

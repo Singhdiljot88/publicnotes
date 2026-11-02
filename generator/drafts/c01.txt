@@ -1,0 +1,190 @@
+# THEME 1
+## supreme-court-upholds-sir | The Supreme Court upholds the Special Intensive Revision
+
+On 27 May 2026, a bench of Chief Justice Surya Kant and Justice Joymalya Bagchi upheld the Election Commission of India's Special Intensive Revision (SIR) of electoral rolls. The SIR began in Bihar in 2025 and was later extended to other states. It was challenged mainly by opposition parties and civil society groups, who argued that it would disenfranchise genuine voters. The Court rejected more than twenty petitions.
+
+The Court held that the exercise is not unconstitutional just because it differs from routine revisions of the rolls. It said the SIR draws its authority from Article 324 of the Constitution, which vests the "superintendence, direction and control" of elections in the Commission, and from Section 21(3) of the Representation of the People Act, 1950, which allows a special revision "in such manner as it may think fit". The judges found that the Commission had not exceeded its statutory powers, and that the petitioners had not produced concrete evidence of genuine voters who were wrongly removed with no remedy.
+
+On citizenship, the most sensitive question, the Court drew a line. It said the Commission has only limited jurisdiction to check citizenship while keeping the rolls accurate, and that removal from a voter list cannot be read as a formal declaration that a person is not an Indian citizen. That decision rests with the Union government. For Bihar, the Court directed the Commission to share data on deleted voters with the Centre, which must give affected people notice and a hearing, and restore names if they are found to be citizens.
+
+The verdict came as the third phase of the SIR was getting under way in more states and union territories.
+
+- The Supreme Court upheld the SIR on 27 May 2026, under Article 324 and Section 21(3) of the RP Act, 1950.
+- Deletion from the roll is not a declaration that a person is not a citizen; that is for the Union government.
+- The Court ordered notice, a hearing and restoration of names for those found to be citizens in Bihar.
+W: The SIR is the most important electoral law question of 2026, linking Article 324, the RP Act and citizenship.
+Q: Does the SIR verdict strike the right balance between clean electoral rolls and the right to vote?
+S: Business Today, 27 May 2026 | https://www.businesstoday.in/india/story/doesnt-override-existing-laws-supreme-court-upholds-sir-in-bihar-heres-why-533505-2026-05-27
+S: Kerala Kaumudi, SC upholds SIR rules | https://keralakaumudi.com/en/india/general/sc-upholds-constitutionality-of-election-commission’s-special-intensive-revision-rules-it-does-not-determine-citizenship-1754802
+S: India Today NE | https://www.indiatodayne.in/national/story/supreme-court-upholds-electoral-roll-revision-exercise-affirms-ecs-authority-to-conduct-sir-1398657-2026-05-27
+
+## 131st-amendment-delimitation-defeated | Why the 131st Amendment Bill on delimitation failed
+
+On 17 April 2026, the Lok Sabha voted down the Constitution (131st Amendment) Bill, 2026. It received 298 votes in favour and 230 against, out of 528 members present and voting. A constitutional amendment under Article 368 needs a majority of the total membership of the House and two-thirds of those present and voting, so it fell short of the two-thirds mark.
+
+The bill would have made three big changes. It would have raised the maximum strength of the Lok Sabha from 543 elected seats to 850, with up to 815 seats for states and 35 for union territories. It would have removed the proviso in Article 82 that ties the next delimitation to the first census after 2026, allowing seats to be redrawn before Census 2027. And it would have amended Article 334A so that one-third reservation for women in the Lok Sabha and assemblies, passed in 2023, could take effect immediately after that delimitation. A companion Delimitation Bill, 2026 proposed redrawing seats on the basis of the 2011 Census.
+
+After the defeat, Parliamentary Affairs Minister Kiren Rijiju withdrew the Delimitation Bill and the Union Territories Laws (Amendment) Bill. The opposition had argued that delimitation based on population would shift seats towards the northern states with higher population growth, at the expense of southern states that controlled their population. Supporters said the change would bring women's reservation forward and update representation frozen since the 1970s.
+
+The defeat means the freeze on seats continues for now, and the start of women's reservation remains tied to the post-2026 census and a fresh delimitation.
+
+- The 131st Amendment Bill got 298 votes to 230 on 17 April 2026 and failed for lack of a two-thirds majority.
+- It proposed 850 Lok Sabha seats, early delimitation on 2011 figures and immediate women's reservation.
+- The Delimitation Bill was withdrawn; the seat freeze and the link between women's reservation and the census continue.
+W: Delimitation and women's reservation combine federalism, representation and constitutional amendment procedure.
+Q: Should delimitation be based purely on population? Suggest ways to address the concerns of states that controlled population growth.
+S: LiveLaw, 17 April 2026 | https://www.livelaw.in/amp/top-stories/lok-sabha-rejects-constitution-131st-bill-2026-on-delimitation-530736
+S: Bar and Bench | https://www.barandbench.com/news/law-policy/constitution-amendment-bill-to-expand-lok-sabha-strength-to-850-fails-to-pass-centre-withdraws-delimitation-bills
+S: Vision IAS, 18 April 2026 | https://visionias.in/current-affairs/news-today/2026-04-18/polity-and-governance/constitution-131st-amendment-bill-2026-defeated-in-lok-sabha
+
+## anti-paper-leak-amendment-2026 | The 2026 anti-paper leak law
+
+The 2024 Public Examinations (Prevention of Unfair Means) Act was passed after a run of leaked exam papers. In 2026, after the cancellation of the NEET-UG exam over a leak and student protests across several states, Parliament made the law stricter. The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026 was passed by the Lok Sabha on 29 July and by the Rajya Sabha by voice vote on 30 July 2026.
+
+The amendment raises punishments. Individuals involved in paper leaks or unfair means face five to ten years in jail and fines of up to Rs 50 lakh. For organised crime, the minimum sentence is seven years with a fine of at least Rs 10 crore. States and union territories can designate sessions courts as special fast-track courts, with day-to-day trials meant to finish within three months of the charge sheet. The Union government can set up a special task force to investigate. The government said the law covers not only the National Testing Agency but also exams held by the UPSC, the Staff Selection Commission and banks.
+
+Prime Minister Modi described it as a promise fulfilled. Several opposition parties, led by the Congress, walked out before the minister's reply. Congress president Mallikarjun Kharge said the amendment was meant to pacify protesting students rather than fix the system, and opposition members criticised police action against student protesters.
+
+Experts note that harsher punishment alone may not stop leaks. They point to the need for secure printing and transport of papers, computer-based testing with strong safeguards, and accountability within exam agencies.
+
+- The 2026 amendment was passed on 29–30 July 2026, after the NEET-UG cancellation.
+- Penalties: 5–10 years and up to Rs 50 lakh for individuals; at least 7 years and Rs 10 crore for organised crime.
+- Fast-track courts should finish trials within three months of the charge sheet.
+W: Exam integrity is a governance issue that affects millions of young people and the credibility of public institutions.
+Q: Will stricter punishment stop exam paper leaks? What systemic reforms are also needed?
+S: ThePrint, 30 July 2026 | https://theprint.in/india/parliament-passes-anti-paper-leak-amendment-bill-with-stricter-punishment-oppn-walks-out/3001597/
+S: All India Radio News | https://newsonair.gov.in/lok-sabha-passes-anti-paper-leak-amendment-bill-with-stricter-punishment-of-up-to-10-years-in-jail/
+S: Careers360 | https://news.careers360.com/parliament-passes-anti-paper-leak-amendment-bill-2026-stricter-penalties-pm-modi-promise-fulfilled-rajya-sabha-exams-education/amp
+
+## harish-rana-passive-euthanasia | Harish Rana: India's first court-approved passive euthanasia
+
+On 11 March 2026, the Supreme Court allowed life support to be withdrawn for Harish Rana, a 32-year-old man who had been in a persistent vegetative state for 13 years after falling from the fourth floor of his paying-guest accommodation. He was fed through tubes and had shown no improvement. It was the first time an Indian court had applied the passive euthanasia framework to permit withdrawal of treatment for a specific patient. He died later that month in the care of AIIMS, New Delhi.
+
+The bench of Justices J. B. Pardiwala and K. V. Viswanathan built on the Constitution Bench judgment in Common Cause (2018), which recognised the right to die with dignity as part of Article 21 and permitted passive euthanasia (withdrawing or withholding treatment) and advance directives or "living wills". In January 2023 the Court simplified those guidelines, requiring approval by a primary and a secondary medical board.
+
+In Harish Rana's case, both boards and his parents agreed that treatment, including clinically administered nutrition, should be stopped. The Court allowed this, waived the 30-day reconsideration period, and asked AIIMS to provide palliative care under a plan that preserved his dignity. It said that normally, when both boards agree, courts need not be involved. It also directed High Courts to have judicial magistrates receive intimations from hospitals in such cases, asked the Union government to ensure every district maintains panels of doctors for secondary boards, and recommended that Parliament pass a comprehensive law.
+
+Active euthanasia, deliberately causing death, remains illegal in India.
+
+- On 11 March 2026 the Supreme Court permitted withdrawal of life support for Harish Rana, the first such case.
+- It applied the Common Cause (2018) framework, as simplified in 2023, with two medical boards.
+- The Court urged Parliament to legislate; active euthanasia remains illegal.
+W: The case combines Article 21, medical ethics and the separation of powers, useful for GS II and GS IV.
+Q: Should India pass a law on end-of-life care rather than rely on court guidelines? Discuss the ethical issues involved.
+S: LiveLaw, 11 March 2026 | https://www.livelaw.in/top-stories/supreme-court-allows-first-passive-euthanasia-permits-withdrawal-of-life-support-for-man-in-vegetative-state-525943?hl=en-GB
+S: Manorama Yearbook | https://www.manoramayearbook.in/current-affairs/india/2026/03/12/harish-rana-sc-allows-passive-euthanasia.html
+S: The Quint | https://www.thequint.com/news/breaking-news/harish-rana-dies-aiims-passive-euthanasia-case
+
+## ugc-equity-regulations-stayed | The UGC equity regulations and the Supreme Court's stay
+
+On 13 January 2026 the University Grants Commission notified the UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026, to replace regulations from 2012. They required every higher education institution to work to eliminate discrimination and promote equity, with protective measures against discrimination based on caste, religion, language, ethnicity, gender and disability, and they made heads of institutions responsible for compliance. The rules followed a long-running petition in the Supreme Court arguing that the 2012 rules were inadequate, including because they did not cover caste discrimination against teachers.
+
+The new regulations drew protests and several legal challenges, including over how they defined caste-based discrimination and whom they protected. On 29 January 2026, a bench of Chief Justice Surya Kant and Justice Joymalya Bagchi stayed them. The Court said the provisions appeared prima facie "vague" and "capable of misuse", and the Chief Justice remarked that they could have the effect of dividing society. The Court asked the Union government to redraft them, and directed that the 2012 regulations remain in force in the meantime.
+
+In August 2026, the Union government told the Court that it was reconsidering the regulations.
+
+The episode shows how difficult it is to frame rules against campus discrimination that are both effective and legally precise. Supporters of the regulations, including many Dalit and Adivasi student groups, called the stay a setback for social justice. Critics welcomed it, arguing that the rules could be misused. The underlying problem, discrimination faced by students from marginalised communities, remains.
+
+- The UGC notified new equity regulations on 13 January 2026 to replace the 2012 rules.
+- The Supreme Court stayed them on 29 January 2026, calling them prima facie vague and capable of misuse.
+- The 2012 rules apply until new rules are framed; the Centre said in August it was reconsidering them.
+W: Campus discrimination links GS II social justice, education policy and the role of courts.
+Q: How can higher education institutions address caste discrimination effectively while ensuring fairness to all?
+S: The News Minute | https://www.thenewsminute.com/news/vague-prone-to-misuse-supreme-court-stays-ugc-equity-regulations-2026
+S: All India Radio News, 29 January 2026 | https://www.newsonair.gov.in/supreme-court-stays-ugcs-new-equity-regulations
+S: SuperKalam, 21 August 2026 | https://superkalam.com/current-affairs/21-08-2026/ugc-equity-rules-being-reconsidered-centre-to-sc-pg5-eff69916-e001-4292-ac13-173a3ff6b90c
+
+## wangchuk-nsa-detention-revoked | Sonam Wangchuk's detention and its revocation
+
+Sonam Wangchuk, an engineer, education reformer and climate activist from Ladakh, has been a leading voice in Ladakh's demands for statehood and protection under the Sixth Schedule of the Constitution, which gives tribal areas autonomous councils with powers over land and culture. Ladakh became a union territory without a legislature in 2019.
+
+On 24 September 2025, protests in Leh turned violent. Two days later, on 26 September, the District Magistrate of Leh detained Wangchuk under the National Security Act, 1980 (NSA), "with a view to maintaining public order", and he was moved to Jodhpur Central Jail in Rajasthan. The NSA allows preventive detention, meaning detention to prevent a person from acting in a way that harms security or public order, for up to twelve months without a criminal charge. Article 22 of the Constitution permits preventive detention but requires that the grounds be communicated and that an advisory board review it.
+
+His wife, Dr Gitanjali Angmo, filed a habeas corpus petition in the Supreme Court, arguing among other things that all the material used to justify the detention had not been given to him. On 14 March 2026, days before the case was due to be heard, the Union government revoked the detention, saying the aim was to restore peace and create an atmosphere for dialogue in Ladakh, and noting he had already served nearly half of the maximum period. He was released after about six months.
+
+The case revived debate on preventive detention laws, which critics say are used against peaceful dissent and which the Supreme Court has repeatedly said must be used sparingly.
+
+- Wangchuk was detained under the NSA on 26 September 2025 after violence in Leh.
+- The Union government revoked the detention on 14 March 2026, before a Supreme Court hearing.
+- The case highlighted Ladakh's demands for statehood and Sixth Schedule status, and concerns about preventive detention.
+W: Preventive detention under Article 22 and the NSA, and Ladakh's constitutional status, are important GS II topics.
+Q: Are preventive detention laws compatible with democratic freedoms? Discuss with reference to Article 22.
+S: LiveLaw, 14 March 2026 | https://www.livelaw.in/top-stories/centre-revokes-detention-of-sonam-wangchuk-under-national-security-act-526404
+S: ETV Bharat | https://www.etvbharat.com/en/state/mha-revokes-ladakh-activist-sonam-wangchuk-detention-enn26031401738
+S: Newslaundry | https://www.newslaundry.com/2026/03/14/centre-revokes-sonam-wangchuks-nsa-detention-with-immediate-effect
+
+## births-deaths-registration-amendment-2026 | Tighter rules for late birth and death registration
+
+The Registration of Births and Deaths Act, 1969 requires births and deaths to be registered, normally within 21 days. Registration matters because a birth certificate is increasingly the key document for school admission, passports, voter registration and government jobs. A 2023 amendment had already linked birth registration to national and state databases.
+
+In July 2026 Parliament passed the Registration of Births and Deaths (Amendment) Bill, 2026, which tightens the rules for delayed registration under Section 13 of the Act. It was introduced in the Lok Sabha on 29 July and passed there on 31 July without a debate, amid opposition protests on other issues, and was then cleared by the Rajya Sabha.
+
+Under the new provisions, a birth or death reported between one and two years late can be registered only on the order of a District Magistrate, Sub-Divisional Magistrate or an Executive Magistrate authorised by the District Magistrate, after verifying the details and paying a fee. If the delay is more than two years, registration needs an order from a Judicial Magistrate First Class. The government said the changes, made after consultation with states and union territories, aim to encourage timely reporting.
+
+Supporters say stricter checks will prevent fraudulent certificates. Critics worry that the change could make it harder for poor, migrant and marginalised people, many of whom never had their births registered, to obtain certificates, especially as birth certificates gain importance as proof of age and identity.
+
+- The 2026 amendment changes Section 13 of the 1969 Act on delayed registration.
+- Delays of one to two years need an executive magistrate's order; delays over two years need a judicial magistrate's order.
+- It aims to curb fraud, but critics fear it may exclude people without records.
+W: Civil registration underpins citizenship, welfare and identity, and links to debates on documentation in the SIR.
+Q: How can India ensure universal birth registration while preventing fraudulent records?
+S: SCC Online, 1 August 2026 | https://www.scconline.com/blog/post/2026/08/01/lok-sabha-passes-registration-of-births-and-deaths-amendment-bill-2026/
+S: Drishti IAS, 3 August 2026 | https://www.drishtiias.com/daily-updates/daily-news-analysis/registration-of-births-and-deaths-amendment-bill-2026
+S: Telangana Today | https://telanganatoday.com/parliament-passes-bill-tightening-delayed-birth-death-registration-norms
+
+## national-dental-commission | The National Dental Commission replaces the Dental Council
+
+In March 2026 the Union government brought into force a new framework for regulating dentistry. The National Dental Commission (NDC) replaced the Dental Council of India (DCI), which had regulated the profession since the Dentists Act of 1948. The 1948 Act has been repealed. The new framework took effect on 19 March 2026, under the National Dental Commission Act, 2023, which Parliament passed alongside a similar law for nursing and midwifery.
+
+The change follows the model of the National Medical Commission, which replaced the Medical Council of India in 2020 after years of criticism of corruption and weak oversight in medical education. Like the NMC, the NDC works through three autonomous boards: an Undergraduate and Postgraduate Dental Education Board for courses and curriculum; a Dental Assessment and Rating Board for assessing and rating institutions; and an Ethics and Dental Registration Board for professional conduct and the national register of dentists. Dr Sanjay Tewari was appointed its first chairperson.
+
+The commission will set standards for dental education, assess colleges, promote research and community dental care, and issue guidelines for fees in private dental colleges. The government said the reform would make regulation more transparent, quality-focused and accountable, and improve access to affordable dental care.
+
+India has a large number of dental colleges, many of them private, and has faced a paradox of unemployed dental graduates in cities alongside poor access to dental care in rural areas. Critics of the new model, as with the NMC, say that replacing elected councils with government-appointed bodies reduces the profession's autonomy.
+
+- The National Dental Commission replaced the Dental Council of India from 19 March 2026.
+- It works through three autonomous boards for education, assessment and ethics and registration.
+- It follows the National Medical Commission model, raising similar debates on autonomy.
+W: Regulatory reform of health professions is a GS II governance and health topic.
+Q: Have commission-based regulators improved the quality of professional education in health? Discuss.
+S: Careers360, 23 March 2026 | https://news.careers360.com/government-sets-up-national-dental-commission-to-reform-dental-education-replaces-dci-ndc-chairperson-sanjay-tewari-mohfw/amp
+S: Telangana Today | https://telanganatoday.com/centre-sets-up-national-dental-commission-replaces-dental-council-of-india
+S: ThePrint | https://theprint.in/india/national-dental-commission-comes-into-force-dci-history/2884516
+
+## census-2027-houselisting | Census 2027: the house-listing phase of 2026
+
+India's census, normally held every ten years, was due in 2021 but was postponed because of the COVID-19 pandemic. In June 2025 the Union government notified that the 16th census would be held with a reference date of 1 March 2027, and 1 October 2026 for snow-bound areas such as Ladakh, Jammu and Kashmir, Himachal Pradesh and Uttarakhand. It will be the first census since independence to record caste across the population, and the first to be conducted digitally.
+
+The census has two phases. The first, house-listing and housing census, ran from 1 April to 30 September 2026, with each state and union territory carrying it out over a set period within that window. It records buildings, households, housing conditions, amenities such as drinking water, toilets and electricity, and assets. The second phase, population enumeration, records details of every person, including age, education, occupation, migration and, this time, caste.
+
+For the first time, households could fill in their own details online through a self-enumeration portal in a 15-day window before enumerators reached their area, generating an ID to share with the enumerator. Enumerators still visit every household, using a mobile app instead of paper forms, and no documents are required.
+
+The census matters far beyond counting people. Its data are used to delimit constituencies, allocate reservations, distribute funds, plan schools, hospitals and roads, and measure progress. The long delay meant policies relied on 2011 figures for over a decade. The census results are also linked to the next delimitation of seats and the start of women's reservation in legislatures.
+
+- Census 2027 has a reference date of 1 March 2027 (1 October 2026 for snow-bound areas).
+- House-listing ran from 1 April to 30 September 2026, with optional online self-enumeration.
+- It is India's first digital census and will record caste.
+W: The census is the foundation of planning, delimitation and reservation, and Census 2027's caste count is politically significant.
+Q: What are the benefits and risks of enumerating caste in Census 2027?
+S: Business Today, 4 April 2026 | https://www.businesstoday.in/india/story/what-you-need-to-know-about-census-2027-timeline-digital-shift-how-to-self-enumerate-and-more-523972-2026-04-04
+S: Free Press Journal | https://www.freepressjournal.in/india/census-2027-1st-phase-to-commence-on-april-1-all-you-need-to-know
+S: India TV, notification of June 2025 | https://www.indiatvnews.com/news/india/india-s-16th-census-to-be-held-in-two-phases-on-october-1-2026-and-march-1-2027-centre-issues-gazette-notification-2025-06-16-994879
+
+## motion-to-remove-speaker-defeated | The opposition's motion to remove the Lok Sabha Speaker
+
+On 11 March 2026, the Lok Sabha rejected by voice vote a resolution moved by the Congress to remove Speaker Om Birla. The notice had been signed by 118 opposition members. It was a rare event: motions to remove a Speaker have been moved only a handful of times since independence, and none has succeeded.
+
+Under Article 94(c) of the Constitution, the Speaker can be removed by a resolution of the Lok Sabha passed by a majority of all the then members of the House, after at least 14 days' notice. While such a resolution is under consideration, the Speaker cannot preside, though he can speak in the House and vote in the first instance. Om Birla stepped away from presiding until the motion was considered.
+
+The opposition's resolution accused the Speaker of partisanship. It alleged that he had prevented the Leader of the Opposition, Rahul Gandhi, from speaking, made unwarranted remarks about women MPs, and suspended opposition members for entire sessions for raising issues of public concern. Ruling party members defended the Speaker as having conducted the House fairly in difficult circumstances. After the motion was defeated, Birla said he would continue to act impartially.
+
+Given the government's majority, the motion was never likely to pass. Its significance was political, as a statement of the opposition's complaints about how Parliament functions. It also revived debate on the neutrality of presiding officers, an issue raised in many parliamentary democracies, and on proposals such as the British convention of a Speaker who leaves party politics.
+
+- The Lok Sabha rejected a resolution to remove Speaker Om Birla by voice vote on 11 March 2026.
+- Article 94(c) requires a majority of all members and 14 days' notice to remove the Speaker.
+- The opposition accused the Speaker of partisanship; the motion highlighted concerns about the functioning of Parliament.
+W: The Speaker's role and removal procedure are standard polity topics, and this case is a current example.
+Q: How can the neutrality of the Speaker's office be strengthened in India?
+S: Scroll | https://scroll.in/latest/1091321/oppositions-motion-to-remove-lok-sabha-speaker-defeated
+S: Business Standard, 11 March 2026 | https://www.business-standard.com/india-news/lok-sabha-rejects-motion-to-remove-speaker-om-birla-by-voice-vote-126031100972_1.html
+S: Onmanorama | https://www.onmanorama.com/news/india/2026/03/11/lok-sabha-speaker-removal-motion-defeated.html

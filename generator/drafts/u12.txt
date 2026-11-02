@@ -1,0 +1,156 @@
+# THEME 12
+## making-of-the-constitution | The making of the Constitution
+
+The idea of a constituent assembly elected by Indians was first put forward by M. N. Roy in 1934 and adopted by the Congress in 1935. The Cabinet Mission Plan of 1946 provided for it. Members were elected indirectly by the provincial legislative assemblies, with seats for the princely states filled by nominees. The Assembly first met on 9 December 1946, with Sachchidananda Sinha as temporary chairman. Dr Rajendra Prasad was elected its permanent president on 11 December. The Muslim League boycotted it. After Partition, its strength fell to 299.
+
+On 13 December 1946, Jawaharlal Nehru moved the Objectives Resolution, which set out the ideals of an independent, sovereign republic guaranteeing justice, equality and freedom to all, and protecting minorities. Adopted in January 1947, it later became the basis of the Preamble.
+
+The Assembly worked through committees. The most important was the Drafting Committee, set up on 29 August 1947 with Dr B. R. Ambedkar as chairman. B. N. Rau, the constitutional adviser, prepared the initial draft. Other key committees dealt with fundamental rights and minorities (chaired by Sardar Patel), union powers and the union constitution (Nehru), and the states. The draft was debated clause by clause, with thousands of amendments proposed.
+
+The Constitution was adopted on 26 November 1949, now celebrated as Constitution Day (Samvidhan Divas). It took two years, eleven months and eighteen days. Some provisions, on citizenship, elections and the provisional Parliament, came into force immediately; the rest came into force on 26 January 1950, chosen to honour the purna swaraj declaration of 1930. The Assembly also adopted the national flag (July 1947) and the national anthem and song (January 1950), and served as the provisional Parliament until the first elections in 1951–52.
+
+- The Constituent Assembly first met on 9 December 1946; Rajendra Prasad was its president.
+- Ambedkar chaired the Drafting Committee from 29 August 1947.
+- The Constitution was adopted on 26 November 1949 and came fully into force on 26 January 1950.
+W: Constituent Assembly facts, committees and dates are among the most frequently tested polity questions.
+Q: Was the Constituent Assembly a truly representative body? Examine the criticisms and the responses to them.
+
+## sources-of-the-constitution | Where the Constitution borrowed from
+
+The Constitution of India drew on many sources, which is why it is sometimes called a "bag of borrowings". Its framers defended this as learning from the experience of other democracies and adapting it to Indian conditions.
+
+The largest single source was the Government of India Act 1935, which provided the federal scheme, the office of governor, the judiciary, public service commissions, emergency provisions and much of the administrative detail. From the British Constitution came parliamentary government, the rule of law, the legislative procedure, single citizenship, the cabinet system, prerogative writs and bicameralism. The United States Constitution contributed fundamental rights, the independence of the judiciary, judicial review, the impeachment of the President, the removal of Supreme and High Court judges, and the post of Vice-President.
+
+Ireland's constitution inspired the Directive Principles of State Policy, the nomination of members to the Rajya Sabha and the method of electing the President. Canada provided the model of a federation with a strong centre, residuary powers with the Union, appointment of state governors by the Centre and the advisory jurisdiction of the Supreme Court. Australia contributed the Concurrent List, freedom of trade and commerce, and the joint sitting of the two Houses. Germany's Weimar Constitution was the source of the suspension of fundamental rights during an emergency. The Soviet Union inspired fundamental duties (added in 1976) and the ideal of justice in the Preamble. France gave the ideals of liberty, equality and fraternity and of a republic. South Africa contributed the procedure for constitutional amendment and the election of Rajya Sabha members, and Japan the phrase "procedure established by law".
+
+Despite these borrowings, the Constitution reflects Indian realities: its provisions on caste, reservations, minorities, languages and the princely states have no foreign model.
+
+- The Government of India Act 1935 was the largest single source.
+- Britain gave parliamentary government; the USA gave fundamental rights and judicial review; Ireland gave the Directive Principles.
+- Canada, Australia, Germany, the USSR, France, South Africa and Japan also contributed features.
+W: Matching features to source countries is one of the most predictable Prelims polity questions.
+Q: "The Indian Constitution is a borrowed constitution." Do you agree? Justify your answer.
+
+## schedules-of-the-constitution | The twelve schedules of the Constitution
+
+The original Constitution had eight schedules; amendments have added four more, taking the total to twelve. Schedules hold detailed lists and provisions that would clutter the main text.
+
+The First Schedule lists the states and union territories and their territories. The Second Schedule sets out the emoluments, allowances and privileges of the President, governors, Speakers, judges, the Comptroller and Auditor General and others. The Third Schedule contains the forms of oaths and affirmations for ministers, legislators, judges and others. The Fourth Schedule allocates seats in the Rajya Sabha to states and union territories. The Fifth Schedule provides for the administration of Scheduled Areas and Scheduled Tribes in states other than Assam, Meghalaya, Tripura and Mizoram, including tribes advisory councils. The Sixth Schedule covers tribal areas in those four north-eastern states, providing for autonomous district councils with legislative, judicial and executive powers.
+
+The Seventh Schedule divides powers between the Union and the states through three lists: the Union List (97 entries originally, such as defence and foreign affairs), the State List (66 originally, such as police and public health) and the Concurrent List (47 originally, such as criminal law and marriage). The 42nd Amendment moved five subjects, including education and forests, from the State List to the Concurrent List, and later amendments added and removed other entries. The Eighth Schedule lists the official languages, originally 14 and now 22, the last four (Bodo, Dogri, Maithili and Santhali) added in 2003.
+
+The Ninth Schedule, added by the First Amendment in 1951, protected land reform laws from judicial review; in I. R. Coelho (2007) the Supreme Court held that laws added after 24 April 1973 can be challenged if they violate the basic structure. The Tenth Schedule, added in 1985, contains the anti-defection law. The Eleventh (29 subjects for panchayats, 1992) and Twelfth (18 subjects for municipalities, 1992) Schedules came with the 73rd and 74th Amendments.
+
+- There are twelve schedules; four were added by amendments.
+- The Seventh Schedule's three lists divide powers; the Eighth lists 22 languages.
+- The Ninth Schedule's protection is limited by the basic structure (I. R. Coelho, 2007); the Tenth contains the anti-defection law.
+W: Schedules are a perennial Prelims question, especially the Fifth, Sixth, Seventh, Ninth and Tenth.
+Q: Compare the Fifth and Sixth Schedules. Why do tribal areas in the North-East have a different framework?
+
+## union-and-its-territory | The Union and its territory: Articles 1 to 4
+
+Article 1 declares that "India, that is Bharat, shall be a Union of States". The Drafting Committee chose "Union" rather than "federation" for two reasons, as Ambedkar explained: the Indian federation was not the result of an agreement among states, and states have no right to secede from it. The territory of India comprises the territories of the states, the union territories, and any territories that may be acquired.
+
+Article 2 empowers Parliament to admit or establish new states that are not part of India, as was done for Sikkim in 1975. Article 3 gives Parliament the power to form new states by separating or merging territory, and to increase or diminish the area of any state or change its boundaries or name. A bill for this purpose can be introduced only on the recommendation of the President, and the President must refer it to the affected state legislature for its views within a set time. Parliament is not bound by those views, and a law under Article 3 is not treated as a constitutional amendment under Article 368, so it needs only a simple majority. Article 4 confirms this.
+
+This flexibility allowed India to reorganise states along linguistic lines and later create new states, but it also means a state's boundaries, or even its existence, can be changed without its consent. The most debated example came in August 2019, when Parliament passed the Jammu and Kashmir Reorganisation Act, converting the state into two union territories, Jammu and Kashmir and Ladakh, while the state was under President's rule, so the state legislature's views were given by Parliament itself. In December 2023, the Supreme Court upheld the abrogation of Article 370 but directed that statehood be restored "at the earliest" and elections held, which took place in 2024.
+
+Ceding Indian territory to another country, by contrast, requires a constitutional amendment, as held in the Berubari case (1960); the 100th Amendment (2015) implemented the land boundary agreement with Bangladesh.
+
+- Article 1 calls India a "Union of States"; states cannot secede.
+- Under Article 3, Parliament can reorganise states by simple majority after seeking, but not following, the state's views.
+- Ceding territory to another country needs a constitutional amendment (Berubari, 1960; 100th Amendment, 2015).
+W: Articles 1–4 and their use, especially in Jammu and Kashmir, are frequent Prelims and Mains polity questions.
+Q: Does Article 3 make Indian federalism weak? Discuss in the light of recent reorganisations.
+
+## fundamental-duties | Fundamental Duties
+
+The original Constitution did not contain duties for citizens. They were added by the 42nd Amendment in 1976, on the recommendation of the Swaran Singh Committee, and placed in a new Part IVA with a single article, Article 51A. The idea was inspired by the constitution of the former Soviet Union.
+
+There were originally ten fundamental duties. A citizen should abide by the Constitution and respect the national flag and anthem; cherish the ideals of the freedom struggle; uphold the sovereignty, unity and integrity of India; defend the country and render national service when called upon; promote harmony and renounce practices derogatory to the dignity of women; value and preserve the country's composite culture; protect the natural environment, including forests, lakes, rivers and wildlife, and have compassion for living creatures; develop scientific temper, humanism and the spirit of inquiry and reform; safeguard public property and abjure violence; and strive towards excellence in all spheres. The 86th Amendment in 2002 added an eleventh: parents and guardians should provide opportunities for education to their children aged six to fourteen.
+
+Fundamental duties are not directly enforceable in court; there is no penalty for failing to perform them. But they have legal significance. Courts use them to interpret laws and to judge whether restrictions on rights are reasonable. Parliament has passed laws that give effect to some of them, such as the Prevention of Insults to National Honour Act, 1971 and wildlife and environmental laws. The Verma Committee (1999) identified existing laws that implement them.
+
+Critics argue that the list is vague and that duties should not be used to dilute rights. Supporters say they remind citizens that rights come with responsibilities. 26 November, Constitution Day, has been used by the government to promote awareness of duties.
+
+- Fundamental duties were added by the 42nd Amendment (1976) in Article 51A, on the Swaran Singh Committee's advice.
+- There are eleven duties; the eleventh, on education, was added in 2002.
+- Duties are not directly enforceable but guide courts and legislation.
+W: The list and history of fundamental duties is a frequent Prelims question; their role relative to rights suits Mains.
+Q: Should fundamental duties be made legally enforceable? Discuss the arguments for and against.
+
+## writs-article-32-226 | Writs and constitutional remedies
+
+Article 32 gives every person the right to move the Supreme Court for the enforcement of fundamental rights. Ambedkar called it the "heart and soul" of the Constitution, and it is itself a fundamental right, part of the basic structure. Article 226 gives High Courts the power to issue writs for the enforcement of fundamental rights and "for any other purpose", which makes their writ jurisdiction wider than the Supreme Court's.
+
+There are five types of writs. Habeas corpus ("you may have the body") orders a person who has detained someone to produce them before the court, so the court can examine whether the detention is lawful. It can be issued against both public authorities and private individuals. Mandamus ("we command") orders a public official, body or lower court to perform a public duty it has failed to perform. It cannot be issued against a private individual, the President or governors, or to enforce a contract. Prohibition is issued by a higher court to a lower court or tribunal to stop it from exceeding its jurisdiction while a case is still pending. Certiorari ("to be certified") is issued by a higher court to quash an order already passed by a lower court or tribunal in excess of jurisdiction or in error of law; since the 1990s, courts also issue it against administrative authorities affecting rights. Quo warranto ("by what authority") asks a person holding a public office to show by what authority they hold it, and can be used to remove someone illegally occupying a substantive public office created by law.
+
+Public interest litigation expanded the use of writs by relaxing the rule on who can approach the court. Parliament can empower other courts to issue writs, but has not done so. The right under Article 32 can be suspended during a national emergency, except for Articles 20 and 21 since the 44th Amendment.
+
+- Article 32 is a fundamental right; Article 226 gives High Courts wider writ powers.
+- The five writs are habeas corpus, mandamus, prohibition, certiorari and quo warranto.
+- Prohibition stops a pending case; certiorari quashes a decision already made.
+W: Writs and their differences are tested almost every year in Prelims.
+Q: Why is the writ jurisdiction of High Courts wider than that of the Supreme Court? What are its implications?
+
+## emergency-provisions | Emergency provisions: Articles 352, 356 and 360
+
+Part XVIII of the Constitution provides for three kinds of emergency. They allow the Union to take extraordinary powers in a crisis, converting the federal system into an almost unitary one.
+
+A national emergency under Article 352 can be declared when the security of India or any part of it is threatened by war, external aggression or armed rebellion. "Armed rebellion" replaced "internal disturbance" through the 44th Amendment (1978). The President can declare it only on the written advice of the Union Cabinet. It must be approved by both Houses within one month by a special majority (a majority of total membership and two-thirds of those present and voting), and then renewed every six months. During a national emergency, Parliament can legislate on state subjects, the Centre can direct states on any matter, the term of the Lok Sabha can be extended by a year at a time, and the freedoms under Article 19 are suspended automatically in a war or external aggression emergency, while the enforcement of other rights except Articles 20 and 21 can be suspended by presidential order. National emergencies have been declared three times: in 1962 (China), 1971 (Pakistan) and 1975 (internal disturbance).
+
+President's rule under Article 356 can be imposed if the governor or the President is satisfied that the government of a state cannot be carried on in accordance with the Constitution. It needs parliamentary approval within two months by simple majority and can last up to three years with six-monthly approvals. It has been used over a hundred times, often for political reasons. In S. R. Bommai (1994), the Supreme Court held that a proclamation is subject to judicial review, that a government's majority must be tested on the floor of the house, and that dismissing a government for its secular credentials is not valid.
+
+A financial emergency under Article 360 can be declared if the financial stability or credit of India is threatened. It has never been declared.
+
+- Article 352 national emergencies need written Cabinet advice and a special majority; declared in 1962, 1971 and 1975.
+- Article 356 President's rule is subject to judicial review under S. R. Bommai (1994).
+- A financial emergency under Article 360 has never been declared.
+W: Emergency provisions are a high-frequency topic in Prelims and Mains, especially the 44th Amendment safeguards and Bommai.
+Q: How did the S. R. Bommai judgment change the use of Article 356? Has it been effective?
+
+## right-to-equality | The right to equality and reservations
+
+Articles 14 to 18 make up the right to equality. Article 14 guarantees equality before the law and the equal protection of the laws. The first idea, from Britain, means no one is above the law; the second, from the United States, means equals should be treated equally, which permits reasonable classification. Courts test classifications by asking whether they are based on an intelligible difference with a rational link to the law's purpose, and, since the E. P. Royappa case (1974), whether the action is arbitrary.
+
+Article 15 prohibits discrimination by the state on grounds of religion, race, caste, sex or place of birth, but allows special provisions for women and children (15(3)), for socially and educationally backward classes, SCs and STs (15(4), added by the First Amendment in 1951 after the Champakam Dorairajan case), for their admission to private educational institutions (15(5), 2005), and for economically weaker sections (15(6), 2019). Article 16 guarantees equality of opportunity in public employment, with similar exceptions, including reservation in promotions for SCs and STs under 16(4A). Article 17 abolishes untouchability, Article 18 abolishes titles other than military and academic distinctions; national awards such as the Bharat Ratna were held not to be titles in the Balaji Raghavan case (1995).
+
+Reservations have been shaped by the courts. In Indra Sawhney (1992), the Supreme Court upheld 27% reservation for OBCs, excluded the creamy layer, and set a general ceiling of 50%. The 103rd Amendment (2019) introduced up to 10% reservation for economically weaker sections among those not covered by other reservations. In Janhit Abhiyan (2022), a five-judge bench upheld it by 3–2, accepting that economic criteria alone can justify reservation and that the 50% ceiling is not inviolable. In 2024, a seven-judge bench allowed states to sub-classify Scheduled Castes to give priority to the most disadvantaged among them.
+
+- Article 14 permits reasonable classification but forbids arbitrariness.
+- Articles 15 and 16 allow reservations; the 50% ceiling from Indra Sawhney was relaxed for EWS in Janhit Abhiyan (2022).
+- In 2024, the Supreme Court allowed sub-classification of Scheduled Castes.
+W: Equality articles and reservation judgments are among the most important topics in GS II polity.
+Q: Does reservation on economic criteria alone fit the original idea of reservations in the Constitution? Discuss.
+
+## article-21-expansion | Article 21: how the right to life expanded
+
+Article 21 says: "No person shall be deprived of his life or personal liberty except according to procedure established by law." In A. K. Gopalan (1950), the Supreme Court read this narrowly: any procedure laid down by a valid law was enough, however unfair. The turning point came in Maneka Gandhi v. Union of India (1978), when the Court held that the procedure must be "fair, just and reasonable", not arbitrary, and that Articles 14, 19 and 21 are linked. This brought Article 21 close to the American idea of due process.
+
+Since then, courts have read many rights into Article 21. They include the right to live with human dignity, to livelihood (Olga Tellis, 1985), to a clean environment, to speedy trial (Hussainara Khatoon, 1979), to free legal aid, to shelter, to health and emergency medical care, to education (later made a separate right in Article 21A by the 86th Amendment in 2002 for children aged six to fourteen), against solitary confinement and custodial violence (D. K. Basu, 1997), to privacy (Puttaswamy, 2017), to sexual orientation and autonomy (Navtej Singh Johar, 2018, which decriminalised consensual same-sex relations), to die with dignity through passive euthanasia and living wills (Common Cause, 2018), and to be free from the adverse effects of climate change (2024).
+
+Supporters see this expansion as the judiciary making the Constitution's promises real for the poor. Critics argue that courts have created rights that cannot be enforced, blurred the line between rights and policy, and intruded into areas better left to legislatures. In practice, many of these rights depend on government action and resources.
+
+Article 21, with Article 20, cannot be suspended even during a national emergency, a safeguard added by the 44th Amendment after the experience of the Emergency.
+
+- Maneka Gandhi (1978) required that the procedure depriving liberty be fair, just and reasonable.
+- Courts have read rights to dignity, livelihood, environment, privacy and more into Article 21.
+- Articles 20 and 21 cannot be suspended during an emergency since the 44th Amendment.
+W: Article 21 judgments are among the most frequently cited in Mains answers across polity, ethics and environment.
+Q: Has judicial expansion of Article 21 strengthened rights or blurred the separation of powers? Discuss.
+
+## constitutional-statutory-bodies | Constitutional, statutory and executive bodies
+
+Public bodies in India are often classified by the source of their authority. Constitutional bodies are created directly by the Constitution, so they can be abolished or fundamentally changed only by a constitutional amendment. They include the Election Commission (Article 324), the Union and State Public Service Commissions (Article 315), the Finance Commission (Article 280), the Comptroller and Auditor General (Article 148), the Attorney General (Article 76), the National Commission for Scheduled Castes (Article 338), the National Commission for Scheduled Tribes (Article 338A, separated in 2003), the National Commission for Backward Classes (Article 338B, given constitutional status by the 102nd Amendment in 2018), and the GST Council (Article 279A, 2016).
+
+Statutory bodies are created by an act of Parliament or a state legislature. Examples include the National Human Rights Commission (Protection of Human Rights Act, 1993), the Central Vigilance Commission (given statutory status in 2003), the Central Bureau of Investigation (which functions under the Delhi Special Police Establishment Act, 1946), the National Commission for Women (1990), the Lokpal (2013), the Central Information Commission (RTI Act, 2005) and regulators such as SEBI and the RBI.
+
+Executive bodies are set up by a government resolution or order, without a specific law. NITI Aayog, like the Planning Commission before it, is an example. Executive bodies can be created, changed or abolished by the government alone.
+
+The distinction matters for independence. Constitutional bodies usually enjoy stronger protection: for example, the Chief Election Commissioner and the CAG can be removed only by a process like that for Supreme Court judges, and their conditions of service cannot be changed to their disadvantage. Statutory and executive bodies are more dependent on the government of the day, which is why there are periodic demands to give constitutional status to bodies such as the CBI.
+
+- Constitutional bodies include the ECI, UPSC, Finance Commission, CAG, NCSC, NCST, NCBC and GST Council.
+- Statutory bodies, such as the NHRC, CVC, CIC and Lokpal, are created by laws.
+- Executive bodies, such as NITI Aayog, are created by government resolution.
+W: Classifying bodies as constitutional, statutory or executive is a classic Prelims question.
+Q: Should the CBI be given constitutional status? Weigh the benefits against the risks.

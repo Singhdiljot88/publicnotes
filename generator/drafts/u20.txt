@@ -1,0 +1,160 @@
+# THEME 20
+## cropping-seasons-patterns | Cropping seasons and cropping patterns
+
+Indian agriculture follows three main seasons, set by the monsoon. Kharif crops are sown with the onset of the south-west monsoon in June and July and harvested in September and October; they include rice, maize, jowar, bajra, cotton, soybean, groundnut and most pulses such as tur. Rabi crops are sown in October and November, after the monsoon withdraws, and harvested in March and April; wheat, barley, gram, mustard and peas need cool weather to grow and warmth to ripen. Zaid is a short summer season between rabi and kharif, used mainly for watermelon, cucumber, vegetables and fodder on irrigated land.
+
+A cropping pattern is the share of land under different crops at a given time, and it is shaped by rainfall, soil, irrigation, prices and policy. Rice dominates the eastern and southern deltas and wheat the Indo-Gangetic plains, while rainfed central and western India grows coarse cereals, pulses, oilseeds and cotton. Cropping intensity, the ratio of gross cropped area to net sown area, shows how often the same land is used in a year; irrigation is the main reason it rises.
+
+Assured procurement and subsidised power and fertiliser have tilted the pattern in Punjab and Haryana towards a rice and wheat cycle. Paddy uses large amounts of groundwater, and the short gap before wheat sowing encourages stubble burning. States have tried crop diversification schemes, delayed paddy transplanting through law, and promoted millets, which India pushed for the International Year of Millets in 2023.
+
+The 2025-26 foodgrain harvest was a record 376.56 million tonnes, according to the government's third advance estimates.
+
+- Kharif crops follow the monsoon; rabi crops grow in the cool season; zaid is the short summer season.
+- Cropping intensity is gross cropped area divided by net sown area, and rises with irrigation.
+- Rice and wheat dominance in the north-west strains groundwater and drives stubble burning.
+W: Crop seasons and regional patterns are a Prelims staple and link geography with economy in GS1 and GS3.
+Q: Why has crop diversification proved difficult in north-west India, and what policies could help?
+
+## green-revolution | The Green Revolution and its legacy
+
+The Green Revolution was the rapid rise in cereal output in India from the mid-1960s, driven by high-yielding varieties (HYVs) of wheat and later rice. After two droughts in 1965 and 1966 and dependence on food imports under the US PL-480 programme, the government introduced dwarf Mexican wheat varieties developed by Norman Borlaug. In India the effort was led by agricultural scientist M.S. Swaminathan and backed by Agriculture Minister C. Subramaniam.
+
+HYV seeds produce high yields only with assured water, chemical fertiliser and pesticides, so the strategy came as a package. Public investment went into irrigation and tube wells, and institutions were built to support it: the Food Corporation of India and the Agricultural Prices Commission (now the Commission for Agricultural Costs and Prices) were set up in 1965, alongside agricultural universities and extension services. India became self-sufficient in cereals within about a decade.
+
+The gains were uneven. They were concentrated in Punjab, Haryana and western Uttar Pradesh, where irrigation already existed, and in wheat and rice rather than pulses, oilseeds or coarse grains. Larger farmers who could afford inputs gained most at first, which widened regional and class gaps. Over time the environmental costs became clear: falling water tables, soil degradation from excessive and unbalanced fertiliser use, loss of crop diversity, and pesticide residues.
+
+Later efforts tried to spread the gains. The Bringing Green Revolution to Eastern India programme, started in 2010-11, targeted the rice-growing east. Many experts now call for an "evergreen revolution", Swaminathan's term for raising productivity without ecological harm.
+
+- The Green Revolution combined HYV seeds, irrigation, fertiliser and assured prices.
+- It made India self-sufficient in cereals but was regionally and crop-wise uneven.
+- Its ecological costs include falling groundwater and soil degradation.
+W: The Green Revolution explains present-day patterns of procurement, input subsidies and regional inequality.
+Q: "The Green Revolution solved one problem and created several others." Discuss.
+
+## land-reforms | Land reforms in India
+
+Land reforms after Independence aimed to end exploitative land relations inherited from colonial rule and to give land to those who till it. Land is a state subject, so the laws differ from state to state. Reform had four main parts: abolishing intermediaries such as zamindars, regulating tenancy, imposing ceilings on landholdings, and consolidating fragmented holdings.
+
+Zamindari abolition was the most successful part, largely completed by the late 1950s and bringing many tenants into direct contact with the state. Tenancy reform tried to fix fair rents, give security of tenure and confer ownership on tenants. Results were mixed: many tenants were evicted before the laws came into force or pushed into informal, unrecorded arrangements. West Bengal's Operation Barga in the late 1970s, which recorded sharecroppers' rights, and Kerala's reforms are counted among the more effective efforts.
+
+Ceiling laws were meant to take surplus land from large owners and give it to the landless, but benami transfers, many exemptions and slow courts meant only a small amount of land was redistributed. The Bhoodan movement led by Vinoba Bhave from 1951 sought voluntary land gifts. The First Amendment of 1951 and the Ninth Schedule were used to protect land laws from court challenges.
+
+Today the focus has shifted to land records and leasing. Holdings are small and shrinking, which limits mechanisation and credit. NITI Aayog's Model Agricultural Land Leasing Act of 2016 suggested legalising leasing while protecting ownership. The Digital India Land Records Modernisation Programme and the SVAMITVA scheme for rural property cards aim to make records clear and usable as collateral.
+
+- Land reform covered intermediaries, tenancy, ceilings and consolidation.
+- Zamindari abolition largely succeeded; ceilings and tenancy reform had limited results.
+- Current reforms focus on digitised land records and legal leasing.
+W: Land reform links GS1 (post-Independence consolidation) with GS3 (agrarian economy) and is a recurring Mains theme.
+Q: Assess the success of land reforms in India. Why is legalising land leasing seen as the next step?
+
+## agricultural-credit | Agricultural credit and the Kisan Credit Card
+
+Farmers need short-term credit for seeds, fertiliser and labour each season, and long-term credit for wells, machinery and land development. For much of the twentieth century they depended on moneylenders charging very high interest. The state responded by expanding co-operative credit, nationalising banks in 1969 and 1980, and setting up Regional Rural Banks from 1975 and NABARD in 1982 as the apex body for rural credit and refinance.
+
+Priority sector lending rules require domestic commercial banks to lend 40% of their adjusted net bank credit to priority sectors, of which 18% must go to agriculture, with a sub-target for small and marginal farmers. The Kisan Credit Card (KCC), introduced in 1998, gives farmers a flexible, revolving credit limit based on their landholding and cropping pattern. It was extended to animal husbandry and fisheries in 2018-19.
+
+Under the interest subvention scheme, short-term crop loans are available at 7% interest, and farmers who repay on time receive a further 3% discount, bringing the effective rate to 4%. The subsidised limit was ₹3 lakh for many years; the 2025-26 Budget announced an increase to ₹5 lakh for loans through the KCC.
+
+Problems remain. Tenant farmers and sharecroppers without land records find it hard to borrow from banks, so informal lenders still matter. Repeated farm loan waivers by states give short-term relief but can strain state finances and weaken repayment habits. Experts argue that better land records, crop insurance and lending to farmer producer organisations would do more to reduce distress than waivers.
+
+- Priority sector rules require 18% of bank credit to go to agriculture.
+- The KCC, from 1998, gives revolving credit and now covers animal husbandry and fisheries.
+- Interest subvention brings the effective rate on prompt-paid crop loans to 4%.
+W: Rural credit, NABARD and priority sector lending are frequent Prelims topics, and loan waivers are a Mains debate.
+Q: Are farm loan waivers an effective response to agrarian distress? Suggest alternatives.
+
+## crop-insurance-income-support | Crop insurance and income support: PMFBY and PM-KISAN
+
+Farming carries risks from drought, flood, pests and hail. The Pradhan Mantri Fasal Bima Yojana (PMFBY), launched in 2016, replaced earlier crop insurance schemes. Farmers pay a capped premium of 2% of the sum insured for kharif crops, 1.5% for rabi crops and 5% for commercial and horticultural crops, and the Centre and states share the rest. The scheme covers risks from sowing to post-harvest, including prevented sowing and localised calamities.
+
+Enrolment was compulsory for farmers with crop loans until 2020, when it was made voluntary for all. Some states, including Bihar, Gujarat and West Bengal, left the scheme at various points, citing the cost of premium subsidies, and set up their own compensation schemes. Delayed claim settlement, disputes over crop-cutting experiments used to estimate yields, and insurer profits have been common complaints. The government has turned to technology, such as remote sensing and smartphone-based yield estimates, to speed up assessment.
+
+PM-KISAN, launched in February 2019, gives a direct income transfer of ₹6,000 a year to landholding farmer families, paid in three equal instalments into bank accounts. It is fully funded by the Centre. Its design makes it simple to run and free of leakage once land records are linked, but it excludes tenant farmers and landless labourers, who are often the poorest in rural areas.
+
+Economists debate whether cash transfers like PM-KISAN could replace input subsidies on fertiliser and power, which distort crop and input choices. Telangana's Rythu Bandhu and Odisha's KALIA showed state-level versions of the idea before PM-KISAN.
+
+- PMFBY caps farmer premiums at 2% (kharif), 1.5% (rabi) and 5% (commercial and horticultural crops).
+- PM-KISAN pays ₹6,000 a year in three instalments to landholding farmer families.
+- Both schemes leave out tenant farmers who lack land records.
+W: Flagship farm schemes appear in Prelims, and the subsidy-versus-cash-transfer debate is a GS3 theme.
+Q: Examine the strengths and weaknesses of PM-KISAN as a model for supporting farm incomes.
+
+## agricultural-marketing | Agricultural marketing: APMCs, e-NAM and reform
+
+Most farm produce is sold through regulated markets run under state Agricultural Produce Market Committee (APMC) Acts. These were introduced to protect farmers from exploitation by traders by requiring sales in notified market yards, with licensed commission agents and open auctions. Over time the system developed problems: too few markets for the number of farmers, high market fees and commissions, cartels of licensed traders, and barriers to selling outside the notified area.
+
+The Centre issued model laws to encourage reform, including the Model APMC Act of 2003 and the Model Agricultural Produce and Livestock Marketing Act of 2017, which proposed private markets, direct purchase from farmers, single licences and a cap on fees. Bihar abolished its APMC Act in 2006, an experiment that has been debated ever since, with critics pointing to weak price discovery in the absence of an alternative structure.
+
+In 2020 Parliament passed three farm laws to allow trade outside APMC yards, enable contract farming and relax stockholding limits. After a year of protests, mainly by farmers in Punjab, Haryana and western Uttar Pradesh, the laws were repealed in November 2021. The episode showed that agricultural marketing reform needs consultation with states and farmers, because agriculture and markets are state subjects.
+
+The electronic National Agriculture Market (e-NAM), launched in April 2016, is an online platform that links APMC markets so that buyers in one place can bid for produce elsewhere. Its use for inter-mandi and inter-state trade has grown slowly, because of the need for quality testing, grading and logistics. Warehouse receipts and Gramin Haats are other efforts to bring markets closer to farmers.
+
+- APMC Acts regulate first sale of farm produce, but many markets suffer from cartels and high fees.
+- The three farm laws of 2020 were repealed in November 2021 after farmer protests.
+- e-NAM, launched in 2016, links mandis online but faces quality and logistics hurdles.
+W: Marketing reform is central to the GS3 syllabus item on "issues related to... marketing of agricultural produce".
+Q: Why has reform of agricultural marketing in India been so contested? What would a viable path look like?
+
+## seeds-and-gm-crops | Seeds, biotechnology and GM crops
+
+Seeds are the basic input that determines yield. India's seed system has public institutions, such as the Indian Council of Agricultural Research and state agricultural universities, and a large private sector. The Seeds Act of 1966 regulates the quality of notified seeds, and the Protection of Plant Varieties and Farmers' Rights Act of 2001 protects breeders' rights while allowing farmers to save, use, exchange and sell farm-saved seed, though not under a brand name.
+
+Genetically modified (GM) crops carry genes from other organisms to give them new traits. The Genetic Engineering Appraisal Committee (GEAC), under the Ministry of Environment, Forest and Climate Change, approves GM crops for environmental release under rules framed under the Environment (Protection) Act, 1986. Bt cotton, which carries a gene from the bacterium Bacillus thuringiensis to resist the bollworm, was approved in 2002 and is the only GM crop approved for commercial cultivation. It spread quickly and raised yields at first, but pink bollworm later developed resistance, and illegal herbicide-tolerant cotton is grown in some areas.
+
+GM mustard (DMH-11), developed at Delhi University, was approved by the GEAC for environmental release in October 2022. The decision was challenged in the Supreme Court, which gave a split verdict in July 2024 and asked the Centre to frame a national policy on GM crops. A Bt brinjal approval was put on hold in 2010.
+
+Supporters argue GM and gene-edited crops can raise yields and cut pesticide use. Critics raise concerns about biosafety, corporate control of seeds, and harm to honeybees and exports. In 2025 India released two genome-edited rice varieties, developed without foreign DNA, which follow a lighter regulatory route.
+
+- The PPVFR Act, 2001 protects both breeders' and farmers' rights.
+- Bt cotton (2002) is the only GM crop approved for commercial cultivation; GM mustard remains in the courts.
+- The GEAC approves GM crops; genome-edited crops without foreign DNA face lighter rules.
+W: Biotechnology in agriculture links GS3 science and economy, and the GM debate is a frequent Mains question.
+Q: Should India expand the use of GM crops? Discuss with reference to Bt cotton and GM mustard.
+
+## farmer-producer-organisations | Farmer producer organisations and co-operatives
+
+Over 85% of Indian farmers are small and marginal, with less than two hectares. Small farms have little bargaining power when buying inputs or selling produce, and find it hard to reach credit, technology and markets. Collective organisations are one answer. Co-operatives have a long history in India, from the Co-operative Credit Societies Act of 1904 to the dairy success of Amul. The 97th Constitutional Amendment of 2011 made forming co-operatives a fundamental right and added Part IXB, though the Supreme Court in 2021 struck down the parts applying to state co-operatives.
+
+Farmer producer organisations (FPOs) are a newer form, usually registered as producer companies under the Companies Act, combining company-style management with member ownership. They buy inputs in bulk, aggregate and grade produce, run storage and processing, and negotiate with buyers. The Centre launched a scheme in 2020 to form and promote 10,000 new FPOs, with support for management costs, equity grants and credit guarantees, implemented through agencies such as the Small Farmers' Agri-Business Consortium (SFAC) and NABARD.
+
+FPOs face real difficulties. Many are small, short of working capital and professional managers, and depend on promoting agencies. Only a minority become commercially viable. Experts suggest linking FPOs with e-NAM, processors and exporters, and giving them easier access to credit.
+
+The creation of a separate Ministry of Co-operation in 2021 and plans to set up multipurpose primary agricultural credit societies in every panchayat show renewed government interest in the co-operative model.
+
+- More than 85% of farmers are small and marginal, which weakens their market power.
+- FPOs, usually producer companies, aggregate inputs and outputs; the Centre promoted 10,000 new FPOs from 2020.
+- The 97th Amendment gave co-operatives constitutional status; a Ministry of Co-operation was created in 2021.
+W: FPOs and co-operatives are favoured answers to small-farm problems and appear in both Prelims and Mains.
+Q: Can farmer producer organisations overcome the disadvantages of small landholdings? Discuss their challenges.
+
+## animal-husbandry-dairy-fisheries | Animal husbandry, dairy and fisheries
+
+Livestock and fisheries have become the fastest-growing parts of the farm economy, and they matter especially to landless and small households, for whom animals are a source of income and insurance. Their growth has been faster than that of crops for many years, and they now account for a large share of the value of agricultural output.
+
+India is the world's largest milk producer. Its dairy success is built on the co-operative model of Anand in Gujarat, where Amul was founded in 1946. Operation Flood, launched by the National Dairy Development Board in 1970 under Verghese Kurien, linked village milk co-operatives to urban markets and is often called the White Revolution. Unlike the Green Revolution, it relied largely on smallholders with a few animals. Low productivity per animal, fodder shortages and animal diseases remain problems. The National Livestock Mission, the Rashtriya Gokul Mission for indigenous breeds and a vaccination drive against foot-and-mouth disease and brucellosis are the main programmes.
+
+India is also among the world's largest fish producers, with inland aquaculture now producing more than marine capture. The Blue Revolution scheme of 2015-16 was followed in 2020 by the Pradhan Mantri Matsya Sampada Yojana, which invests in harvesting, cold chains, harbours and fishers' welfare. Shrimp is a major export. Overfishing, pollution of coastal waters and disputes with neighbouring countries over fishing grounds are concerns.
+
+Poultry, goats and sheep give quick returns to poor households. A separate Ministry of Fisheries, Animal Husbandry and Dairying was created in 2019 to give these sectors more attention.
+
+- India is the largest milk producer, built on the co-operative model of Operation Flood.
+- Inland aquaculture now produces more fish than marine capture; PMMSY started in 2020.
+- Livestock acts as income and insurance for landless and small households.
+W: Allied sectors are central to farm-income strategies and appear in GS3 under animal rearing and food processing.
+Q: Why is the livestock and fisheries sector important for doubling farm incomes, and what holds it back?
+
+## food-processing-industry | The food processing industry
+
+Food processing turns farm produce into products with a longer shelf life and higher value, such as packaged foods, dairy products, juices and frozen foods. It links farms to factories, can raise farmers' prices, reduce wastage and create jobs in rural areas. The GS3 syllabus asks about its "scope and significance, location, upstream and downstream requirements, supply chain management".
+
+India processes only a small share of its fruit and vegetable output, and a significant amount of produce is lost after harvest. A 2022 study by NABCONS, commissioned by the food processing ministry, estimated post-harvest losses across crops at roughly ₹1.5 lakh crore a year. The main reasons are poor cold storage and transport, fragmented supply chains, small farm sizes, uneven quality, and the dominance of small, informal units.
+
+The Pradhan Mantri Kisan SAMPADA Yojana, launched in 2017, is an umbrella scheme covering mega food parks, integrated cold chains, agro-processing clusters and food testing labs. The Production Linked Incentive scheme for food processing, approved in 2021 with an outlay of ₹10,900 crore, rewards firms that raise sales of Indian brands, including millet-based foods. The PM Formalisation of Micro Food Processing Enterprises scheme supports small units with credit-linked subsidies under a "one district, one product" approach. Up to 100% FDI is allowed through the automatic route in food processing, and through the approval route in trading of food products made in India.
+
+The Food Safety and Standards Authority of India sets and enforces food standards. Experts say growth depends on better rural infrastructure, contract farming that farmers can trust, and stable export policy.
+
+- Weak cold chains and fragmented supply cause large post-harvest losses.
+- Kisan SAMPADA Yojana (2017), the PLI scheme (2021) and PMFME are the main supports.
+- Food processing links farmers to markets and creates rural non-farm jobs.
+W: Food processing is named in the GS3 syllabus and is a common source of Mains questions.
+Q: What are the major constraints on the growth of food processing in India, and how can government policy address them?

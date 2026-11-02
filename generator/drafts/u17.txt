@@ -1,0 +1,164 @@
+# THEME 17
+## national-income-concepts | National income: GDP, GNP, GVA and NNP
+
+National income accounting measures the value of goods and services an economy produces. The most widely used measure is Gross Domestic Product (GDP): the market value of all final goods and services produced within a country's borders in a year. "Final" matters. Counting intermediate goods, such as the steel that goes into a car, would count the same output twice. GDP can be measured in three ways that should give the same answer: the production method (adding up the value added at each stage), the income method (adding wages, rent, interest and profits) and the expenditure method (adding consumption, investment, government spending and net exports).
+
+Gross National Product (GNP), now usually called Gross National Income, adds the income residents earn abroad and subtracts the income foreigners earn in the country. For India, GNP is slightly lower than GDP, because foreign investors earn more in India than Indians earn abroad from investment. Net measures subtract depreciation, the wear and tear on capital: Net National Product (NNP) is GNP minus depreciation. NNP at factor cost is what economists traditionally call national income.
+
+India now reports Gross Value Added (GVA) at basic prices by sector. GVA is output minus intermediate consumption. GDP equals GVA plus product taxes minus product subsidies. Basic prices include production taxes, such as land revenue, but exclude product taxes such as GST.
+
+Nominal GDP is measured at current prices. Real GDP adjusts for inflation by valuing output at the prices of a base year, so it shows how much more is actually produced. The ratio of nominal to real GDP is the GDP deflator, a broad measure of inflation. Per capita income divides national income by population and is a rough guide to average living standards, though it says nothing about distribution.
+
+- GDP counts final goods and services produced within a country; it can be measured by production, income or expenditure.
+- GNP adds net factor income from abroad; NNP subtracts depreciation.
+- Real GDP removes inflation using base-year prices; the GDP deflator is nominal over real GDP.
+W: National income concepts are tested almost every year in Prelims and are the foundation for all economy answers.
+Q: Why is GDP an incomplete measure of a country's well-being? Suggest complementary indicators.
+
+## new-gdp-series-2022-23 | Measuring India's GDP: the new 2022-23 series
+
+India's national accounts are compiled by the National Statistics Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI). Base years are revised periodically, because an economy's structure, prices and data sources change. The series with base year 2011-12, introduced in 2015, drew criticism: some economists argued it overstated growth, partly because it relied on a corporate database (the MCA-21 filings) and on single deflation, which can distort real growth when input and output prices move differently.
+
+On 27 February 2026, MoSPI released a new series with 2022-23 as the base year. The year was chosen as the most recent "normal" year after the pandemic disruptions of 2020 and 2021. The new series estimated real GDP growth for 2025-26 at 7.6%, and growth of 7.8% in the October-December 2025 quarter. Nominal GDP levels for recent years were revised down by roughly 3 to 4% compared with the old series.
+
+The methodological changes are significant. The new series uses more administrative and high-frequency data, such as GST returns, vehicle registrations from the e-Vahan portal and the Public Financial Management System. It applies double deflation in manufacturing and agriculture, deflating inputs and outputs separately. It aligns the accounts with supply and use tables to reduce the gap between production-side and expenditure-side estimates, the "discrepancies" that critics had highlighted. It draws on the Annual Survey of Unincorporated Sector Enterprises (ASUSE) and the Periodic Labour Force Survey to measure the informal sector better, and includes activities such as hired domestic work and the gig and platform economy.
+
+The CPI was rebased to 2024 and the Index of Industrial Production updated in the same period, so India's main economic statistics now share more recent foundations.
+
+- MoSPI released a new GDP series with base year 2022-23 on 27 February 2026.
+- It estimated real growth of 7.6% in 2025-26, but revised nominal GDP levels down by about 3–4%.
+- Double deflation, GST and other administrative data, and better informal-sector measurement are key changes.
+W: The new GDP series is a high-priority current topic and a classic question on the reliability of official statistics.
+Q: Why do statistical agencies revise base years? How does the 2022-23 GDP series address earlier criticisms?
+
+## inflation-meaning-types | Inflation: meaning, types and effects
+
+Inflation is a sustained rise in the general price level, which reduces the purchasing power of money. Deflation is a sustained fall in prices; disinflation is a fall in the rate of inflation, when prices still rise but more slowly.
+
+Economists distinguish inflation by cause. Demand-pull inflation occurs when total demand exceeds what the economy can produce, for example when credit is cheap, government spending rises or incomes grow quickly. Cost-push inflation occurs when production costs rise, such as through higher oil prices, wages or raw material costs, or supply shocks like a poor monsoon. In India, food and fuel prices are major drivers, which means inflation often has supply-side causes that interest rates cannot easily fix. Built-in or wage-price inflation happens when workers demand higher wages to keep up with prices, which then raises costs further.
+
+Inflation is also described by speed. Creeping or mild inflation of a few per cent a year is normal and can encourage spending and investment. Galloping inflation runs at double digits. Hyperinflation, at extreme rates, destroys a currency's value, as in Germany in 1923 or Zimbabwe in the late 2000s. Stagflation combines high inflation with stagnant growth and unemployment, as many economies experienced after the oil shocks of the 1970s.
+
+Inflation has winners and losers. It hurts people on fixed incomes, such as pensioners, and savers whose deposit interest is below inflation. It benefits borrowers, since the real value of their debt falls. The poor are hit hardest, because food takes a large share of their spending. Unpredictable inflation discourages long-term investment. Very low inflation or deflation is also harmful, because people delay spending and debt burdens rise.
+
+Core inflation excludes volatile food and fuel prices and is used to judge underlying price pressures.
+
+- Inflation can be demand-pull, cost-push or wage-price driven; in India food and fuel shocks matter a lot.
+- Stagflation combines high inflation with weak growth.
+- Inflation hurts savers and fixed-income earners and helps borrowers; the poor are hit hardest.
+W: Types, causes and effects of inflation are standard Prelims questions and essential context for monetary policy.
+Q: Why is controlling food inflation difficult through monetary policy alone? Suggest other measures.
+
+## measuring-inflation-cpi-wpi | Measuring inflation: CPI, WPI and the new 2024 series
+
+India uses several price indices. The Wholesale Price Index (WPI), compiled by the Office of the Economic Adviser in the Ministry of Commerce, measures prices at the wholesale or producer level. Its current base year is 2011-12. It covers goods only, not services, and gives heavy weight to manufactured products. It was once India's headline inflation measure.
+
+The Consumer Price Index (CPI), compiled by the National Statistics Office, measures the prices of a basket of goods and services bought by households. Since 2014, on the recommendation of the Urjit Patel Committee, CPI-Combined has been the main measure of inflation, and since 2016 the RBI's inflation target has been defined in terms of it. Separate CPIs for industrial workers, agricultural labourers and rural labourers, compiled by the Labour Bureau, are used to revise wages and dearness allowance.
+
+In February 2026, MoSPI launched a new CPI series with base year 2024, replacing the 2012 base. The weights now come from the Household Consumption Expenditure Survey 2023-24, reflecting how spending patterns have changed. The weight of food and beverages fell from about 45.9% to about 36.8%, as households now spend relatively more on services, housing and other items. The basket expanded from 299 to 358 items, including more services. The new series follows the international COICOP 2018 classification, includes rural housing for the first time, uses tablets for data collection, and adds online prices from e-commerce platforms and data on airfares and streaming subscriptions. The first reading, for January 2026, showed retail inflation of 2.75%.
+
+The GDP deflator is a broader measure covering all goods and services produced. Producer price indices, long recommended, are being developed to replace the WPI.
+
+- The WPI covers only goods at the wholesale level; CPI-Combined is the headline measure used for the RBI's target.
+- The new CPI series (base 2024) cut the food weight from about 45.9% to 36.8% and expanded the basket to 358 items.
+- January 2026 inflation under the new series was 2.75%.
+W: Differences between CPI and WPI, and the new CPI series, are high-probability Prelims questions.
+Q: How does lowering the weight of food in the CPI affect the conduct of monetary policy?
+
+## poverty-measurement | Measuring poverty in India
+
+Poverty can be measured in different ways. Absolute poverty uses a fixed line, such as the cost of a minimum basket of food and essentials. Relative poverty compares people with others in the same society. Multidimensional poverty looks at deprivations in health, education and living standards rather than income alone.
+
+India's official poverty lines were set by a series of expert groups. The Lakdawala committee (1993) based lines on calorie needs. The Tendulkar committee (2009) moved to a broader consumption basket including health and education; by its method, poverty fell from 37.2% in 2004-05 to 21.9% in 2011-12. The Rangarajan committee (2014) proposed a higher line, estimating poverty at 29.5% in 2011-12, but its method was never formally adopted. Because consumption surveys were not released between 2011-12 and 2022-23, India had no official poverty estimate for over a decade.
+
+The Household Consumption Expenditure Surveys of 2022-23 and 2023-24 filled the gap. Using them, the World Bank estimated in June 2025 that India's extreme poverty, at its revised international line of 3 dollars a day in 2021 purchasing power parity, fell from 27.1% in 2011-12 to 5.3% in 2022-23. The World Bank noted that poverty at higher lines, appropriate for middle-income countries, remains much more widespread.
+
+NITI Aayog's National Multidimensional Poverty Index uses twelve indicators, including nutrition, child mortality, schooling, cooking fuel, sanitation, drinking water, housing, electricity, assets and bank accounts. Its discussion paper of January 2024 estimated that about 24.8 crore people escaped multidimensional poverty between 2013-14 and 2022-23. Critics debate survey methods and comparability, but most estimates agree that poverty fell substantially, while vulnerability and low incomes just above the line remain widespread.
+
+- Tendulkar's method put poverty at 21.9% in 2011-12; there was then no official estimate for a decade.
+- The World Bank estimated extreme poverty at 5.3% in 2022-23 at its new 3-dollar line.
+- NITI Aayog's MPI estimated that about 24.8 crore people escaped multidimensional poverty between 2013-14 and 2022-23.
+W: Poverty measurement methods and recent estimates are standard GS III and GS II questions.
+Q: Is multidimensional poverty a better guide to policy than income poverty? Discuss.
+
+## unemployment-types-measurement | Unemployment: types and how India measures it
+
+Unemployment means that people who are willing and able to work cannot find work. Economists distinguish several types. Frictional unemployment is temporary, while people move between jobs. Structural unemployment arises when workers' skills do not match available jobs, often because of technological change. Cyclical unemployment rises in economic downturns. Seasonal unemployment is common in agriculture, where work is concentrated in sowing and harvest seasons. Disguised unemployment, typical in Indian farming, occurs when more people work on a farm than are needed, so removing some would not reduce output; their marginal productivity is near zero. Underemployment means people work fewer hours or in lower-skilled jobs than they want.
+
+India measures employment mainly through the Periodic Labour Force Survey (PLFS), launched by the National Statistics Office in 2017-18. It uses two approaches. The usual status measures a person's main activity over the previous 365 days. The current weekly status (CWS) measures activity in the previous seven days; it captures short-term unemployment and is closer to international practice. Key indicators are the labour force participation rate (the share of people working or seeking work), the worker population ratio, and the unemployment rate (the share of the labour force without work).
+
+From January 2025, the PLFS was revamped to release monthly estimates of unemployment by the current weekly status for both rural and urban areas, and quarterly estimates for rural areas, alongside annual reports. Monthly unemployment for people aged 15 and above has generally been around 5% in 2025 and 2026, with youth unemployment, especially among educated urban youth, much higher.
+
+India's employment challenge is less about open unemployment than about the quality of work: most workers are self-employed or casual, informality is high, and the shift of workers out of agriculture into productive manufacturing jobs has been slow.
+
+- Unemployment types include frictional, structural, cyclical, seasonal and disguised.
+- The PLFS measures usual status and current weekly status; monthly bulletins began in 2025.
+- India's main problem is low-quality, informal work and high youth unemployment.
+W: Types of unemployment and PLFS concepts are frequently tested, and jobs data appear in many Mains answers.
+Q: Why does India's unemployment rate appear low despite widespread concern about jobs? Explain.
+
+## human-development-index | Human development and the HDI
+
+The idea of human development, associated with the economists Mahbub ul Haq and Amartya Sen, holds that development is about expanding people's capabilities and freedoms, the real opportunities they have to live lives they value, rather than about income alone. Sen's book *Development as Freedom* (1999) set out this capability approach.
+
+The United Nations Development Programme (UNDP) has published the Human Development Report since 1990. Its Human Development Index (HDI) combines three dimensions: a long and healthy life (life expectancy at birth), knowledge (expected and mean years of schooling) and a decent standard of living (gross national income per capita at purchasing power parity). Each dimension is turned into an index between 0 and 1, and the HDI is their geometric mean.
+
+According to the Human Development Report 2025, India ranked 130th of 193 countries, with an HDI value of 0.685 for 2023, placing it in the medium human development category, close to the threshold for high human development. India's HDI has risen by more than half since 1990, driven by rising life expectancy, schooling and incomes. The report highlighted that inequality and gender gaps pull India's score down.
+
+UNDP publishes related indices. The Inequality-adjusted HDI discounts the HDI for inequality in each dimension. The Gender Development Index compares HDI values for women and men, and the Gender Inequality Index measures gaps in reproductive health, empowerment and labour market participation. The global Multidimensional Poverty Index, developed with Oxford University, counts overlapping deprivations.
+
+In India, NITI Aayog's SDG India Index ranks states on the Sustainable Development Goals, and states such as Kerala consistently show that high human development is possible at moderate income levels, an idea often called the Kerala model.
+
+- Human development focuses on capabilities and freedoms, following Sen and ul Haq.
+- The HDI combines life expectancy, schooling and income per head.
+- India ranked 130th of 193 in the HDR 2025, with an HDI of 0.685 for 2023.
+W: The HDI's components and India's rank are common Prelims questions; the capability approach is useful in essays and GS IV.
+Q: Why does India's HDI rank lag behind its GDP rank? What policies could close the gap?
+
+## growth-versus-development | Economic growth versus development, and the SDGs
+
+Economic growth is an increase in a country's output, usually measured by real GDP growth. Economic development is broader: it includes improvements in health, education, living standards, equality, freedom and environmental quality. Growth can happen without much development, for example if its benefits are concentrated among a few or if it damages the environment. Development usually needs growth, because growth provides resources for public services and jobs.
+
+Several ideas qualify the growth-first view. The trickle-down theory claimed that growth would automatically benefit the poor; evidence shows that this depends on the kind of growth and on public policy. Inclusive growth, a phrase used in India's Eleventh Five-Year Plan (2007-12), means growth that is broad-based across sectors, regions and social groups and creates productive jobs. Sustainable development, defined by the Brundtland Commission in 1987 as development that meets the needs of the present without compromising the ability of future generations to meet their own needs, adds the environment. Green GDP adjusts output for environmental damage and resource depletion.
+
+The United Nations adopted the 2030 Agenda for Sustainable Development in 2015, with 17 Sustainable Development Goals (SDGs) and 169 targets. They range from ending poverty and hunger to quality education, gender equality, clean energy, decent work, reduced inequality, climate action and peace. Unlike the earlier Millennium Development Goals (2000-2015), they apply to all countries, not only developing ones.
+
+In India, NITI Aayog coordinates the SDGs and publishes the SDG India Index, which ranks states and union territories. Kerala and Uttarakhand have topped recent editions, while states such as Bihar have ranked lowest, though most states have improved. India presents Voluntary National Reviews of its progress at the United Nations.
+
+- Growth is rising output; development includes health, education, equality and environment.
+- Inclusive growth and sustainable development broaden the goal beyond GDP.
+- The 17 SDGs (2015–2030) apply to all countries; NITI Aayog ranks Indian states on them.
+W: The growth-development distinction and the SDGs are common in Prelims and Mains, including the essay paper.
+Q: "Growth is necessary but not sufficient for development." Discuss with reference to India.
+
+## sectoral-structure-economy | The structure of India's economy: agriculture, industry and services
+
+Economies are usually divided into three sectors. The primary sector extracts natural resources (agriculture, forestry, fishing and mining). The secondary sector processes them (manufacturing, construction, electricity and water supply). The tertiary sector provides services (trade, transport, communication, finance, real estate, public administration and others). Some analysts add a quaternary sector for knowledge-based services.
+
+The classic pattern of development, described by economists such as Colin Clark and Simon Kuznets, is that as countries grow richer, workers and output shift first from agriculture to industry, especially manufacturing, and later to services. India has followed an unusual path. The share of agriculture and allied activities in output has fallen to roughly a sixth of GVA, but it still employs around 45% of the workforce, according to recent PLFS data, which means farm incomes per worker are low. Manufacturing has stayed at around 15–17% of GVA for decades, far below East Asian economies at a comparable stage, and has not absorbed large numbers of workers. Services have grown fastest and now produce more than half of GVA, led by information technology, finance, trade and telecommunications.
+
+Economists call this "premature deindustrialisation" or a services-led growth model. It has advantages: India is a major exporter of software and business services. But services that employ many people, such as retail and transport, are often informal and low-paid, while high-productivity services need skills that most workers lack. Construction has absorbed many workers leaving agriculture, but often in insecure jobs.
+
+Government policy has tried to raise manufacturing through Make in India (2014), production-linked incentive (PLI) schemes for sectors such as electronics, pharmaceuticals and automobiles, industrial corridors and the National Manufacturing Mission announced in the 2025-26 Budget.
+
+- Agriculture's share of output has fallen to around a sixth, but it still employs about 45% of workers.
+- Manufacturing has remained around 15–17% of GVA; services produce over half.
+- India's services-led path raises concerns about premature deindustrialisation and job quality.
+W: Structural change and the manufacturing gap are frequent GS III Mains questions.
+Q: Why has manufacturing not become India's main source of jobs? Suggest a strategy to change this.
+
+## india-growth-story | India's growth story since 1950
+
+India's economic history since independence can be divided into broad phases. From 1950 to 1980, the economy grew at an average of around 3.5% a year, a rate the economist Raj Krishna called the "Hindu rate of growth". With population growing at about 2%, per capita income rose slowly. This was the era of planning, a dominant public sector, industrial licensing, import substitution and nationalisation of banks. It built heavy industry, scientific institutions and, through the Green Revolution, food self-sufficiency, but growth was held back by controls, inefficiency and periodic crises such as wars and droughts.
+
+Growth picked up in the 1980s, to around 5.5% a year, helped by some early liberalisation and higher public spending, but this was financed by borrowing and ended in the balance of payments crisis of 1991. The reforms that followed opened the economy, and growth averaged over 6% in the 1990s. From 2003 to 2008 India grew at around 8–9% a year, driven by investment, credit, exports and a global boom, before the global financial crisis.
+
+The 2010s brought slower growth, a twin balance sheet problem of stressed corporate and bank balance sheets, and major structural reforms such as the Insolvency and Bankruptcy Code (2016), demonetisation (2016) and GST (2017). The COVID-19 pandemic caused the economy to contract in 2020-21, followed by a strong recovery. Under the new GDP series, real growth in 2025-26 was estimated at 7.6%.
+
+India is now among the world's largest economies by nominal GDP, and the government has set the goal of becoming a developed country, Viksit Bharat, by 2047, the centenary of independence. Achieving it would require sustained high growth for two decades, with much higher investment, productivity, female labour participation and manufacturing employment.
+
+- India grew around 3.5% a year from 1950 to 1980, faster in the 1980s, and much faster after the 1991 reforms.
+- The 2003–2008 boom saw growth of 8–9%; the 2010s brought a twin balance sheet problem and major reforms.
+- The goal of Viksit Bharat by 2047 requires two decades of sustained high growth.
+W: The phases of India's growth are useful background for GS III questions and the essay paper.
+Q: What lessons does India's growth experience since 1950 offer for achieving Viksit Bharat by 2047?

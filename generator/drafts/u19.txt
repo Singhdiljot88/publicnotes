@@ -1,0 +1,170 @@
+# THEME 19
+## union-budget-process | The Union Budget: funds, process and the 2026-27 numbers
+
+Article 112 of the Constitution requires the President to lay before Parliament an "annual financial statement" of estimated receipts and expenditure; the word "budget" does not appear in the Constitution. The Union Budget is usually presented by the Finance Minister on 1 February, a practice adopted in 2017 so that it can be passed before the financial year begins on 1 April. The Railway Budget was merged with the Union Budget the same year.
+
+Government money is held in three accounts. The Consolidated Fund of India (Article 266) receives all revenues, loans raised and loan repayments; no money can be withdrawn from it without a law passed by Parliament. The Contingency Fund of India (Article 267) is an imprest at the disposal of the President for urgent, unforeseen spending, later recouped through parliamentary approval. The Public Account holds money the government receives as a banker or trustee, such as provident funds and small savings deposits; withdrawals do not need parliamentary approval.
+
+Some expenditure is "charged" on the Consolidated Fund and is not voted on, such as the salaries of the President, judges of the Supreme Court and the CAG, and interest on debt. The rest is voted through demands for grants, examined by departmental standing committees. Parliament then passes the Appropriation Bill, authorising withdrawals, and the Finance Bill, giving effect to tax proposals. A vote on account allows spending for part of the year when the full budget cannot be passed in time, usually in election years.
+
+The Budget for 2026-27, presented on 1 February 2026, estimated total expenditure of about Rs 53.5 lakh crore and capital expenditure of about Rs 12.2 lakh crore. It set the fiscal deficit target at 4.3% of GDP, down from a revised 4.4% in 2025-26, and projected the Union government's debt at 55.6% of GDP. The new Income-tax Act, 2025 took effect from April 2026.
+
+- Article 112 requires an annual financial statement; the Budget is presented on 1 February.
+- The Consolidated Fund needs parliamentary approval for withdrawals; the Contingency Fund and Public Account work differently.
+- Budget 2026-27: spending about Rs 53.5 lakh crore, capex Rs 12.2 lakh crore, fiscal deficit 4.3% of GDP.
+W: The budget process and government funds are high-frequency Prelims questions, and the latest numbers are used in Mains.
+Q: How effective is parliamentary scrutiny of the Union Budget? Suggest ways to strengthen it.
+
+## deficits-explained | Fiscal, revenue and primary deficits
+
+Government finances are judged by several deficit measures, each telling a different story.
+
+Government receipts are divided into revenue receipts, such as taxes and non-tax income (dividends, fees, interest), which do not create liabilities, and capital receipts, such as borrowing, loan recoveries and disinvestment proceeds. Expenditure is divided into revenue expenditure, which does not create assets (salaries, pensions, interest, subsidies), and capital expenditure, which creates assets or reduces liabilities (roads, railways, defence equipment, loans to states).
+
+The revenue deficit is revenue expenditure minus revenue receipts. A revenue deficit means the government is borrowing to pay for day-to-day expenses, which is considered poor practice. The effective revenue deficit subtracts grants given to states for creating capital assets, because those grants are revenue spending for the Union but build assets in the states.
+
+The fiscal deficit is total expenditure minus total receipts other than borrowing. It equals the government's total borrowing requirement in a year and is the most closely watched measure. Persistently high fiscal deficits raise public debt, push up interest rates, can "crowd out" private investment, and may fuel inflation. The primary deficit is the fiscal deficit minus interest payments. It shows whether current policies, apart from the burden of past debt, are adding to borrowing. India's interest payments take up a large share of revenue receipts, around two-fifths in recent Union budgets, which is why the primary deficit is much smaller than the fiscal deficit.
+
+Monetised deficit refers to the part of the deficit financed by the central bank creating money. India ended automatic monetisation through ad hoc treasury bills in 1997.
+
+The Union government's fiscal deficit rose to 9.2% of GDP in the pandemic year 2020-21 and has been reduced each year since, to a target of 4.3% in 2026-27. States' combined fiscal deficits add roughly another 3% of GDP.
+
+- Revenue deficit shows borrowing for day-to-day spending; fiscal deficit is total borrowing.
+- Primary deficit removes interest payments to show the effect of current policy.
+- The Union fiscal deficit fell from 9.2% of GDP in 2020-21 to a 4.3% target in 2026-27.
+W: Deficit definitions are among the most frequently asked Prelims economy questions.
+Q: Why is the quality of fiscal deficit, revenue versus capital spending, as important as its size?
+
+## frbm-fiscal-rules | Fiscal rules: the FRBM Act and the debt anchor
+
+Fiscal rules limit government borrowing to keep public finances sustainable. India's main fiscal rule is the Fiscal Responsibility and Budget Management (FRBM) Act, 2003, which came into force in 2004. It set targets to eliminate the revenue deficit and bring the fiscal deficit down to 3% of GDP, required the government to present medium-term fiscal policy statements with the Budget, and limited the RBI's direct purchase of government securities in the primary market.
+
+The targets were repeatedly postponed: after the global financial crisis in 2008, the government expanded spending, and the deadlines slipped. The N. K. Singh committee (2017) reviewed the framework and recommended using public debt as the main anchor, with a general government debt target of 60% of GDP (40% for the Union and 20% for states) by 2023, and the fiscal deficit as the operational target. It also proposed an "escape clause" allowing deviations of up to 0.5% of GDP in events such as war, national calamity or severe economic downturn. The FRBM Act was amended in 2018 to adopt a debt target and escape clause. The pandemic again forced large deviations.
+
+From the 2025-26 Budget, the government shifted to a debt-based anchor: it aims to bring the Union government's debt down to about 50% of GDP, within a band of plus or minus one percentage point, by March 2031, with year-to-year fiscal deficits set to achieve that path. The 2026-27 Budget projected debt at 55.6% of GDP.
+
+States have their own FRBM laws, generally capping fiscal deficits at 3% of their GSDP, with extra borrowing room linked to reforms in power and other sectors. Off-budget borrowings, through public sector entities, have been a concern because they hide the true deficit; since 2022 the Union government has counted some such borrowing by states against their limits.
+
+- The FRBM Act (2003) aimed at a 3% fiscal deficit but targets were repeatedly deferred.
+- The N. K. Singh committee (2017) recommended a debt anchor and an escape clause, adopted in 2018.
+- The Union government now targets debt of about 50% (±1%) of GDP by March 2031.
+W: The FRBM framework and the shift to a debt anchor are core GS III public finance topics.
+Q: Is public debt a better fiscal anchor than the fiscal deficit for India? Discuss.
+
+## gst-structure-reform | GST: structure, council and the 2025 reform
+
+The Goods and Services Tax, introduced on 1 July 2017, replaced a tangle of central and state indirect taxes, including excise duty, service tax, VAT, central sales tax, entry tax and octroi, with a single destination-based tax. It was made possible by the Constitution (101st Amendment) Act, 2016, which gave both Parliament and state legislatures concurrent power to tax goods and services (Article 246A) and created the GST Council (Article 279A).
+
+GST is a dual tax. On transactions within a state, the Union levies Central GST and the state levies State GST at equal rates. On inter-state supplies and imports, the Union levies Integrated GST, which is then shared with the destination state. Because tax paid on inputs can be set off against tax on output through input tax credit, GST taxes only the value added at each stage and removes the "tax on tax" cascading of the old system. The GST Network (GSTN) runs the IT backbone, including e-invoicing and e-way bills for moving goods. Alcohol for human consumption is outside GST, and petroleum products have been kept out so far, though they can be brought in on the Council's recommendation.
+
+States were guaranteed compensation for five years for revenue losses, assuming 14% annual growth, funded by a compensation cess; the guarantee ended in June 2022, and the cess was continued to repay loans taken during the pandemic.
+
+In September 2025 the GST Council approved the biggest overhaul since launch. From 22 September 2025, the earlier four main slabs of 5%, 12%, 18% and 28% were reduced to two main rates of 5% and 18%, with a 40% rate for a small set of luxury and "sin" goods, and many everyday goods moved to lower rates or exempted. Gross GST collections in 2025-26 were about Rs 22.27 lakh crore, up 8.3% on the previous year. Remaining issues include an appellate tribunal that took years to begin functioning, compliance burdens on small businesses and states' loss of fiscal autonomy.
+
+- GST (2017) replaced many indirect taxes; the 101st Amendment created Article 246A and the GST Council.
+- CGST and SGST apply within a state; IGST applies to inter-state supplies; alcohol and petroleum are outside GST.
+- From 22 September 2025, GST moved to two main slabs of 5% and 18%, plus 40% for select goods; FY26 collections were about Rs 22.27 lakh crore.
+W: GST structure and the 2025 reform are among the most likely GS III and Prelims questions.
+Q: Evaluate the impact of the 2025 GST rate rationalisation on consumers, businesses and states.
+
+## subsidies-and-rationalisation | Subsidies: food, fertiliser and fuel
+
+A subsidy is a payment or price support by the government that lowers the cost of a good or service for consumers or producers. Subsidies can serve important goals: protecting the poor from high food prices, keeping farm inputs affordable, or encouraging socially valuable activities. But badly designed subsidies are costly, distort prices, encourage overuse and often benefit the better-off more than the poor.
+
+India's three major explicit subsidies are food, fertiliser and petroleum. The food subsidy funds the procurement, storage and distribution of grain by the Food Corporation of India and states under the National Food Security Act. Since January 2024, about 81 crore beneficiaries receive free foodgrains under the Pradhan Mantri Garib Kalyan Anna Yojana, extended for five years. The food subsidy is the largest single subsidy.
+
+The fertiliser subsidy keeps prices low for farmers. Urea prices are fixed by the government, while phosphatic and potassic fertilisers are subsidised under a Nutrient Based Subsidy scheme introduced in 2010. Because urea is much cheaper relative to other fertilisers, farmers overuse nitrogen, damaging soils and increasing imports. Neem-coated urea (2015) reduced diversion to industrial use, and the government has promoted nano urea and the "One Nation One Fertiliser" Bharat brand. Global price shocks, such as those after the Ukraine war, sharply raise the subsidy bill.
+
+Petroleum subsidies have shrunk since petrol prices were deregulated in 2010 and diesel in 2014. Subsidies now mainly cover LPG for poorer households, including under the Pradhan Mantri Ujjwala Yojana, launched in 2016 to provide free connections to women from poor households.
+
+Implicit subsidies, through free electricity for farmers and below-cost services, are large but often hidden in state budgets and the losses of power distribution companies. Direct Benefit Transfer and better targeting are the main tools for rationalising subsidies.
+
+- Food, fertiliser and petroleum are India's main explicit subsidies; food is the largest.
+- Cheap urea encourages nitrogen overuse; the Nutrient Based Subsidy scheme covers other fertilisers.
+- Petrol and diesel were deregulated in 2010 and 2014; LPG subsidies target poorer households.
+W: Subsidy design and reform appear in GS III questions on public finance, agriculture and the environment.
+Q: How can India rationalise fertiliser subsidies without hurting farmers? Suggest measures.
+
+## balance-of-payments | The balance of payments
+
+The balance of payments (BoP) records all economic transactions between residents of a country and the rest of the world over a period. It has two main parts.
+
+The current account records trade in goods (merchandise exports and imports, giving the trade balance), trade in services (such as software, business services, travel and transport), primary income (such as interest, dividends and wages earned across borders) and secondary income or transfers (mainly remittances sent home by workers abroad). India typically runs a large deficit in goods trade, because it imports crude oil, gold, electronics and other items, but a large surplus in services and remittances. India is the world's largest recipient of remittances: they reached a record of about 135 billion dollars in 2024-25, according to RBI data. As a result, India's current account deficit (CAD) has generally stayed modest, mostly between about 1% and 2% of GDP in recent years, and occasionally in surplus.
+
+The capital account (in India's presentation, the capital and financial account) records flows of investment and borrowing: foreign direct investment, foreign portfolio investment, external commercial borrowings, banking capital including NRI deposits, and external assistance. A current account deficit must be financed by net capital inflows or by drawing down foreign exchange reserves. Errors and omissions balance the accounts.
+
+If the overall balance is positive, reserves rise; if negative, they fall. India's foreign exchange reserves, managed by the RBI, provide a buffer against shocks; they stood at over 700 billion dollars for much of 2026, though they fell during periods of rupee pressure.
+
+India's worst BoP crisis came in 1991, when reserves fell to a few weeks of imports. Since then, a CAD of around 2.5–3% of GDP has generally been seen as the comfortable limit.
+
+- The current account covers goods, services, income and remittances; the capital account covers investment and borrowing.
+- India has a large goods deficit offset by services exports and record remittances of about 135 billion dollars in 2024-25.
+- Foreign exchange reserves, over 700 billion dollars for much of 2026, act as a buffer.
+W: BoP components and India's external position are frequently tested in Prelims and Mains.
+Q: Why does India run a current account deficit, and how sustainable is it?
+
+## exchange-rate-rupee | The exchange rate and the rupee
+
+An exchange rate is the price of one currency in terms of another. Under a fixed exchange rate, the central bank sets the rate and defends it. Under a floating rate, it is set by supply and demand in the foreign exchange market. Most countries, including India, use a managed float: the market largely determines the rate, but the central bank intervenes to smooth excessive volatility, not to defend a particular level.
+
+India's rupee was pegged first to the British pound and then to a basket of currencies. After the 1991 crisis, the rupee was devalued and then moved to a market-determined rate in 1993. The rupee became fully convertible on the current account in 1994, meaning it can be freely exchanged for trade and other current transactions, while capital account convertibility remains partial.
+
+When the rupee depreciates, Indian exports become cheaper abroad and imports more expensive. This can help exporters but raises the cost of imported oil, electronics and gold, adding to inflation, and increases the rupee cost of repaying foreign debt. When it appreciates, the reverse happens. The rupee has tended to depreciate gradually over the long run, because India's inflation has generally been higher than that of its trading partners and because it runs a current account deficit. In 2026 the rupee came under pressure amid high oil prices linked to the West Asia conflict and capital outflows, and the RBI sold dollars from its reserves to limit volatility.
+
+Economists look at the real effective exchange rate (REER), which adjusts the rupee's value against a basket of trading partners' currencies for differences in inflation. It is a better guide to competitiveness than the dollar-rupee rate alone. The nominal effective exchange rate (NEER) uses the same basket without inflation adjustment.
+
+The "impossible trinity" says a country cannot simultaneously have a fixed exchange rate, free capital movement and an independent monetary policy; it must choose two. India has chosen a flexible exchange rate with partial capital controls to preserve monetary independence.
+
+- India follows a managed float, with the RBI smoothing volatility rather than targeting a level.
+- The rupee has been fully convertible on the current account since 1994, but only partially on the capital account.
+- REER adjusts for inflation and is a better measure of competitiveness than the dollar rate.
+W: Exchange rate regimes, convertibility and the impossible trinity are regular Prelims and Mains topics.
+Q: Is a weaker rupee good or bad for the Indian economy? Discuss.
+
+## fdi-and-fpi | Foreign investment: FDI and FPI
+
+Foreign investment comes in two main forms. Foreign direct investment (FDI) involves a lasting interest and significant influence in a business, such as building a factory or buying at least 10% of a listed company. Foreign portfolio investment (FPI) involves buying smaller stakes in shares and bonds for financial returns, without control. FDI is generally considered more stable and brings technology, management skills and jobs; FPI is more volatile, sometimes called "hot money", because it can leave quickly when global conditions change, causing market falls and pressure on the rupee.
+
+India's FDI policy, administered by the Department for Promotion of Industry and Internal Trade (DPIIT), allows FDI through two routes. Under the automatic route, no prior government approval is needed; this covers most sectors, often up to 100%. Under the government route, approval is required, for example in sectors such as media, some defence investments and multi-brand retail. A few sectors are prohibited, including lottery, gambling, chit funds, real estate business (as distinct from construction development) and atomic energy. Limits have been raised over time: for example, to 74% in defence under the automatic route in 2020 and to 100% in insurance in 2025. Since April 2020, under Press Note 3, any investment from countries sharing a land border with India, mainly aimed at China, requires government approval.
+
+Gross FDI inflows have been strong, but net FDI, after subtracting repatriation by foreign investors and outward investment by Indian companies, has fallen sharply in recent years. RBI data showed net FDI of only about 7.7 billion dollars in 2025-26. Singapore, Mauritius and the United States are among the largest sources of FDI, partly because of tax treaties.
+
+FPIs register with SEBI and face limits on holdings in individual companies. Their flows into Indian equities and government bonds, which have been included in global bond indices since 2024, can swing sharply with global interest rates and risk sentiment.
+
+- FDI brings lasting control and is stable; FPI is portfolio investment and more volatile.
+- Most sectors allow FDI under the automatic route; investment from neighbouring land-border countries needs approval since 2020.
+- Gross FDI remains strong, but net FDI fell to about 7.7 billion dollars in 2025-26.
+W: FDI routes, caps and trends are frequently asked in Prelims and in Mains questions on investment.
+Q: Why has net FDI into India fallen even as gross inflows remain high? What are the implications?
+
+## foreign-trade-policy | India's trade policy and export promotion
+
+India's trade policy has moved from import substitution, with high tariffs and import licensing before 1991, to greater openness after the reforms. Average tariffs fell sharply in the 1990s and 2000s, quantitative restrictions on imports were removed by 2001, and India signed free trade agreements with Sri Lanka, Singapore, ASEAN, South Korea and Japan. From the mid-2010s, policy turned more cautious: India raised some tariffs to protect domestic manufacturing, withdrew from RCEP in 2019, and later signed a new generation of agreements with the UAE (2022), Australia (2022), the European Free Trade Association (2024) and the United Kingdom (2025).
+
+The Foreign Trade Policy 2023, which came into effect on 1 April 2023, has no fixed end date, unlike earlier five-year policies, and is updated as needed. It sets a goal of 2 trillion dollars in exports of goods and services by 2030. It shifts from incentives to remission of taxes and facilitation, promotes districts as export hubs, supports e-commerce exports, and encourages trade settlement in rupees.
+
+Export promotion tools include the Remission of Duties and Taxes on Exported Products (RoDTEP) scheme, which refunds embedded taxes not otherwise credited, replacing the earlier MEIS scheme that was challenged at the WTO; the Export Promotion Capital Goods scheme; Advance Authorisation for duty-free inputs; special economic zones (under the SEZ Act, 2005); and export credit through the Export-Import Bank of India and ECGC. Production-linked incentive schemes have helped expand exports of electronics, especially mobile phones.
+
+India's merchandise exports have been around 430–440 billion dollars a year, while services exports have grown faster, making total exports over 800 billion dollars. India's challenges include a persistent goods trade deficit, especially with China, limited participation in global value chains, quality and standards barriers, and rising protectionism, including high tariffs imposed by the United States in 2025.
+
+- Trade policy moved from import substitution to openness after 1991, then to selective protection and new FTAs.
+- The Foreign Trade Policy 2023 has no end date and targets 2 trillion dollars in exports by 2030.
+- RoDTEP, SEZs and PLI schemes support exports; services now drive export growth.
+W: Trade policy and export promotion schemes are frequent GS III questions, especially in the context of FTAs and tariffs.
+Q: What prevents India from becoming a major manufacturing exporter like the East Asian economies?
+
+## rupee-internationalisation-convertibility | Capital account convertibility and the international rupee
+
+Capital account convertibility means the freedom to convert local financial assets into foreign ones and back at market-determined rates, without restrictions. It allows residents to invest abroad and foreigners to invest freely in a country. India has gradually liberalised its capital account but kept controls, for example on how much residents can send abroad each year (250,000 dollars under the Liberalised Remittance Scheme), on foreign borrowing by companies and on foreign holdings of government bonds.
+
+The RBI's Tarapore committees examined full convertibility in 1997 and 2006. They recommended moving towards it only after meeting preconditions: a low fiscal deficit, low inflation, a strong banking system with low bad loans, and adequate foreign exchange reserves. The Asian financial crisis of 1997–98, when sudden capital outflows devastated economies such as Thailand and Indonesia, reinforced India's caution. India's partial controls are often credited with protecting it from the worst of that crisis and the 2008 global financial crisis.
+
+Internationalisation of the rupee means wider use of the rupee in trade, investment and reserves outside India. In July 2022 the RBI allowed international trade to be invoiced and settled in rupees, through special rupee vostro accounts that foreign banks open with Indian banks. Russia, the UAE and several other countries have used the arrangement to varying degrees. India has also signed local currency settlement agreements with the UAE, Indonesia and the Maldives, and UPI is being linked abroad. An RBI working group in 2023 laid out a roadmap for rupee internationalisation.
+
+Benefits include lower exchange risk for Indian traders, less dependence on the dollar and lower reserve needs. Obstacles include the rupee's limited convertibility, India's trade deficits (which leave trading partners holding rupees they cannot easily use), and the depth of India's financial markets.
+
+- India has partial capital account convertibility, with limits such as 250,000 dollars a year under the LRS.
+- The Tarapore committees (1997, 2006) set preconditions for full convertibility.
+- Since 2022, trade can be settled in rupees through special vostro accounts.
+W: Convertibility and rupee internationalisation are recurring GS III topics in the external sector.
+Q: What are the preconditions for full capital account convertibility, and has India met them?

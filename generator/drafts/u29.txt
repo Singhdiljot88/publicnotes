@@ -1,0 +1,168 @@
+# THEME 29
+## probity-in-governance | Probity in governance
+
+Probity means complete and confirmed integrity: uprightness, honesty and adherence to the highest ethical standards in the conduct of public affairs. Probity in governance means that public power and public resources are used only for the purposes for which they were entrusted, in a fair, transparent and accountable way. The syllabus treats it as a central topic, covering the concept of public service, the philosophical basis of governance and probity, and the tools that support it.
+
+The philosophical basis lies in the idea of public trust. In a democracy, sovereignty belongs to the people, who entrust power to elected representatives and officials. Misusing that power for private gain is a breach of trust, not only a crime. Kautilya warned that it is as hard to detect officials embezzling public money as to know when a fish in water is drinking it.
+
+Probity rests on several pillars. Transparency, through the Right to Information Act, proactive disclosure and open data, makes government actions visible. Accountability, through legislatures, audit by the CAG, courts, the Lokpal and vigilance bodies, makes officials answerable. Clear rules and codes of conduct define acceptable behaviour. Citizens' charters and grievance redress give citizens a voice. Fair procedures in procurement, recruitment and licensing reduce discretion that can be misused; e-procurement and online services have helped here. Asset declarations and conflict-of-interest rules address personal gain.
+
+Laws alone do not secure probity. Organisational culture, leadership by example, protection for honest officers and whistleblowers, and social intolerance of corruption are equally important. The Second Administrative Reforms Commission's report *Ethics in Governance* (2007) argued that the system must make it easy to be honest and hard to be corrupt.
+
+- Probity means complete integrity in the use of public power and resources.
+- Its basis is public trust: officials hold power on behalf of citizens.
+- Transparency, accountability, clear rules and fair procedures support probity, but culture and leadership matter as much.
+W: Probity in governance is a core syllabus heading and appears in both theory and case questions every year.
+Q: What measures can strengthen probity in public procurement in India?
+
+## integrity-conflict-of-interest | Integrity and conflict of interest
+
+A conflict of interest arises when a public official has a private interest that could improperly influence, or appear to influence, the performance of official duties. The private interest may be financial, such as owning shares in a company bidding for a contract, or personal, such as a relative applying for a post the official is filling. A conflict of interest is not itself corruption; it becomes misconduct when it is hidden or acted upon.
+
+Conflicts can be actual (the interest already affects a decision), potential (it could affect a future decision) or perceived (a reasonable person might think it does). Perceived conflicts matter because public trust depends on decisions being seen to be fair.
+
+Several rules manage conflicts in India. The All India Services (Conduct) Rules, 1968 and the Central Civil Services (Conduct) Rules, 1964 restrict officials from accepting gifts above set values, engaging in private trade or business, investing speculatively, and dealing with matters involving relatives without disclosure. Officials must declare their assets and liabilities periodically. Judges follow the practice of recusal, stepping away from cases in which they have an interest. Rules on post-retirement employment, a "cooling-off" period before joining private firms they dealt with, aim to prevent officials from favouring future employers.
+
+The standard approach is to identify, disclose and manage: register interests, declare a conflict when it arises, and recuse oneself from the decision, or divest the interest. The Second Administrative Reforms Commission recommended a clear law on conflict of interest for ministers, legislators and officials, which India still lacks in comprehensive form. Legislators, for example, are not bound by a strong statutory code on business interests.
+
+Integrity is the quality that makes people manage conflicts honestly even when no rule applies or no one would find out.
+
+- A conflict of interest is a private interest that could influence official duties; it need not be corruption.
+- Conduct rules, asset declarations, recusal and cooling-off periods manage conflicts.
+- The approach is to identify, disclose and manage; India lacks a comprehensive conflict-of-interest law.
+W: Conflict of interest is a frequent GS IV theory question and a common element in case studies.
+Q: As a district officer, you find that your cousin's firm has bid for a government contract you must evaluate. What will you do and why?
+
+## codes-ethics-conduct | Codes of ethics and codes of conduct
+
+A code of ethics sets out broad values and principles that should guide behaviour, such as integrity, impartiality and service. A code of conduct lays down specific rules of behaviour, what is permitted and what is prohibited, with penalties for violation. The two complement each other: an ethics code inspires, while a conduct code regulates.
+
+In India, civil servants are governed by codes of conduct rather than a statutory code of ethics. The Central Civil Services (Conduct) Rules, 1964 and the All India Services (Conduct) Rules, 1968 require officers to maintain absolute integrity and devotion to duty, and prohibit, among other things, political activity, accepting gifts beyond limits, criticising government policy publicly, private business, and sexual harassment of women at the workplace. A 2014 amendment added values such as political neutrality, accountability, transparency, responsiveness to the public, especially the weaker sections, and courtesy. Ministers follow a Code of Conduct for Ministers issued by the Union Home Ministry, which requires disclosure of assets and severing links with businesses. Members of Parliament are subject to the ethics committees of both houses, created in 1997 (Rajya Sabha) and 2000 (Lok Sabha).
+
+The Second Administrative Reforms Commission recommended a statutory code of ethics for civil servants, a code of ethics for ministers including the Prime Minister, and an independent ethics commissioner for legislators. Internationally, the Nolan principles in Britain and the UN's International Code of Conduct for Public Officials (1996) are often cited models.
+
+Codes have limits. They can become box-ticking exercises, are often vague, and depend on enforcement. Their value lies in setting clear expectations, guiding officials facing grey areas, and providing a basis for accountability. They work best when leaders model them and they are discussed in training rather than merely circulated.
+
+- A code of ethics states values; a code of conduct prescribes specific rules and penalties.
+- Civil servants follow the CCS (1964) and AIS (1968) Conduct Rules; ministers follow a Home Ministry code.
+- The Second ARC recommended statutory ethics codes and an ethics commissioner.
+W: The difference between ethics and conduct codes is a classic GS IV question.
+Q: Is a code of ethics more effective than a code of conduct in improving behaviour in the civil service? Discuss.
+
+## corruption-causes-laws | Corruption: causes, costs and laws
+
+Corruption is commonly defined as the abuse of entrusted power for private gain. It includes bribery, embezzlement, nepotism, extortion, kickbacks in procurement and the capture of policy by private interests. It ranges from petty corruption, small payments to get routine services, to grand corruption involving high officials and large sums.
+
+Its causes include excessive discretion and complex procedures, low accountability and slow punishment, poor salaries in some services, the high cost of elections, weak institutions, social tolerance of corruption, and an asymmetry of information between officials and citizens. Economists summarise this as corruption equals monopoly plus discretion minus accountability. Its costs are high: it raises the price of services, diverts resources from the poor, distorts investment, lowers trust in the state, and can kill, as when building codes are ignored.
+
+India's main law is the Prevention of Corruption Act, 1988. Its 2018 amendment made giving a bribe a specific offence (with protection for those forced to pay who report within seven days), introduced the offence of corporate bribery, and added Section 17A, which requires prior approval from the competent authority before investigating a public servant for decisions taken in official functions, a provision meant to protect honest decision-making but criticised for shielding the corrupt. Other measures include the Central Vigilance Commission, the CBI, the Lokpal, the Prevention of Money Laundering Act, 2002, the Benami Transactions (Prohibition) Amendment Act, 2016, and the Fugitive Economic Offenders Act, 2018. India ratified the UN Convention against Corruption in 2011.
+
+In Transparency International's Corruption Perceptions Index 2025, released in February 2026, India ranked 91st of 182 countries. Technology, such as direct benefit transfers and online services, has reduced some petty corruption by removing intermediaries.
+
+- Corruption is the abuse of entrusted power for private gain, from petty to grand.
+- The 2018 amendment to the Prevention of Corruption Act criminalised bribe-giving and added prior approval under Section 17A.
+- India ranked 91st of 182 in the CPI 2025; technology has reduced some petty corruption.
+W: Corruption, its causes and remedies are among the most frequently asked GS IV topics.
+Q: Does Section 17A of the Prevention of Corruption Act strike the right balance between protecting honest officers and fighting corruption?
+
+## whistleblowers | Whistleblowers and their protection
+
+A whistleblower is a person, usually an insider, who exposes wrongdoing, such as corruption, fraud, abuse of power or danger to public safety, within an organisation, to authorities or to the public. Whistleblowing is an act of loyalty to the public interest that often conflicts with loyalty to colleagues and superiors.
+
+India has seen several tragic cases. Satyendra Dubey, an Indian Engineering Service officer working on the Golden Quadrilateral highway project, wrote to the Prime Minister's Office about corruption and was murdered in 2003 after his identity was leaked. S. Manjunath, an Indian Oil Corporation officer, was killed in 2005 for sealing a petrol pump selling adulterated fuel. Many RTI activists have also been killed. These cases led to demands for legal protection.
+
+In 2004, after Dubey's death, the government issued the Public Interest Disclosure and Protection of Informers resolution, designating the Central Vigilance Commission to receive complaints and protect complainants' identity. Parliament passed the Whistle Blowers Protection Act in 2014, which provides for complaints to competent authorities, protection of identity and protection against victimisation. But it has not been brought into force. An amendment bill in 2015, which would have restricted disclosures touching on national security and other exemptions borrowed from the RTI Act, passed the Lok Sabha but lapsed.
+
+The ethical questions are complex. Whistleblowers must be protected from retaliation, and their disclosures investigated. But protection mechanisms must also deal with false or malicious complaints and protect genuinely sensitive information. Internal channels should be tried first where they work, but external disclosure may be justified when internal routes are blocked or the harm is serious.
+
+Corporate whistleblowing is covered by the Companies Act, 2013 and SEBI's rules requiring vigil mechanisms in listed companies.
+
+- Whistleblowers expose wrongdoing in the public interest, often at great personal risk.
+- Satyendra Dubey (2003) and S. Manjunath (2005) were killed after exposing corruption.
+- The Whistle Blowers Protection Act, 2014 has not been brought into force.
+W: Whistleblowing combines GS IV ethics with governance, and is often asked through cases or theory.
+Q: Should a civil servant who discovers corruption go public if internal channels fail? Discuss the ethical considerations.
+
+## accountability-ethical-governance | Accountability and sources of ethical guidance
+
+Accountability means being answerable for one's decisions and actions, and accepting consequences. In government, it has several forms. Political accountability runs from ministers to the legislature and from the legislature to voters. Administrative accountability runs up the hierarchy and to bodies such as the CVC. Legal accountability runs through the courts. Financial accountability runs through budgets, audits by the CAG and parliamentary committees such as the Public Accounts Committee. Social accountability runs directly to citizens through RTI, social audits, citizens' charters and the media.
+
+The syllabus asks about laws, rules, regulations and conscience as sources of ethical guidance, and about accountability and ethical governance. Laws and rules give clear, enforceable standards; regulations and guidelines fill in detail; codes of conduct set professional expectations; and conscience guides action where rules are silent or unclear. A mature public servant uses all of them, recognising that rules cannot foresee every situation.
+
+Accountability faces familiar problems in India. Ministerial responsibility has weakened, with few resignations for failures in departments. The "problem of many hands" makes it hard to pin responsibility when many officials contribute to a decision. Fear of investigation can lead to "policy paralysis", where officials avoid decisions; protection for bona fide decisions is therefore part of good accountability. Long delays in disciplinary proceedings and courts weaken deterrence.
+
+Outcome-based accountability is a newer idea: measuring officials by results, such as children's learning or reduction in infant mortality, rather than only by compliance with procedures. Tools include outcome budgets, performance dashboards and independent evaluation by bodies such as NITI Aayog's Development Monitoring and Evaluation Office.
+
+Ethical governance combines answerability with a culture where officials take ownership of outcomes.
+
+- Accountability can be political, administrative, legal, financial and social.
+- Laws, rules, regulations, codes and conscience are complementary sources of ethical guidance.
+- The challenge is to make officials accountable without causing fear-driven paralysis.
+W: Accountability and sources of ethical guidance are named syllabus items and appear frequently.
+Q: How can outcome-based accountability be introduced in Indian administration without encouraging data manipulation?
+
+## work-culture-service-delivery | Work culture and quality of service delivery
+
+The syllabus links ethics with work culture and the quality of service delivery. Work culture is the set of shared values, attitudes and practices in an organisation: how punctual people are, whether citizens are treated with respect, whether files move or stall, whether initiative is rewarded or punished.
+
+In much of Indian administration, critics describe a culture of rule-bound caution, hierarchy, delay and limited empathy for citizens. The famous phrase "babu culture" captures this perception. Causes include fear of audit and vigilance inquiries, transfers that discourage long-term commitment, weak performance management, overload and understaffing, and little contact between senior officials and the citizens they serve.
+
+Improving work culture involves several changes. Leadership matters most: officers who are punctual, accessible and fair set the tone for their teams. Performance appraisal can reward results and citizen satisfaction rather than seniority. Training under Mission Karmayogi aims to move from a rule-based to a role-based approach, building competencies and a citizen-centric mindset. Simplifying procedures, setting service timelines under state Right to Services laws, and digitising applications remove both delay and opportunities for corruption. Recognition, such as the Prime Minister's Awards for Excellence in Public Administration, celebrates good practice.
+
+Quality of service delivery is ultimately judged by citizens: whether they get a ration card, a pension or a land record quickly, without a bribe and with dignity. Feedback systems, grievance redress such as CPGRAMS, and social audits close the loop. Ethics here is practical: every unnecessary visit or delay imposes a real cost on a poor citizen.
+
+Examples of good practice include e-Seva centres, online land records and single-window systems, which show that culture can change when processes and leadership change together.
+
+- Work culture shapes whether citizens get timely, respectful service.
+- Fear, transfers, weak appraisal and complex procedures harm work culture.
+- Leadership, simpler processes, training and citizen feedback can improve service delivery.
+W: Work culture and service delivery are named in the syllabus and connect ethics with governance reform.
+Q: As the head of a district office notorious for delays, how would you change its work culture?
+
+## corporate-governance-ethics | Corporate governance and business ethics
+
+Corporate governance is the system by which companies are directed and controlled, balancing the interests of shareholders, management, employees, customers, creditors, communities and the government. Business ethics applies moral principles to commercial decisions, such as honest advertising, fair treatment of workers, product safety and environmental responsibility. The syllabus includes corporate governance under ethics in governance.
+
+Corporate scandals show why it matters. The Satyam scandal of 2009, in which the founder admitted inflating profits and cash balances by thousands of crores, shook confidence in Indian companies and auditors. Later crises, including at IL&FS in 2018, exposed weak board oversight and conflicts of interest.
+
+India's framework has strengthened. The Companies Act, 2013 requires listed companies to have independent directors (at least one-third of the board), at least one woman director, audit and nomination committees, rotation of auditors, and vigil mechanisms for whistleblowers. Section 135 introduced mandatory corporate social responsibility (CSR): companies above certain thresholds of net worth, turnover or profit must spend at least 2% of their average net profits of the previous three years on specified social activities, making India the first country to mandate CSR by law. SEBI's listing regulations add disclosure and governance requirements, and the Kotak Committee (2017) recommended further reforms. Larger listed companies must publish Business Responsibility and Sustainability Reports on environmental, social and governance (ESG) performance.
+
+Ethical issues remain: related-party transactions, treatment of minority shareholders, "greenwashing" in sustainability claims, data privacy, and the gap between compliance on paper and ethical culture in practice. Stakeholder theory argues that companies should serve all stakeholders, not only shareholders, an idea close to Gandhi's concept of trusteeship.
+
+- Corporate governance balances the interests of shareholders, management and other stakeholders.
+- The Companies Act, 2013 requires independent and women directors and mandates CSR spending of 2% of profits.
+- Scandals such as Satyam (2009) show the costs of weak governance.
+W: Corporate governance and CSR appear in GS IV and in GS III economy questions.
+Q: Has mandatory CSR made Indian companies more ethical, or merely more compliant? Discuss.
+
+## ethics-international-relations-funding | Ethical issues in international relations and funding
+
+The syllabus includes ethical issues in international relations and funding. International relations are often seen through realism, where states pursue power and national interest, and ethics plays little role. Others argue that ethics matters in how interests are pursued and in shared global problems.
+
+Key ethical questions include humanitarian intervention: when, if ever, may states use force to stop atrocities in another country? The UN's Responsibility to Protect (R2P) doctrine, endorsed in 2005, says states must protect their populations from genocide, war crimes, ethnic cleansing and crimes against humanity, and that the international community may act if they fail; critics fear it can cover self-interested interventions. Climate change raises questions of justice: rich countries emitted most historical greenhouse gases, while poorer countries suffer most, which underlies the principle of common but differentiated responsibilities and the debate over climate finance. Refugees and migrants raise questions about the duty to give shelter; India is not a party to the 1951 Refugee Convention but has hosted large refugee populations. Global health equity was tested during COVID-19, when rich countries secured most vaccines early; India's Vaccine Maitri initiative supplied vaccines to many countries.
+
+International funding raises its own issues. Development aid can be tied to the donor's commercial or political interests, impose conditions that harm recipients, or create debt burdens. China's lending under the Belt and Road Initiative has been criticised for "debt traps", a description some scholars dispute. Foreign funding of NGOs raises debates about sovereignty versus civil society freedom, reflected in India's Foreign Contribution (Regulation) Act. Ethical funding requires transparency, respect for recipients' priorities and accountability for results.
+
+India's foreign policy draws on ideals such as Vasudhaiva Kutumbakam ("the world is one family"), the theme of its G20 presidency in 2023, alongside strategic interest.
+
+- Ethics in international relations involves intervention, climate justice, refugees and global health.
+- R2P (2005) and common but differentiated responsibilities are key ethical principles.
+- Aid and funding should be transparent and respect recipients' priorities.
+W: This is a named GS IV topic and links with GS II international relations.
+Q: Is there a place for ethics in foreign policy, or is national interest the only guide? Discuss with Indian examples.
+
+## case-study-approach | How to approach GS IV case studies
+
+Section B of the GS IV paper consists of case studies, usually six, which carry half the paper's marks. They present realistic situations in which an official faces a dilemma involving competing values, pressures and stakeholders, and ask what the candidate would do and why.
+
+A structured approach helps. First, identify the facts and the core issue in a sentence or two, without restating the whole case. Second, list the stakeholders, including those not obviously visible, such as future citizens or the environment, and their interests. Third, identify the ethical issues and values in conflict, for example honesty versus loyalty, rule of law versus compassion, or efficiency versus fairness. Fourth, note the legal and administrative framework: relevant laws, rules and procedures. Fifth, lay out the realistic options, typically three or four, and evaluate each for its merits, demerits, legality and consequences. Sixth, choose and justify a course of action, and describe how you would implement it, including immediate steps and long-term measures. Finally, where useful, suggest systemic reforms so that the problem does not recur.
+
+Good answers are balanced and practical. Extreme options, such as resigning at once or going to the media on the first day, are rarely best. Neither is blind obedience to a superior. The best course usually upholds the law, protects the vulnerable, uses proper channels, documents decisions, and shows empathy. Quoting a relevant thinker or principle can help, but only if it is applied to the decision rather than added as decoration.
+
+Common themes include pressure from political superiors, corruption among colleagues, disaster response, protests and law and order, conflicts between development and environment, gender issues at the workplace, and the use of technology and data.
+
+- Case studies carry half of GS IV's marks.
+- Identify facts, stakeholders, values in conflict, legal framework and options before choosing.
+- Choose a lawful, practical, empathetic course and suggest systemic reforms.
+W: Case studies decide a large share of GS IV marks, and a clear method improves every answer.
+Q: You are asked by a senior official to backdate a file to help a contractor. Using the structured approach, explain what you would do.

@@ -1,0 +1,156 @@
+# THEME 9
+## earth-interior | The Earth's interior
+
+No one has drilled through the Earth's crust; the deepest borehole, the Kola Superdeep Borehole in Russia, reached about 12 km, a tiny fraction of the Earth's radius of about 6,371 km. Our knowledge of the interior comes mainly from indirect evidence: seismic waves from earthquakes, volcanic material from depth, meteorites, gravity and magnetic measurements.
+
+Seismic waves are the key tool. Primary (P) waves are compressional and travel through solids, liquids and gases. Secondary (S) waves are shear waves that cannot pass through liquids. When an earthquake happens, S waves are not detected in a large "shadow zone" on the opposite side of the Earth, which tells scientists that the outer core is liquid.
+
+The Earth has three main layers. The crust is thin: about 5 km under the oceans (oceanic crust, mostly basalt) and 30–70 km under continents (continental crust, mostly granite-like rocks). Its boundary with the mantle is the Mohorovičić discontinuity, or Moho. The mantle extends to a depth of about 2,900 km and makes up most of the Earth's volume. Its upper part includes the asthenosphere, a weak, partly molten zone on which the rigid lithosphere (crust plus uppermost mantle) moves; it is the main source of magma. The boundary between mantle and core is the Gutenberg discontinuity. The core is made largely of iron and nickel (sometimes called "nife"). The outer core is liquid, and its movement generates the Earth's magnetic field; the inner core is solid because of immense pressure, despite temperatures comparable to the Sun's surface.
+
+Understanding the interior helps explain plate movements, earthquakes, volcanoes and the magnetic field that protects life from solar radiation.
+
+- Seismic waves are the main evidence for the Earth's interior; S waves cannot cross the liquid outer core.
+- The Moho separates crust and mantle; the Gutenberg discontinuity separates mantle and core.
+- The liquid outer core generates the magnetic field; the inner core is solid.
+W: Layers, discontinuities and seismic waves are standard Prelims geography questions.
+Q: How do seismic waves help us understand the structure of the Earth's interior?
+
+## plate-tectonics | Continental drift and plate tectonics
+
+In 1912 the German scientist Alfred Wegener proposed continental drift: the continents had once formed a single supercontinent, Pangaea, surrounded by an ocean called Panthalassa, which broke apart and drifted to their present positions. His evidence included the jigsaw fit of the coastlines of South America and Africa, matching rock formations and fossils (such as the reptile Mesosaurus) on continents now separated by oceans, and glacial deposits in tropical regions. But he could not explain what force moved the continents, and most scientists rejected the idea.
+
+Evidence from the ocean floor revived it. In the 1960s, Harry Hess proposed seafloor spreading: new oceanic crust forms at mid-ocean ridges as magma rises, and spreads outwards. Magnetic stripes on the ocean floor, recording reversals of the Earth's magnetic field, are symmetrical on either side of ridges, and the ocean floor is youngest at the ridges and oldest near continents.
+
+These ideas combined into plate tectonics. The lithosphere is broken into about seven major plates and many minor ones that move a few centimetres a year over the asthenosphere, driven mainly by mantle convection, ridge push and slab pull. Plates meet at three types of boundaries. At divergent boundaries, such as the Mid-Atlantic Ridge, plates move apart. At convergent boundaries, plates collide: oceanic crust sinks beneath continental crust in subduction zones, creating trenches and volcanoes, while continent-continent collision raises fold mountains. At transform boundaries, such as the San Andreas Fault, plates slide past each other.
+
+The Indian plate separated from Gondwana, moved rapidly north and collided with the Eurasian plate around 50 million years ago, raising the Himalayas and the Tibetan plateau. It is still moving north at about 4–5 cm a year, which is why the Himalayas remain seismically active.
+
+- Wegener proposed continental drift in 1912 but lacked a mechanism.
+- Seafloor spreading and magnetic stripes provided the evidence for plate tectonics.
+- The Indian plate's collision with Eurasia created the Himalayas and continues today.
+W: Plate tectonics explains earthquakes, volcanoes and mountains, and is a staple of Prelims and Mains geography.
+Q: How does plate tectonics explain the formation of the Himalayas and their seismic activity?
+
+## earthquakes-volcanoes | Earthquakes and volcanoes
+
+An earthquake is the shaking of the ground caused by a sudden release of energy, usually when rocks along a fault slip. The point inside the Earth where the rupture begins is the focus or hypocentre, and the point on the surface directly above it is the epicentre. Earthquake size is measured by magnitude, now usually on the moment magnitude scale; each whole number step represents about 32 times more energy. Intensity, measured on scales such as the Modified Mercalli scale, describes the effects at a particular place.
+
+Most earthquakes occur along plate boundaries. About 80% of the world's largest earthquakes happen around the Pacific "Ring of Fire", and many others along the Alpine-Himalayan belt. Undersea earthquakes can trigger tsunamis, as in the Indian Ocean tsunami of 26 December 2004, which killed over 200,000 people across several countries, including more than 10,000 in India. The Bureau of Indian Standards seismic zoning map divides India by expected shaking, with the Himalayan belt, the North-East, Kutch and the Andaman and Nicobar Islands in the highest-risk categories. Major Indian earthquakes include Assam (1950), Latur (1993), Bhuj (2001) and Kashmir (2005).
+
+Volcanoes form where magma reaches the surface. They are found at subduction zones (such as the Andes and Japan), divergent boundaries (such as Iceland) and hotspots (such as Hawaii). Volcanoes are classified as active, dormant or extinct, and by shape: shield volcanoes have gentle slopes from runny basaltic lava, while composite or stratovolcanoes are steep and explosive. India's only active volcano is on Barren Island in the Andaman Sea. The Deccan Traps, formed by massive lava flows around 66 million years ago, created the basalt plateau of western India and its black soils.
+
+- Magnitude measures energy released; intensity measures local effects.
+- Most earthquakes and volcanoes occur at plate boundaries, especially the Ring of Fire.
+- Barren Island is India's only active volcano; the Deccan Traps are ancient lava flows.
+W: Earthquakes, tsunamis and volcanoes link geography with disaster management, a common Mains combination.
+Q: Why is the Himalayan region highly prone to earthquakes? What measures can reduce the risk?
+
+## rocks-landforms | Rocks, weathering and landforms
+
+Rocks are grouped into three types by how they form. Igneous rocks form from cooled magma or lava: granite cools slowly underground and has large crystals, while basalt cools quickly at the surface. Sedimentary rocks form from layers of sediment compressed over time: sandstone, shale and limestone are examples, and they often contain fossils. Coal is a sedimentary rock formed from plant material. Metamorphic rocks form when existing rocks are changed by heat and pressure: limestone becomes marble, shale becomes slate, and granite becomes gneiss. Over time, rocks move between these types in the rock cycle.
+
+Weathering breaks rocks down in place. Mechanical weathering, such as frost wedging or the expansion and contraction caused by daily temperature changes in deserts, breaks rocks physically. Chemical weathering, such as the dissolving of limestone by slightly acidic rainwater, changes their composition. Erosion then removes and transports the material through running water, glaciers, wind and waves.
+
+Each agent creates characteristic landforms. Rivers carve V-shaped valleys, gorges and waterfalls in their upper course, form meanders and oxbow lakes in their middle and lower course, and build floodplains and deltas near the sea. Glaciers carve U-shaped valleys, cirques and fjords, and leave moraines. Wind in deserts shapes sand dunes, including crescent-shaped barchans, and mushroom rocks. Waves shape cliffs, sea caves, arches and stacks, and build beaches and spits. In limestone areas, chemical weathering creates karst landforms such as sinkholes, caves, stalactites and stalagmites, as seen in the Borra caves of Andhra Pradesh and the caves of Meghalaya.
+
+- Igneous, sedimentary and metamorphic rocks are linked through the rock cycle.
+- Weathering breaks rocks in place; erosion transports material.
+- Rivers, glaciers, wind, waves and solution each create distinctive landforms.
+W: Rock types and landforms are frequent Prelims questions, often with Indian examples.
+Q: Describe the landforms created by a river from its source to its mouth.
+
+## atmosphere-structure | The atmosphere: composition and layers
+
+The atmosphere is a layer of gases held by gravity. Dry air is made up of about 78% nitrogen, 21% oxygen and 0.93% argon, with carbon dioxide at about 0.04% and traces of other gases. Water vapour varies from almost nothing to about 4% and is crucial for weather. Carbon dioxide and water vapour absorb heat radiated by the Earth, keeping the planet warm; this is the natural greenhouse effect. Ozone, concentrated in the stratosphere, absorbs harmful ultraviolet radiation.
+
+The atmosphere is divided into layers by how temperature changes with height. The troposphere is the lowest layer, extending to about 8 km at the poles and about 18 km at the equator. Almost all weather happens here, and temperature falls with height at an average rate of about 6.5°C per kilometre. Its upper boundary is the tropopause.
+
+The stratosphere extends to about 50 km. Temperature rises with height here because ozone absorbs ultraviolet radiation. The air is calm and dry, which is why long-distance jet aircraft often fly in its lower part. The ozone layer lies mainly between about 15 and 35 km. The Montreal Protocol of 1987, which phased out ozone-depleting substances such as chlorofluorocarbons, is considered the most successful environmental treaty, and the ozone layer is recovering.
+
+The mesosphere, up to about 80–85 km, is the coldest layer; meteors burn up here. The thermosphere above it contains the ionosphere, where ionised gases reflect radio waves back to Earth and where auroras occur. The International Space Station orbits in the thermosphere. The exosphere is the outermost layer, gradually merging with space.
+
+- Air is about 78% nitrogen and 21% oxygen; CO2 is about 0.04%.
+- The troposphere holds the weather; the stratosphere holds the ozone layer.
+- The ionosphere, in the thermosphere, reflects radio waves.
+W: Atmospheric layers and composition are among the most frequently tested Prelims geography topics.
+Q: Why does temperature decrease with height in the troposphere but increase in the stratosphere?
+
+## insolation-heat-budget | Insolation and the Earth's heat budget
+
+The Earth receives energy from the Sun as short-wave radiation, called insolation (incoming solar radiation). The amount received at any place depends on the angle of the Sun's rays, the length of the day, the transparency of the atmosphere and the distance from the Sun. Because the Earth's axis is tilted by about 23.5 degrees, the angle of the Sun and day length change through the year, producing seasons. The tropics receive more insolation than the poles, which creates the temperature differences that drive winds and ocean currents.
+
+Not all incoming radiation is absorbed. Of every 100 units reaching the top of the atmosphere, about 30 are reflected back to space by clouds, the atmosphere and the surface. This reflectivity is called albedo. Fresh snow and ice have a high albedo; forests and oceans have a low albedo. When ice melts because of warming, the darker surface beneath absorbs more heat, causing more warming: a positive feedback important in climate change, especially in the Arctic.
+
+The remaining energy is absorbed by the atmosphere and the surface. The Earth then radiates energy back as long-wave (infrared) radiation. Greenhouse gases absorb much of this and re-radiate it, warming the lower atmosphere. Over the long term, incoming and outgoing energy balance; this is the heat budget. Rising greenhouse gas concentrations upset this balance, causing global warming.
+
+The surface is heated directly, and the air is heated mainly from below by conduction, convection and radiation from the ground. Temperature also varies with land and sea: land heats and cools faster than water, which explains land and sea breezes and the monsoon.
+
+- Insolation varies with the Sun's angle, day length and atmospheric conditions.
+- About 30% of incoming radiation is reflected (albedo); melting ice reduces albedo and adds warming.
+- The heat budget balances incoming and outgoing energy; greenhouse gases shift the balance.
+W: Insolation, albedo and the heat budget are basic to climate and climate-change questions.
+Q: Explain the role of albedo in the Earth's heat budget and in climate change.
+
+## pressure-winds-jet-streams | Pressure belts, winds and jet streams
+
+Air moves from high pressure to low pressure, and these movements are winds. Uneven heating of the Earth creates a pattern of pressure belts. Near the equator, intense heating causes air to rise, creating the equatorial low, also called the doldrums or Inter-Tropical Convergence Zone (ITCZ). Around 30 degrees north and south, sinking air creates the subtropical high-pressure belts, where many of the world's hot deserts lie. Around 60 degrees there are subpolar low-pressure belts, and at the poles, polar highs.
+
+The Earth's rotation deflects moving air through the Coriolis force: to the right in the northern hemisphere and to the left in the southern hemisphere. It is zero at the equator and strongest at the poles. As a result, winds blowing from the subtropical highs to the equator become the north-east and south-east trade winds; winds blowing towards the poles become the westerlies; and cold winds from the poles become the polar easterlies. In the southern hemisphere, the westerlies blow strongly over open ocean and are called the Roaring Forties, Furious Fifties and Screaming Sixties.
+
+Jet streams are narrow bands of very fast winds in the upper troposphere, flowing from west to east. The subtropical westerly jet stream and the polar front jet stream are the main ones. In summer, a tropical easterly jet develops over peninsular India. Jet streams influence weather systems below them; the shift of the subtropical westerly jet north of the Himalayas in early summer is linked to the onset of the Indian monsoon.
+
+Local winds also matter. The loo is a hot, dry wind over north India in summer. The chinook and foehn are warm, dry winds descending mountain slopes. Land and sea breezes reverse daily along coasts.
+
+- Pressure belts at the equator, 30°, 60° and the poles create the global wind pattern.
+- The Coriolis force deflects winds right in the northern hemisphere and left in the southern.
+- Jet streams in the upper troposphere influence weather, including the Indian monsoon.
+W: Planetary winds, the Coriolis force and jet streams are frequently tested and essential for understanding the monsoon.
+Q: How do jet streams influence the onset and behaviour of the Indian monsoon?
+
+## cyclones-precipitation | Clouds, precipitation and cyclones
+
+When moist air rises, it cools and its water vapour condenses into tiny droplets around particles such as dust or salt, forming clouds. Clouds are classified by height and shape: cirrus (high, wispy), cumulus (puffy, often vertical), stratus (flat layers) and nimbus (rain-bearing). Cumulonimbus clouds produce thunderstorms. Precipitation falls when droplets or ice crystals grow heavy enough. Rainfall is grouped into three types: convectional rain, from rising heated air, common in equatorial regions; orographic or relief rain, when air is forced up a mountain, leaving a dry rain shadow on the other side, as with the Western Ghats; and cyclonic or frontal rain.
+
+Tropical cyclones are intense low-pressure systems that form over warm oceans, usually with sea surface temperatures above about 26–27°C. They need a large supply of warm, moist air, the Coriolis force (so they do not form within about 5 degrees of the equator) and low vertical wind shear. Winds spiral inward around a calm centre called the eye. They are called hurricanes in the Atlantic and eastern Pacific, typhoons in the western Pacific, and cyclones in the Indian Ocean. Their greatest dangers are storm surges, strong winds and heavy rain. In the north Indian Ocean, cyclones are named from a list contributed by member countries of a WMO/ESCAP panel, and the India Meteorological Department in New Delhi is the regional centre that issues advisories.
+
+The Bay of Bengal sees more cyclones than the Arabian Sea, though Arabian Sea cyclones have become more frequent and intense in recent years, which scientists link to warming waters.
+
+Temperate cyclones form in the mid-latitudes where warm and cold air masses meet along fronts. They are larger and less intense, and bring the western disturbances that give north India winter rain and snow in the Himalayas.
+
+- Rainfall is convectional, orographic or cyclonic.
+- Tropical cyclones need warm seas, the Coriolis force and low wind shear; IMD is the regional centre for the north Indian Ocean.
+- Temperate cyclones bring western disturbances and winter rain to north India.
+W: Cyclones and rainfall types link geography with disaster management and agriculture.
+Q: Why are cyclones in the Arabian Sea becoming more frequent and intense? What are the implications for India's west coast?
+
+## ocean-currents-tides | Ocean currents and tides
+
+Ocean currents are large-scale movements of seawater. Surface currents are driven mainly by planetary winds, shaped by the Coriolis force and the shape of continents. Deep currents are driven by differences in temperature and salinity, which affect water density; this is called thermohaline circulation, sometimes described as a global "conveyor belt" that redistributes heat.
+
+Currents are warm or cold. Warm currents flow from the tropics towards the poles along the eastern coasts of continents in low and middle latitudes, such as the Gulf Stream along North America and the Kuroshio near Japan. The Gulf Stream and its extension, the North Atlantic Drift, keep north-western Europe much warmer than other places at the same latitude. Cold currents flow towards the equator along western coasts, such as the Humboldt (Peru) current off South America, the Benguela off south-west Africa and the California current. Cold currents are associated with coastal deserts, such as the Atacama and Namib, because they cool the air and reduce rainfall. Where cold and warm currents meet, or where cold water rises (upwelling), nutrients support rich fishing grounds, as on the Grand Banks off Newfoundland and off Peru.
+
+In the northern Indian Ocean, currents reverse with the monsoon winds, flowing clockwise in summer and anticlockwise in winter, a unique feature.
+
+Tides are the regular rise and fall of sea level, caused mainly by the gravitational pull of the Moon and, to a lesser extent, the Sun. Spring tides, with the greatest range, occur at new moon and full moon when the Sun, Moon and Earth are aligned; neap tides, with the smallest range, occur at the quarter moons. The Gulf of Khambhat and the Gulf of Kutch have high tidal ranges, giving them potential for tidal energy.
+
+- Surface currents are wind-driven; deep currents are driven by temperature and salinity.
+- Warm currents flow along eastern coasts; cold currents along western coasts, often near deserts.
+- Spring tides occur at new and full moon; neap tides at quarter moons.
+W: Ocean currents and tides are recurring Prelims topics and relevant to climate, fisheries and energy.
+Q: How do ocean currents influence the climate and economy of coastal regions? Give examples.
+
+## climate-enso-iod | Climate types, El Niño and the Indian Ocean Dipole
+
+Climate is the average weather of a place over a long period, usually thirty years. The most widely used classification, devised by Wladimir Köppen, groups climates by temperature and rainfall, broadly into tropical humid, dry, warm temperate, cold temperate and polar climates, with subtypes. India has several: tropical monsoon climate along the western coast, tropical savanna over much of the peninsula, hot desert in western Rajasthan, humid subtropical in the north, and highland climates in the Himalayas.
+
+El Niño-Southern Oscillation (ENSO) is the most important natural climate pattern affecting year-to-year variability. Normally, trade winds push warm surface water towards the western Pacific near Indonesia, while cold water upwells off Peru. During El Niño, the trade winds weaken, warm water spreads east, and rainfall patterns shift worldwide. El Niño years are often associated with weaker Indian monsoons and droughts, though not always. La Niña, the opposite phase, often brings a strong monsoon. The Southern Oscillation is the related seesaw of air pressure between Tahiti and Darwin.
+
+The Indian Ocean Dipole (IOD) is a similar pattern within the Indian Ocean. In a positive IOD, the western Indian Ocean near Africa is warmer than the eastern part near Indonesia; this tends to support good monsoon rainfall in India and can offset an El Niño, as happened in 1997. A negative IOD tends to have the opposite effect.
+
+The India Meteorological Department uses these and other factors in its monsoon forecasts. Climate change may alter the frequency and intensity of El Niño and IOD events, a subject of active research.
+
+- Köppen classified climates by temperature and rainfall; India has many climate types.
+- El Niño often weakens the Indian monsoon; La Niña often strengthens it.
+- A positive Indian Ocean Dipole can support the monsoon even in an El Niño year.
+W: ENSO and IOD are very frequently asked in Prelims and in Mains questions on the monsoon and agriculture.
+Q: Explain how El Niño and the Indian Ocean Dipole interact to influence the Indian monsoon.

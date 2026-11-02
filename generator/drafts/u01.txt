@@ -1,0 +1,158 @@
+# THEME 1
+## sources-of-ancient-indian-history | How we know about ancient India: the sources
+
+Historians build the story of ancient India from two kinds of evidence. Literary sources include religious texts such as the Vedas, the epics and the Puranas, Buddhist texts such as the Jatakas and the Pali canon, Jain texts, and secular works such as Kautilya's *Arthashastra*, Panini's grammar and the poetry of the Sangam collections in Tamil. These texts were often composed and edited over centuries, so they are read for what they reveal about ideas and society, not as exact chronicles.
+
+Archaeological sources are harder evidence. Excavated cities, pottery styles, seals, coins and monuments help date settlements and trace trade. Inscriptions are especially valuable because they are fixed in time and place. Ashoka's edicts, written mostly in Prakrit in the Brahmi script, were deciphered by James Prinsep in 1837 and opened up Mauryan history. Coins of the Indo-Greeks, Kushanas and Guptas reveal rulers' names, titles, religious symbols and the reach of trade.
+
+Foreign accounts add an outside view. The Greek envoy Megasthenes described Chandragupta Maurya's court in *Indica*, which survives only in quotations by later writers. The Chinese pilgrims Faxian (Fa-Hien) in the Gupta period and Xuanzang (Hiuen Tsang) in Harsha's time described monasteries, cities and customs. Each source has a bias: a royal inscription praises the king, a pilgrim notices what interests a pilgrim.
+
+Good history cross-checks these sources against one another, which is exactly the habit UPSC answers reward.
+
+- Literary sources show ideas and society; archaeology and inscriptions give firmer dates and places.
+- Prinsep's decipherment of Brahmi in 1837 unlocked Ashoka's edicts.
+- Foreign travellers such as Megasthenes, Faxian and Xuanzang are useful but partial witnesses.
+W: Prelims regularly tests which source belongs to which period, and Mains asks how historians reconstruct the past.
+Q: Why are inscriptions and coins often considered more reliable than literary texts for writing ancient Indian history? Discuss with examples.
+
+## harappan-civilisation | The Harappan civilisation: India's first cities
+
+The Harappan or Indus Valley civilisation was one of the world's earliest urban cultures, alongside Mesopotamia and Egypt. Its mature phase is usually dated to about 2600–1900 BCE. Harappa was excavated in 1921 under Daya Ram Sahni and Mohenjo-daro in 1922 under R. D. Banerji. Sites now number in the thousands, spread across present-day Pakistan, north-west India and Gujarat, with major Indian sites at Dholavira, Lothal, Kalibangan, Rakhigarhi and Banawali.
+
+The cities were planned. Streets ran in a rough grid, houses were built of baked bricks of standard proportions, and covered drains ran along the streets. Mohenjo-daro has the Great Bath, a waterproofed tank probably used for ritual bathing. Lothal in Gujarat has a structure widely interpreted as a dockyard. Kalibangan in Rajasthan preserves an early ploughed field, and Dholavira, with its elaborate water reservoirs, became a UNESCO World Heritage Site in 2021.
+
+Harappans used standardised weights, made seals of steatite carved with animals such as the "unicorn", and traded with Mesopotamia, where records mention a land called Meluhha. Their script, found on thousands of short inscriptions, has still not been deciphered, so we know nothing for certain about their language or political system. No grand palaces or royal tombs have been found.
+
+The decline after about 1900 BCE was gradual. Explanations include shifting rivers, drying climate, declining trade and floods; no single cause is accepted.
+
+- The mature Harappan phase dates to about 2600–1900 BCE.
+- Planned streets, drains, standard bricks and weights show strong civic organisation.
+- The script is undeciphered, and the decline had several likely causes.
+W: Harappan sites and their distinctive features are among the most frequently asked Prelims history facts.
+Q: What does the town planning of Harappan cities suggest about the society and administration of the time?
+
+## vedic-age | The Vedic age: from the Rigveda to the later Vedic period
+
+The Vedic period is named after the Vedas, a body of Sanskrit texts first passed down orally. The Rigveda, the oldest, is usually dated to about 1500–1000 BCE and contains 1,028 hymns arranged in ten books called mandalas. The other Vedas are the Samaveda (melodies for chanting), the Yajurveda (sacrificial formulas) and the Atharvaveda (spells and everyday concerns). Each Veda has attached texts: Brahmanas, Aranyakas and Upanishads.
+
+Early Vedic society, centred in the land of the seven rivers in the north-west, was pastoral. Cattle were wealth, and tribes (jana) were led by a chief (rajan) advised by assemblies such as the sabha and samiti. Gods such as Indra, Agni and Varuna were praised in the hymns. The Rigveda mentions the Battle of the Ten Kings, fought on the Parushni (Ravi) river.
+
+In the later Vedic period, roughly 1000–600 BCE, settlement moved east into the Ganga plain. Iron came into use, agriculture expanded, and the archaeological culture known as Painted Grey Ware spread. Kingdoms grew larger, rituals such as the Rajasuya and Ashvamedha displayed royal power, and the varna order became more rigid. Women's participation in assemblies appears to have declined.
+
+The Upanishads, composed late in this period, turned from ritual to philosophy, asking about the self (atman) and ultimate reality (brahman). Their ideas shaped later Indian thought, including the debates of Buddhism and Jainism.
+
+- The Rigveda has 1,028 hymns in ten mandalas and is the oldest Veda.
+- Society moved from pastoral tribes to agrarian kingdoms in the Ganga plain.
+- The Upanishads shifted attention from ritual to philosophy.
+W: Questions on Vedic texts, assemblies and the early-to-later Vedic transition appear often in Prelims.
+Q: Trace the changes in political and social life between the early and later Vedic periods.
+
+## mahajanapadas-rise-of-magadha | The mahajanapadas and the rise of Magadha
+
+By the sixth century BCE, northern India was divided into larger territorial states. Buddhist texts such as the Anguttara Nikaya list sixteen mahajanapadas, including Magadha, Kosala, Vatsa, Avanti, Kashi, Kuru, Panchala, Gandhara and the Vajji confederacy. Some were monarchies. Others, such as the Vajjis and the Mallas, were gana-sanghas, where power was shared by a council of clan leaders, an early form of collective rule.
+
+Over the next two centuries Magadha, in present-day Bihar, absorbed its rivals. Under the Haryanka dynasty, Bimbisara expanded through marriage alliances and conquest, and his son Ajatashatru defeated Kosala and the Vajjis. The capital moved from Rajagriha (Rajgir) to Pataliputra (near Patna) on the Ganga. The Shishunaga dynasty followed, and then the Nandas, whose wealth and large army were noted by Greek writers at the time of Alexander's invasion of the north-west in 326 BCE.
+
+Historians give several reasons for Magadha's rise. It sat on fertile, well-watered land that produced surpluses. Iron ore deposits nearby supplied tools and weapons. Forests provided timber and elephants for war. The Ganga and its tributaries gave both defence and trade routes. Ambitious rulers built a standing army and a system of taxes.
+
+This expansion set the stage for the Mauryan empire, which grew directly out of the Nanda state.
+
+- Sixteen mahajanapadas are listed in Buddhist sources; some were monarchies and some gana-sanghas.
+- Magadha rose under the Haryankas, Shishunagas and Nandas, with its capital moving to Pataliputra.
+- Fertile land, iron, elephants and rivers explain much of Magadha's success.
+W: The geography-power link in Magadha's rise is a classic Mains theme, and the mahajanapada list is a Prelims favourite.
+Q: Examine the geographical and economic factors that helped Magadha become the most powerful mahajanapada.
+
+## buddhism-and-jainism | Buddhism and Jainism: why new religions emerged
+
+The sixth and fifth centuries BCE saw many new teachers challenge Vedic ritualism. Two of their movements, Buddhism and Jainism, became lasting religions. Historians link their rise to a changing society: growing cities and trade, a new merchant class, the costs of animal sacrifice to farmers, and dissatisfaction with the dominance of priests.
+
+Siddhartha Gautama, the Buddha, was born at Lumbini in present-day Nepal. Traditional dates place his life around 563–483 BCE, though many scholars now prefer later dates. He attained enlightenment at Bodh Gaya, gave his first sermon at Sarnath and died at Kushinagar. He taught the Four Noble Truths, that suffering exists, has a cause in craving, can end, and that the path to its end is the Eightfold Path. He preached in Pali and other spoken languages rather than Sanskrit and founded a sangha open to people of all varnas, including women.
+
+Vardhamana Mahavira, the 24th tirthankara of Jainism, taught a stricter path of five vows: non-violence (ahimsa), truth, non-stealing, non-possession and celibacy. The goal is liberation of the soul through right faith, right knowledge and right conduct, the three jewels. Jainism later split into the Digambara and Shvetambara sects.
+
+Buddhist councils shaped the tradition. The first was held at Rajagriha after the Buddha's death, the third at Pataliputra under Ashoka, and the fourth in Kashmir under Kanishka, when the Mahayana school grew in importance.
+
+- Social and economic change, not only spiritual seeking, explains the rise of new religions.
+- The Buddha taught the Four Noble Truths and the Eightfold Path; Mahavira taught five vows and the three jewels.
+- Both rejected the authority of Vedic ritual and taught in spoken languages.
+W: Places linked to the Buddha, the councils and the core teachings are recurring Prelims questions; their social context suits Mains.
+Q: How did the material conditions of the sixth century BCE contribute to the rise of Buddhism and Jainism?
+
+## mauryan-empire-ashoka | The Mauryan empire and Ashoka's dhamma
+
+Chandragupta Maurya overthrew the Nanda dynasty around 321 BCE, reportedly guided by Kautilya (also called Chanakya), who is traditionally credited with the *Arthashastra*, a treatise on statecraft. Chandragupta defeated Seleucus Nicator, a successor of Alexander, and gained territory in the north-west. Seleucus sent the envoy Megasthenes to the Mauryan capital at Pataliputra. Chandragupta's son Bindusara extended the empire into the Deccan.
+
+Ashoka, Bindusara's son, is the best-documented ruler of ancient India because of his inscriptions. According to his own Rock Edict XIII, the conquest of Kalinga (in present-day Odisha), around 261 BCE, killed and displaced hundreds of thousands of people. Ashoka expressed remorse and turned to a policy he called dhamma: tolerance among sects, respect for elders and teachers, kindness to servants and animals, and moderation. He appointed officers called dhamma-mahamattas to spread these values and sent missions abroad, including to Sri Lanka.
+
+His edicts were carved on rocks and pillars across the subcontinent, mostly in Prakrit in the Brahmi script, with Kharosthi in the north-west and Greek and Aramaic in Afghanistan. The lion capital from the Sarnath pillar is India's national emblem, and the wheel on it inspired the chakra on the national flag.
+
+The empire declined within about fifty years of Ashoka's death in 232 BCE. The last Mauryan ruler was killed by his general Pushyamitra Shunga around 185 BCE.
+
+- Chandragupta founded the empire around 321 BCE; Megasthenes described his court.
+- After Kalinga, Ashoka promoted dhamma, a moral code of tolerance and welfare, not a single religion.
+- Ashoka's edicts are a primary source, and his Sarnath lion capital is the national emblem.
+W: Mauryan administration and Ashoka's dhamma appear in both Prelims and Mains, often linked to ideas of ethical governance.
+Q: Was Ashoka's dhamma a religious policy or a political strategy to hold a diverse empire together? Argue with evidence.
+
+## post-mauryan-kushanas-satavahanas | After the Mauryas: Shungas, Kushanas and Satavahanas
+
+The five centuries between the Mauryas and the Guptas are sometimes called a dark age, but they were a time of trade, art and cultural mixing. In the Ganga valley, the Shungas and then the Kanvas ruled smaller kingdoms. In the north-west, a series of rulers came from Central Asia and beyond. The Indo-Greek king Menander (Milinda) is remembered in the Buddhist text *Milindapanho*, a dialogue with the monk Nagasena. The Indo-Greeks issued the first Indian coins bearing clear portraits of kings.
+
+The Shakas followed. Their western branch ruled Gujarat and Malwa, and Rudradaman's Junagadh inscription of about 150 CE is the first long inscription in classical Sanskrit, recording the repair of the Sudarshana lake. The Kushanas, from Central Asia, built an empire stretching from Central Asia to the Ganga. Kanishka, their best-known king, is traditionally linked to the start of the Shaka era in 78 CE, which India's national calendar uses. He patronised Buddhism and the fourth Buddhist council.
+
+Kushana rule saw two schools of sculpture flourish: the Gandhara school, with Greco-Roman influence and grey schist stone, and the Mathura school, in local red sandstone. Both produced some of the earliest images of the Buddha in human form.
+
+In the Deccan, the Satavahanas ruled from about the first century BCE. Gautamiputra Satakarni, praised in his mother's Nashik inscription, defeated the Shakas. Satavahana kings issued land grants to Brahmins and Buddhist monks, a practice that grew in later centuries.
+
+- The period saw invasions from the north-west but also rich trade and cultural exchange.
+- Rudradaman's Junagadh inscription is the first long Sanskrit inscription; the Shaka era begins in 78 CE.
+- Gandhara and Mathura schools of art flourished under the Kushanas.
+W: Art schools, inscriptions and the Shaka era are frequent Prelims topics.
+Q: Compare the Gandhara and Mathura schools of sculpture in style, material and influences.
+
+## sangam-age | The Sangam age in south India
+
+Sangam literature is the earliest body of Tamil writing. Tradition speaks of three assemblies (sangams) of poets held under Pandya patronage at Madurai. The surviving works are usually dated between roughly the third century BCE and the third century CE, though dating is debated. They include the grammar *Tolkappiyam* and two great anthologies, the *Ettuthogai* (Eight Anthologies) and the *Pattupattu* (Ten Idylls). Later works such as the *Tirukkural* and the epics *Silappatikaram* and *Manimekalai* are usually placed just after the Sangam period.
+
+The poems are divided into akam (inner themes of love) and puram (outer themes of war, kings and generosity). They describe three ruling lineages, the Cheras, Cholas and Pandyas, often called the muvendar, along with many smaller chiefs. The Chola king Karikala is remembered for building a dam (the Kallanai) on the Kaveri, though the present structure has been rebuilt many times.
+
+The Sangam texts also describe five landscapes (tinai), each tied to a way of life: hills, forests, farmland, coast and dry land. This is an early example of linking geography with culture.
+
+Trade with the Roman world was extensive. Pepper, pearls, ivory and fine textiles went west, and Roman gold and silver coins have been found in large numbers in south India. Muziris on the Kerala coast and Arikamedu near Puducherry were important ports.
+
+- Sangam literature is the earliest Tamil literature, roughly 3rd century BCE to 3rd century CE.
+- The Cheras, Cholas and Pandyas were the three main ruling families.
+- Roman coins and port sites show strong trade with the Mediterranean.
+W: Sangam texts, the three dynasties and Indo-Roman trade appear regularly in Prelims.
+Q: What does Sangam literature tell us about the society, economy and polity of early south India?
+
+## gupta-age | The Gupta age: achievements and limits of a "golden age"
+
+The Gupta dynasty was founded in the early fourth century CE. Chandragupta I is linked to the start of the Gupta era in 319–320 CE. His son Samudragupta's campaigns are recorded in the Allahabad (Prayagraj) pillar inscription composed by his court poet Harisena. Chandragupta II, known as Vikramaditya, ended Shaka rule in western India, and the Chinese pilgrim Faxian visited India during his reign.
+
+The period is often called a golden age because of its cultural achievements. Kalidasa wrote *Abhijnanashakuntalam* and *Meghaduta*. The mathematician-astronomer Aryabhata wrote the *Aryabhatiya* in 499 CE, proposing that the Earth rotates on its axis and giving a value of pi accurate to four decimal places. The decimal place-value system with zero developed during these centuries. The Mehrauli iron pillar in Delhi, which has resisted rust for about 1,600 years, shows advanced metallurgy. Early free-standing temples, such as the one at Deogarh, and the paintings of the Ajanta caves (some made under the related Vakataka dynasty) belong to this era. Nalanda was founded under Kumaragupta I.
+
+Historians now qualify the "golden age" label. The prosperity was concentrated among elites. Land grants to Brahmins and temples increased, which some historians see as the beginning of feudal tendencies. The caste order became more rigid, and the position of women declined, with evidence of early marriage and the first recorded instance of sati, at Eran in 510 CE. Hun invasions in the late fifth century weakened the empire, which fragmented by the mid-sixth century.
+
+- Samudragupta's conquests are recorded on the Allahabad pillar by Harisena.
+- Kalidasa, Aryabhata and the place-value system with zero are major Gupta-era achievements.
+- The "golden age" label hides growing inequality, rigid caste and the decline in women's status.
+W: Mains often asks you to critically evaluate the golden age idea; Prelims asks about Gupta scholars and inscriptions.
+Q: "The Gupta period was a golden age only for a few." Critically examine this statement.
+
+## harsha-and-southern-kingdoms | Harsha, the Pallavas, Chalukyas and Cholas
+
+After the Guptas, Harshavardhana (ruled 606–647 CE) built a large kingdom in north India from his capital at Kannauj. His court poet Banabhatta wrote the *Harshacharita*, and the Chinese pilgrim Xuanzang described his assemblies at Kannauj and Prayag and his patronage of Nalanda. Harsha's march south was stopped on the Narmada by the Chalukya king Pulakeshin II, an event recorded in the Aihole inscription composed by Ravikirti.
+
+In the Deccan and south, three powers competed. The Chalukyas of Badami built temples at Aihole, Badami and Pattadakal (a UNESCO site). The Pallavas of Kanchipuram built the rock-cut and structural monuments of Mahabalipuram, including the Shore Temple, under kings such as Narasimhavarman I. The Pallava-Chalukya rivalry continued for generations.
+
+The Cholas rose in the ninth century and became the dominant southern power. Rajaraja I (985–1014) built the Brihadeeswara temple at Thanjavur, completed around 1010. His son Rajendra I marched to the Ganga, founded a new capital called Gangaikonda Cholapuram, and sent a naval expedition against the Srivijaya kingdom in South-East Asia. The Uttaramerur inscriptions of the tenth century describe village assemblies (sabhas) chosen partly by lot, an often-cited example of local self-government.
+
+These kingdoms show that political power in early medieval India was spread across many regional centres, each with its own art and administration.
+
+- Harsha ruled from Kannauj; Xuanzang and Banabhatta are key sources.
+- Pulakeshin II stopped Harsha on the Narmada; the Aihole inscription records this.
+- The Cholas combined temple building, naval power and village assemblies.
+W: Temple sites, inscriptions and Chola local administration are recurring Prelims and Mains topics.
+Q: Describe the main features of local self-government under the Cholas. How does it compare with Panchayati Raj today?

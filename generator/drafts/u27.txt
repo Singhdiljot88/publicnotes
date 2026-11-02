@@ -1,0 +1,160 @@
+# THEME 27
+## internal-security-framework | India's internal security: threats and institutions
+
+Internal security means protecting a country from threats within its borders, or from outside actors who work through internal channels. India faces an unusually wide range of such threats: left-wing extremism in central and eastern India, insurgencies in the North-East, terrorism and cross-border infiltration in Jammu and Kashmir, communal and ethnic violence, organised crime, drug trafficking, cyber attacks, and radicalisation through online networks. Many of these are linked to underlying problems such as poor governance, inequality, identity conflicts and hostile neighbours.
+
+Under the Constitution, "public order" and "police" are state subjects, so state police forces have primary responsibility. But Article 355 makes it the Union's duty to protect states against external aggression and internal disturbance, and the Ministry of Home Affairs coordinates internal security nationally.
+
+The Union has several central armed police forces (CAPFs). The Central Reserve Police Force (CRPF) is the largest and leads counter-insurgency against Maoists. The Border Security Force (BSF) guards the borders with Pakistan and Bangladesh, the Indo-Tibetan Border Police (ITBP) the border with China, the Sashastra Seema Bal (SSB) the open borders with Nepal and Bhutan, and the Assam Rifles the Myanmar border and parts of the North-East. The Central Industrial Security Force (CISF) protects airports, ports and key installations, and the National Security Guard (NSG) is the counter-terrorist commando force.
+
+Intelligence comes from the Intelligence Bureau (internal), the Research and Analysis Wing (external) and the National Technical Research Organisation. The National Investigation Agency (NIA) investigates terrorism cases nationwide, and the National Security Council, advised by the National Security Adviser, coordinates strategy.
+
+Experts argue that security forces can contain violence, but lasting peace needs development, good governance, justice and political dialogue.
+
+- India faces Maoist, north-eastern, J&K-linked, communal, organised crime and cyber threats.
+- Police and public order are state subjects, but Article 355 obliges the Union to protect states.
+- CAPFs such as the CRPF, BSF, ITBP, SSB and Assam Rifles each have specific roles.
+W: The roles of security forces and the federal division of security responsibilities are standard GS III questions.
+Q: Why does internal security in India require coordination between the Union and the states? Suggest ways to improve it.
+
+## left-wing-extremism | Left-wing extremism: rise and decline
+
+Left-wing extremism (LWE), commonly called Naxalism, takes its name from Naxalbari in West Bengal, where a peasant uprising led by Charu Mazumdar and Kanu Sanyal began in 1967. The movement drew on Maoist ideology, aiming to overthrow the state through armed struggle. After splits and repression, the main armed groups merged in 2004 to form the Communist Party of India (Maoist), which built a "Red Corridor" across forested tribal areas of Chhattisgarh, Jharkhand, Odisha, Maharashtra, Telangana, Andhra Pradesh and Bihar. In 2006 Prime Minister Manmohan Singh called it the single biggest internal security challenge facing India.
+
+The movement's roots lay in real grievances: landlessness, displacement by mines and dams, denial of forest rights, poor schools and health care, and the near-absence of the state in remote tribal areas. Its violence included attacks on security forces, such as the killing of 76 CRPF personnel at Dantewada in 2010, and the Darbha valley attack of 2013 that killed senior Congress leaders in Chhattisgarh.
+
+The government's response combined security operations with development. The 2015 National Policy and Action Plan included more security camps and roads in affected areas, the Special Central Assistance for the most affected districts, mobile towers, skill development, and surrender and rehabilitation schemes. Violence declined steadily. The number of LWE-affected districts fell sharply, and by April 2025 the government said only six districts remained "most affected". In 2025, security forces killed several top Maoist leaders, including the party's general secretary, and hundreds of cadres surrendered.
+
+The Union Home Minister had set 31 March 2026 as the deadline to end Naxalism. On 30 March 2026, he told the Lok Sabha that India had become "Naxal-free", while saying a formal announcement would follow once the process was complete. Analysts caution that the underlying grievances of tribal communities must be addressed to prevent a revival.
+
+- Naxalism began at Naxalbari in 1967; the CPI (Maoist) was formed in 2004.
+- Security operations, roads, camps and development schemes steadily reduced violence and affected districts.
+- On 30 March 2026, the Home Minister told Parliament India had become "Naxal-free"; addressing tribal grievances remains essential.
+W: LWE is a core internal security topic, and its 2026 status is a likely question in both stages.
+Q: "Security operations can defeat insurgents, but only development can defeat insurgency." Discuss with reference to left-wing extremism.
+
+## north-east-insurgency-accords | Insurgency and peace accords in the North-East
+
+The North-East has seen insurgencies since soon after independence, driven by distinct ethnic identities, fear of demographic change from migration, a sense of neglect by the Centre, difficult terrain and porous borders. The Naga movement, led by the Naga National Council under A. Z. Phizo, demanded independence even before 1947. Later conflicts involved Mizo, Manipuri, Assamese, Bodo, Tripuri and other groups.
+
+The Armed Forces (Special Powers) Act, 1958 (AFSPA) gives the armed forces special powers in areas declared "disturbed", including to search, arrest without warrant and, in some circumstances, use lethal force, with protection from prosecution without central sanction. Human rights groups have long criticised it, and the Justice Jeevan Reddy Committee (2005) recommended its repeal. The Supreme Court in 2016 held that even in disturbed areas, excessive or retaliatory force is not allowed. Since 2022, the government has reduced the areas under AFSPA in Assam, Nagaland, Manipur and Arunachal Pradesh as violence declined, though it remains in force in parts of these states.
+
+Peace has often come through accords. The Mizo Accord of 1986 is the most successful example. The Naga Framework Agreement of 2015 with the NSCN (Isak-Muivah) has not led to a final settlement, mainly because of disagreement over a separate Naga flag and constitution. Recent accords include the Bodo Accord (2020), which expanded the Bodoland Territorial Region; the Bru-Reang agreement (2020) to settle displaced Bru families in Tripura; the Karbi Anglong agreement (2021); the agreement with the pro-talks faction of ULFA (December 2023); and an agreement with Tripura's NLFT and ATTF (2024). Many insurgent groups have laid down arms.
+
+Challenges remain: hardline factions based in Myanmar, such as ULFA (Independent), the unresolved Naga question, inter-state border disputes, and illegal migration fears.
+
+- North-East insurgencies stem from identity, migration fears, neglect and porous borders.
+- AFSPA gives the forces special powers; its coverage has been reduced since 2022.
+- Accords with Mizo, Bodo, Karbi, ULFA and Tripura groups have brought peace; the Naga settlement is still pending.
+W: North-East insurgency, AFSPA and the accords are frequently asked in GS III internal security.
+Q: Should AFSPA be repealed in the North-East? Weigh security needs against human rights concerns.
+
+## manipur-ethnic-conflict | The Manipur conflict
+
+Manipur's population includes the Meiteis, mostly Hindu and concentrated in the Imphal valley, which makes up about a tenth of the state's area, and tribal communities, mainly the Kuki-Zo and Naga groups, who are largely Christian and live in the surrounding hills. Land laws restrict non-tribals from buying land in the hills, while tribal people can live in the valley, a sore point for many Meiteis.
+
+Violence broke out on 3 May 2023, after a tribal solidarity march protesting a Manipur High Court direction to the state to consider recommending Scheduled Tribe status for the Meiteis. Clashes quickly spread. Homes, churches and temples were burnt, weapons were looted from police armouries, and the state was effectively divided into Meitei and Kuki-Zo zones separated by buffer zones manned by central forces. A video of two Kuki women being paraded naked, which surfaced in July 2023, caused national outrage, and the Supreme Court set up a committee of former High Court judges to oversee relief and rehabilitation. By official figures given to the state assembly, more than 250 people were killed, and the state government said in 2026 that over 58,000 people had been displaced since May 2023.
+
+The causes were complex: competition for land and jobs, the Scheduled Tribe demand, a government campaign against poppy cultivation and "illegal immigrants" that tribal groups felt targeted them, refugees from the Myanmar civil war, armed groups on both sides, and deep mistrust. Kuki-Zo groups demanded a separate administration.
+
+Chief Minister N. Biren Singh resigned in February 2025, and President's rule was imposed on 13 February 2025. It was revoked on 4 February 2026, when Yumnam Khemchand Singh was sworn in as chief minister. Rebuilding trust between communities, disarming militias, returning displaced people and addressing land and identity questions remain major tasks.
+
+- Violence between Meiteis and Kuki-Zo communities began on 3 May 2023 over the ST status issue and deeper land and identity disputes.
+- Over 250 people were killed by official figures, and over 58,000 displaced.
+- President's rule (February 2025) ended in February 2026 with a new chief minister.
+W: Manipur is a major recent internal security and governance issue, likely to appear in Mains.
+Q: What were the underlying causes of the Manipur conflict? Suggest a roadmap for lasting peace.
+
+## jammu-kashmir-security | Security in Jammu and Kashmir
+
+An armed insurgency began in Jammu and Kashmir in 1989, with Pakistan providing training, weapons and sanctuary to militant groups. The violence peaked in the 1990s, causing thousands of deaths and the exodus of most Kashmiri Pandits from the valley in 1990. Major attacks linked to Pakistan-based groups such as Lashkar-e-Taiba and Jaish-e-Mohammed included the 2001 Parliament attack, the 2008 Mumbai attacks, the Uri army camp attack (2016) and the Pulwama suicide bombing (2019), which killed 40 CRPF personnel. India responded to Uri with "surgical strikes" across the Line of Control and to Pulwama with an air strike on Balakot in Pakistan.
+
+In August 2019, Article 370 was made inoperative and the state was reorganised into two union territories. The government says violence, stone pelting and local recruitment into militancy fell sharply afterwards, and tourism boomed. Assembly elections were held in 2024 with high turnout, and an elected government took office. Critics point to prolonged internet shutdowns and detentions in 2019–20, and to a shift of militant attacks to the Jammu region, including attacks on soldiers and pilgrims.
+
+On 22 April 2025, terrorists killed 26 people, mostly tourists, at Baisaran meadow near Pahalgam. India held Pakistan-based groups responsible, placed the Indus Waters Treaty in abeyance, and on 7 May 2025 launched Operation Sindoor, striking terrorist infrastructure at nine sites in Pakistan and Pakistan-occupied Kashmir. Four days of cross-border strikes followed before both sides agreed to stop military action on 10 May.
+
+India's security approach in J&K combines counter-infiltration along the Line of Control, intelligence-led operations against militants, action against terror financing and "overground workers", and development and outreach. Lasting peace also depends on political participation, the restoration of statehood that the Supreme Court has directed, and addressing alienation among young people.
+
+- The insurgency began in 1989 with Pakistani support; major attacks include Mumbai (2008), Uri (2016) and Pulwama (2019).
+- After 2019, violence in the valley fell, but attacks shifted towards the Jammu region.
+- The Pahalgam attack (22 April 2025) led to Operation Sindoor on 7 May 2025.
+W: J&K security, cross-border terrorism and Operation Sindoor are among the most important internal security topics.
+Q: Is a security-centric approach sufficient to achieve lasting peace in Jammu and Kashmir? Discuss.
+
+## terror-laws-uapa-nia | Anti-terror laws: UAPA and the NIA
+
+India's main anti-terror law is the Unlawful Activities (Prevention) Act, 1967 (UAPA). It was originally a law against secessionist organisations. After the Terrorist and Disruptive Activities (Prevention) Act (TADA, 1985–95) lapsed amid allegations of abuse, and the Prevention of Terrorism Act (POTA, 2002) was repealed in 2004, their anti-terror provisions were moved into UAPA through amendments in 2004, 2008 and later.
+
+UAPA defines terrorist acts and unlawful activities, allows the government to ban organisations as terrorist or unlawful, and provides stringent procedures. Police can detain an accused for up to 180 days before filing a charge sheet, compared with 60 or 90 days under ordinary law. Section 43D(5) makes bail very difficult: courts must refuse bail if there are reasonable grounds to believe the accusation is "prima facie true". The 2019 amendment allowed the government to designate individuals, not only organisations, as terrorists.
+
+The National Investigation Agency (NIA) was set up by the NIA Act, 2008, after the Mumbai attacks, as a central agency to investigate and prosecute terrorism and related offences across states without needing their consent. The 2019 amendment allowed it to investigate offences such as human trafficking, counterfeit currency, manufacture of prohibited arms and cyber terrorism, and crimes against Indians and Indian interests abroad. Special NIA courts try its cases.
+
+Critics, including some judges, argue that UAPA is used against journalists, activists and students, that cases take years while the accused remain in jail, and that official data show a large gap between the number of people arrested and those convicted. The Supreme Court has granted bail in some long-pending cases, citing the right to a speedy trial under Article 21 (Union of India v. K. A. Najeeb, 2021). Supporters argue that terrorism requires special laws, as networks are hard to prove quickly.
+
+- UAPA (1967) absorbed anti-terror provisions after TADA and POTA; it allows 180-day detention and makes bail very difficult.
+- The 2019 amendments allowed designating individuals as terrorists and widened the NIA's powers.
+- Low conviction rates and long pre-trial detention have led courts to grant bail on speedy trial grounds.
+W: UAPA and the NIA are central to internal security questions and to debates on civil liberties.
+Q: How can anti-terror laws be made effective without undermining civil liberties?
+
+## money-laundering-terror-finance | Money laundering and terror financing
+
+Money laundering is the process of making illegally obtained money look legitimate, usually in three stages: placement (putting cash into the financial system), layering (moving it through complex transactions to hide its origin) and integration (bringing it back as apparently clean money). Terror financing is the raising and moving of funds for terrorist activities, which may come from legal or illegal sources. Both threaten security and the integrity of the financial system.
+
+India's main law is the Prevention of Money Laundering Act, 2002 (PMLA), enforced by the Directorate of Enforcement (ED). It allows the attachment and confiscation of proceeds of crime linked to listed "scheduled offences", and makes bail difficult through "twin conditions" in Section 45. In Vijay Madanlal Choudhary (2022), the Supreme Court upheld the ED's wide powers of arrest, search and attachment, and held that the ED's case report (ECIR) need not be shared with the accused at the outset. Critics argue that the ED's conviction rate is very low compared with the number of cases registered, and that the law has been used disproportionately against opposition politicians. The Financial Intelligence Unit-India receives and analyses suspicious transaction reports from banks and other entities.
+
+Internationally, the Financial Action Task Force (FATF), set up by the G7 in 1989, sets global standards and evaluates countries. Countries with serious weaknesses are placed under increased monitoring (the "grey list") or called for action (the "black list"). India's mutual evaluation, adopted in June 2024, placed it in the "regular follow-up" category, the best outcome, while asking it to speed up prosecutions and avoid misusing laws against non-profit organisations. Pakistan was on the grey list from 2018 to 2022, and India has pressed FATF to scrutinise Pakistan's action against terror financing.
+
+New challenges include cryptocurrencies, hawala networks, online gaming and betting platforms, and cross-border fraud. Virtual digital asset providers were brought under PMLA in 2023.
+
+- Money laundering has three stages: placement, layering and integration.
+- PMLA (2002) is enforced by the ED; the Supreme Court upheld its wide powers in 2022.
+- FATF's 2024 evaluation placed India in "regular follow-up", its best rating.
+W: PMLA, the ED and FATF are frequent GS III topics, and India's 2024 evaluation is a likely Prelims question.
+Q: How effective is India's anti-money laundering framework? Discuss the concerns about the use of PMLA.
+
+## cyber-security | Cyber security and cyber crime
+
+As India digitises government services, payments and infrastructure, it faces growing cyber threats. These include attacks on critical infrastructure such as power grids, ports and hospitals; data breaches; ransomware, which locks data until a ransom is paid; espionage by state-backed groups; and a rapid rise in financial fraud. The ransomware attack on AIIMS New Delhi in November 2022, which disrupted services for days, and the suspected cyber intrusion linked to the Mumbai power outage of October 2020 showed the risks.
+
+Cyber crime against individuals has exploded. Common forms include phishing, UPI and card fraud, fake investment and job schemes, sextortion, and "digital arrest" scams, in which fraudsters pose as police or investigators on video calls and extort money. Many scams are run from compounds in South-East Asia, sometimes staffed by trafficked workers, including Indians. The government has blocked lakhs of SIM cards and devices linked to fraud.
+
+India's institutional framework includes the Indian Computer Emergency Response Team (CERT-In), set up in 2004 as the national agency for responding to cyber incidents; since 2022, organisations must report incidents to it within six hours. The National Critical Information Infrastructure Protection Centre (NCIIPC) protects critical sectors. The Indian Cyber Crime Coordination Centre (I4C), launched in 2020 under the Home Ministry, runs the National Cyber Crime Reporting Portal and the 1930 helpline. The Defence Cyber Agency handles military cyber operations. The legal base is the Information Technology Act, 2000, along with the Digital Personal Data Protection Act, 2023, and the Telecommunications Act, 2023.
+
+Gaps include the absence of an updated national cyber security strategy since the 2013 policy, a shortage of skilled professionals, dependence on imported hardware, weak cyber hygiene in government offices and small businesses, and difficulties in cross-border investigation. India has not joined the Budapest Convention on cybercrime, but participated in negotiating the UN Convention against Cybercrime adopted in 2024.
+
+- Threats range from attacks on critical infrastructure to mass financial fraud and "digital arrest" scams.
+- CERT-In, NCIIPC and I4C (with the 1930 helpline) are key institutions.
+- India lacks an updated cyber security strategy since 2013 and faces skills and hardware gaps.
+W: Cyber security is a named GS III topic and increasingly important as digital public infrastructure grows.
+Q: What steps should India take to protect its critical information infrastructure from cyber attacks?
+
+## border-management | Border management
+
+India has land borders of about 15,200 km with seven countries: Bangladesh (the longest, about 4,097 km), China, Pakistan, Nepal, Myanmar, Bhutan and Afghanistan (through Pakistan-occupied territory). Each border poses different problems. The Pakistan border and Line of Control face infiltration, cross-border firing, smuggling of weapons and drugs, and, increasingly, drones dropping arms and narcotics in Punjab. The China border, the Line of Actual Control, is not demarcated, leading to standoffs such as at Galwan in 2020. The Bangladesh border, running through rivers and densely populated areas, faces illegal migration, cattle and drug smuggling, and human trafficking. The open borders with Nepal and Bhutan, based on treaties allowing free movement, can be misused by criminals and insurgents. The Myanmar border, with a Free Movement Regime allowing border residents to travel a set distance without visas, has been used by insurgents and drug traffickers; in 2024 the government announced it would fence the entire Myanmar border and scrap the regime, a move opposed by communities in Mizoram and Nagaland with ties across the border.
+
+Border management follows the principle of "one border, one force": the BSF guards the Pakistan and Bangladesh borders, the ITBP the China border, the SSB the Nepal and Bhutan borders, and the Assam Rifles the Myanmar border. The army manages the LoC and parts of the LAC. In 2021, the BSF's jurisdiction for search and seizure was extended to 50 km from the border in Punjab, West Bengal and Assam, which those states' governments opposed.
+
+Technology is increasingly used: the Comprehensive Integrated Border Management System (CIBMS) uses sensors, cameras and radars to create "smart fences" in difficult terrain. Integrated check posts handle legal trade and travel. The Vibrant Villages Programme, launched in 2023 for villages along the northern border with China, and its second phase approved in 2025 for other borders, aims to improve infrastructure and stop out-migration from border villages, which act as the first line of security.
+
+- India's land borders total about 15,200 km; the Bangladesh border is the longest.
+- Each border has a dedicated force under the "one border, one force" principle.
+- Smart fencing, integrated check posts and the Vibrant Villages Programme strengthen border management.
+W: Border management is a named GS III topic, with recent changes on the Myanmar border and BSF jurisdiction often asked.
+Q: What challenges does India face in managing its border with Myanmar? Evaluate the decision to fence it.
+
+## coastal-maritime-security | Coastal and maritime security
+
+India's coastline of about 7,500 km, with nine coastal states, four coastal union territories and over 1,300 islands, is both an economic asset and a security challenge. The 1993 Mumbai blasts used explosives landed on the Raigad coast, and in November 2008, ten Lashkar-e-Taiba terrorists travelled from Karachi by sea, hijacked an Indian fishing boat and landed in Mumbai, where their attacks killed 166 people. The attacks exposed serious gaps in coastal surveillance and coordination.
+
+India then overhauled coastal security. It adopted a three-tier structure: the Indian Navy is responsible for overall maritime security, including coastal and offshore security; the Indian Coast Guard, set up in 1978, guards the territorial waters and the exclusive economic zone; and state marine police patrol shallow waters close to the coast, supported by coastal police stations built under the Coastal Security Scheme. The navy's Sagar Prahari Bal provides fast patrol boats. A Coastal Surveillance Network of radars along the coast and on islands, the National Command, Control, Communication and Intelligence Network, and the Information Management and Analysis Centre in Gurugram link agencies. Fishing boats now need registration and transponders, and fishermen carry biometric identity cards so that boats can be tracked and identified.
+
+Other maritime threats include piracy, as off Somalia, where the Indian Navy has deployed ships in the Gulf of Aden since 2008 and rescued ships and crews; attacks on shipping in the Red Sea since 2023; smuggling of drugs, gold and weapons by sea, with large drug seizures off Gujarat; illegal fishing; and the presence of foreign research and naval vessels in the Indian Ocean.
+
+Gaps remain in manpower and training for state marine police, maintenance of boats, coordination between agencies, and monitoring of small vessels. Experts have long recommended a central maritime security coordinator, and the government appointed India's first National Maritime Security Coordinator in 2022.
+
+- The 2008 Mumbai attacks, launched by sea, led to an overhaul of coastal security.
+- The navy, Coast Guard and state marine police form a three-tier system linked by a coastal radar network.
+- Piracy, Red Sea attacks, drug smuggling and illegal fishing are continuing maritime threats.
+W: Coastal security is a frequent GS III question, especially in the context of 26/11 and the Indian Ocean.
+Q: How has India's coastal security improved since 2008? What gaps still need attention?

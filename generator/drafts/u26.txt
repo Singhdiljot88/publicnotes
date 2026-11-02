@@ -1,0 +1,164 @@
+# THEME 26
+## climate-change-science | The science of climate change
+
+The Earth's climate is warming because human activities have increased the concentration of greenhouse gases in the atmosphere. Carbon dioxide, released mainly by burning coal, oil and gas and by deforestation, is the most important. Its concentration has risen from about 280 parts per million before the industrial revolution to over 420 ppm today. Methane, from agriculture, livestock, landfills and fossil fuel leaks, is far more potent over short periods. Nitrous oxide, from fertilisers, and fluorinated gases add to the effect.
+
+The Intergovernmental Panel on Climate Change (IPCC), set up in 1988 by the World Meteorological Organization and the UN Environment Programme, assesses the science. Its Sixth Assessment Report (2021–23) concluded that it is "unequivocal" that human influence has warmed the atmosphere, ocean and land. Global average temperature in 2011–2020 was about 1.1°C above the 1850–1900 average. The World Meteorological Organization reported that 2024 was the warmest year on record and the first calendar year more than 1.5°C above pre-industrial levels, though the Paris Agreement's 1.5°C limit refers to long-term averages over decades, not single years.
+
+The effects are already visible: more frequent and intense heatwaves, heavier rainfall events, rising sea levels (from melting glaciers and ice sheets and the expansion of warming water), retreating Himalayan glaciers, ocean acidification and coral bleaching, and shifts in growing seasons. Some changes risk crossing tipping points, such as the loss of ice sheets or the dieback of the Amazon, which could be irreversible.
+
+India is highly vulnerable because of its long coastline, dependence on the monsoon and agriculture, large poor population and Himalayan glaciers that feed major rivers. India's own climate assessment, released by the Ministry of Earth Sciences in 2020, found that average temperature in India had risen by about 0.7°C between 1901 and 2018.
+
+- Human emissions have raised CO2 from about 280 ppm to over 420 ppm.
+- The IPCC's AR6 called human influence on warming "unequivocal"; 2024 was the first calendar year above 1.5°C.
+- India is highly exposed through heat, monsoon change, sea-level rise and glacier retreat.
+W: Climate science basics, the IPCC and greenhouse gases are standard Prelims questions and the foundation for Mains answers.
+Q: Why is India particularly vulnerable to climate change? Discuss with examples.
+
+## unfccc-kyoto-paris | The UNFCCC, the Kyoto Protocol and the Paris Agreement
+
+The United Nations Framework Convention on Climate Change (UNFCCC) was adopted at the Rio Earth Summit in 1992 and came into force in 1994. Its goal is to stabilise greenhouse gas concentrations at a level that would prevent dangerous human interference with the climate. It established the principle of "common but differentiated responsibilities and respective capabilities" (CBDR-RC): all countries must act, but developed countries, which caused most historical emissions, should take the lead and support developing countries. The parties meet each year at a Conference of the Parties (COP).
+
+The Kyoto Protocol, adopted in 1997 and in force from 2005, set binding emission reduction targets only for developed countries (listed in Annex I), averaging about 5% below 1990 levels in 2008–2012. It created market mechanisms, including the Clean Development Mechanism (CDM), through which developed countries could earn credits by funding emission-cutting projects in developing countries; India hosted many CDM projects. The United States never ratified Kyoto, and Canada withdrew, which weakened it.
+
+The Paris Agreement, adopted at COP21 in December 2015 and in force from November 2016, changed the approach. All countries set their own targets, called Nationally Determined Contributions (NDCs), to be updated every five years with increasing ambition. The agreement aims to keep warming "well below 2°C" and pursue efforts to limit it to 1.5°C. It includes a global stocktake every five years to assess collective progress (the first concluded at COP28 in 2023), an enhanced transparency framework for reporting, Article 6 on carbon markets, and commitments on adaptation and finance. Developed countries had pledged in 2009 to mobilise 100 billion US dollars a year in climate finance for developing countries by 2020, a target reported as met only in 2022.
+
+The United States withdrew from the Paris Agreement under President Trump, rejoined in 2021, and announced a second withdrawal in January 2025.
+
+- The UNFCCC (1992) set the principle of common but differentiated responsibilities.
+- The Kyoto Protocol (1997) bound only developed countries; the CDM channelled projects to developing countries.
+- The Paris Agreement (2015) relies on nationally determined contributions and aims for well below 2°C, ideally 1.5°C.
+W: The evolution of climate treaties is a high-frequency Prelims and Mains topic.
+Q: How did the Paris Agreement change the approach of the Kyoto Protocol? Is the change an improvement?
+
+## recent-cop-outcomes | Recent climate summits: from Dubai to Belém
+
+COP28 in Dubai (2023) concluded the first global stocktake under the Paris Agreement. For the first time, countries agreed to "transition away from fossil fuels in energy systems, in a just, orderly and equitable manner", and to triple renewable energy capacity and double the rate of energy efficiency improvement by 2030. The Loss and Damage Fund, agreed in principle at COP27 in Sharm el-Sheikh in 2022 to help vulnerable countries cope with climate impacts they cannot adapt to, was made operational, with initial pledges of several hundred million dollars, small compared with estimated needs.
+
+COP29 in Baku, Azerbaijan (2024), was called the "finance COP". It agreed a New Collective Quantified Goal (NCQG) on climate finance: developed countries are to take the lead in mobilising at least 300 billion US dollars a year for developing countries by 2035, within a wider aim of 1.3 trillion dollars a year from all sources. India strongly criticised the outcome as inadequate and objected to the way it was adopted. COP29 also finalised rules for carbon markets under Article 6.
+
+COP30 in Belém, Brazil (2025), held on the edge of the Amazon, produced a package of decisions on adaptation, carbon markets and finance. It adopted indicators for the Global Goal on Adaptation, set a goal to scale up adaptation finance, and adopted a decision on the just transition work programme. Proposals for a roadmap on moving away from fossil fuels did not make it into the formal outcome. India worked through the BASIC group (Brazil, South Africa, India and China) and the Like-Minded Developing Countries, stressing equity, finance and opposition to unilateral trade measures linked to climate, such as the EU's Carbon Border Adjustment Mechanism.
+
+COP31 is being held in Antalya, Türkiye, in November 2026, under an unusual arrangement in which Australia leads the negotiations.
+
+- COP28 (2023) agreed to transition away from fossil fuels and operationalised the Loss and Damage Fund.
+- COP29 (2024) set a climate finance goal of 300 billion dollars a year by 2035, criticised by India.
+- COP30 (2025) focused on adaptation and implementation; COP31 is in Antalya in November 2026.
+W: Recent COP outcomes are frequently asked in Prelims and help Mains answers on climate diplomacy.
+Q: Why do developing countries consider climate finance commitments inadequate? Discuss with reference to recent COPs.
+
+## india-ndc-net-zero | India's climate targets and net zero
+
+India's first Nationally Determined Contribution, submitted in 2015, pledged to reduce the emissions intensity of its GDP by 33–35% from 2005 levels by 2030, to reach 40% of installed electricity capacity from non-fossil sources by 2030, and to create an additional carbon sink of 2.5–3 billion tonnes of CO2 equivalent through forests and trees.
+
+At COP26 in Glasgow in 2021, Prime Minister Modi announced the "Panchamrit" (five nectar elements), including a target of net-zero emissions by 2070. India's updated NDC of 2022 raised the targets to a 45% reduction in emissions intensity by 2030 from 2005 levels, and 50% of installed electricity capacity from non-fossil sources by 2030. India reached the 50% non-fossil capacity mark in 2025, five years early, though fossil fuels still generate most of its electricity because solar and wind produce power only part of the time. India also submitted a long-term low-emission development strategy in 2022.
+
+In March 2026 the Union Cabinet approved India's next NDC for 2031–2035. It commits to reducing emissions intensity of GDP by 47% from 2005 levels by 2035, raising non-fossil sources to 60% of installed electricity capacity by 2035, and creating an additional carbon sink of 3.5–4 billion tonnes of CO2 equivalent.
+
+India's position rests on equity. Its per capita emissions are well below the world average and a fraction of those of the United States, and its cumulative historical emissions are small relative to its population. India argues that it needs room for development, and that developed countries must cut faster and provide finance and technology. At the same time, India is the world's third-largest emitter in total, so its choices on coal, transport and industry matter globally. India also promotes Mission LiFE (Lifestyle for Environment), launched in 2022, which encourages sustainable consumption by individuals.
+
+- India's 2022 NDC targeted a 45% cut in emissions intensity and 50% non-fossil capacity by 2030; the capacity target was met in 2025.
+- India aims for net zero by 2070.
+- The 2035 NDC approved in March 2026 targets a 47% intensity cut and 60% non-fossil capacity.
+W: India's climate targets and their updates are among the most likely environment questions in both stages.
+Q: How does India balance its development needs with its climate commitments? Evaluate its NDC targets.
+
+## napcc-climate-missions | India's National Action Plan on Climate Change
+
+India released its National Action Plan on Climate Change (NAPCC) in 2008. It set out eight national missions, each run by a ministry, to address both mitigation and adaptation.
+
+The National Solar Mission, launched in 2010 as the Jawaharlal Nehru National Solar Mission, aimed to make solar power competitive; its target was raised to 100 GW by 2022, and solar has since become India's fastest-growing source of power. The National Mission for Enhanced Energy Efficiency created market-based tools such as the Perform, Achieve and Trade (PAT) scheme for energy-intensive industries. The National Mission on Sustainable Habitat promotes energy efficiency in buildings, urban transport and waste management. The National Water Mission aims to increase water use efficiency by 20%. The National Mission for Sustaining the Himalayan Ecosystem focuses on glaciers and mountain ecology. The National Mission for a Green India aims to increase forest and tree cover and improve forest quality. The National Mission for Sustainable Agriculture promotes climate-resilient farming. The National Mission on Strategic Knowledge for Climate Change builds research capacity. Additional missions, on human health and coastal areas, were later proposed.
+
+States were asked to prepare State Action Plans on Climate Change, and most did so, though many lack funding and integration with state budgets.
+
+Other measures include the Energy Conservation (Amendment) Act, 2022, which enabled a domestic carbon market; the National Green Hydrogen Mission (2023), which aims for production capacity of 5 million tonnes a year by 2030; the PM Surya Ghar Muft Bijli Yojana (2024) for rooftop solar on one crore homes; and the National Adaptation Fund for Climate Change. India also founded the International Solar Alliance with France in 2015, headquartered in Gurugram, and the Coalition for Disaster Resilient Infrastructure in 2019.
+
+Critics note that the missions have uneven progress, and that adaptation, especially for agriculture, health and cities, has received less money than mitigation.
+
+- The NAPCC (2008) has eight national missions, including solar, energy efficiency, water and the Himalayas.
+- States have climate action plans, but many lack funding.
+- Newer initiatives include the Green Hydrogen Mission, rooftop solar and the International Solar Alliance.
+W: The NAPCC missions are a standard Prelims question, and their effectiveness is a common Mains theme.
+Q: Has the NAPCC been effective in addressing climate change in India? Suggest improvements.
+
+## carbon-markets-green-credit | Carbon markets and the Green Credit Programme
+
+A carbon market puts a price on greenhouse gas emissions, so that polluters have a financial incentive to reduce them. There are two main types. In a compliance market, the government sets a cap or targets, and companies that emit less than their limit can sell credits to those that emit more, as in the European Union's Emissions Trading System. In a voluntary market, companies buy credits from projects such as forest protection or renewable energy to offset their emissions voluntarily; such markets have been criticised for credits that do not deliver real reductions.
+
+India has had market-based schemes for years. The Perform, Achieve and Trade (PAT) scheme, started in 2012, set energy efficiency targets for energy-intensive industries and let those that beat them sell energy savings certificates. Renewable Energy Certificates help electricity distributors meet renewable purchase obligations.
+
+The Energy Conservation (Amendment) Act, 2022 empowered the Union government to create a carbon market, and the Carbon Credit Trading Scheme (CCTS) was notified in 2023. It has a compliance mechanism, under which the government sets greenhouse gas emissions intensity targets for obligated sectors such as aluminium, cement, chlor-alkali, pulp and paper, and refineries, and an offset mechanism for voluntary projects. The Bureau of Energy Efficiency administers it, and trading takes place on power exchanges. Internationally, Article 6 of the Paris Agreement allows countries to trade emission reductions, and India has identified activities it would allow for such trades.
+
+The Green Credit Programme, notified in October 2023 under the Environment (Protection) Act, is different. It rewards voluntary environmental actions, such as tree planting, water conservation and waste management, with tradable green credits. Its first focus is planting trees on degraded forest land. Critics worry that it could allow companies to offset forest diversion with plantations that do not replace natural forests.
+
+The EU's Carbon Border Adjustment Mechanism, which charges importers for the carbon content of goods such as steel and aluminium, makes a credible domestic carbon price more important for Indian exporters.
+
+- Compliance markets set caps or targets; voluntary markets let companies offset emissions.
+- India's Carbon Credit Trading Scheme (2023) sets intensity targets for heavy industries.
+- The Green Credit Programme (2023) rewards voluntary actions such as tree planting.
+W: Carbon markets, CCTS and green credits are emerging GS III topics, linked to trade through the EU's CBAM.
+Q: How can India ensure its carbon market delivers real emission cuts? Discuss the challenges.
+
+## disaster-management-framework | India's disaster management framework
+
+India is one of the most disaster-prone countries in the world. About 58% of its land is prone to earthquakes of moderate to very high intensity, around 12% to floods, about 5,700 km of its 7,500 km coastline to cyclones and tsunamis, and about 68% of its cultivable land to drought, according to the National Disaster Management Authority.
+
+For decades, India's approach was relief-centred. The Orissa super cyclone of 1999, the Gujarat earthquake of 2001 and the Indian Ocean tsunami of 2004 led to a shift towards preparedness and risk reduction. The Disaster Management Act, 2005 created a three-tier structure: the National Disaster Management Authority (NDMA), chaired by the Prime Minister; State Disaster Management Authorities chaired by chief ministers; and District Disaster Management Authorities chaired by district collectors. The National Executive Committee, headed by the Union Home Secretary, coordinates the response. The National Institute of Disaster Management handles training and research. The Act also created the National Disaster Response Force (NDRF), a specialised force drawn from the central armed police forces, which now has 16 battalions.
+
+Funding comes through the State Disaster Response Fund and the National Disaster Response Fund for relief, and, on the recommendation of the 15th Finance Commission, separate mitigation funds at national and state levels. The Disaster Management (Amendment) Act, 2025 gave the NDMA and state authorities statutory responsibility for preparing national and state disaster plans and databases, and provided for urban disaster management authorities in large cities.
+
+Internationally, India follows the Sendai Framework for Disaster Risk Reduction (2015–2030), which sets seven global targets, including reducing disaster deaths and economic losses. Prime Minister Modi's ten-point agenda on disaster risk reduction (2016) and India's leadership of the Coalition for Disaster Resilient Infrastructure (CDRI), launched in 2019, reflect its growing role.
+
+- India is exposed to earthquakes, floods, cyclones and droughts across most of its territory.
+- The DM Act (2005) created the NDMA, state and district authorities and the NDRF; it was amended in 2025.
+- India follows the Sendai Framework (2015–2030) and leads the CDRI.
+W: Disaster management is a named GS III syllabus topic, and the institutional framework is frequently asked.
+Q: How has India's approach to disaster management shifted from relief to risk reduction? What gaps remain?
+
+## cyclone-flood-preparedness | Cyclones and floods: what preparedness looks like
+
+Odisha's experience shows how preparedness saves lives. The super cyclone of October 1999 killed about 10,000 people. Odisha then created the Odisha State Disaster Management Authority, built hundreds of multipurpose cyclone shelters, trained community volunteers and improved early warning. When Cyclone Phailin, of similar strength, struck in October 2013, around a million people were evacuated and the death toll was under 50. Cyclone Fani in 2019 saw a similar large-scale evacuation. The UN praised Odisha's approach as a model.
+
+Several factors made the difference. The India Meteorological Department's cyclone forecasts have become far more accurate, with track errors falling sharply over two decades. Warnings now reach people through mobile alerts, sirens, radio and local volunteers. The National Cyclone Risk Mitigation Project built shelters, embankments and evacuation roads in coastal states. Clear protocols assign responsibilities to officials before a storm arrives.
+
+Floods are a more persistent problem. Assam, Bihar, Uttar Pradesh and West Bengal face floods almost every year from the Brahmaputra and Ganga systems, and floods cause the largest share of disaster-related economic losses in India. Responses include embankments, which can fail or shift flooding elsewhere; flood forecasting by the Central Water Commission; floodplain zoning, which few states have enforced; and dam operations, which can worsen floods if reservoirs release water suddenly, as some argue happened in Kerala in 2018.
+
+Urban floods are growing, as seen in Mumbai (2005), Chennai (2015 and 2023), Bengaluru and Delhi. They are caused by intense rain, encroached lakes and drains, paved surfaces that stop water soaking in, and poor drainage planning. The NDMA has issued guidelines on urban flooding, and the 2025 amendment to the Disaster Management Act provides for urban disaster management authorities.
+
+- Odisha cut cyclone deaths from about 10,000 (1999) to under 50 (Phailin, 2013) through shelters, warnings and evacuation.
+- Riverine floods in Assam, Bihar and the Ganga plain cause the largest disaster losses.
+- Urban floods result from encroachment, paving and poor drainage.
+W: Cyclone and flood management, especially the Odisha model, are popular Mains examples.
+Q: What lessons can other states learn from Odisha's cyclone preparedness? Can they be applied to urban floods?
+
+## heatwaves | Heatwaves: India's silent disaster
+
+Heatwaves are periods of abnormally high temperatures. The India Meteorological Department declares a heatwave in the plains when the maximum temperature reaches at least 40°C and is at least 4.5°C above normal, or when it reaches 45°C regardless of normal; in coastal areas and hills, lower thresholds apply. Heatwaves usually occur from March to June, mainly over north-western, central and eastern India, and they have become more frequent, longer and more intense with climate change. The summer of 2024 saw prolonged heat across north India, with temperatures near 50°C in parts of Rajasthan and Delhi.
+
+Extreme heat is dangerous to health. It can cause heat exhaustion and heatstroke, and worsens heart, kidney and lung disease. The most vulnerable are outdoor workers, such as construction labourers, farm workers, street vendors and delivery workers, along with the elderly, young children, pregnant women and people in poorly ventilated homes. High humidity makes heat more dangerous because sweat cannot evaporate to cool the body; scientists measure this through the "wet-bulb" temperature. Heat also reduces labour productivity, damages crops such as wheat, strains electricity grids and dries water sources.
+
+Heat deaths are under-counted, because many are recorded as heart attacks or other causes. Heatwaves were not among the disasters notified for central relief funding, though states can use part of their disaster funds for them.
+
+Ahmedabad prepared India's first Heat Action Plan in 2013, after a 2010 heatwave killed over a thousand people. Its measures include early warnings, opening cooling centres, changing working hours, training health workers and painting roofs white to reflect sunlight (cool roofs). Many cities and states have since prepared plans, guided by NDMA guidelines. Studies have found that many plans lack funding, legal backing and attention to the most vulnerable, and that they focus on dry heat while ignoring humidity.
+
+- IMD declares a heatwave at 40°C and 4.5°C above normal, or at 45°C, in the plains.
+- Outdoor workers, the elderly and the poor are most at risk; heat deaths are under-counted.
+- Ahmedabad's 2013 Heat Action Plan was the first; many later plans lack funding and legal backing.
+W: Heatwaves are a fast-rising GS III topic linking climate change, health, labour and disaster management.
+Q: Should heatwaves be notified as a disaster under the Disaster Management Act? Discuss.
+
+## himalayan-hazards | Landslides and glacial floods in the mountains
+
+India's mountain regions face growing risks from landslides, flash floods and glacial lake outburst floods. The Geological Survey of India estimates that about 0.42 million square km, around 12.6% of India's land area excluding snow-covered areas, is prone to landslides, mainly in the Himalayas, the North-East and the Western Ghats.
+
+Landslides are triggered by heavy rain, earthquakes and human activity such as road cutting, quarrying, tunnelling and construction on steep slopes. On 30 July 2024, landslides in the Wayanad district of Kerala, triggered by extremely heavy rain, destroyed villages including Mundakkai and Chooralmala and killed over 200 people, one of the deadliest landslides in India's recent history. In January 2023, land subsidence in Joshimath, Uttarakhand, cracked hundreds of houses, raising concerns about building on old landslide debris and about nearby infrastructure projects.
+
+A glacial lake outburst flood (GLOF) happens when water held back by a glacier or moraine bursts out suddenly. As Himalayan glaciers retreat, glacial lakes are growing in number and size. In October 2023, the South Lhonak lake in Sikkim burst after heavy rain, sending a flood down the Teesta river that destroyed the Chungthang dam of the Teesta III hydropower project and killed dozens of people. In February 2021, a rock and ice avalanche in Chamoli, Uttarakhand, triggered a flood that damaged two hydropower projects and left around 200 people dead or missing. The Kedarnath disaster of 2013, caused by extreme rain and a moraine lake breach, killed thousands.
+
+Responses include landslide hazard mapping and the National Landslide Susceptibility Map, early warning systems, a national programme to monitor and lower the level of high-risk glacial lakes, stricter controls on construction in fragile zones, carrying capacity studies for hill towns, and better environmental assessment of roads and dams in the Himalayas.
+
+- About 12.6% of India's land is landslide-prone, mainly in the Himalayas, North-East and Western Ghats.
+- Wayanad (2024) and Joshimath (2023) showed the deadly effects of rain and unplanned construction.
+- Glacial lake outburst floods, such as Sikkim's in 2023, are growing as glaciers retreat.
+W: Mountain hazards link geography, climate change and disaster management, and appear often in Mains.
+Q: How can infrastructure development in the Himalayas be made safer in the face of climate change?

@@ -1,0 +1,168 @@
+# THEME 14
+## civil-services-reform | The civil services and their reform
+
+India's permanent civil service is the backbone of administration. The All India Services, the Indian Administrative Service (IAS), Indian Police Service (IPS) and Indian Forest Service (IFoS), are recruited by the Union Public Service Commission but serve both the Union and the states. Article 312 allows Parliament to create new All India Services if the Rajya Sabha passes a resolution by a two-thirds majority. Central services, such as the Indian Foreign Service and Indian Revenue Service, serve the Union alone, and state services are recruited by state public service commissions. Article 311 protects civil servants from dismissal without an inquiry and by an authority lower than the one that appointed them.
+
+Sardar Patel defended the All India Services in the Constituent Assembly as a "steel frame" that would hold the country together and give honest advice without fear. Critics today describe a bureaucracy that is rule-bound rather than results-focused, slow, sometimes corrupt, subject to political pressure through frequent transfers, and lacking domain expertise because generalist officers move between very different jobs.
+
+Many reforms have been proposed. The Second Administrative Reforms Commission (2005–09) recommended performance-based appraisal, fixed tenures, a lower age limit for entry and mid-career reviews. The Supreme Court in T. S. R. Subramanian (2013) recommended fixed minimum tenures and civil services boards to curb arbitrary transfers. The government has introduced lateral entry of specialists at joint secretary and director level from 2018, although a large advertisement for lateral entry posts was withdrawn in 2024 after criticism that it bypassed reservations. Mission Karmayogi, the National Programme for Civil Services Capacity Building launched in 2020, shifts training from rules to roles, with an online learning platform called iGOT.
+
+The goal of reform is a civil service that is professional, accountable and politically neutral, yet responsive to elected governments.
+
+- The All India Services serve both the Union and the states; Article 311 protects civil servants.
+- Criticisms include rigidity, political interference and lack of specialisation.
+- Lateral entry and Mission Karmayogi (2020) are recent reforms; fixed tenures remain a key demand.
+W: Civil services reform is a recurring GS II and GS IV theme, often asked in the context of good governance.
+Q: Is the generalist civil servant still relevant in an age of specialised governance? Discuss.
+
+## right-to-information | The Right to Information Act
+
+The Right to Information Act, 2005 gives every citizen the right to request information from public authorities. It grew out of grassroots campaigns, notably the Mazdoor Kisan Shakti Sangathan's public hearings in Rajasthan in the 1990s, which exposed corruption by comparing official records with what villagers had actually received. The Supreme Court had already recognised the right to information as part of free speech under Article 19(1)(a).
+
+Under the Act, public authorities must appoint public information officers and proactively publish key information about their functioning. A request must normally be answered within 30 days, or within 48 hours if it concerns the life or liberty of a person. Applicants need not give reasons. First appeals go to a senior officer within the authority, and second appeals to the Central or State Information Commission, which can impose penalties of up to Rs 25,000 on officers who fail to provide information without reasonable cause.
+
+Section 8 lists exemptions, including information that would harm sovereignty or security, cabinet papers until a decision is taken, and personal information unrelated to public activity. Intelligence and security organisations listed in the Second Schedule are exempt except for information about corruption and human rights violations.
+
+The Act has been widely used to expose corruption and improve service delivery, but it faces challenges. The RTI (Amendment) Act, 2019 allowed the Union government to set the tenure and salaries of information commissioners, which critics said reduced their independence. The Digital Personal Data Protection Act, 2023 amended Section 8(1)(j) to exempt all personal information, removing the earlier public interest test, which transparency activists have strongly criticised. Vacancies in information commissions have caused large backlogs, and dozens of RTI users have been killed over the years.
+
+- The RTI Act (2005) requires replies within 30 days, or 48 hours for life and liberty.
+- Information commissions hear appeals and can penalise officers.
+- The 2019 amendment and the 2023 data protection law's change to Section 8(1)(j) are criticised as weakening the Act.
+W: RTI is a core governance topic and a frequent Prelims and Mains question, with recent amendments very likely to be asked.
+Q: Has the RTI Act improved accountability in India? What threats does it face today?
+
+## lokpal-lokayukta | The Lokpal and Lokayuktas
+
+The idea of an ombudsman to investigate corruption by public servants was recommended by the First Administrative Reforms Commission in 1966. Lokpal bills were introduced in Parliament several times from 1968 but lapsed. The anti-corruption movement led by Anna Hazare in 2011 finally pushed Parliament to pass the Lokpal and Lokayuktas Act, 2013, which came into force in January 2014.
+
+The Lokpal consists of a chairperson and up to eight members, half of whom must be judicial members and at least half from SC, ST, OBC, minority communities and women. They are appointed by the President on the recommendation of a selection committee of the Prime Minister, the Speaker, the Leader of the Opposition (or leader of the largest opposition party), the Chief Justice of India or a judge nominated by them, and an eminent jurist. The Lokpal's jurisdiction covers the Prime Minister (with safeguards relating to international relations, security, public order, atomic energy and space), ministers, MPs and Group A to D officers of the Union government. It has an inquiry wing and a prosecution wing, and can order investigation by agencies such as the CBI.
+
+The first Lokpal was appointed only in March 2019, with Justice Pinaki Chandra Ghose as chairperson, more than five years after the law came into force. Justice A. M. Khanwilkar became chairperson in 2024. Critics point to the delay, the small number of prosecutions, the requirement that complaints be filed in a prescribed format, and the lack of independent investigative capacity.
+
+The Act also required states to set up Lokayuktas within a year. Maharashtra had established the first Lokayukta as early as 1971, and Karnataka's Lokayukta became known for high-profile investigations. Most states now have Lokayuktas, but their powers and independence vary widely.
+
+- The Lokpal and Lokayuktas Act, 2013 came into force in 2014; the first Lokpal was appointed only in 2019.
+- The Lokpal covers the Prime Minister (with safeguards), ministers, MPs and central officials.
+- State Lokayuktas vary greatly in powers and effectiveness.
+W: The Lokpal's composition, jurisdiction and performance are frequent Prelims and Mains questions.
+Q: Why has the Lokpal not lived up to the expectations of the 2011 anti-corruption movement?
+
+## digital-public-infrastructure | Digital public infrastructure and e-governance
+
+Digital public infrastructure (DPI) refers to shared digital systems, such as identity, payments and data exchange, that are built as public goods and on which both government and private services can be built. India's approach is often summarised as the "India Stack".
+
+Its foundation is Aadhaar, the 12-digit biometric identity number issued by the Unique Identification Authority of India, which covers almost the entire adult population. The Aadhaar Act, 2016 gave it statutory backing. In Puttaswamy (2018), the Supreme Court upheld Aadhaar for welfare and tax purposes but struck down its mandatory use for bank accounts, mobile connections and school admissions. On top of Aadhaar sit the Unified Payments Interface (UPI), launched in 2016 by the National Payments Corporation of India, which now processes billions of transactions every month and accounts for most of India's digital payments; DigiLocker for storing official documents; the Account Aggregator framework for consent-based sharing of financial data; CoWIN, which managed COVID-19 vaccination; and the Open Network for Digital Commerce (ONDC).
+
+The JAM trinity of Jan Dhan bank accounts, Aadhaar and mobile phones enabled Direct Benefit Transfer, in which subsidies and welfare payments are paid straight into beneficiaries' bank accounts. The government states that DBT has saved several lakh crore rupees by removing fake and duplicate beneficiaries. India promoted DPI internationally during its G20 presidency in 2023.
+
+Concerns remain. Biometric authentication failures have excluded some genuine beneficiaries from rations and pensions, especially elderly and manual workers. Data protection safeguards came late, with the Digital Personal Data Protection Act passed in 2023 and its rules notified in 2025. The digital divide, by gender, region and income, means that digital-only services can leave people behind.
+
+- Aadhaar, UPI, DigiLocker and Account Aggregators form India's digital public infrastructure.
+- The JAM trinity enables Direct Benefit Transfer, reducing leakages.
+- Exclusion errors, privacy and the digital divide are the main concerns.
+W: DPI and e-governance are a major current theme in GS II governance and GS III economy questions.
+Q: How has digital public infrastructure changed welfare delivery in India? What risks must be managed?
+
+## citizen-charters-grievance | Citizens' charters, grievance redress and social audit
+
+Good governance requires that citizens know what services they are entitled to, and have a way to complain when services fail. Citizens' charters, introduced in India in 1997 on the model of Britain's 1991 Citizen's Charter, are public statements by government departments of the services they provide, their standards and timelines, and how to seek redress. In practice, many charters were drafted without consulting citizens, were not publicised and had no consequences for failure.
+
+The Sevottam model, developed by the Department of Administrative Reforms and Public Grievances, sought to improve service quality through charters, grievance redress and capacity building. The Centralised Public Grievance Redress and Monitoring System (CPGRAMS) is an online platform where citizens can lodge complaints against any central ministry; it handles lakhs of grievances each year. Several states have passed Right to Services laws, starting with Madhya Pradesh in 2010, that make specified services time-bound and impose penalties on officials who delay them.
+
+Social audit goes further, involving the community in checking government spending against what was delivered on the ground. It was made mandatory for MGNREGA works under Section 17 of the Act, and the Supreme Court has directed it for other schemes. Andhra Pradesh and Telangana built strong independent social audit units, and Meghalaya passed the first state law on social audit in 2017. Done well, social audits have recovered misused funds and deterred corruption; done poorly, they become a formality.
+
+The Second Administrative Reforms Commission recommended that charters be made enforceable, linked to grievance redress and reviewed regularly. A Citizens' Charter and Grievance Redressal Bill was introduced in 2011 but lapsed.
+
+- Citizens' charters (since 1997) set service standards, but have often lacked enforcement.
+- CPGRAMS and state Right to Services laws give citizens channels for complaints and time-bound services.
+- Social audit, mandatory under MGNREGA, involves communities in checking public spending.
+W: Charters, grievance redress and social audit are standard GS II governance topics.
+Q: How can social audits be made more effective in ensuring accountability in welfare schemes?
+
+## police-criminal-law-reform | Police reform and the new criminal laws
+
+Policing in India is a state subject, but its legal foundation was long the colonial Police Act of 1861, designed to control rather than serve the population. Commissions such as the National Police Commission (1977–81) recommended reforms, but few were implemented.
+
+In Prakash Singh v. Union of India (2006), the Supreme Court issued seven directives: set up a State Security Commission to insulate the police from political pressure; select the Director General of Police on merit from officers empanelled by the UPSC, with a minimum two-year tenure; give a minimum two-year tenure to other key officers; separate investigation from law-and-order functions; set up a Police Establishment Board for transfers and postings; create Police Complaints Authorities at state and district level; and establish a National Security Commission for central forces. Compliance by states has been patchy, and many have passed laws that dilute the directives.
+
+Other problems include large vacancies, a low police-to-population ratio, poor forensic capacity, custodial violence, and low representation of women, who make up only about 12% of the force according to Bureau of Police Research and Development data.
+
+In 2023 Parliament replaced the three main criminal laws. The Bharatiya Nyaya Sanhita replaced the Indian Penal Code, 1860; the Bharatiya Nagarik Suraksha Sanhita replaced the Code of Criminal Procedure, 1973; and the Bharatiya Sakshya Adhiniyam replaced the Indian Evidence Act, 1872. They came into force on 1 July 2024. Key changes include new offences such as organised crime, terrorism and mob lynching; community service as a punishment for some offences; removal of sedition in its old form (replaced by an offence of endangering sovereignty, unity and integrity); mandatory forensic investigation for offences punishable with seven years or more; zero FIRs and e-FIRs; timelines for investigation and trials; and recognition of electronic evidence. Critics argue the laws extend police custody periods and retain broad powers, and that most of the text repeats the old codes.
+
+- Prakash Singh (2006) issued seven directives for police reform, poorly implemented by states.
+- Women are only about 12% of the police, and vacancies and forensic gaps are large.
+- The BNS, BNSS and BSA replaced the IPC, CrPC and Evidence Act from 1 July 2024.
+W: Police reform and the new criminal laws are among the most important recent topics in GS II and GS III.
+Q: Will the new criminal laws make the justice system faster and fairer? Critically examine.
+
+## tribunals | Tribunals and quasi-judicial bodies
+
+Tribunals are specialised bodies that decide disputes in specific areas, such as service matters, tax, company law, the environment and consumer rights. The 42nd Amendment in 1976 added Articles 323A, for administrative tribunals dealing with public service matters, and 323B, for tribunals in areas such as tax, industrial disputes, land reforms and elections. Tribunals were meant to reduce the burden on courts and bring expertise and speed to technical disputes.
+
+Major tribunals include the Central Administrative Tribunal (1985), the National Green Tribunal (2010), the National Company Law Tribunal and its appellate body (2016), the Income Tax Appellate Tribunal, the Armed Forces Tribunal, and the debt recovery tribunals. Consumer commissions at district, state and national level work under the Consumer Protection Act, 2019.
+
+Their relationship with the higher judiciary has been contested. In L. Chandra Kumar (1997), the Supreme Court held that the power of judicial review by High Courts and the Supreme Court is part of the basic structure, so tribunal decisions are subject to the writ jurisdiction of High Courts; tribunals supplement courts but cannot replace them. In a series of cases from Madras Bar Association onwards, the Court struck down provisions that gave the executive too much control over tribunal appointments and tenure, insisting on judicial dominance in selection committees and adequate tenures for independence.
+
+The Tribunals Reforms Act, 2021 abolished several appellate tribunals, transferring their work to High Courts, and fixed a four-year tenure for members. In November 2025 the Supreme Court struck down key provisions of the Act, including the four-year tenure and minimum age requirements, as violating judicial independence. Long vacancies and backlogs in many tribunals remain a problem.
+
+- Articles 323A and 323B (1976) provide for tribunals.
+- L. Chandra Kumar (1997) held that High Court review of tribunal decisions is part of the basic structure.
+- The Supreme Court has repeatedly struck down provisions giving the executive excessive control over tribunals, most recently in November 2025.
+W: Tribunals and their independence are a frequent GS II topic, especially in the light of recent judgments.
+Q: Have tribunals reduced the burden on courts and improved justice delivery? Discuss.
+
+## self-help-groups-civil-society | Self-help groups, NGOs and pressure groups
+
+Beyond the state and the market, civil society organisations play a large role in Indian governance. They include non-governmental organisations (NGOs), self-help groups (SHGs), cooperatives, trade unions, professional associations and community-based organisations.
+
+Self-help groups are small groups, usually of 10 to 20 women, who save regularly, lend to each other, and access bank credit as a group. The SHG-bank linkage programme was started by NABARD in 1992. The Deendayal Antyodaya Yojana-National Rural Livelihoods Mission (DAY-NRLM), launched in 2011, has mobilised around ten crore rural women into SHGs, supported with revolving funds, bank credit and training. SHGs have improved women's access to credit, confidence and participation in local governance, and Kerala's Kudumbashree is often cited as a model. The government's "Lakhpati Didi" initiative aims to help SHG women earn at least Rs 1 lakh a year. Challenges include over-indebtedness, low-value enterprises and limited market access.
+
+NGOs work in service delivery, advocacy, research and rights. They have contributed to laws such as the RTI Act and MGNREGA. Foreign-funded NGOs are regulated under the Foreign Contribution (Regulation) Act, 2010, amended in 2020 to tighten controls, and thousands of FCRA licences have been cancelled, which critics say shrinks civic space while the government cites accountability and national interest.
+
+Pressure groups, such as business associations (FICCI, CII), trade unions, farmers' organisations and caste associations, try to influence policy without seeking power themselves. They use lobbying, petitions, protests and the media. They provide expertise and represent interests, but can also favour well-organised groups over the unorganised.
+
+Cooperatives, from dairy (Amul) to credit, are another important form; a separate Ministry of Cooperation was created in 2021.
+
+- DAY-NRLM has mobilised around ten crore women into self-help groups.
+- NGOs have shaped key laws, but FCRA rules have tightened since 2020.
+- Pressure groups influence policy without seeking power; cooperatives have had a separate ministry since 2021.
+W: The role of SHGs, NGOs and pressure groups is part of the GS II syllabus and frequently asked.
+Q: How have self-help groups changed the lives of rural women? What limits their potential?
+
+## cooperative-federalism-institutions | Institutions of cooperative federalism
+
+Cooperative federalism means that the Union and the states work together on shared problems, rather than competing or acting alone. Several institutions support this.
+
+The Inter-State Council, provided for in Article 263, can be set up by the President to investigate and advise on disputes between states and on subjects of common interest. It was finally established in 1990, following the recommendation of the Sarkaria Commission on Centre-state relations (1983–88). It is chaired by the Prime Minister and includes all chief ministers and several Union ministers, but it has met only rarely; its last full meeting was in 2016.
+
+Zonal councils were created by the States Reorganisation Act, 1956. There are five, for the northern, central, eastern, western and southern zones, chaired by the Union Home Minister, to promote regional cooperation. A separate North Eastern Council was created by law in 1971.
+
+NITI Aayog, created in 2015 to replace the Planning Commission, has a Governing Council of all chief ministers and lieutenant governors chaired by the Prime Minister. It promotes "competitive cooperative federalism" through indices that rank states on health, education, water, innovation and the Sustainable Development Goals, and through the Aspirational Districts Programme (2018), which targets the least developed districts.
+
+The GST Council, created by the 101st Amendment in 2016, is the most powerful example of pooled sovereignty. The Union holds one-third of the voting weight and the states two-thirds, and decisions need a three-fourths majority, so neither can act alone. The Supreme Court in Mohit Minerals (2022) held that its recommendations are persuasive, not binding.
+
+The Punchhi Commission (2007–10) made further recommendations on Centre-state relations. Tensions persist over the role of governors, fiscal transfers, central agencies and centrally sponsored schemes.
+
+- The Inter-State Council (Article 263) was set up in 1990 but meets rarely.
+- Zonal councils, NITI Aayog's Governing Council and the GST Council bring the Union and states together.
+- In GST Council voting, the Union has one-third weight and states two-thirds.
+W: Cooperative federalism institutions are a frequent GS II question, often with the GST Council as an example.
+Q: Is the GST Council a model of cooperative federalism? Discuss in the light of recent experience.
+
+## administrative-reforms-commissions | Administrative reforms commissions and good governance
+
+Good governance is often defined through features identified by the United Nations: participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, and accountability. India has set up two major commissions to reform its administration in pursuit of these ideals.
+
+The First Administrative Reforms Commission (1966–70), chaired first by Morarji Desai and later by K. Hanumanthaiah, made around 20 reports. Its best-known recommendation was the creation of the Lokpal and Lokayuktas to deal with complaints against ministers and officials.
+
+The Second Administrative Reforms Commission (2005–09), chaired by Veerappa Moily, submitted fifteen reports covering a wide range of topics. These included the right to information, unlocking human capital, crisis management, ethics in governance, public order, local governance, conflict resolution, e-governance, social capital, refurbishing personnel administration, citizen-centric administration, and the organisational structure of the government. Among its recommendations were a code of ethics for ministers and civil servants, a Lokpal with constitutional status, state funding of elections, fixed tenures for senior officials, performance-based appraisal, a new law to replace the Police Act of 1861, empowering local governments with real functions and funds, and making citizens' charters effective.
+
+Some recommendations have been implemented, partly or fully, such as the Lokpal law, e-governance initiatives and changes in performance appraisal. Many others remain on paper. The reports remain a rich source of ideas for UPSC answers, especially in GS II governance and GS IV ethics.
+
+The concept of "minimum government, maximum governance" has been used by the present government to describe its approach, emphasising simplification of procedures, digitisation and the repeal of obsolete laws; more than 1,500 old laws have been repealed since 2014.
+
+- Good governance includes participation, rule of law, transparency, accountability and equity.
+- The First ARC (1966–70) recommended the Lokpal; the Second ARC (2005–09) produced fifteen reports.
+- Many Second ARC recommendations, such as fixed tenures and police law reform, remain unimplemented.
+W: Second ARC reports are among the most quoted sources in GS II and GS IV answers.
+Q: Why do recommendations of administrative reform commissions often remain unimplemented in India?

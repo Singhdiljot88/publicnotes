@@ -1,0 +1,160 @@
+# THEME 10
+## india-location-physiography | India's location and physiographic divisions
+
+India lies entirely in the northern hemisphere, between about 8°4' N and 37°6' N latitude and 68°7' E and 97°25' E longitude. The Tropic of Cancer (23°30' N) passes through eight states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. India's area is about 3.28 million square km, the seventh largest in the world, and it has a land border of about 15,200 km and a coastline of about 7,500 km including the islands. Indian Standard Time is based on 82°30' E, which passes near Mirzapur in Uttar Pradesh, five and a half hours ahead of Greenwich Mean Time.
+
+India is commonly divided into six physiographic regions. The Himalayas and other northern mountains form a young fold mountain system. The Northern Plains, built by the Indus, Ganga and Brahmaputra and their tributaries, are among the most fertile and densely populated regions in the world. The Peninsular Plateau, made of ancient, stable rocks, includes the Deccan plateau, the Central Highlands and the Chotanagpur plateau, and is rich in minerals. The Indian Desert, the Thar, lies west of the Aravalli hills. The Coastal Plains run along the Arabian Sea (narrower western plains) and the Bay of Bengal (wider eastern plains with large deltas). The Islands include the Andaman and Nicobar Islands, which are the tops of submerged mountains, and Lakshadweep, which are coral islands.
+
+India's location at the head of the Indian Ocean, between West Asia and South-East Asia, has made it a crossroads of trade and culture for thousands of years. Its southernmost point, Indira Point on Great Nicobar, was submerged in the 2004 tsunami.
+
+- India lies between about 8°4' N and 37°6' N; the Tropic of Cancer crosses eight states.
+- Indian Standard Time is based on 82°30' E.
+- Six physiographic regions: Himalayas, Northern Plains, Peninsular Plateau, Thar, coastal plains and islands.
+W: Location facts and physiographic divisions are foundational for every Indian geography question.
+Q: How does India's location influence its climate, trade and strategic importance?
+
+## himalayas | The Himalayas
+
+The Himalayas are the youngest and highest mountain system in the world, formed by the collision of the Indian and Eurasian plates. They stretch about 2,400 km in an arc from the Indus in the west to the Brahmaputra in the east, and are 150–400 km wide.
+
+From north to south, the Himalayas have three parallel ranges. The Greater Himalayas or Himadri contain the highest peaks, with an average height of about 6,000 m: Mount Everest (8,849 m, on the Nepal-China border), Kangchenjunga (8,586 m, India's highest peak, in Sikkim on the Nepal border), Nanda Devi and others. The Lesser Himalayas or Himachal include the Pir Panjal and Dhauladhar ranges and hill stations such as Shimla, Mussoorie and Darjeeling. The Shiwaliks or Outer Himalayas are the lowest and youngest, made of unconsolidated sediments; the flat valleys between them and the Lesser Himalayas are called duns, such as Dehradun. North of the Greater Himalayas lie the Trans-Himalayan ranges: the Karakoram (with K2, 8,611 m, in territory administered by Pakistan and claimed by India), Ladakh and Zaskar.
+
+The Himalayas are also divided from west to east into the Punjab (or Kashmir and Himachal), Kumaon, Nepal and Assam Himalayas. In the east, the Purvanchal hills, including the Patkai, Naga, Mizo and Garo-Khasi-Jaintia hills, curve along India's border with Myanmar.
+
+The Himalayas shape India's climate by blocking cold Central Asian winds and forcing the monsoon to shed its rain. They feed perennial rivers through glaciers and snowmelt, hold rich forests and biodiversity, and form a strategic barrier. But they are geologically fragile: earthquakes, landslides, glacial lake outburst floods and the effects of road and dam building are growing concerns, as the Joshimath land subsidence of 2023 showed.
+
+- The Himalayas have three parallel ranges: Himadri, Himachal and Shiwaliks.
+- Kangchenjunga (8,586 m) is India's highest peak; Everest is 8,849 m.
+- They shape climate and rivers but are fragile and disaster-prone.
+W: Himalayan ranges, passes, peaks and their significance are among the most frequently tested topics.
+Q: Why is development in the Himalayas a particular challenge? Suggest a sustainable approach.
+
+## himalayan-peninsular-rivers | Himalayan and peninsular rivers
+
+India's rivers fall into two broad groups. Himalayan rivers are perennial, fed by both rain and melting snow and glaciers. They have cut deep gorges, carry heavy loads of silt, meander across the plains and build large deltas. The three main Himalayan systems are the Indus, the Ganga and the Brahmaputra.
+
+The Indus rises near Lake Mansarovar in Tibet and flows through Ladakh into Pakistan. Its tributaries in India include the Jhelum, Chenab, Ravi, Beas and Sutlej. Under the Indus Waters Treaty of 1960, India got the eastern rivers (Ravi, Beas, Sutlej) and Pakistan the western rivers (Indus, Jhelum, Chenab); India placed the treaty "in abeyance" after the Pahalgam attack in April 2025. The Ganga forms at Devprayag from the Bhagirathi and Alaknanda; its tributaries include the Yamuna, Ghaghara, Gandak, Kosi and Son. It is the longest river in India, and its basin supports over 40% of the country's population. The Brahmaputra rises in Tibet as the Yarlung Tsangpo, enters India in Arunachal Pradesh as the Siang (Dihang), and flows through Assam before joining the Ganga in Bangladesh to form the world's largest delta, the Sundarbans.
+
+Peninsular rivers are mostly rain-fed and seasonal, flow in shallow, graded valleys over hard rock, and carry less silt. The Mahanadi, Godavari, Krishna and Kaveri flow east into the Bay of Bengal and form deltas. The Godavari is the largest peninsular river and is sometimes called the Dakshin Ganga. The Narmada and Tapi flow west through rift valleys into the Arabian Sea and form estuaries rather than deltas.
+
+River water is a source of inter-state disputes, such as over the Kaveri, Krishna and Mahadayi, settled by tribunals under the Inter-State River Water Disputes Act, 1956.
+
+- Himalayan rivers are perennial and silt-laden; peninsular rivers are mostly seasonal.
+- The Indus, Ganga and Brahmaputra are the three Himalayan systems; the Godavari is the largest peninsular river.
+- The Narmada and Tapi flow west through rift valleys and form estuaries.
+W: River systems, tributaries and treaties are among the most common Prelims geography questions, with links to IR and federalism.
+Q: Why do west-flowing peninsular rivers form estuaries and not deltas?
+
+## indian-monsoon | The Indian monsoon
+
+The word monsoon comes from the Arabic *mausim*, meaning season. It refers to the seasonal reversal of winds. In India, the south-west monsoon from June to September brings about three-quarters of the country's annual rainfall, which averages around 87 cm for the season over the country as a whole.
+
+The classical explanation is differential heating: in summer, the land heats up faster than the sea, creating a low-pressure area over north-west India, which draws in moist winds from the Indian Ocean. Modern explanations add several factors: the northward shift of the Inter-Tropical Convergence Zone, the heating of the Tibetan plateau, the shift of the subtropical westerly jet stream north of the Himalayas and the development of a tropical easterly jet over the peninsula, and the influence of El Niño and the Indian Ocean Dipole.
+
+The monsoon usually reaches Kerala around 1 June and covers the whole country by about 8 July. It splits into two branches. The Arabian Sea branch brings heavy rain to the Western Ghats and the west coast, leaving a rain shadow on the Deccan plateau. The Bay of Bengal branch moves into the North-East and is deflected west along the Himalayas into the Ganga plain. Mawsynram and Cherrapunji in Meghalaya are among the wettest places on Earth. Rainfall decreases westward along the plains, and western Rajasthan receives very little.
+
+The monsoon is marked by "breaks", dry spells within the season. It retreats from north-west India from mid-September. In October and November, the north-east monsoon brings rain to Tamil Nadu, which gets most of its rain in this season.
+
+Agriculture, water supply, hydropower and the economy depend heavily on the monsoon, so its variability and the effects of climate change are crucial policy concerns.
+
+- The south-west monsoon brings about three-quarters of India's rainfall.
+- Its causes include differential heating, the ITCZ shift, jet streams, ENSO and the IOD.
+- Tamil Nadu receives most of its rain from the north-east monsoon in October-December.
+W: The monsoon is perhaps the single most important topic in Indian geography for both Prelims and Mains.
+Q: Explain the mechanism of the Indian monsoon. How might climate change affect it?
+
+## indian-soils | Soils of India
+
+Soil forms from the weathering of parent rock, shaped by climate, vegetation, relief and time. The Indian Council of Agricultural Research (ICAR) classifies Indian soils into eight major groups.
+
+Alluvial soils are the most widespread, covering about 40% of the country, mainly the Northern Plains and river deltas. Deposited by rivers, they are very fertile and rich in potash but often poor in nitrogen and phosphorus. Older alluvium is called bhangar and newer, more fertile alluvium is called khadar. Black soils, also called regur or black cotton soils, formed from the basalt of the Deccan Traps and cover much of Maharashtra, Gujarat and Madhya Pradesh. They retain moisture well, swell when wet and crack when dry, are rich in lime, iron, magnesium and potash, and are ideal for cotton.
+
+Red and yellow soils form on ancient crystalline rocks in the peninsula; the red colour comes from iron oxide. Laterite soils form in areas of high temperature and heavy rainfall, where intense leaching removes nutrients, leaving iron and aluminium oxides; they are found in the Western Ghats, Odisha and the North-East, and suit crops such as cashew, tea and coffee. Laterite is also cut into bricks for building. Arid soils are sandy and saline, found in western Rajasthan. Saline and alkaline soils occur where poor drainage brings salts to the surface, often worsened by over-irrigation. Peaty and marshy soils form in humid areas with lots of organic matter, as in parts of Kerala and the Sundarbans. Forest and mountain soils vary with altitude.
+
+Soil degradation is a major problem: erosion, salinity, nutrient depletion from imbalanced fertiliser use and loss of organic matter. The Soil Health Card scheme, launched in 2015, provides farmers with soil test results and fertiliser recommendations.
+
+- Alluvial soils are the most widespread and fertile; black soils are ideal for cotton.
+- Laterite soils form through intense leaching in hot, wet areas.
+- Soil degradation from erosion, salinity and imbalanced fertiliser use is a major concern.
+W: Soil types, their distribution and suitable crops are standard Prelims questions.
+Q: What are the causes of soil degradation in India? Suggest measures for soil conservation.
+
+## natural-vegetation | Natural vegetation and forests of India
+
+India's natural vegetation varies with rainfall, temperature and altitude. The main types are tropical evergreen forests, in areas with over 200 cm of rain such as the Western Ghats, the North-East and the Andaman and Nicobar Islands, with tall trees such as rosewood, ebony and mahogany; tropical deciduous forests, the most widespread type, which shed their leaves in the dry season and include teak and sal; tropical thorn forests in dry areas of Rajasthan, Gujarat and the Deccan, with acacias and cacti; montane forests in the Himalayas, changing from deciduous to coniferous trees such as pine, deodar and fir with altitude, and to alpine meadows above the tree line; and mangrove forests in tidal areas of deltas, such as the Sundarbans, where the sundari tree gives the forest its name.
+
+According to the India State of Forest Report 2023, released by the Forest Survey of India in December 2024, forest cover is about 21.76% of the country's area, and forest and tree cover together about 25.17%. Madhya Pradesh has the largest forest cover by area, followed by Arunachal Pradesh and Chhattisgarh. Among states, Mizoram has the highest share of its area under forest. The National Forest Policy of 1988 set a goal of one-third of the country under forest or tree cover.
+
+Forests provide timber, fuel, fodder and non-timber products, support millions of forest-dwelling people, protect watersheds, prevent soil erosion and store carbon. Under the Paris Agreement, India has committed to creating an additional carbon sink of 2.5 to 3 billion tonnes of CO2 equivalent through additional forest and tree cover by 2030.
+
+Concerns include the quality of forests (much of the gain is in open forest and plantations rather than dense natural forest), loss of forest in the North-East, diversion for mining and infrastructure, and the rights of forest dwellers under the Forest Rights Act, 2006.
+
+- Tropical deciduous forests are India's most widespread type; mangroves line the deltas.
+- ISFR 2023: forest cover about 21.76%, forest and tree cover about 25.17%.
+- India aims for an additional carbon sink of 2.5–3 billion tonnes CO2e by 2030.
+W: Forest types and the latest State of Forest Report figures are frequently tested.
+Q: Is the rise in India's recorded forest cover a reliable sign of ecological health? Discuss.
+
+## peninsular-plateau-coasts | The Peninsular Plateau, coasts and islands
+
+The Peninsular Plateau is the oldest landmass in India, made of ancient crystalline, igneous and metamorphic rocks that were part of Gondwana. It is roughly triangular, bounded by the Aravallis in the north-west, the Rajmahal hills in the east, the Western Ghats in the west and the Eastern Ghats in the east. The Narmada, flowing west through a rift valley, divides it into the Central Highlands to the north and the Deccan plateau to the south.
+
+The Central Highlands include the Malwa plateau, Bundelkhand, Baghelkhand and the Chotanagpur plateau, which is rich in coal, iron ore and other minerals. The Aravallis are among the oldest fold mountains in the world, heavily eroded; Guru Shikhar on Mount Abu is their highest point. The Deccan plateau rises from east to west. The Western Ghats (Sahyadri) are continuous and higher, with Anamudi (2,695 m) in Kerala as the highest peak of peninsular India. They are a UNESCO World Heritage Site and a biodiversity hotspot. The Eastern Ghats are lower and broken by rivers; their highest point is in Andhra Pradesh, given as Jindhagada or Arma Konda depending on the source.
+
+India's western coastal plain is narrow and divided into the Konkan (Maharashtra and Goa), the Kanara (Karnataka) and the Malabar coast (Kerala), with lagoons called kayals or backwaters. The eastern coastal plain is wider, with the deltas of the Mahanadi, Godavari, Krishna and Kaveri and the Coromandel coast in Tamil Nadu. Lakes such as Chilika in Odisha (the largest brackish water lagoon in India) and Pulicat lie along it.
+
+India has over 1,300 islands. The Andaman and Nicobar Islands are separated by the Ten Degree Channel, and Lakshadweep from the Maldives by the Eight Degree Channel.
+
+- The Peninsular Plateau is India's oldest landmass and is rich in minerals.
+- Anamudi (2,695 m) is the highest peak in peninsular India; the Western Ghats are a UNESCO site.
+- The western coast is narrow; the eastern coast is wide with large deltas and lagoons such as Chilika.
+W: Plateau regions, ghats, coasts and island channels are high-frequency Prelims topics.
+Q: Compare the Western and Eastern Ghats in their origin, structure and ecological importance.
+
+## water-resources-irrigation | Water resources and irrigation in India
+
+India has about 18% of the world's population but only about 4% of its freshwater resources. Total annual water availability is estimated at about 1,999 billion cubic metres, but only around 1,122 billion cubic metres can be used, because of uneven rainfall and terrain. Per capita availability has fallen below 1,700 cubic metres, the threshold of water stress, and is projected to keep declining as population grows.
+
+Rainfall is highly concentrated in the four monsoon months and varies widely across regions, from Meghalaya's extreme wetness to western Rajasthan's aridity. This makes storage and irrigation essential. Agriculture uses about 80% of India's water. India is the world's largest user of groundwater, which supplies most irrigation and drinking water. Over-extraction, encouraged by free or cheap electricity for pumps and water-intensive crops such as paddy and sugarcane in dry regions, has caused falling water tables in Punjab, Haryana, Rajasthan and parts of the south. The Central Ground Water Board classifies many blocks as over-exploited or critical.
+
+Irrigation sources include canals from dams and barrages, tanks (especially in the south), wells and tube wells. Major multipurpose projects, such as Bhakra-Nangal on the Sutlej, Hirakud on the Mahanadi and Sardar Sarovar on the Narmada, provide irrigation, hydropower and flood control, but have displaced people and affected ecosystems.
+
+Policy responses include the Jal Jeevan Mission (2019) to provide tap water to every rural household, the Pradhan Mantri Krishi Sinchayee Yojana with its slogan "Har khet ko pani, more crop per drop", the Atal Bhujal Yojana for community groundwater management, micro-irrigation (drip and sprinkler), and proposals to link rivers, such as the Ken-Betwa link project.
+
+- India has 18% of the world's people but about 4% of its fresh water.
+- Agriculture uses about 80% of water; groundwater over-extraction is a major crisis.
+- Jal Jeevan Mission, PMKSY and Atal Bhujal Yojana are key policy responses.
+W: Water scarcity and irrigation link geography, agriculture and governance, and appear regularly in Mains.
+Q: Why is groundwater depletion severe in north-west India despite good canal networks? Suggest solutions.
+
+## thar-desert-arid-regions | The Thar desert and India's arid regions
+
+The Thar, or Great Indian Desert, lies in western Rajasthan and extends into Gujarat, Haryana, Punjab and Pakistan. Rainfall is usually below 25 cm a year in its western parts, and temperatures can exceed 45°C in summer. The landscape includes sand dunes (including crescent-shaped barchans), rocky plains, salt lakes such as Sambhar, and seasonal streams that disappear into the sand; the Luni is the only significant river. Much of the region lies west of the Aravallis, which run parallel to the monsoon winds and so do little to stop them, one reason for the low rainfall.
+
+Despite harsh conditions, the Thar is one of the most densely populated deserts in the world. Traditional communities developed sophisticated water harvesting systems: kunds (covered underground tanks), johads (small earthen check dams), stepwells (baolis) and khadins (runoff farming). Livestock, including camels, sheep and goats, is central to the economy. The Bishnoi community is known for protecting trees and blackbuck.
+
+The Indira Gandhi Canal, one of the world's longest irrigation canals, brings water from the Harike barrage in Punjab into western Rajasthan, transforming parts of the desert into farmland. But it has also brought waterlogging and salinity in some areas and changed the desert ecosystem.
+
+The desert is home to unique wildlife, including the Great Indian Bustard, one of the world's most endangered birds; fewer than 150 survive in the wild, mainly in Rajasthan. Overhead power lines kill many, and the Supreme Court has heard cases on burying transmission lines in its habitat, which overlaps with major solar and wind energy projects. Desertification and land degradation affect nearly 30% of India's land area, according to ISRO's Desertification and Land Degradation Atlas.
+
+- The Thar receives very low rainfall partly because the Aravallis run parallel to the monsoon winds.
+- Traditional water harvesting and the Indira Gandhi Canal sustain people in the desert.
+- The Great Indian Bustard is critically endangered; renewable energy projects overlap its habitat.
+W: Arid regions, desertification and the bustard-renewables conflict appear in geography and environment questions.
+Q: How can renewable energy expansion in Rajasthan be reconciled with the conservation of the Great Indian Bustard?
+
+## north-east-geography | The geography of North-East India
+
+North-East India comprises eight states: Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Tripura and Sikkim. It covers about 8% of India's area and has under 4% of its population. About 98% of its borders are international, with China, Bhutan, Myanmar, Bangladesh and Nepal, and it is connected to the rest of India by the Siliguri Corridor, a strip of land about 22 km wide at its narrowest, often called the "chicken's neck".
+
+The region's physical geography is varied. The Eastern Himalayas in Arunachal Pradesh and Sikkim rise to Kangchenjunga. The Brahmaputra valley in Assam is a broad floodplain, and the river is one of the world's largest by water flow and sediment load; it contains Majuli, among the largest river islands in the world. The Meghalaya plateau, an extension of the peninsular plateau, receives some of the highest rainfall on Earth at Mawsynram and Cherrapunji. The Purvanchal hills along the Myanmar border include the Patkai, Naga and Mizo hills. Manipur's Loktak lake has floating islands of vegetation called phumdis, including Keibul Lamjao, the world's only floating national park.
+
+The North-East is part of the Indo-Burma and Himalaya biodiversity hotspots, with Kaziranga (home to most of the world's one-horned rhinos) and Manas as UNESCO World Heritage Sites. Its rivers have huge hydropower potential, but dams raise concerns about displacement, earthquakes and downstream effects.
+
+Floods and erosion in Assam, landslides in the hills and earthquake risk are major hazards. Connectivity projects, such as the Bogibeel bridge, the Kaladan multimodal project through Myanmar and rail links to state capitals, aim to end the region's isolation, as part of the Act East Policy.
+
+- The North-East has eight states, mostly international borders and the narrow Siliguri Corridor.
+- It includes the Brahmaputra valley, the Meghalaya plateau and the Purvanchal hills.
+- Rich biodiversity, hydropower potential and serious flood and landslide hazards define the region.
+W: North-East geography is important for questions on security, connectivity, biodiversity and the Act East Policy.
+Q: How does the geography of the North-East shape its development challenges and strategic importance?

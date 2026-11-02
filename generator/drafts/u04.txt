@@ -1,0 +1,166 @@
+# THEME 4
+## european-companies-arrive | The Europeans arrive: Portuguese, Dutch, English and French
+
+The search for a sea route to the spice trade brought Europeans to India. Vasco da Gama reached Calicut on the Malabar coast in 1498, welcomed by the local ruler, the Zamorin. The Portuguese built a network of fortified ports, and Afonso de Albuquerque captured Goa from the Bijapur sultanate in 1510. They used a system of passes (cartaz) to control shipping in the Indian Ocean, but their power declined in the seventeenth century as rivals arrived.
+
+The Dutch East India Company, founded in 1602, focused on the spice islands of Indonesia but also traded in Indian textiles from factories on the Coromandel coast and in Bengal. The English East India Company received its charter from Queen Elizabeth I on 31 December 1600. After Sir Thomas Roe's embassy to Jahangir, it set up factories at Surat, then Madras (Fort St George, 1639), Bombay (received from the Portuguese as part of Catherine of Braganza's dowry in 1661) and Calcutta (1690). The French East India Company was formed in 1664, with Pondicherry as its main base.
+
+In the eighteenth century, the English and French fought three Carnatic wars (1746–1763) in south India, mirroring their rivalry in Europe. The French governor Dupleix pioneered the strategy of supporting rival claimants to local thrones and using trained Indian soldiers (sepoys). The English, under Robert Clive and others, adopted the same methods. The decisive English victory at Wandiwash in 1760 ended French ambitions, leaving them only a few trading posts.
+
+The lesson the Company learned in the Carnatic, that a small trained army could make and unmake rulers, it soon applied in Bengal.
+
+- Vasco da Gama reached Calicut in 1498; the Portuguese took Goa in 1510.
+- The English Company was chartered in 1600 and built bases at Surat, Madras, Bombay and Calcutta.
+- The Carnatic wars and the Battle of Wandiwash (1760) ended French competition.
+W: The sequence of European arrivals and the Carnatic wars are common Prelims questions on modern history.
+Q: Why did the English East India Company succeed where the Portuguese, Dutch and French failed in India?
+
+## plassey-and-buxar | Plassey and Buxar: how the Company won Bengal
+
+Bengal was the richest province of the late Mughal empire, and by the 1750s it was ruled almost independently by its nawabs. The young nawab Siraj-ud-Daulah, who took power in 1756, objected to the Company's fortification of Calcutta and misuse of trade privileges (dastaks). He captured Calcutta in 1756. The story of the "Black Hole", in which British prisoners died in a cramped cell, was later used as propaganda, though its scale is disputed by historians.
+
+Robert Clive retook Calcutta and, at the Battle of Plassey on 23 June 1757, defeated Siraj. The battle was decided less by fighting than by conspiracy: Siraj's commander Mir Jafar had agreed to betray him in return for the throne. Mir Jafar became nawab, paid huge sums to the Company and its officers, and was later replaced by Mir Qasim.
+
+Mir Qasim tried to reassert control, moved his capital to Monghyr and abolished internal duties for everyone, removing the Company's unfair advantage. War followed. At the Battle of Buxar in October 1764, the Company defeated the combined forces of Mir Qasim, Shuja-ud-Daula of Awadh and the Mughal emperor Shah Alam II. Buxar was a genuine military victory and more decisive than Plassey.
+
+By the Treaty of Allahabad in 1765, Shah Alam granted the Company the diwani, the right to collect revenue, of Bengal, Bihar and Orissa. Clive set up a "dual government" in which the Company had revenue power and the nawab had responsibility for administration without resources. The result was misrule, and the famine of 1770 killed an estimated one-third of Bengal's population.
+
+- Plassey (1757) was won largely through Mir Jafar's betrayal.
+- Buxar (1764) was the decisive military victory over three Indian powers.
+- The diwani of 1765 made the Company the real ruler of Bengal, and the 1770 famine followed dual government.
+W: Plassey, Buxar and the diwani are among the most tested events in modern Indian history.
+Q: "Plassey was a transaction; Buxar was a battle." Examine this statement.
+
+## company-expansion-policies | Company expansion: subsidiary alliance and the doctrine of lapse
+
+After Bengal, the Company expanded through war and diplomacy. In the south, it fought four Anglo-Mysore wars against Hyder Ali and his son Tipu Sultan, who modernised his army, used iron-cased rockets and sought French help. Tipu was killed defending his capital Srirangapatna in 1799. Three Anglo-Maratha wars ended with the defeat of the Peshwa in 1818, and two Anglo-Sikh wars led to the annexation of Punjab in 1849.
+
+Governor-General Lord Wellesley (1798–1805) perfected the subsidiary alliance. An Indian ruler who accepted it had to keep a British force in his territory and pay for it, often by ceding land; accept a British Resident at his court; and not employ other Europeans or make alliances without British consent. The ruler kept his throne, but lost control of foreign policy and defence. Hyderabad was the first to accept it in 1798, followed by Awadh, Mysore and others.
+
+Lord Dalhousie (1848–1856) used the doctrine of lapse. If a ruler of a dependent state died without a natural male heir, his kingdom would pass to the Company, and adopted heirs would not be recognised. Satara (1848), Jhansi (1854) and Nagpur (1854) were annexed this way. In 1856 Dalhousie annexed Awadh on grounds of misgovernment, even though its nawab had been a loyal ally. He also abolished titles and pensions of several former rulers.
+
+These annexations created resentment among princes, nobles and soldiers. The deposed Rani of Jhansi and the adopted heir of the last Peshwa, Nana Saheb, became leaders of the revolt of 1857.
+
+- Wellesley's subsidiary alliance made Indian rulers dependent on British troops.
+- Dalhousie's doctrine of lapse annexed Satara, Jhansi and Nagpur; Awadh was annexed in 1856 for alleged misrule.
+- These policies fed the grievances that exploded in 1857.
+W: The subsidiary alliance and doctrine of lapse are classic Prelims questions and help explain 1857 in Mains.
+Q: How did the subsidiary alliance system allow the British to expand without the costs of direct conquest?
+
+## colonial-land-revenue | Colonial land revenue: Permanent Settlement, Ryotwari and Mahalwari
+
+Land revenue was the largest source of income for the Company, and the way it was collected reshaped rural India. Three main systems were introduced.
+
+The Permanent Settlement was introduced in Bengal, Bihar and Orissa by Lord Cornwallis in 1793. Zamindars were recognised as owners of the land and had to pay a fixed revenue to the Company forever. The Company hoped for stable income and a loyal class of improving landlords. In practice, the revenue was set very high, many old zamindars who failed to pay had their estates auctioned, and the new owners often rented land through layers of intermediaries. Peasants lost their customary rights and faced rising rents.
+
+The Ryotwari system, associated with Thomas Munro and Alexander Read, was introduced in large parts of the Madras and Bombay presidencies. Revenue was settled directly with the cultivator (ryot), who was recognised as the owner. The rate was revised periodically, usually every twenty to thirty years, and was often so high that peasants fell into debt.
+
+The Mahalwari system, introduced in the North-Western Provinces, parts of central India and Punjab from 1822 (Holt Mackenzie's regulation) and revised in 1833, settled revenue with the village community or estate (mahal) as a whole, with headmen responsible for collection.
+
+All three systems converted land into a commodity that could be sold or mortgaged, increased the power of moneylenders, and contributed to rural indebtedness and periodic famines. Abolishing zamindari became a major promise of the national movement and an early task of independent India.
+
+- The Permanent Settlement (1793) fixed revenue forever with zamindars in Bengal.
+- The Ryotwari system dealt directly with cultivators in Madras and Bombay.
+- The Mahalwari system settled revenue with village communities in north India.
+W: Land revenue systems are among the most frequently tested topics in modern history and agrarian change.
+Q: Compare the Permanent Settlement and the Ryotwari system. How did each affect the peasantry?
+
+## economic-impact-drain | The economic impact of colonial rule and the drain of wealth
+
+Indian nationalists produced the first systematic critique of colonial economics. Dadabhai Naoroji, in essays later collected as *Poverty and Un-British Rule in India* (1901), argued that a large part of India's wealth flowed to Britain each year without any equivalent return. He called this the drain. It included salaries and pensions of British officials, interest on public debt held in Britain, profits of British companies, and the "home charges" India paid for the government in London. R. C. Dutt's *Economic History of India* and M. G. Ranade developed the critique further.
+
+The second charge was deindustrialisation. India had been a leading exporter of cotton textiles in the eighteenth century. After the industrial revolution, cheap machine-made British cloth entered India, while Indian goods faced high duties in Britain. One-way free trade, the loss of court patronage and the decline of artisan towns pushed many weavers into agriculture, increasing pressure on land.
+
+Agriculture was commercialised: farmers were pushed to grow cash crops such as indigo, cotton, jute and opium, sometimes at the cost of food security. Railways, built from 1853 with guaranteed returns to British investors, integrated markets but were designed mainly to move raw materials to ports and British goods inland.
+
+Famines were frequent and severe. The Bengal famine of 1770, the great famine of 1876–78 and the Bengal famine of 1943 together killed many millions. Historians link their severity to policy choices: rigid revenue collection, exports during scarcity, and slow relief.
+
+- Naoroji's drain theory argued that India's wealth flowed to Britain without return.
+- Deindustrialisation, especially of textiles, pushed artisans into agriculture.
+- Commercialisation and policy failures worsened famines.
+W: The drain theory and economic nationalism are central to Mains questions on colonial impact and the national movement.
+Q: How did the economic critique of colonialism by early nationalists help build the Indian national movement?
+
+## company-rule-acts | From Company to Crown: the constitutional acts
+
+As the Company became a territorial power, the British Parliament stepped in to regulate it through a series of laws, which also shaped India's later constitutional system.
+
+The Regulating Act of 1773 was Parliament's first attempt at control. It made the Governor of Bengal the Governor-General of Bengal (Warren Hastings was the first), created an executive council, and set up a Supreme Court at Calcutta in 1774. Pitt's India Act of 1784 created a Board of Control in London to supervise the Company's political affairs, establishing dual control by the Company and the Crown.
+
+The Charter Act of 1813 ended the Company's trade monopoly in India, except in tea and trade with China, and set aside one lakh rupees a year for education. The Charter Act of 1833 made the Governor-General of Bengal the Governor-General of India (Lord William Bentinck was the first), ended the Company's commercial functions entirely, and centralised law-making. The Charter Act of 1853 separated legislative and executive functions and introduced open competition for the civil services.
+
+After the revolt of 1857, the Government of India Act 1858 ended Company rule. Power passed to the British Crown, exercised through a Secretary of State for India in the British cabinet. The Governor-General also became the Viceroy, the Crown's representative; Lord Canning was the first. Queen Victoria's proclamation of 1 November 1858 promised religious non-interference and respect for the rights of Indian princes.
+
+Later acts, from the Indian Councils Acts to the Government of India Act 1935, gradually introduced Indian representation.
+
+- The Regulating Act (1773) and Pitt's India Act (1784) began parliamentary control over the Company.
+- The Charter Acts of 1813, 1833 and 1853 ended the trade monopoly, centralised power and opened the civil services to competition.
+- The Government of India Act 1858 transferred power to the Crown.
+W: These acts are a standard part of both modern history and the "historical underpinnings" section of polity.
+Q: Trace how British parliamentary control over the East India Company increased between 1773 and 1858.
+
+## colonial-education-press | Colonial education and the press
+
+The Company at first left education to Indian institutions, but by the 1830s a debate arose between Orientalists, who favoured learning in Sanskrit, Persian and Arabic, and Anglicists, who favoured Western learning in English. Thomas Babington Macaulay's minute of 1835 argued for English education, aiming to create "a class of persons Indian in blood and colour, but English in tastes". Bentinck's government adopted English as the medium of higher education.
+
+Wood's Despatch of 1854, sometimes called the Magna Carta of English education in India, proposed a structured system from primary schools to universities, with vernacular languages at the primary level and grants-in-aid for private schools. The first universities were set up in Calcutta, Bombay and Madras in 1857. The Hunter Commission of 1882 focused on primary and secondary education. Lord Curzon's Indian Universities Act of 1904 increased government control and was resented by nationalists.
+
+The English-educated middle class that emerged did not become the loyal intermediaries Macaulay had imagined. Instead, it produced social reformers and the leaders of the national movement, who used Western ideas of liberty and rights to criticise colonial rule.
+
+The press played a similar role. Hicky's *Bengal Gazette* (1780) was the first newspaper in India. Indian-language papers grew rapidly in the nineteenth century, and nationalists such as Tilak (*Kesari*) and Gandhi (*Young India*) used newspapers to mobilise opinion. The government responded with restrictions, including Lord Lytton's Vernacular Press Act of 1878, which targeted Indian-language papers and was repealed in 1882.
+
+- Macaulay's minute (1835) and Wood's Despatch (1854) shaped colonial education.
+- The first universities were founded in 1857 in Calcutta, Bombay and Madras.
+- The press became a tool of nationalism, despite laws such as the Vernacular Press Act (1878).
+W: Education policies and press laws are frequently tested, and they explain the rise of the nationalist middle class.
+Q: Did colonial education policy achieve its intended goals? Discuss its unintended consequences.
+
+## social-religious-reform | Social and religious reform movements of the nineteenth century
+
+Nineteenth-century India saw reformers question social practices and reinterpret religion, often in response to Western criticism and new ideas of reason and equality.
+
+Raja Ram Mohan Roy founded the Brahmo Samaj in 1828. He opposed idol worship and campaigned against sati, which Governor-General William Bentinck banned in 1829. Ishwar Chandra Vidyasagar campaigned for widow remarriage, leading to the Hindu Widows' Remarriage Act of 1856, and worked for girls' education. In western India, the Prarthana Samaj worked on similar lines.
+
+Swami Dayananda Saraswati founded the Arya Samaj in 1875, calling for a return to the Vedas, opposing idol worship and caste by birth, and starting the shuddhi movement and DAV schools. Swami Vivekananda, a disciple of Ramakrishna, spoke at the Parliament of the World's Religions in Chicago in 1893 and founded the Ramakrishna Mission in 1897, linking spirituality with social service.
+
+Anti-caste movements challenged hierarchy from below. Jyotirao Phule founded the Satyashodhak Samaj in 1873 and, with Savitribai Phule, opened a school for girls in Pune in 1848. Sree Narayana Guru in Kerala worked for the Ezhava community with the message "one caste, one religion, one god for humanity". Among Muslims, Sir Syed Ahmad Khan founded the Muhammadan Anglo-Oriental College at Aligarh in 1875 to promote modern education. The Singh Sabha movement reformed Sikh institutions, and the Parsi Rahnumai Mazdayasnan Sabha reformed Parsi practice.
+
+These movements laid the social foundations of the national movement, though most were led by upper-caste, educated men and reached limited sections of society.
+
+- Ram Mohan Roy (Brahmo Samaj, 1828) and Vidyasagar fought sati and for widow remarriage.
+- Dayananda (Arya Samaj, 1875) and Vivekananda (Ramakrishna Mission, 1897) reinterpreted Hinduism.
+- Phule, Narayana Guru and Sir Syed Ahmad Khan addressed caste and education for marginalised groups.
+W: Reformers, their organisations and dates are high-frequency Prelims topics.
+Q: Distinguish between reformist and revivalist trends in nineteenth-century socio-religious movements.
+
+## revolt-of-1857 | The revolt of 1857
+
+On 10 May 1857, sepoys at Meerut rebelled, killed their officers and marched to Delhi, where they proclaimed the aged Mughal emperor Bahadur Shah Zafar their leader. The revolt spread across north and central India over the following months. Earlier, in March, Mangal Pandey had attacked officers at Barrackpore and been executed.
+
+The immediate trigger was the new Enfield rifle, whose cartridges were rumoured to be greased with cow and pig fat, offending both Hindu and Muslim soldiers. But the causes ran deeper. Sepoys had grievances about pay, service overseas and discrimination. Princes and nobles had lost their states through annexations. Peasants and landholders, especially in Awadh, suffered under harsh revenue settlements. Social reforms and missionary activity created fears of attacks on religion.
+
+The revolt had many leaders. Begum Hazrat Mahal led resistance in Lucknow, Nana Saheb and Tantia Tope in Kanpur, Rani Lakshmibai in Jhansi (she died fighting at Gwalior in 1858), Kunwar Singh in Arrah in Bihar, and Khan Bahadur Khan in Rohilkhand. The British recaptured Delhi in September 1857, exiled Bahadur Shah Zafar to Rangoon, and suppressed the revolt by 1858 with great brutality.
+
+Historians debate what to call it. British writers called it a mutiny. V. D. Savarkar called it the first war of independence. Others describe it as a popular revolt with strong peasant participation but limited geographical spread and no unified programme. Its consequences were clear: Company rule ended, the army was reorganised, and the British became more cautious about social interference and annexation.
+
+- The revolt began at Meerut on 10 May 1857, triggered by the Enfield cartridges.
+- Its deeper causes were military, political, economic and religious.
+- It ended Company rule and changed British policy towards princes and social reform.
+W: The causes, leaders and nature of the 1857 revolt are perennial Mains and Prelims questions.
+Q: Was the revolt of 1857 a sepoy mutiny, a feudal reaction or a war of independence? Argue your case.
+
+## tribal-peasant-revolts | Tribal and peasant uprisings under colonial rule
+
+Colonial rule disrupted the lives of tribal communities and peasants, and many resisted long before the organised national movement. Forest laws restricted shifting cultivation and access to forest produce, and outsiders, including moneylenders, traders and landlords (whom tribal communities called dikus), moved into tribal lands.
+
+The Santhal Hul of 1855–56, led by the brothers Sidhu and Kanhu Murmu in the Rajmahal hills, was one of the largest early tribal uprisings; it was crushed, but led to the creation of the Santhal Parganas district. The Munda Ulgulan (great tumult) of 1899–1900, led by Birsa Munda in present-day Jharkhand, sought to restore Munda land rights and drive out outsiders. Birsa died in jail in 1900, and the Chotanagpur Tenancy Act of 1908 followed. His birth anniversary, 15 November, is observed as Janjatiya Gaurav Divas. Other uprisings included the Kol rising (1831–32), the Rampa rebellion led by Alluri Sitarama Raju (1922–24), and resistance in the North-East.
+
+Peasant movements targeted landlords, moneylenders and planters. In the Indigo revolt of 1859–60 in Bengal, peasants refused to grow indigo for European planters; the play *Neel Darpan* by Dinabandhu Mitra exposed their plight. The Pabna agrarian league of the 1870s resisted rent increases through legal means. The Deccan riots of 1875 targeted moneylenders, leading to the Deccan Agriculturists' Relief Act of 1879. The Moplah (Mappila) uprisings in Malabar combined agrarian and religious grievances.
+
+These revolts were local and usually suppressed, but they showed the depth of discontent and shaped later protective laws.
+
+- Forest laws and outsiders' entry provoked revolts such as the Santhal Hul and Birsa Munda's Ulgulan.
+- Peasant movements included the Indigo revolt, Pabna and the Deccan riots.
+- Many revolts led to protective legislation such as the Chotanagpur Tenancy Act (1908).
+W: Tribal and peasant movements are frequent Prelims questions and relevant to Mains themes on tribal rights.
+Q: Why were tribal revolts in colonial India often more violent than peasant movements? Discuss with examples.

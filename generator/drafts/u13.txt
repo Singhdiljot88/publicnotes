@@ -1,0 +1,160 @@
+# THEME 13
+## rajya-sabha | The Rajya Sabha: the Council of States
+
+The Rajya Sabha is Parliament's upper house. The Constitution sets its maximum strength at 250: up to 238 representatives of the states and union territories and 12 members nominated by the President for their expertise in literature, science, art and social service. Its present strength is 245. Seats are allocated to states under the Fourth Schedule, broadly in proportion to population, so Uttar Pradesh has 31 seats and several small states have one. Members are elected by the elected members of state legislative assemblies through proportional representation by the single transferable vote, with open ballots since 2003 to curb cross-voting. The minimum age is 30.
+
+The Rajya Sabha is a permanent house and is never dissolved. One-third of its members retire every two years, and each member serves six years. The Vice-President is its ex-officio chairman.
+
+Its powers are mostly equal to those of the Lok Sabha in ordinary legislation and constitutional amendments, which must pass both houses separately by the required majority. It is weaker on money matters: a money bill can only be introduced in the Lok Sabha, and the Rajya Sabha can only recommend changes within 14 days, which the Lok Sabha may ignore. The Council of Ministers is responsible only to the Lok Sabha. But the Rajya Sabha has special powers: under Article 249, it can authorise Parliament to make laws on a state subject in the national interest by a two-thirds majority, and under Article 312, it can authorise the creation of new All India Services.
+
+Supporters see the Rajya Sabha as a house of revision that protects states' interests and brings expertise into lawmaking. Critics note that the residency requirement for members was removed in 2003, weakening the link with states, and that parties sometimes use it to accommodate leaders who lose elections.
+
+- The Rajya Sabha has a maximum of 250 members, 12 of them nominated; its present strength is 245.
+- It is permanent, with one-third retiring every two years.
+- It has limited money powers but special powers under Articles 249 and 312.
+W: Rajya Sabha composition and powers are high-frequency Prelims questions and relevant to federalism debates.
+Q: Does the Rajya Sabha effectively represent the interests of states? Suggest reforms.
+
+## money-bills | Money bills and financial bills
+
+Article 110 defines a money bill as one that contains only provisions dealing with matters such as the imposition or abolition of taxes, government borrowing, the custody of and withdrawals from the Consolidated Fund of India, the appropriation of money from it, and declaring expenditure charged on it. A bill is not a money bill merely because it provides for fines or fees for services.
+
+Money bills follow a special procedure. They can be introduced only in the Lok Sabha and only on the President's recommendation. The Rajya Sabha must return the bill within 14 days with or without recommendations, which the Lok Sabha can accept or reject. If it does not return the bill in time, the bill is deemed passed. The President cannot return a money bill for reconsideration, and there is no joint sitting on it. The Speaker of the Lok Sabha decides whether a bill is a money bill, and Article 110(3) says this decision is final.
+
+Financial bills are wider. Under Article 117, a bill that includes money-bill matters along with other provisions is a financial bill of the first category; it can be introduced only in the Lok Sabha on the President's recommendation but otherwise follows the ordinary procedure, so the Rajya Sabha has full powers over it. A financial bill of the second category involves expenditure from the Consolidated Fund but no money-bill matters; it can be introduced in either house.
+
+The use of the money-bill route has been controversial because it bypasses the Rajya Sabha. The Aadhaar Act, 2016 was passed as a money bill, and the Supreme Court upheld it in 2018, with Justice D. Y. Chandrachud dissenting that this was a "fraud on the Constitution". In Rojer Mathew (2019), concerning tribunal changes made through the Finance Act, 2017, a five-judge bench doubted the Aadhaar reasoning and referred the question to a larger bench, which has yet to give a final ruling.
+
+- Article 110 strictly defines money bills; the Speaker certifies them.
+- The Rajya Sabha can only make recommendations on money bills within 14 days.
+- Passing non-financial laws as money bills is contested; a larger Supreme Court bench is examining the issue.
+W: The money bill procedure and the Aadhaar controversy are frequent Prelims and Mains polity questions.
+Q: Should the Speaker's certification of a money bill be open to judicial review? Discuss.
+
+## ordinances | Ordinances: law-making by the executive
+
+Article 123 allows the President to issue an ordinance when either house of Parliament is not in session and circumstances require immediate action. Article 213 gives governors the same power in states. An ordinance has the same force as an act of Parliament, but it must be laid before both houses when they reassemble and ceases to operate six weeks after Parliament reconvenes, unless approved earlier. So an ordinance can last up to six months and six weeks. It can also be withdrawn at any time. The President acts on the advice of the Council of Ministers, and an ordinance can be issued only on subjects on which Parliament can legislate. It cannot amend the Constitution.
+
+The framers saw ordinances as an emergency power, to be used rarely. In practice they have been used frequently, sometimes to push through laws that a government could not pass in the Rajya Sabha. The most striking abuse was in Bihar, where some ordinances were repromulgated repeatedly for years without ever being placed before the legislature.
+
+The courts have set limits. In R. C. Cooper (1970), the Supreme Court held that the President's satisfaction could be challenged if it was based on mala fide reasons; the 38th Amendment tried to bar review, but the 44th Amendment removed that bar. In D. C. Wadhwa (1987), the Court held that repeated repromulgation of ordinances without placing them before the legislature was a fraud on the Constitution. In Krishna Kumar Singh (2017), a seven-judge bench held that repromulgation is unconstitutional, that the failure to place an ordinance before the legislature is a constitutional violation, and that ordinances are subject to judicial review.
+
+Ordinances remain useful in genuine emergencies, but frequent use weakens parliamentary scrutiny and the deliberative role of the legislature.
+
+- Ordinances under Articles 123 and 213 can last up to six weeks after the legislature reassembles.
+- They are issued on ministerial advice and cannot amend the Constitution.
+- D. C. Wadhwa (1987) and Krishna Kumar Singh (2017) condemned repromulgation and confirmed judicial review.
+W: Ordinance powers and the related judgments are frequently tested and relevant to separation-of-powers questions.
+Q: Has the ordinance power been used as intended by the framers? Suggest safeguards against its misuse.
+
+## speaker-lok-sabha | The Speaker of the Lok Sabha
+
+The Speaker presides over the Lok Sabha and is its principal spokesperson and guardian of its rights. The Speaker is elected by the members of the house from among themselves, usually at its first sitting, and holds office until just before the first meeting of the next Lok Sabha; the Speaker does not vacate office when the house is dissolved. The Speaker can be removed by a resolution passed by a majority of all the then members of the house, with 14 days' notice. During the removal proceedings, the Speaker cannot preside but can speak and vote, though not in case of a tie.
+
+The Speaker's powers are wide. The Speaker maintains order, interprets the rules of procedure, decides on points of order, and can adjourn or suspend the house. The Speaker certifies money bills, and this decision is final. The Speaker presides over joint sittings of the two houses, decides on the disqualification of members under the anti-defection law (subject to judicial review since the Kihoto Hollohan judgment of 1992), and appoints the chairpersons of committees. The Speaker votes only to break a tie (a casting vote).
+
+The office is meant to be impartial. In Britain, the Speaker leaves their party on election and is traditionally re-elected unopposed; India has not adopted this convention, and the Speaker usually comes from the ruling party. Critics point to delays in deciding defection petitions and the frequent suspension of opposition members as signs of partisanship. The Supreme Court has suggested that Parliament consider giving defection cases to an independent tribunal.
+
+The Deputy Speaker presides when the Speaker is absent. The post remained vacant throughout the 17th Lok Sabha (2019–2024), despite the constitutional requirement in Article 93 that the house "shall" choose a Deputy Speaker.
+
+- The Speaker is elected by the Lok Sabha and removed by a majority of all members.
+- The Speaker certifies money bills and decides anti-defection cases, subject to judicial review.
+- The Deputy Speaker's post stayed vacant through the entire 17th Lok Sabha.
+W: The Speaker's role and impartiality are frequent Mains questions, and the office's powers appear in Prelims.
+Q: How can the impartiality of the Speaker's office be strengthened in India?
+
+## anti-defection-law | The anti-defection law
+
+Frequent defections in the 1960s and 1970s, summed up in the phrase "Aaya Ram, Gaya Ram" after a Haryana legislator who changed parties three times in a day in 1967, destabilised governments. The 52nd Amendment of 1985 added the Tenth Schedule to the Constitution to curb defections.
+
+Under the Tenth Schedule, a member of a house is disqualified if they voluntarily give up membership of their political party, or if they vote or abstain contrary to the party's direction (whip) without prior permission and the party does not condone it within 15 days. Courts have held that voluntarily giving up membership can be inferred from conduct, not only from formal resignation. An independent member is disqualified for joining a party after election, and a nominated member for joining a party more than six months after taking their seat. Disqualification decisions are made by the presiding officer of the house.
+
+There are exceptions. The original law protected a "split" if one-third of a legislature party left, but this was misused, and the 91st Amendment of 2003 deleted it. Now only a merger, when at least two-thirds of the legislature party agree to merge with another party, is protected. The same amendment limited the size of the Council of Ministers to 15% of the strength of the lower house and barred defectors from holding ministerial office until re-elected.
+
+In Kihoto Hollohan (1992), the Supreme Court upheld the law but made the presiding officer's decisions subject to judicial review. Long delays by Speakers in deciding petitions led the Court, in Keisham Meghachandra Singh (2020), to say decisions should normally be made within three months. Political crises in Karnataka (2019) and Maharashtra (2022) showed the law's limits: legislators resigned or claimed to be the "real party" rather than defecting.
+
+- The Tenth Schedule (1985) disqualifies members who leave their party or defy the whip.
+- The 91st Amendment (2003) removed the "split" exception; only a two-thirds merger is protected.
+- Presiding officers' decisions are subject to judicial review (Kihoto Hollohan, 1992).
+W: The anti-defection law is a standard Prelims topic and a recurring Mains question on parliamentary democracy.
+Q: Has the anti-defection law achieved its objective? Discuss its impact on legislators' freedom and party democracy.
+
+## how-a-bill-becomes-law | How a bill becomes law, and joint sittings
+
+Bills in Parliament are of several types: ordinary bills, money bills, financial bills and constitutional amendment bills. Bills introduced by ministers are government bills; those introduced by other members are private members' bills, which rarely pass. The last private member's bill passed by both houses was in 1970.
+
+An ordinary bill can be introduced in either house and goes through three readings. At the first reading, the bill is introduced. At the second reading, the house may discuss its general principles, refer it to a select committee, a joint committee or the relevant departmentally related standing committee, or circulate it for public opinion; then the house considers it clause by clause and votes on amendments. At the third reading, the house votes on the bill as a whole. It then goes to the other house, which can pass it, amend it, reject it or not act on it.
+
+If the houses disagree, or the second house does not act for six months, the President may summon a joint sitting under Article 108. The joint sitting is presided over by the Speaker and decides by a majority of members present and voting, which gives the larger Lok Sabha an advantage. Joint sittings are not available for money bills or constitutional amendments. They have been held only three times: in 1961 (Dowry Prohibition Bill), 1978 (Banking Service Commission Repeal Bill) and 2002 (Prevention of Terrorism Bill).
+
+After both houses pass a bill, it goes to the President, who may give assent, withhold it, or return it for reconsideration (except a money bill). If Parliament passes it again, the President must give assent. The Constitution sets no time limit, and President Zail Singh's inaction on the Indian Post Office (Amendment) Bill in 1986 is cited as a "pocket veto". Concerns about the declining share of bills sent to committees and limited debate time are frequently raised by analysts of Parliament.
+
+- Ordinary bills pass three readings in each house; committees scrutinise many at the second stage.
+- Joint sittings under Article 108 have been held only three times: 1961, 1978 and 2002.
+- The President can return a bill once but must assent if it is passed again.
+W: The legislative process and joint sittings are perennial Prelims questions.
+Q: Why has the share of bills referred to parliamentary committees declined, and why does it matter?
+
+## president-election-vetoes-pardons | The President: election, vetoes and pardons
+
+The President is the head of state and the formal head of the executive. The President is elected indirectly by an electoral college of the elected members of both houses of Parliament and of the legislative assemblies of the states, Delhi and Puducherry. Nominated members and members of legislative councils do not vote. The value of each vote is weighted to ensure parity between the states as a whole and the Union, and uniformity among states based on population (frozen at 1971 figures). The election uses proportional representation by single transferable vote with a secret ballot. The President must be at least 35 and serves five years. The President can be removed by impeachment for "violation of the Constitution" through a special resolution passed by two-thirds of the total membership of each house; no President has ever been impeached.
+
+On legislation, the President has three kinds of veto. An absolute veto means withholding assent, which can be used for private members' bills or when a government falls before assent. A suspensive veto means returning a bill for reconsideration, which Parliament can override by passing it again. A pocket veto means simply taking no action, possible because no time limit is set. For state bills reserved by governors, the President can withhold assent. In April 2025, the Supreme Court set timelines for governors and the President to act on state bills, and in November 2025, on a presidential reference, a Constitution bench held that courts cannot impose such fixed timelines, though prolonged, unexplained inaction can be reviewed.
+
+Under Article 72, the President can grant pardons, reprieves, respites and remissions, or suspend, remit or commute sentences, including death sentences and sentences by court martial. Governors have similar powers under Article 161, but not for death sentences or court martial. The President acts on the advice of the Union government, and courts can review decisions on limited grounds such as mala fides or irrelevant considerations (Epuru Sudhakar, 2006).
+
+- The President is elected by an electoral college of elected MPs and MLAs with weighted votes.
+- The President has absolute, suspensive and pocket vetoes, though acts largely on ministerial advice.
+- Article 72 pardon powers cover death sentences and courts martial, unlike the governor's.
+W: Presidential election, veto and pardon powers are standard Prelims topics, and the 2025 rulings on assent are current.
+Q: Distinguish between the pardoning powers of the President and the Governor. Is judicial review of these powers justified?
+
+## law-officers-attorney-general | The Attorney General and other law officers
+
+The Attorney General for India, under Article 76, is the Union government's chief legal adviser and its principal lawyer in the Supreme Court. The President appoints a person qualified to be a Supreme Court judge, and the Attorney General holds office during the President's pleasure; by convention the Attorney General resigns when the government changes. The Constitution fixes no tenure. The present Attorney General is R. Venkataramani, first appointed in October 2022 and reappointed for two more years in September 2025.
+
+The Attorney General's duties are to advise the government on legal matters referred by the President, to perform other legal duties assigned, and to appear for the government in the Supreme Court, High Courts and in references under Article 143. The Attorney General has the right of audience in all courts in India and the right to speak and take part in proceedings of both houses of Parliament and their committees, but not to vote (Article 88). The Attorney General is not a member of the Cabinet and is not barred from private practice, though cannot advise or appear against the government.
+
+The Solicitor General and Additional Solicitors General assist the Attorney General. Their posts are not mentioned in the Constitution; they are created by statutory rules. The present Solicitor General is Tushar Mehta.
+
+In the states, the Advocate General under Article 165 plays the equivalent role, appointed by the governor and holding office at the governor's pleasure, with the right to speak in the state legislature.
+
+The office raises questions of independence. The Attorney General's consent is needed to begin criminal contempt proceedings by private persons in the Supreme Court, which places the office in politically sensitive cases. Critics argue that law officers sometimes behave more as political spokespersons than as independent advisers to the state.
+
+- The Attorney General (Article 76) is the government's chief legal adviser and can speak, but not vote, in Parliament.
+- The Solicitor General's post is statutory, not constitutional.
+- The Advocate General (Article 165) is the state-level counterpart.
+W: Questions on the Attorney General's qualifications, rights and limits are common in Prelims.
+Q: Should the Attorney General be independent of the government of the day? Discuss.
+
+## union-territories-delhi | Union territories and the special case of Delhi
+
+Union territories are administered by the President through an administrator, under Article 239. There are eight union territories: Andaman and Nicobar Islands, Chandigarh, Dadra and Nagar Haveli and Daman and Diu (merged in 2020), Lakshadweep, Delhi, Puducherry, Jammu and Kashmir, and Ladakh. Three of them, Delhi, Puducherry and Jammu and Kashmir, have elected legislatures and councils of ministers.
+
+Delhi has a special status under Article 239AA, added by the 69th Amendment in 1991. It is the National Capital Territory with a Legislative Assembly that can make laws on state and concurrent subjects, except public order, police and land, which remain with the Union. The Lieutenant Governor (LG) acts on the aid and advice of the council of ministers, but can refer differences to the President.
+
+Disputes between Delhi's elected government and the LG reached the Supreme Court repeatedly. In 2018, a Constitution bench held that the LG is bound by the council of ministers' advice except on reserved subjects, and cannot act independently on every matter. In May 2023, another Constitution bench held that the Delhi government has legislative and executive control over services, the bureaucracy, except in the reserved fields. Within days, the Union government issued an ordinance, later passed as the Government of National Capital Territory of Delhi (Amendment) Act, 2023, creating a National Capital Civil Service Authority in which the Chief Minister is outnumbered by two senior officials, with the LG having the final say. The Act's validity has been challenged.
+
+Jammu and Kashmir became a union territory with a legislature in 2019, and elections were held in 2024; demands for the restoration of statehood continue. Ladakh, a union territory without a legislature, has seen protests demanding statehood and Sixth Schedule protections.
+
+- There are eight union territories; Delhi, Puducherry and Jammu and Kashmir have legislatures.
+- Article 239AA reserves public order, police and land in Delhi for the Union.
+- The 2023 Delhi services verdict was followed by a law giving the LG the final say over services.
+W: Union territories, especially Delhi's governance disputes, are a frequent GS II topic.
+Q: Analyse the conflict between the elected government of Delhi and the Lieutenant Governor in the light of recent judgments.
+
+## special-provisions-371 | Special provisions for states: Article 370 and Articles 371 to 371J
+
+The Constitution makes special provisions for certain states to address their unique historical, cultural or developmental circumstances, a form of asymmetric federalism.
+
+Article 370 gave Jammu and Kashmir special status: it had its own constitution, and most central laws applied only with the state's concurrence. Article 35A, added by a presidential order in 1954, allowed the state to define permanent residents and give them special rights in jobs and property. In August 2019, presidential orders and a parliamentary resolution made all provisions of the Constitution applicable to the state, rendering Article 370 inoperative, and Parliament reorganised the state into two union territories. In December 2023, a five-judge bench of the Supreme Court unanimously upheld the abrogation, holding that Article 370 was a temporary provision.
+
+Articles 371 to 371J make special provisions for other states. Article 371 allows the President to make the governors of Maharashtra and Gujarat responsible for separate development boards for regions such as Vidarbha, Marathwada, Saurashtra and Kutch. Article 371A protects Naga religious and social practices, customary law and land ownership: no act of Parliament on these matters applies to Nagaland unless its assembly so decides. Article 371G gives similar protection to Mizoram. Article 371B (Assam), 371C (Manipur) and 371F (Sikkim) provide for special committees or arrangements, Article 371D and 371E relate to Andhra Pradesh (equitable opportunities in jobs and education, and a central university), 371H to Arunachal Pradesh (special responsibility of the governor for law and order), 371I to Goa, and 371J to the Hyderabad-Karnataka region (now Kalyana-Karnataka), with a development board and local reservation.
+
+These provisions show that Indian federalism accommodates diversity through tailored arrangements, though they also give rise to demands from other regions for similar treatment.
+
+- Article 370 was made inoperative in 2019, and the Supreme Court upheld this in December 2023.
+- Articles 371A and 371G protect customary law and land in Nagaland and Mizoram.
+- Other provisions create development boards and special arrangements for regions in several states.
+W: Special provisions are a recurring Prelims question and central to Mains debates on asymmetric federalism.
+Q: Is asymmetric federalism a strength of the Indian Constitution? Discuss with examples.
