@@ -459,3 +459,8 @@ vercel = {
 }
 open(os.path.join(A.out, "vercel.json"), "w").write(json.dumps(vercel, indent=2) + "\n")
 print(f"built {len(pages)} pages into {A.out}")
+
+# Preserve the companion library and learning pages on subsequent full rebuilds.
+if os.path.isfile(os.path.join(here, "library-notes.json")):
+    import subprocess
+    subprocess.run([sys.executable, os.path.join(here, "upgrade_website.py"), "--output", os.path.abspath(A.out)], check=True)
