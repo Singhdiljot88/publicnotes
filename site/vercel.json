@@ -22,6 +22,16 @@
       "source": "/rss",
       "destination": "/feed.xml",
       "permanent": true
+    },
+    {
+      "source": "/india-notes",
+      "destination": "/india-notes/india-notes.html",
+      "permanent": true
+    },
+    {
+      "source": "/india-notes/",
+      "destination": "/india-notes/india-notes.html",
+      "permanent": true
     }
   ],
   "headers": [
