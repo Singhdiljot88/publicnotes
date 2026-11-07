@@ -451,6 +451,8 @@ vercel = {
         {"source": "/:path*", "has": [{"type": "host", "value": "www.publicnotes.org"}], "destination": "https://publicnotes.org/:path*", "permanent": True},
         {"source": "/feed", "destination": "/feed.xml", "permanent": True},
         {"source": "/rss", "destination": "/feed.xml", "permanent": True},
+        {"source": "/india-notes", "destination": "/india-notes/india-notes.html", "permanent": True},
+        {"source": "/india-notes/", "destination": "/india-notes/india-notes.html", "permanent": True},
     ],
     "headers": [
         {"source": "/assets/(.*)", "headers": [{"key": "Cache-Control", "value": "public, max-age=604800"}]},
